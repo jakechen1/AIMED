@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Homepage</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Bootstrap core CSS -->
+   <link href="css/reset.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom fonts for this template -->
+  <!--   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet"> -->
+<!--   <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,600i,700,800&display=swap" rel="stylesheet"> -->
+
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="css/iconmoon.css" rel="stylesheet" type="text/css">
+  <link href="css/reset.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
+  <link href="css/owl.carousel.min.css" rel="stylesheet">
+  <link href="css/bootstrap-datepicker.min.css" rel="stylesheet">
+  <link href="css/daterangepicker.css" rel="stylesheet">
+  <link href="css/responsive.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!--====== HEADER PART START ======-->
+<header class="header">
+<!--   <div class="container">
+    <div class="top-part">
+      <a class="logo d-lg-block" href="#"><img src="images/logo.png" alt="logo"></a>
+      <div class="d-flex box-status">
+        <span> box Status</span>
+        <button type="button" class="btn btn-dark mr-3 btn-sm">0 PAGs in Box</button>
+        <button type="button" class="btn btn-dark btn-sm">0 Genes  in Box</button>
+      </div>
+    </div>
+  </div> -->
+    <div class="menu-part">
+      <nav class="navbar navbar-expand-lg  navbar-light" id="mainNav">
+        <div class="container">
+          <a class="navbar-brand text-uppercase text-expanded font-weight-bold logo" href="#"><img src="images/logo.png" alt="logo"></a>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="navbar-collapse collapse" id="navbarResponsive" style="">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Browse by Tags</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Upload</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Help</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Download</a>
+              </li>
+            </ul>
+            <div>
+             <button type="button" class="btn  log-in-button"> <span class="text">Sign in</span></button>
+             <button type="button" class="btn sign-up-button"> <span class="text">Register</span></button>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+ 
+</header>
+<!--====== HEADER PART END ======-->
+
+<!--====== BANNER PART START ======-->
+ 
+
+  <section class="banner-section">
+    <div class="container">
+    <div class="row">
+      <div class="col-xl-9 mx-auto">
+        <h1 class="text-uppercase text-center">PAGER 2.0</h1>
+        <p class="text-center">Pathway, Annotated-list, and Gene-signature Electronic Repository version 2.0</p>
+      </div>
+       </div>
+       <div class="advance-search">
+         <div class="row">
+          <div class="col-md-9">
+           <!--  <div class="filterlist">
+              <div class="form-group">
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Enter keyword(s) or a gene symbol">
+              </div>
+            </div> -->
+            <div class="input-group mb-3">
+              <input type="text" class="form-control" placeholder="Enter keyword(s) or a gene symbol" id="demo" name="email">
+              <div class="input-group-append">
+                <span class="input-group-text"><i class="fa fa-search mr-2 mb-1" aria-hidden="true"></i> Search for PAGs</span>
+              </div>
+            </div>
+          </div>
+       <!--    <div class="col-md-3">
+            <button type="button" class="btn btn-dark btn-large"><i class="fa fa-search mr-2" aria-hidden="true"></i> Search for PAGs</button>
+          </div> -->
+          <div class="col-md-3">
+            <button type="button" class="btn btn-dark advance-searchbtn"  id="advance-search"><i class="fa fa-plus mr-2" aria-hidden="true"></i> Advanced Search</button>
+          </div>
+        </div>
+        <div class="search-example">
+          <span class="mr-2">Example: </span><a href="#"> rapamycin</a><a href="#"> BRAF</a><a href="#">lung cancer</a><a href="#">hsa-miR-33a-5p</a>
+        </div>
+        <div id="advance-filter" class="advance-filter">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group">
+                <label for="exampleFormControlTextarea1">Enter a list of gene symbols separated by return</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+            </div>
+            <div class="col-md-2">
+              <div class="form-group">
+               <label for="exampleFormControlTextarea1">type of pages</label>
+               <select class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Size of genes in PAGs</label>
+              <div class="align-items-center d-flex">
+               [<input type="email" class="form-control mr-2" id="exampleFormControlInput1" placeholder="2">,
+               <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="5000">]
+             </div>
+
+           </div>
+         </div>
+         <div class="col-md-4">
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">Number of overlapping genes are ≥</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder=".1">
+          </div>
+        </div>
+        <div class="col-md-2">
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">Cohesion are ≥ </label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="10">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">Similarity scores [0,1] are ≥ </label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder=".1">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">p-value are ≤</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="10">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">FDR are ≤</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="10">
+          </div>
+        </div>
+        <div class="col-md-4">
+              <div class="form-group">
+               <label for="exampleFormControlTextarea1">Organism</label>
+               <select class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+          </div>
+
+        <div class="col-md-4">
+              <div class="form-group">
+               <label for="exampleFormControlTextarea1">Data Source </label>
+               <select class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+          </div>
+        <div class="col-md-4">
+            <div class="form-group">
+               <label for="exampleFormControlTextarea1">&nbsp;</label>
+              <button type="button" class="btn btn-dark btn-block"  id="advance-search"> Search PAGs</button>
+             </div>
+    
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  </div>
+
+</section>
+<!--====== BANNER PART END ======-->
+
+
+
+
+<!--====== FOOTER PART START ======-->
+<footer class="footer">
+  <div class="container">
+  <div class="row">
+    <div class="col-xl-12  text-center">
+      <div class="row">
+       <div class="col-lg-12">
+        <ul>
+          <li><a href="">
+    Zongliang Yue, Qi Zheng, Michael T. Neylon, Minjae Yoo, Jimin Shin, Zhiying Zhao, Aik Choon Tan, and Jake Y. Chen* (2017) PAGER 2.0: an update to the pathway, annotated-list and gene-signature electronic repository for Human Network Biology. Nucleic Acids Research, gkx1040, https://doi.org/10.1093/nar/gkx1040
+  </a></li>  
+        </ul>
+      </div>
+      <div class="col-lg-12">
+        <ul>
+          <li><a href="">
+    Zongliang Yue, Madhura Kshirsagar, Thanh Nguyen, Chayaporn Suphavilai, Michael Neylon, Liugen Zhu, Timothy Ratliff, and Jake Y. Chen* PAGER: Constructing PAGs and new PAG-PAG Relationships for Network Biology. Bioinformatics (2015) 31 (12): i250-i257. doi: 10.1093/bioinformatics/btv265
+  </a></li>  
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom"> 
+      <ul class="list-inline">
+        <li class="list-inline-item text-white">Copyright 2020 Last update: June 2017</li> 
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+</footer>
+<!--====== FOOTER PART END ======-->
+  <!-- Bootstrap core JavaScript -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+  <script src="js/daterangepicker.js"></script>
+  <script src="js/custom.js"></script>
+
+</body>
+
+</html>

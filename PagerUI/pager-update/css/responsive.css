@@ -1,0 +1,68 @@
+
+@media (max-width: 1280px){
+
+
+@media (max-width: 991px){
+
+.subcribe .subcribe-title {
+    margin: 20px 0;
+}
+.footer {
+	padding-top: 280px;
+}
+
+
+}
+@media (max-width: 767px){
+	.card-product .img-wrap {
+    height: 160px;
+}
+
+.section-header {
+    flex-direction: column;
+
+}
+.section-header-btn {
+    position: absolute;
+    bottom: 0;
+   
+}
+
+.footer {
+	padding-top: 50px;
+	margin-top: 0;
+}
+.header .top-part .logo {
+    margin-left: 0;
+}
+
+.header .top-part .text {
+    display: none;
+}
+.header .top-part .btn .icon-user {
+    font-size: 24px;
+    position: relative;
+    top: 5px;
+    left: 3px;
+}
+.advance-search .btn-large {
+
+    margin-bottom: 10px;
+}
+section.bacome-section {
+    padding-bottom: 20px;
+}
+}
+
+@media (max-width: 480px){
+.banner-section ul.banner-search li a {
+    padding: 16px 24px;
+}
+.header .top-part .logo img {
+    height: 35px;
+}
+
+
+
+
+
