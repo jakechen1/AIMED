@@ -1,0 +1,13 @@
+h1{
+	margin: 10px 400px 10px 400px !important;
+	font-size: 30px !important;
+	background:#D3F6F9;
+	color:#0068c3 !important;
+}
+
+.discription{
+	margin: 0px 400px 10px 400px !important;
+	font-size: 15px !important;
+	text-align: justify;
+}
+/* HTML5 display-role reset for older browsers */
