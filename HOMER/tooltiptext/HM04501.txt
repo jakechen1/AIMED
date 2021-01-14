@@ -1,0 +1,1 @@
+thymus	HMID:HM04501<br/>GeneSymbol:TP53INP1<br/>P-value:1.32e-13<br/>Zscore:4.28<br/>#EST:22<br/>Adj. #EST:7.99

@@ -1,0 +1,1 @@
+nerve	HMID:HM01238<br/>GeneSymbol:TMEM132A<br/>P-value:2.73e-10<br/>Zscore:4.62<br/>#EST:22<br/>Adj. #EST:5.44

@@ -1,0 +1,1 @@
+nerve	HMID:HM00077<br/>GeneSymbol:AEBP2<br/>P-value:2.83e-06<br/>Zscore:4.66<br/>#EST:12<br/>Adj. #EST:5.46

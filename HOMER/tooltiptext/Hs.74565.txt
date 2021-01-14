@@ -1,0 +1,1 @@
+brain	HMID:HM07697<br/>GeneSymbol:APLP1<br/>P-value:0<br/>Zscore:5.25<br/>#EST:720<br/>Adj. #EST:4.28

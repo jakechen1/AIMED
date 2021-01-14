@@ -1,0 +1,1 @@
+lymph node	HMID:HM00866<br/>GeneSymbol:WHSC1<br/>P-value:1.91e-78<br/>Zscore:6.61<br/>#EST:111<br/>Adj. #EST:11.31

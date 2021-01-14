@@ -1,0 +1,1 @@
+brain	HMID:HM03858<br/>GeneSymbol:SLC4A10<br/>P-value:3.56e-18<br/>Zscore:5.49<br/>#EST:35<br/>Adj. #EST:4.4

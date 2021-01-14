@@ -1,0 +1,1 @@
+spleen	HMID:HM05793<br/>GeneSymbol:LPIN2<br/>P-value:1.91e-36<br/>Zscore:4.47<br/>#EST:105<br/>Adj. #EST:4.25

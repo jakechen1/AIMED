@@ -1,0 +1,1 @@
+brain	HMID:HM07342<br/>GeneSymbol:GAD1<br/>P-value:3.92e-180<br/>Zscore:5.92<br/>#EST:365<br/>Adj. #EST:4.48

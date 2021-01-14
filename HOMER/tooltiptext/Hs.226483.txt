@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01050<br/>GeneSymbol:DIAPH2<br/>P-value:1.05e-09<br/>Zscore:4.01<br/>#EST:15<br/>Adj. #EST:7.92

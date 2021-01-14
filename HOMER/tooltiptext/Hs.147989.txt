@@ -1,0 +1,1 @@
+muscle	HMID:HM05177<br/>GeneSymbol:CACNG1<br/>P-value:2.78e-27<br/>Zscore:7.05<br/>#EST:17<br/>Adj. #EST:49.07

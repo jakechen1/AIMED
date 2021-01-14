@@ -1,0 +1,1 @@
+skin	HMID:HM00099<br/>GeneSymbol:MARCH4<br/>P-value:2.01e-06<br/>Zscore:5.64<br/>#EST:10<br/>Adj. #EST:6.54

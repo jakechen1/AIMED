@@ -1,0 +1,1 @@
+eye	HMID:HM06029<br/>GeneSymbol:KCNAB3<br/>P-value:3.04e-08<br/>Zscore:5.28<br/>#EST:11<br/>Adj. #EST:8.62

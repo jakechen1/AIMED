@@ -1,0 +1,1 @@
+ovary	HMID:HM04569<br/>GeneSymbol:FST<br/>P-value:4.19e-22<br/>Zscore:4.14<br/>#EST:33<br/>Adj. #EST:9.49

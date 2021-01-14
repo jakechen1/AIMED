@@ -1,0 +1,1 @@
+thymus	HMID:HM04728<br/>GeneSymbol:CENPT<br/>P-value:2.98e-23<br/>Zscore:4.75<br/>#EST:57<br/>Adj. #EST:5.2

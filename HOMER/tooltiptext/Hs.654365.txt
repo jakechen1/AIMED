@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02051<br/>GeneSymbol:PTGFR<br/>P-value:2.26e-12<br/>Zscore:4.78<br/>#EST:13<br/>Adj. #EST:15.55

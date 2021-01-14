@@ -1,0 +1,1 @@
+lymph node	HMID:HM01949<br/>GeneSymbol:KIAA0226<br/>P-value:4.26e-12<br/>Zscore:4.96<br/>#EST:20<br/>Adj. #EST:7.57

@@ -1,0 +1,1 @@
+lymph	HMID:HM05785<br/>GeneSymbol:GRK5<br/>P-value:3.85e-09<br/>Zscore:4.95<br/>#EST:14<br/>Adj. #EST:8.04

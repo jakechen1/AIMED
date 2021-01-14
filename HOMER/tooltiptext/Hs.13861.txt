@@ -1,0 +1,1 @@
+testis	HMID:HM04147<br/>GeneSymbol:KCNU1<br/>P-value:1.14e-19<br/>Zscore:4.53<br/>#EST:28<br/>Adj. #EST:7.92

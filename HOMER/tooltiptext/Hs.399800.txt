@@ -1,0 +1,1 @@
+thymus	HMID:HM06107<br/>GeneSymbol:AKAP8L<br/>P-value:1.02e-43<br/>Zscore:5.03<br/>#EST:96<br/>Adj. #EST:6.1

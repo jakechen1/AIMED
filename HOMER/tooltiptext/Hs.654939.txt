@@ -1,0 +1,1 @@
+larynx	HMID:HM04050<br/>GeneSymbol:MAU2<br/>P-value:4.05e-19<br/>Zscore:6.6<br/>#EST:21<br/>Adj. #EST:16.71

@@ -1,0 +1,1 @@
+testis	HMID:HM00679<br/>GeneSymbol:GABRG3<br/>P-value:1.5e-08<br/>Zscore:5.16<br/>#EST:13<br/>Adj. #EST:6.56

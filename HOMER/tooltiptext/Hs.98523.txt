@@ -1,0 +1,1 @@
+embryo	HMID:HM00182<br/>GeneSymbol:FAT3<br/>P-value:8.28e-07<br/>Zscore:5.32<br/>#EST:14<br/>Adj. #EST:4.92

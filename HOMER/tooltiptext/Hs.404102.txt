@@ -1,0 +1,1 @@
+skin	HMID:HM03244<br/>GeneSymbol:ABCB5<br/>P-value:1.07e-15<br/>Zscore:4.76<br/>#EST:20<br/>Adj. #EST:10.31

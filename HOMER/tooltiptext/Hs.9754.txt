@@ -1,0 +1,1 @@
+lymph	HMID:HM03113<br/>GeneSymbol:ATF5<br/>P-value:2.62e-15<br/>Zscore:4.35<br/>#EST:29<br/>Adj. #EST:6.72

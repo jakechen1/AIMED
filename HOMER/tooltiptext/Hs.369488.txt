@@ -1,0 +1,1 @@
+thymus	HMID:HM01397<br/>GeneSymbol:DSCR3<br/>P-value:1.1e-10<br/>Zscore:4.17<br/>#EST:23<br/>Adj. #EST:5.42

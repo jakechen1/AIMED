@@ -1,0 +1,1 @@
+pharynx	HMID:HM02264<br/>GeneSymbol:GP6<br/>P-value:3.9e-29<br/>Zscore:6.99<br/>#EST:17<br/>Adj. #EST:82.02

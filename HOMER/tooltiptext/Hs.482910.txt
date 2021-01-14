@@ -1,0 +1,1 @@
+trachea	HMID:HM01123<br/>GeneSymbol:ERAP2<br/>P-value:6.11e-10<br/>Zscore:4.25<br/>#EST:16<br/>Adj. #EST:7.67

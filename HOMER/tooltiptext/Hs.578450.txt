@@ -1,0 +1,1 @@
+stomach	HMID:HM06263<br/>GeneSymbol:MESDC2<br/>P-value:1.72e-48<br/>Zscore:4.21<br/>#EST:91<br/>Adj. #EST:7.06

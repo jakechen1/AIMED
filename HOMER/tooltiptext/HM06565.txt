@@ -1,0 +1,1 @@
+eye	HMID:HM06565<br/>GeneSymbol:FAM161A<br/>P-value:9.59e-06<br/>Zscore:4.3<br/>#EST:11<br/>Adj. #EST:5.06

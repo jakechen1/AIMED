@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01954<br/>GeneSymbol:LOC100132062<br/>P-value:4.02e-12<br/>Zscore:6.59<br/>#EST:12<br/>Adj. #EST:17.69

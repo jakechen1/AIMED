@@ -1,0 +1,1 @@
+skin	HMID:HM07299<br/>GeneSymbol:DMKN<br/>P-value:2.08e-162<br/>Zscore:5.7<br/>#EST:203<br/>Adj. #EST:12.17

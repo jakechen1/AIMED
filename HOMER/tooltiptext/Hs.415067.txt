@@ -1,0 +1,1 @@
+tonsil	HMID:HM06962<br/>GeneSymbol:CORO1A<br/>P-value:3.04e-94<br/>Zscore:5.64<br/>#EST:94<br/>Adj. #EST:24.15

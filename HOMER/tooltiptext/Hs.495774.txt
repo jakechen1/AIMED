@@ -1,0 +1,1 @@
+testis	HMID:HM05015<br/>GeneSymbol:SCML2<br/>P-value:1.75e-25<br/>Zscore:4.71<br/>#EST:47<br/>Adj. #EST:6.09

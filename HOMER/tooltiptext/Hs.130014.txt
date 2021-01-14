@@ -1,0 +1,1 @@
+trachea	HMID:HM05057<br/>GeneSymbol:CD302<br/>P-value:5.88e-26<br/>Zscore:6.3<br/>#EST:33<br/>Adj. #EST:12.96

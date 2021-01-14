@@ -1,0 +1,2 @@
+kidney	HMID:HM03825<br/>GeneSymbol:SLC17A1<br/>P-value:5.03e-18<br/>Zscore:4.94<br/>#EST:25<br/>Adj. #EST:9.49
+spleen	HMID:HM04559<br/>GeneSymbol:SLC17A1<br/>P-value:5.09e-22<br/>Zscore:4.19<br/>#EST:33<br/>Adj. #EST:8.13

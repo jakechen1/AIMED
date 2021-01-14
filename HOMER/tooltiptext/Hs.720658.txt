@@ -1,0 +1,2 @@
+testis	HMID:HM04401<br/>GeneSymbol:ESRG<br/>P-value:2.96e-21<br/>Zscore:4.3<br/>#EST:29<br/>Adj. #EST:8.37
+embryo	HMID:HM02709<br/>GeneSymbol:ESRG<br/>P-value:5.04e-14<br/>Zscore:5.23<br/>#EST:18<br/>Adj. #EST:10.07

@@ -1,0 +1,1 @@
+esophagus	HMID:HM02725<br/>GeneSymbol:SHISA5<br/>P-value:4.37e-14<br/>Zscore:4.08<br/>#EST:35<br/>Adj. #EST:4.95

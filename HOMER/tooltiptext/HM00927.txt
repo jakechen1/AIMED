@@ -1,0 +1,1 @@
+heart	HMID:HM00927<br/>GeneSymbol:MYBPC3<br/>P-value:3.53e-73<br/>Zscore:7.05<br/>#EST:53<br/>Adj. #EST:36.45

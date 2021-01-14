@@ -1,0 +1,2 @@
+cervix	HMID:HM00037<br/>GeneSymbol:KRT17<br/>P-value:0<br/>Zscore:4.5<br/>#EST:321<br/>Adj. #EST:21.69
+larynx	HMID:HM00037<br/>GeneSymbol:KRT17<br/>P-value:0<br/>Zscore:4.56<br/>#EST:171<br/>Adj. #EST:21.96

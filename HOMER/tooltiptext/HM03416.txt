@@ -1,0 +1,1 @@
+skin	HMID:HM03416<br/>GeneSymbol:ASPRV1<br/>P-value:6.43e-19<br/>Zscore:4.75<br/>#EST:25<br/>Adj. #EST:9.94

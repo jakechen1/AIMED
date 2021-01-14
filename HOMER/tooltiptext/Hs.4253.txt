@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00384<br/>GeneSymbol:CCDC86<br/>P-value:1.59e-07<br/>Zscore:4.42<br/>#EST:12<br/>Adj. #EST:7.32

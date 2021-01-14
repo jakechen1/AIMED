@@ -1,0 +1,1 @@
+nerve	HMID:HM04297<br/>GeneSymbol:SLC29A4<br/>P-value:1.21e-20<br/>Zscore:6.07<br/>#EST:22<br/>Adj. #EST:17.04

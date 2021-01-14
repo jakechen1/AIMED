@@ -1,0 +1,1 @@
+liver	HMID:HM00684<br/>GeneSymbol:MST1<br/>P-value:1.65e-98<br/>Zscore:5.02<br/>#EST:141<br/>Adj. #EST:9.55

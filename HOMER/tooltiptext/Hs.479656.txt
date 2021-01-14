@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05875<br/>GeneSymbol:COX7B2<br/>P-value:2.29e-38<br/>Zscore:6.98<br/>#EST:27<br/>Adj. #EST:43.08

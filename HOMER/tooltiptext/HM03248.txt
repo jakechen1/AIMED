@@ -1,0 +1,1 @@
+testis	HMID:HM03248<br/>GeneSymbol:MFAP3L<br/>P-value:5.6e-20<br/>Zscore:4.98<br/>#EST:50<br/>Adj. #EST:4.49

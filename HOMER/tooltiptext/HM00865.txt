@@ -1,0 +1,1 @@
+placenta	HMID:HM00865<br/>GeneSymbol:CDKN1C<br/>P-value:9.55e-79<br/>Zscore:4.4<br/>#EST:154<br/>Adj. #EST:6.54

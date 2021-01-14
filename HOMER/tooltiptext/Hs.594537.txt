@@ -1,0 +1,1 @@
+placenta	HMID:HM07606<br/>GeneSymbol:ADAM12<br/>P-value:0<br/>Zscore:7.06<br/>#EST:1296<br/>Adj. #EST:21.25

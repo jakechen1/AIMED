@@ -1,0 +1,1 @@
+thymus	HMID:HM03119<br/>GeneSymbol:ANO9<br/>P-value:2.46e-15<br/>Zscore:5.03<br/>#EST:19<br/>Adj. #EST:12.24

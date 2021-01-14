@@ -1,0 +1,1 @@
+placenta	HMID:HM00173<br/>GeneSymbol:PAPPAS<br/>P-value:0<br/>Zscore:7<br/>#EST:424<br/>Adj. #EST:18.45

@@ -1,0 +1,1 @@
+testis	HMID:HM00630<br/>GeneSymbol:PRM1<br/>P-value:0<br/>Zscore:6.89<br/>#EST:118<br/>Adj. #EST:11.07

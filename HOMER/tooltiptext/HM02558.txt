@@ -1,0 +1,1 @@
+ganglia	HMID:HM02558<br/>GeneSymbol:HLA-B<br/>P-value:2.13e-25<br/>Zscore:5.11<br/>#EST:44<br/>Adj. #EST:8.18

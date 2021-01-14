@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01395<br/>GeneSymbol:CHRDL1<br/>P-value:1.13e-10<br/>Zscore:4.97<br/>#EST:11<br/>Adj. #EST:16.67

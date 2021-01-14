@@ -1,0 +1,2 @@
+blood vessel	HMID:HM03882<br/>GeneSymbol:SH3BGR<br/>P-value:1.71e-11<br/>Zscore:4.22<br/>#EST:16<br/>Adj. #EST:9.53
+muscle	HMID:HM03882<br/>GeneSymbol:SH3BGR<br/>P-value:3.37e-16<br/>Zscore:4.62<br/>#EST:22<br/>Adj. #EST:10.37

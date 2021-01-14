@@ -1,0 +1,1 @@
+testis	HMID:HM06330<br/>GeneSymbol:FSCN3<br/>P-value:2.61e-51<br/>Zscore:7<br/>#EST:56<br/>Adj. #EST:11.31

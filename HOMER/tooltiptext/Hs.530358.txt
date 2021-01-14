@@ -1,0 +1,1 @@
+testis	HMID:HM04111<br/>GeneSymbol:NXF2<br/>P-value:1.58e-19<br/>Zscore:5.08<br/>#EST:23<br/>Adj. #EST:9.85

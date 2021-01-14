@@ -1,0 +1,1 @@
+stomach	HMID:HM00312<br/>GeneSymbol:KCNA5<br/>P-value:2.77e-07<br/>Zscore:4.87<br/>#EST:10<br/>Adj. #EST:8.2

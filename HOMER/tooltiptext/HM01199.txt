@@ -1,0 +1,1 @@
+brain	HMID:HM01199<br/>GeneSymbol:CNKSR2<br/>P-value:2.2e-57<br/>Zscore:5.64<br/>#EST:121<br/>Adj. #EST:4.26

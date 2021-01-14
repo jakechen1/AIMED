@@ -1,0 +1,1 @@
+muscle	HMID:HM04760<br/>GeneSymbol:<br/>P-value:2.21e-23<br/>Zscore:5.06<br/>#EST:26<br/>Adj. #EST:15.3

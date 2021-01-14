@@ -1,0 +1,1 @@
+pancreas	HMID:HM02736<br/>GeneSymbol:C3orf14<br/>P-value:8.3e-24<br/>Zscore:5.99<br/>#EST:37<br/>Adj. #EST:8.37

@@ -1,0 +1,1 @@
+prostate	HMID:HM02091<br/>GeneSymbol:KLK4<br/>P-value:5.76e-32<br/>Zscore:6.98<br/>#EST:24<br/>Adj. #EST:27.68

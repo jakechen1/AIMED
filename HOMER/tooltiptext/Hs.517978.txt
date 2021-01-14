@@ -1,0 +1,1 @@
+eye	HMID:HM07336<br/>GeneSymbol:GNAT1<br/>P-value:1.8e-176<br/>Zscore:7.06<br/>#EST:122<br/>Adj. #EST:29.82

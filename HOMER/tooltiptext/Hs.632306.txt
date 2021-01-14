@@ -1,0 +1,1 @@
+testis	HMID:HM01137<br/>GeneSymbol:C7orf61<br/>P-value:5.55e-10<br/>Zscore:4.44<br/>#EST:15<br/>Adj. #EST:6.84

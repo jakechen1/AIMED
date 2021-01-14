@@ -1,0 +1,1 @@
+blood	HMID:HM00221<br/>GeneSymbol:FCGR3B<br/>P-value:0<br/>Zscore:6.66<br/>#EST:201<br/>Adj. #EST:32.56

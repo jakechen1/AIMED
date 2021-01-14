@@ -1,0 +1,1 @@
+kidney	HMID:HM01808<br/>GeneSymbol:EMX2<br/>P-value:9.8e-12<br/>Zscore:4.45<br/>#EST:20<br/>Adj. #EST:6.82

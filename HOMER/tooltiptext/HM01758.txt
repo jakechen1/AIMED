@@ -1,0 +1,1 @@
+spleen	HMID:HM01758<br/>GeneSymbol:MAFB<br/>P-value:5.29e-38<br/>Zscore:4<br/>#EST:74<br/>Adj. #EST:6.75

@@ -1,0 +1,1 @@
+spleen	HMID:HM02765<br/>GeneSymbol:RANBP17<br/>P-value:3.25e-14<br/>Zscore:4.16<br/>#EST:34<br/>Adj. #EST:4.69

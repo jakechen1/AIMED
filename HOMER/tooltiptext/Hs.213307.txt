@@ -1,0 +1,1 @@
+testis	HMID:HM05062<br/>GeneSymbol:DCAF4L1<br/>P-value:4.87e-26<br/>Zscore:7.07<br/>#EST:22<br/>Adj. #EST:14.14

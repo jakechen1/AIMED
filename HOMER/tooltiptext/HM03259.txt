@@ -1,0 +1,1 @@
+testis	HMID:HM03259<br/>GeneSymbol:RNF133<br/>P-value:6.62e-20<br/>Zscore:7.05<br/>#EST:20<br/>Adj. #EST:11.89

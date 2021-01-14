@@ -1,0 +1,1 @@
+trachea	HMID:HM06607<br/>GeneSymbol:NT5C2<br/>P-value:1.29e-64<br/>Zscore:5.92<br/>#EST:93<br/>Adj. #EST:11.27

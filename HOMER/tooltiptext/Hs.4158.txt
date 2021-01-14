@@ -1,0 +1,1 @@
+pancreas	HMID:HM07560<br/>GeneSymbol:REG1B<br/>P-value:0<br/>Zscore:6.73<br/>#EST:876<br/>Adj. #EST:28.22

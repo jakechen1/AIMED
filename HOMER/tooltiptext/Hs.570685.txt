@@ -1,0 +1,1 @@
+brain	HMID:HM00206<br/>GeneSymbol:IQCJ<br/>P-value:6.4e-07<br/>Zscore:4.22<br/>#EST:12<br/>Adj. #EST:4.34

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05894<br/>GeneSymbol:NBAS<br/>P-value:1.09e-38<br/>Zscore:5<br/>#EST:55<br/>Adj. #EST:10.85

@@ -1,0 +1,1 @@
+pancreas	HMID:HM00006<br/>GeneSymbol:SST<br/>P-value:0<br/>Zscore:7.07<br/>#EST:419<br/>Adj. #EST:25.67

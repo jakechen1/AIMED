@@ -1,0 +1,1 @@
+thymus	HMID:HM02842<br/>GeneSymbol:ITGA4<br/>P-value:5.19e-23<br/>Zscore:4.28<br/>#EST:29<br/>Adj. #EST:12.6

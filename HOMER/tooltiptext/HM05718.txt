@@ -1,0 +1,1 @@
+embryo	HMID:HM05718<br/>GeneSymbol:MDFI<br/>P-value:2.32e-09<br/>Zscore:4.54<br/>#EST:20<br/>Adj. #EST:5.05

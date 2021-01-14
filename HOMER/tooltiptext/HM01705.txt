@@ -1,0 +1,1 @@
+blood	HMID:HM01705<br/>GeneSymbol:GPR109B<br/>P-value:2.52e-39<br/>Zscore:6.09<br/>#EST:42<br/>Adj. #EST:16.43

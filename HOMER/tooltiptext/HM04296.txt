@@ -1,0 +1,1 @@
+thyroid	HMID:HM04296<br/>GeneSymbol:EVPL<br/>P-value:1.62e-14<br/>Zscore:5.98<br/>#EST:14<br/>Adj. #EST:20.04

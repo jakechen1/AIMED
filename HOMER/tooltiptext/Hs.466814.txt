@@ -1,0 +1,1 @@
+colon	HMID:HM06699<br/>GeneSymbol:CEACAM6<br/>P-value:2.82e-70<br/>Zscore:4.37<br/>#EST:105<br/>Adj. #EST:9.62

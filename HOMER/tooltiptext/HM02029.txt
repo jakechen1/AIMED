@@ -1,0 +1,1 @@
+blood	HMID:HM02029<br/>GeneSymbol:CLEC7A<br/>P-value:6.15e-33<br/>Zscore:6.13<br/>#EST:35<br/>Adj. #EST:16.34

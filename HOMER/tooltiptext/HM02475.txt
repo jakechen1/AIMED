@@ -1,0 +1,1 @@
+blood	HMID:HM02475<br/>GeneSymbol:HCK<br/>P-value:2.14e-26<br/>Zscore:4.79<br/>#EST:37<br/>Adj. #EST:10.23

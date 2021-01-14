@@ -1,0 +1,1 @@
+prostate	HMID:HM05311<br/>GeneSymbol:SULT2B1<br/>P-value:8.31e-11<br/>Zscore:5.5<br/>#EST:16<br/>Adj. #EST:8.14

@@ -1,0 +1,1 @@
+trachea	HMID:HM00569<br/>GeneSymbol:SLC2A3<br/>P-value:0<br/>Zscore:4.86<br/>#EST:210<br/>Adj. #EST:7.77

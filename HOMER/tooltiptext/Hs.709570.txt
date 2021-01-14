@@ -1,0 +1,1 @@
+pituitary	HMID:HM03268<br/>GeneSymbol:PAICS<br/>P-value:7.29e-16<br/>Zscore:5.65<br/>#EST:15<br/>Adj. #EST:22.33

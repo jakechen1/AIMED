@@ -1,0 +1,1 @@
+lymph	HMID:HM01598<br/>GeneSymbol:ARFRP1<br/>P-value:2.9e-11<br/>Zscore:4.44<br/>#EST:22<br/>Adj. #EST:6.17

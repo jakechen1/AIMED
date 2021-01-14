@@ -1,0 +1,1 @@
+brain	HMID:HM01688<br/>GeneSymbol:LHFPL3<br/>P-value:1.58e-11<br/>Zscore:5.47<br/>#EST:23<br/>Adj. #EST:4.16

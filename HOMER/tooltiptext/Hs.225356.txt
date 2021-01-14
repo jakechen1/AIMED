@@ -1,0 +1,1 @@
+stomach	HMID:HM04099<br/>GeneSymbol:CDC42EP1<br/>P-value:1.77e-19<br/>Zscore:4.48<br/>#EST:42<br/>Adj. #EST:5.66

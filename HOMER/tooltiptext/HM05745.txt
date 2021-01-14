@@ -1,0 +1,1 @@
+lymph node	HMID:HM05745<br/>GeneSymbol:FCHSD2<br/>P-value:2.81e-09<br/>Zscore:4.73<br/>#EST:17<br/>Adj. #EST:6.3

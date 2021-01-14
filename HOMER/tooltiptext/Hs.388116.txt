@@ -1,0 +1,1 @@
+thyroid	HMID:HM01574<br/>GeneSymbol:DVL3<br/>P-value:3.28e-11<br/>Zscore:4.81<br/>#EST:20<br/>Adj. #EST:6.89

@@ -1,0 +1,1 @@
+trachea	HMID:HM05264<br/>GeneSymbol:NCALD<br/>P-value:1.99e-28<br/>Zscore:6.23<br/>#EST:45<br/>Adj. #EST:9.21

@@ -1,0 +1,1 @@
+colon	HMID:HM02513<br/>GeneSymbol:PRR15<br/>P-value:2.38e-13<br/>Zscore:4.34<br/>#EST:25<br/>Adj. #EST:6.3

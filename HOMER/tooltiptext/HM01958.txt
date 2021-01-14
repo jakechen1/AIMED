@@ -1,0 +1,1 @@
+colon	HMID:HM01958<br/>GeneSymbol:KRT37<br/>P-value:4.21e-34<br/>Zscore:7.06<br/>#EST:24<br/>Adj. #EST:30.36

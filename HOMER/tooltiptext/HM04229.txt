@@ -1,0 +1,1 @@
+lymph node	HMID:HM04229<br/>GeneSymbol:DUT<br/>P-value:1.02e-14<br/>Zscore:4.38<br/>#EST:37<br/>Adj. #EST:4.83

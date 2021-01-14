@@ -1,0 +1,1 @@
+kidney	HMID:HM03662<br/>GeneSymbol:TFCP2L1<br/>P-value:1.93e-17<br/>Zscore:4.88<br/>#EST:30<br/>Adj. #EST:7.13

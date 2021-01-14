@@ -1,0 +1,1 @@
+lymph node	HMID:HM04906<br/>GeneSymbol:DOCK8<br/>P-value:1.4e-24<br/>Zscore:5.85<br/>#EST:34<br/>Adj. #EST:10.87

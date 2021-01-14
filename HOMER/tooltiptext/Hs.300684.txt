@@ -1,0 +1,1 @@
+thyroid	HMID:HM00530<br/>GeneSymbol:CRCP<br/>P-value:4.41e-08<br/>Zscore:4.44<br/>#EST:11<br/>Adj. #EST:9.24

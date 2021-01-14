@@ -1,0 +1,1 @@
+liver	HMID:HM06396<br/>GeneSymbol:UROC1<br/>P-value:4.59e-54<br/>Zscore:6.61<br/>#EST:54<br/>Adj. #EST:15.65

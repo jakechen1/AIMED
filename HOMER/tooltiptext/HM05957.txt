@@ -1,0 +1,1 @@
+embryo	HMID:HM05957<br/>GeneSymbol:MYBPH<br/>P-value:1.64e-08<br/>Zscore:4.11<br/>#EST:11<br/>Adj. #EST:8.95

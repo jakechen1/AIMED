@@ -1,0 +1,1 @@
+testis	HMID:HM01186<br/>GeneSymbol:TPTE<br/>P-value:6.56e-58<br/>Zscore:6.82<br/>#EST:51<br/>Adj. #EST:13.99

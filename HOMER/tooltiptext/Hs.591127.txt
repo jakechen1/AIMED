@@ -1,0 +1,1 @@
+lymph node	HMID:HM04117<br/>GeneSymbol:RASGRP1<br/>P-value:1.47e-19<br/>Zscore:6.67<br/>#EST:23<br/>Adj. #EST:13.83

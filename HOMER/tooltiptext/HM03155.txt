@@ -1,0 +1,1 @@
+eye	HMID:HM03155<br/>GeneSymbol:SLC12A5<br/>P-value:1.33e-20<br/>Zscore:5.81<br/>#EST:39<br/>Adj. #EST:6.46

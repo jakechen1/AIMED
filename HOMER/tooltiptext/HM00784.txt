@@ -1,0 +1,2 @@
+liver	HMID:HM00784<br/>GeneSymbol:APOC3<br/>P-value:3.12e-87<br/>Zscore:5.41<br/>#EST:100<br/>Adj. #EST:12.88
+spleen	HMID:HM00784<br/>GeneSymbol:APOC3<br/>P-value:5.52e-31<br/>Zscore:4.36<br/>#EST:43<br/>Adj. #EST:10.49

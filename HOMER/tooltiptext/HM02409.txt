@@ -1,0 +1,1 @@
+leiomios	HMID:HM02409<br/>GeneSymbol:PLCG2<br/>P-value:4.01e-27<br/>Zscore:6.76<br/>#EST:17<br/>Adj. #EST:80.49

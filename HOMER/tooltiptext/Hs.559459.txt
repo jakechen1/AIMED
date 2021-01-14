@@ -1,0 +1,1 @@
+blood	HMID:HM06751<br/>GeneSymbol:FAM65B<br/>P-value:1.82e-73<br/>Zscore:5.71<br/>#EST:95<br/>Adj. #EST:12.45

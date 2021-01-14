@@ -1,0 +1,1 @@
+embryo	HMID:HM02643<br/>GeneSymbol:FREM2<br/>P-value:1.45e-24<br/>Zscore:5.73<br/>#EST:30<br/>Adj. #EST:11.48

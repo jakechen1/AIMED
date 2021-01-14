@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00678<br/>GeneSymbol:APEX1<br/>P-value:1.51e-08<br/>Zscore:4.62<br/>#EST:20<br/>Adj. #EST:4.85

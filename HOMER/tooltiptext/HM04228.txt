@@ -1,0 +1,1 @@
+placenta	HMID:HM04228<br/>GeneSymbol:<br/>P-value:9.74e-15<br/>Zscore:7.06<br/>#EST:11<br/>Adj. #EST:21.5

@@ -1,0 +1,1 @@
+brain	HMID:HM01176<br/>GeneSymbol:GSG1L<br/>P-value:4.11e-10<br/>Zscore:4.67<br/>#EST:20<br/>Adj. #EST:4.13

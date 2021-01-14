@@ -1,0 +1,1 @@
+lung	HMID:HM07454<br/>GeneSymbol:SFTPB<br/>P-value:3.09e-250<br/>Zscore:6.75<br/>#EST:251<br/>Adj. #EST:14.59

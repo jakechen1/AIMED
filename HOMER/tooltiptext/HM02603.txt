@@ -1,0 +1,1 @@
+kidney	HMID:HM02603<br/>GeneSymbol:PDZK1IP1<br/>P-value:6.61e-25<br/>Zscore:4.06<br/>#EST:37<br/>Adj. #EST:8.94

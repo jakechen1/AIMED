@@ -1,0 +1,1 @@
+pharynx	HMID:HM06146<br/>GeneSymbol:TXNL4A<br/>P-value:7.49e-08<br/>Zscore:4.79<br/>#EST:13<br/>Adj. #EST:6.99

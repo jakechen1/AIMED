@@ -1,0 +1,1 @@
+lymph	HMID:HM03921<br/>GeneSymbol:CDC25A<br/>P-value:4.79e-16<br/>Zscore:6.66<br/>#EST:17<br/>Adj. #EST:16.81

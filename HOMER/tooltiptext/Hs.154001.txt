@@ -1,0 +1,1 @@
+nerve	HMID:HM02245<br/>GeneSymbol:FAM171A2<br/>P-value:9.66e-13<br/>Zscore:6.38<br/>#EST:15<br/>Adj. #EST:12.98

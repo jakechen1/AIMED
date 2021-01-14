@@ -1,0 +1,1 @@
+lymph node	HMID:HM03090<br/>GeneSymbol:STK17B<br/>P-value:3.86e-21<br/>Zscore:5.35<br/>#EST:31<br/>Adj. #EST:9.74

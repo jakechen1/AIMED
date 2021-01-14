@@ -1,0 +1,1 @@
+pancreas	HMID:HM07044<br/>GeneSymbol:PLA2G1B<br/>P-value:3.55e-103<br/>Zscore:7.02<br/>#EST:78<br/>Adj. #EST:26.38

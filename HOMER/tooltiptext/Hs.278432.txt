@@ -1,0 +1,1 @@
+heart	HMID:HM05196<br/>GeneSymbol:MYH6<br/>P-value:1.57e-27<br/>Zscore:6.69<br/>#EST:22<br/>Adj. #EST:28.76

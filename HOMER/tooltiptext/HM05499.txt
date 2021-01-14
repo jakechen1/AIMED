@@ -1,0 +1,1 @@
+eye	HMID:HM05499<br/>GeneSymbol:NACAD<br/>P-value:4.12e-10<br/>Zscore:5.06<br/>#EST:18<br/>Adj. #EST:6.29

@@ -1,0 +1,1 @@
+thymus	HMID:HM00359<br/>GeneSymbol:ITGB2<br/>P-value:0<br/>Zscore:5.8<br/>#EST:201<br/>Adj. #EST:16.37

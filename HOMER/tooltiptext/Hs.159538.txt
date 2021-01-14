@@ -1,0 +1,1 @@
+brain	HMID:HM06800<br/>GeneSymbol:MPPED1<br/>P-value:1.88e-77<br/>Zscore:6.39<br/>#EST:114<br/>Adj. #EST:5.45

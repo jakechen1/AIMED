@@ -1,0 +1,1 @@
+liver	HMID:HM03984<br/>GeneSymbol:MBL2<br/>P-value:9.6e-16<br/>Zscore:6.99<br/>#EST:12<br/>Adj. #EST:20.32

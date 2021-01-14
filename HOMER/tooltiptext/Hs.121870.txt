@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01850<br/>GeneSymbol:NCDN<br/>P-value:6.83e-12<br/>Zscore:6.69<br/>#EST:12<br/>Adj. #EST:17.96

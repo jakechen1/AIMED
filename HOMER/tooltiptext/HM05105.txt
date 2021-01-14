@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05105<br/>GeneSymbol:ALS2CR4<br/>P-value:1.53e-11<br/>Zscore:4.24<br/>#EST:20<br/>Adj. #EST:7.06

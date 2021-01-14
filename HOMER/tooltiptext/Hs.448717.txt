@@ -1,0 +1,1 @@
+colon	HMID:HM02472<br/>GeneSymbol:C12orf36<br/>P-value:3.41e-13<br/>Zscore:6.09<br/>#EST:11<br/>Adj. #EST:20.96

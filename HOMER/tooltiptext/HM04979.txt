@@ -1,0 +1,1 @@
+mouth	HMID:HM04979<br/>GeneSymbol:ABCF3<br/>P-value:5.26e-12<br/>Zscore:4.15<br/>#EST:31<br/>Adj. #EST:4.61

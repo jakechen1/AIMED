@@ -1,0 +1,1 @@
+trachea	HMID:HM03861<br/>GeneSymbol:VWA5A<br/>P-value:3.5e-18<br/>Zscore:6.07<br/>#EST:24<br/>Adj. #EST:11.6

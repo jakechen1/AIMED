@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06367<br/>GeneSymbol:MAP4K2<br/>P-value:6.57e-53<br/>Zscore:6.7<br/>#EST:49<br/>Adj. #EST:25.1

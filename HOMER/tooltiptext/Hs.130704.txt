@@ -1,0 +1,1 @@
+pharynx	HMID:HM06010<br/>GeneSymbol:SNTN<br/>P-value:1.85e-41<br/>Zscore:6.91<br/>#EST:25<br/>Adj. #EST:79.12

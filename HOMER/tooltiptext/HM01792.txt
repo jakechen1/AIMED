@@ -1,0 +1,1 @@
+colon	HMID:HM01792<br/>GeneSymbol:C10orf99<br/>P-value:1.2e-37<br/>Zscore:6.69<br/>#EST:32<br/>Adj. #EST:22.77

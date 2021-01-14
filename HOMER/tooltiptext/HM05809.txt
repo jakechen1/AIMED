@@ -1,0 +1,1 @@
+liver	HMID:HM05809<br/>GeneSymbol:FCN2<br/>P-value:4.53e-09<br/>Zscore:4.02<br/>#EST:10<br/>Adj. #EST:11.01

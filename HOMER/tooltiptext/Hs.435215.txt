@@ -1,0 +1,1 @@
+skin	HMID:HM01219<br/>GeneSymbol:VEGFC<br/>P-value:3.1e-10<br/>Zscore:4.12<br/>#EST:21<br/>Adj. #EST:5.36

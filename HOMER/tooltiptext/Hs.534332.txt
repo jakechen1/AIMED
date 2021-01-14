@@ -1,0 +1,1 @@
+stomach	HMID:HM06041<br/>GeneSymbol:MUC5AC<br/>P-value:4.99e-42<br/>Zscore:6.19<br/>#EST:43<br/>Adj. #EST:17.06

@@ -1,0 +1,1 @@
+tonsil	HMID:HM00246<br/>GeneSymbol:HLA-DMA<br/>P-value:4.75e-07<br/>Zscore:4.46<br/>#EST:11<br/>Adj. #EST:7.39

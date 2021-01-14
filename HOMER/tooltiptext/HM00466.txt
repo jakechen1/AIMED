@@ -1,0 +1,1 @@
+brain	HMID:HM00466<br/>GeneSymbol:TMEM130<br/>P-value:0<br/>Zscore:4.5<br/>#EST:282<br/>Adj. #EST:4.32

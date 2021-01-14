@@ -1,0 +1,1 @@
+lymph	HMID:HM03716<br/>GeneSymbol:GRHPR<br/>P-value:3.93e-17<br/>Zscore:5.05<br/>#EST:39<br/>Adj. #EST:5.51

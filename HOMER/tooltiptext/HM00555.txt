@@ -1,0 +1,1 @@
+skin	HMID:HM00555<br/>GeneSymbol:FLG<br/>P-value:0<br/>Zscore:7.04<br/>#EST:94<br/>Adj. #EST:21.95

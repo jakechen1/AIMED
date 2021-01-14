@@ -1,0 +1,1 @@
+blood	HMID:HM01511<br/>GeneSymbol:SLC11A1<br/>P-value:1.12e-44<br/>Zscore:6.07<br/>#EST:55<br/>Adj. #EST:13.05

@@ -1,0 +1,1 @@
+colon	HMID:HM01794<br/>GeneSymbol:RNF186<br/>P-value:1.1e-11<br/>Zscore:5.1<br/>#EST:15<br/>Adj. #EST:10.08

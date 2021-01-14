@@ -1,0 +1,1 @@
+brain	HMID:HM07068<br/>GeneSymbol:HAPLN2<br/>P-value:5.11e-106<br/>Zscore:6.01<br/>#EST:209<br/>Adj. #EST:4.55

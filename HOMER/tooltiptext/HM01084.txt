@@ -1,0 +1,1 @@
+bone	HMID:HM01084<br/>GeneSymbol:CILP<br/>P-value:7.45e-63<br/>Zscore:6.19<br/>#EST:64<br/>Adj. #EST:18.63

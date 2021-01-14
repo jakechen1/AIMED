@@ -1,0 +1,1 @@
+larynx	HMID:HM05410<br/>GeneSymbol:SEC23IP<br/>P-value:3.29e-30<br/>Zscore:6.51<br/>#EST:34<br/>Adj. #EST:16.99

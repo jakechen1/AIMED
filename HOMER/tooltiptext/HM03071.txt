@@ -1,0 +1,1 @@
+thyroid	HMID:HM03071<br/>GeneSymbol:TRIM54<br/>P-value:3.02e-21<br/>Zscore:6.56<br/>#EST:15<br/>Adj. #EST:45.27

@@ -1,0 +1,1 @@
+pancreas	HMID:HM05103<br/>GeneSymbol:<br/>P-value:1.48e-11<br/>Zscore:5.7<br/>#EST:12<br/>Adj. #EST:13.57

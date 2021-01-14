@@ -1,0 +1,1 @@
+stomach	HMID:HM06836<br/>GeneSymbol:TFF2<br/>P-value:7.12e-81<br/>Zscore:6.32<br/>#EST:69<br/>Adj. #EST:23.96

@@ -1,0 +1,1 @@
+amnion	HMID:HM02117<br/>GeneSymbol:TM4SF1<br/>P-value:1.78e-31<br/>Zscore:6.04<br/>#EST:32<br/>Adj. #EST:21.59

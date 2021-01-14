@@ -1,0 +1,1 @@
+testis	HMID:HM04173<br/>GeneSymbol:ADCY10<br/>P-value:7.84e-20<br/>Zscore:6.97<br/>#EST:20<br/>Adj. #EST:11.78

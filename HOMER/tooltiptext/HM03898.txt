@@ -1,0 +1,1 @@
+tonsil	HMID:HM03898<br/>GeneSymbol:HLA-DQA1<br/>P-value:4.02e-16<br/>Zscore:4.82<br/>#EST:20<br/>Adj. #EST:12.98

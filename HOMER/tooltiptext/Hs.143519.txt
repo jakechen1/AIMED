@@ -1,0 +1,1 @@
+testis	HMID:HM03384<br/>GeneSymbol:TEKT5<br/>P-value:5.14e-16<br/>Zscore:6.76<br/>#EST:17<br/>Adj. #EST:10.92

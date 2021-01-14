@@ -1,0 +1,1 @@
+pharynx	HMID:HM02955<br/>GeneSymbol:CD53<br/>P-value:4.01e-22<br/>Zscore:5.2<br/>#EST:29<br/>Adj. #EST:12.15

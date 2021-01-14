@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00649<br/>GeneSymbol:LYRM1<br/>P-value:1.82e-08<br/>Zscore:4.36<br/>#EST:18<br/>Adj. #EST:5.24

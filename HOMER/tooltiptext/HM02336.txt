@@ -1,0 +1,2 @@
+nerve	HMID:HM02336<br/>GeneSymbol:INPP5J<br/>P-value:3.61e-28<br/>Zscore:5.35<br/>#EST:31<br/>Adj. #EST:16.63
+thyroid	HMID:HM02336<br/>GeneSymbol:INPP5J<br/>P-value:2.07e-13<br/>Zscore:4.13<br/>#EST:16<br/>Adj. #EST:13.07

@@ -1,0 +1,1 @@
+placenta	HMID:HM05992<br/>GeneSymbol:HSD11B2<br/>P-value:7.21e-41<br/>Zscore:4.75<br/>#EST:68<br/>Adj. #EST:7.78

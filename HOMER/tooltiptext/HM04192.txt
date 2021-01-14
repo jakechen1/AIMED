@@ -1,0 +1,1 @@
+liver	HMID:HM04192<br/>GeneSymbol:LECT2<br/>P-value:7.01e-15<br/>Zscore:6.78<br/>#EST:13<br/>Adj. #EST:16.84

@@ -1,0 +1,1 @@
+nerve	HMID:HM00945<br/>GeneSymbol:PNKP<br/>P-value:2.1e-09<br/>Zscore:4.68<br/>#EST:17<br/>Adj. #EST:6.48

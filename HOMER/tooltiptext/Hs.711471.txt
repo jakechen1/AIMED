@@ -1,0 +1,1 @@
+skin	HMID:HM06389<br/>GeneSymbol:KRT79<br/>P-value:8.05e-54<br/>Zscore:6.91<br/>#EST:40<br/>Adj. #EST:24.94

@@ -1,0 +1,1 @@
+tonsil	HMID:HM06046<br/>GeneSymbol:CDK2AP2<br/>P-value:3.17e-08<br/>Zscore:6.02<br/>#EST:10<br/>Adj. #EST:11.33

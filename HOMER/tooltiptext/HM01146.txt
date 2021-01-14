@@ -1,0 +1,1 @@
+lymph node	HMID:HM01146<br/>GeneSymbol:NCF1<br/>P-value:1.18e-59<br/>Zscore:5.28<br/>#EST:58<br/>Adj. #EST:21.96

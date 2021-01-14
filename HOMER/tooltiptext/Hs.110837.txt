@@ -1,0 +1,2 @@
+brain	HMID:HM07661<br/>GeneSymbol:TUBB4<br/>P-value:0<br/>Zscore:4.77<br/>#EST:5600<br/>Adj. #EST:5.11
+adrenal gland	HMID:HM06603<br/>GeneSymbol:TUBB4<br/>P-value:2.67e-64<br/>Zscore:5.03<br/>#EST:163<br/>Adj. #EST:5.37

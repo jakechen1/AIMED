@@ -1,0 +1,1 @@
+lymph node	HMID:HM04373<br/>GeneSymbol:PHF6<br/>P-value:3.34e-14<br/>Zscore:4.35<br/>#EST:25<br/>Adj. #EST:7.16

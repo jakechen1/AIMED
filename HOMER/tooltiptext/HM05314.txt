@@ -1,0 +1,1 @@
+thymus	HMID:HM05314<br/>GeneSymbol:QRICH1<br/>P-value:8.58e-11<br/>Zscore:4.28<br/>#EST:31<br/>Adj. #EST:4.11

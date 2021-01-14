@@ -1,0 +1,1 @@
+trachea	HMID:HM04353<br/>GeneSymbol:PRSS23<br/>P-value:2.71e-14<br/>Zscore:4.59<br/>#EST:32<br/>Adj. #EST:5.49

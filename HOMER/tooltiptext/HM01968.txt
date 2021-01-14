@@ -1,0 +1,1 @@
+stomach	HMID:HM01968<br/>GeneSymbol:IER5L<br/>P-value:6.1e-34<br/>Zscore:5.85<br/>#EST:44<br/>Adj. #EST:11.76

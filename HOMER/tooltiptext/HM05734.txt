@@ -1,0 +1,1 @@
+brain	HMID:HM05734<br/>GeneSymbol:FLJ37543<br/>P-value:2.58e-09<br/>Zscore:6.4<br/>#EST:14<br/>Adj. #EST:4.93

@@ -1,0 +1,1 @@
+testis	HMID:HM06034<br/>GeneSymbol:WDR69<br/>P-value:6.25e-42<br/>Zscore:5.81<br/>#EST:57<br/>Adj. #EST:8.76

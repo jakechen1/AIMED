@@ -1,0 +1,1 @@
+placenta	HMID:HM02952<br/>GeneSymbol:ATG9B<br/>P-value:8.94e-15<br/>Zscore:4.31<br/>#EST:24<br/>Adj. #EST:7.32

@@ -1,0 +1,1 @@
+spleen	HMID:HM06988<br/>GeneSymbol:MYL4<br/>P-value:1.61e-96<br/>Zscore:5.28<br/>#EST:135<br/>Adj. #EST:9.55

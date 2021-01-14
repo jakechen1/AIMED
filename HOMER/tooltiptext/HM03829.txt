@@ -1,0 +1,1 @@
+lymph	HMID:HM03829<br/>GeneSymbol:NLRP7<br/>P-value:1.54e-16<br/>Zscore:6.78<br/>#EST:13<br/>Adj. #EST:32.4

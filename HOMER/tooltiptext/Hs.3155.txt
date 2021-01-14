@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06242<br/>GeneSymbol:CSN1S1<br/>P-value:7.84e-48<br/>Zscore:7.07<br/>#EST:25<br/>Adj. #EST:76.58

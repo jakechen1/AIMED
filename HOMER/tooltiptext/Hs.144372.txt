@@ -1,0 +1,1 @@
+pancreas	HMID:HM06373<br/>GeneSymbol:C2CD4B<br/>P-value:3.91e-53<br/>Zscore:6.33<br/>#EST:60<br/>Adj. #EST:14.06

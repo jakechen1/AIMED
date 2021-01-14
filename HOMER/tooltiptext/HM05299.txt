@@ -1,0 +1,1 @@
+ovary	HMID:HM05299<br/>GeneSymbol:CCDC64B<br/>P-value:7.81e-11<br/>Zscore:6.07<br/>#EST:11<br/>Adj. #EST:15.76

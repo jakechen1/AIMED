@@ -1,0 +1,1 @@
+testis	HMID:HM05599<br/>GeneSymbol:VSIG1<br/>P-value:3.93e-33<br/>Zscore:5.23<br/>#EST:40<br/>Adj. #EST:9.92

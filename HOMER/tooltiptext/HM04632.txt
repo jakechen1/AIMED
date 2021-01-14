@@ -1,0 +1,1 @@
+nerve	HMID:HM04632<br/>GeneSymbol:FUZ<br/>P-value:3.88e-13<br/>Zscore:5.16<br/>#EST:20<br/>Adj. #EST:8.68

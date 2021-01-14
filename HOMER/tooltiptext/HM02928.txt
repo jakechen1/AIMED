@@ -1,0 +1,1 @@
+thyroid	HMID:HM02928<br/>GeneSymbol:HOPX<br/>P-value:2.31e-22<br/>Zscore:4.97<br/>#EST:34<br/>Adj. #EST:9.55

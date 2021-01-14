@@ -1,0 +1,1 @@
+kidney	HMID:HM05477<br/>GeneSymbol:ETNK2<br/>P-value:4.12e-31<br/>Zscore:5.04<br/>#EST:66<br/>Adj. #EST:5.89

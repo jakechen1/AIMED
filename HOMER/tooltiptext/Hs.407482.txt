@@ -1,0 +1,1 @@
+spleen	HMID:HM02286<br/>GeneSymbol:MFSD2B<br/>P-value:6.5e-13<br/>Zscore:5.3<br/>#EST:21<br/>Adj. #EST:6.92

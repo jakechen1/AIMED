@@ -1,0 +1,2 @@
+blood vessel	HMID:HM05009<br/>GeneSymbol:ADH1A<br/>P-value:2.12e-25<br/>Zscore:4.72<br/>#EST:29<br/>Adj. #EST:15.1
+liver	HMID:HM07070<br/>GeneSymbol:ADH1A<br/>P-value:4.12e-106<br/>Zscore:5.15<br/>#EST:104<br/>Adj. #EST:16.41

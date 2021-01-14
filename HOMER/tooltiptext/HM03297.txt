@@ -1,0 +1,1 @@
+testis	HMID:HM03297<br/>GeneSymbol:14-Sep<br/>P-value:1.47e-19<br/>Zscore:7.06<br/>#EST:19<br/>Adj. #EST:12.32

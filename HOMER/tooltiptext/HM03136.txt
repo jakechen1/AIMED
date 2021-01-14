@@ -1,0 +1,1 @@
+esophagus	HMID:HM03136<br/>GeneSymbol:C2orf54<br/>P-value:9.74e-21<br/>Zscore:6.95<br/>#EST:12<br/>Adj. #EST:90.96

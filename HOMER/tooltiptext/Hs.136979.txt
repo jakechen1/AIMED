@@ -1,0 +1,1 @@
+blood	HMID:HM05434<br/>GeneSymbol:RASAL3<br/>P-value:1.61e-30<br/>Zscore:4.08<br/>#EST:33<br/>Adj. #EST:15.89

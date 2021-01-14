@@ -1,0 +1,1 @@
+kidney	HMID:HM02979<br/>GeneSymbol:NAT8<br/>P-value:6.02e-22<br/>Zscore:4.31<br/>#EST:32<br/>Adj. #EST:9.05

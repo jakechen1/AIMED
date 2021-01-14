@@ -1,0 +1,1 @@
+bone	HMID:HM01452<br/>GeneSymbol:CLEC11A<br/>P-value:1.1e-46<br/>Zscore:6.73<br/>#EST:51<br/>Adj. #EST:16.17

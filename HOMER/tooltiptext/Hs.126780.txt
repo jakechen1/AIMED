@@ -1,0 +1,1 @@
+testis	HMID:HM04464<br/>GeneSymbol:SEPT12<br/>P-value:1.46e-21<br/>Zscore:7<br/>#EST:24<br/>Adj. #EST:10.6

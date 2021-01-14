@@ -1,0 +1,1 @@
+liver	HMID:HM06925<br/>GeneSymbol:ORM2<br/>P-value:1.61e-90<br/>Zscore:4.3<br/>#EST:98<br/>Adj. #EST:14.2

@@ -1,0 +1,1 @@
+bladder	HMID:HM02229<br/>GeneSymbol:POLR2K<br/>P-value:1.58e-29<br/>Zscore:5.65<br/>#EST:33<br/>Adj. #EST:17.07

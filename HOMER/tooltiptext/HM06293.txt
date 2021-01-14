@@ -1,0 +1,1 @@
+eye	HMID:HM06293<br/>GeneSymbol:ZNF470<br/>P-value:3.1e-07<br/>Zscore:4.37<br/>#EST:12<br/>Adj. #EST:6.33

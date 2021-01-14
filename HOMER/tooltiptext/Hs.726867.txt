@@ -1,0 +1,1 @@
+placenta	HMID:HM05171<br/>GeneSymbol:SVEP1<br/>P-value:3.24e-27<br/>Zscore:6.89<br/>#EST:28<br/>Adj. #EST:14.72

@@ -1,0 +1,1 @@
+trachea	HMID:HM06981<br/>GeneSymbol:CYBRD1<br/>P-value:5.44e-96<br/>Zscore:5.93<br/>#EST:103<br/>Adj. #EST:19.62

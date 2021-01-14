@@ -1,0 +1,1 @@
+trachea	HMID:HM01729<br/>GeneSymbol:FAM134C<br/>P-value:1.31e-11<br/>Zscore:4.53<br/>#EST:23<br/>Adj. #EST:6.1

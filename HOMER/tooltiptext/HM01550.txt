@@ -1,0 +1,1 @@
+testis	HMID:HM01550<br/>GeneSymbol:IFT88<br/>P-value:1.31e-43<br/>Zscore:4.64<br/>#EST:92<br/>Adj. #EST:5.49

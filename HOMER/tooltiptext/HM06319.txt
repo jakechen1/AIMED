@@ -1,0 +1,1 @@
+bone	HMID:HM06319<br/>GeneSymbol:P2RX7<br/>P-value:4e-07<br/>Zscore:4.43<br/>#EST:18<br/>Adj. #EST:4.21

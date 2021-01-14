@@ -1,0 +1,1 @@
+leiomios	HMID:HM03304<br/>GeneSymbol:TSHR<br/>P-value:1.63e-19<br/>Zscore:6.81<br/>#EST:10<br/>Adj. #EST:154.75

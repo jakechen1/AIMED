@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01513<br/>GeneSymbol:TPRG1<br/>P-value:1.21e-44<br/>Zscore:6.64<br/>#EST:35<br/>Adj. #EST:33.92

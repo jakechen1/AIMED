@@ -1,0 +1,1 @@
+spleen	HMID:HM06418<br/>GeneSymbol:PFKFB1<br/>P-value:6.26e-55<br/>Zscore:6.25<br/>#EST:60<br/>Adj. #EST:12.97

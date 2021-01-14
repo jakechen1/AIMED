@@ -1,0 +1,1 @@
+bladder	HMID:HM03289<br/>GeneSymbol:GGPS1<br/>P-value:6.14e-16<br/>Zscore:5.36<br/>#EST:23<br/>Adj. #EST:9.99

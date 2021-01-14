@@ -1,0 +1,1 @@
+bone	HMID:HM01890<br/>GeneSymbol:KIAA1199<br/>P-value:2.92e-35<br/>Zscore:4.82<br/>#EST:50<br/>Adj. #EST:10.38

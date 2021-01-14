@@ -1,0 +1,1 @@
+stomach	HMID:HM03455<br/>GeneSymbol:MYEOV<br/>P-value:1.14e-18<br/>Zscore:5.32<br/>#EST:30<br/>Adj. #EST:8.12

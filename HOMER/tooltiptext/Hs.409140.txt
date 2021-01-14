@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00109<br/>GeneSymbol:ATP5O<br/>P-value:1.66e-06<br/>Zscore:4.4<br/>#EST:11<br/>Adj. #EST:6.5

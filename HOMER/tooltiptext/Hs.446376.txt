@@ -1,0 +1,1 @@
+brain	HMID:HM06530<br/>GeneSymbol:APC2<br/>P-value:2.9e-60<br/>Zscore:5.44<br/>#EST:129<br/>Adj. #EST:4.26

@@ -1,0 +1,1 @@
+stomach	HMID:HM03029<br/>GeneSymbol:<br/>P-value:1.37e-21<br/>Zscore:5.34<br/>#EST:27<br/>Adj. #EST:11.9

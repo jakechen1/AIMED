@@ -1,0 +1,1 @@
+mouth	HMID:HM02958<br/>GeneSymbol:PTPN1<br/>P-value:8.44e-15<br/>Zscore:4.43<br/>#EST:35<br/>Adj. #EST:5.18

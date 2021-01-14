@@ -1,0 +1,1 @@
+cervix	HMID:HM04367<br/>GeneSymbol:TMEM161A<br/>P-value:3.1e-14<br/>Zscore:4.04<br/>#EST:21<br/>Adj. #EST:9.36

@@ -1,0 +1,1 @@
+mouth	HMID:HM01735<br/>GeneSymbol:EIF2B1<br/>P-value:1.76e-38<br/>Zscore:5.89<br/>#EST:58<br/>Adj. #EST:10.05

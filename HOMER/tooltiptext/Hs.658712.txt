@@ -1,0 +1,1 @@
+blood	HMID:HM03496<br/>GeneSymbol:EMR3<br/>P-value:1.56e-16<br/>Zscore:6.44<br/>#EST:15<br/>Adj. #EST:20.18

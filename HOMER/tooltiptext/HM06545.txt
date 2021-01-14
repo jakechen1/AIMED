@@ -1,0 +1,1 @@
+lymph node	HMID:HM06545<br/>GeneSymbol:PLCL2<br/>P-value:6.71e-06<br/>Zscore:4.63<br/>#EST:10<br/>Adj. #EST:6.1

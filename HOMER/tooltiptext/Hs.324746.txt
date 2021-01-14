@@ -1,0 +1,1 @@
+liver	HMID:HM07550<br/>GeneSymbol:AHSG<br/>P-value:0<br/>Zscore:6.6<br/>#EST:456<br/>Adj. #EST:14.37

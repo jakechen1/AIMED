@@ -1,0 +1,1 @@
+bladder	HMID:HM04229<br/>GeneSymbol:ALG13<br/>P-value:3.22e-20<br/>Zscore:6.04<br/>#EST:23<br/>Adj. #EST:15.68

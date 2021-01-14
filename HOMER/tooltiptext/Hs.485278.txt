@@ -1,0 +1,1 @@
+nerve	HMID:HM07106<br/>GeneSymbol:RNF8<br/>P-value:4.71e-111<br/>Zscore:7.02<br/>#EST:107<br/>Adj. #EST:23.96

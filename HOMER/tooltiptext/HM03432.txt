@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03432<br/>GeneSymbol:MESP2<br/>P-value:7.9e-19<br/>Zscore:7.01<br/>#EST:12<br/>Adj. #EST:48.46

@@ -1,0 +1,1 @@
+thymus	HMID:HM03676<br/>GeneSymbol:IL7R<br/>P-value:2.24e-17<br/>Zscore:5.4<br/>#EST:19<br/>Adj. #EST:15.6

@@ -1,0 +1,1 @@
+pancreas	HMID:HM00324<br/>GeneSymbol:CELA2B<br/>P-value:0<br/>Zscore:7.06<br/>#EST:135<br/>Adj. #EST:28.15

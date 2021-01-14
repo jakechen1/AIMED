@@ -1,0 +1,1 @@
+trachea	HMID:HM06209<br/>GeneSymbol:CDHR3<br/>P-value:1.89e-46<br/>Zscore:6.93<br/>#EST:35<br/>Adj. #EST:42.13

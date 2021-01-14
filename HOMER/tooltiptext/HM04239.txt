@@ -1,0 +1,1 @@
+testis	HMID:HM04239<br/>GeneSymbol:SPATA9<br/>P-value:1.1e-14<br/>Zscore:6.67<br/>#EST:18<br/>Adj. #EST:9.17

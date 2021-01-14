@@ -1,0 +1,1 @@
+lung	HMID:HM02918<br/>GeneSymbol:ADAMTS8<br/>P-value:1.86e-22<br/>Zscore:5.84<br/>#EST:34<br/>Adj. #EST:7.88

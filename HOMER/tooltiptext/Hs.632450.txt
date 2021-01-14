@@ -1,0 +1,1 @@
+liver	HMID:HM06899<br/>GeneSymbol:CFHR2<br/>P-value:2.07e-87<br/>Zscore:6.72<br/>#EST:71<br/>Adj. #EST:20.84

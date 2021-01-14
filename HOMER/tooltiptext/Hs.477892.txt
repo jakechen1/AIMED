@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06604<br/>GeneSymbol:GYG1<br/>P-value:2.06e-64<br/>Zscore:5.82<br/>#EST:108<br/>Adj. #EST:8.73

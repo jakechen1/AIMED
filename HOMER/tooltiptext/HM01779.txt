@@ -1,0 +1,1 @@
+spleen	HMID:HM01779<br/>GeneSymbol:LILRB5<br/>P-value:8.64e-38<br/>Zscore:4.77<br/>#EST:49<br/>Adj. #EST:11.81

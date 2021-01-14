@@ -1,0 +1,1 @@
+lymph	HMID:HM02080<br/>GeneSymbol:WAS<br/>P-value:1.85e-12<br/>Zscore:4.35<br/>#EST:15<br/>Adj. #EST:12.62

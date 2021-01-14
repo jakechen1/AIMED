@@ -1,0 +1,1 @@
+tonsil	HMID:HM02361<br/>GeneSymbol:LOC400927<br/>P-value:8.18e-28<br/>Zscore:7.06<br/>#EST:16<br/>Adj. #EST:100.14

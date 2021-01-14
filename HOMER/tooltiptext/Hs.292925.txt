@@ -1,0 +1,1 @@
+lymph node	HMID:HM01220<br/>GeneSymbol:CCDC88A<br/>P-value:3.09e-10<br/>Zscore:4.97<br/>#EST:26<br/>Adj. #EST:4.55

@@ -1,0 +1,1 @@
+lymph node	HMID:HM06578<br/>GeneSymbol:H2AFX<br/>P-value:1.32e-62<br/>Zscore:5.85<br/>#EST:94<br/>Adj. #EST:10.24

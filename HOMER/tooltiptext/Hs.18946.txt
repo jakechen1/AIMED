@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01328<br/>GeneSymbol:MRPS26<br/>P-value:1.62e-10<br/>Zscore:6.21<br/>#EST:12<br/>Adj. #EST:13.65

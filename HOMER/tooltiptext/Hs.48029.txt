@@ -1,0 +1,1 @@
+nerve	HMID:HM03471<br/>GeneSymbol:SNAI1<br/>P-value:1.93e-16<br/>Zscore:6.32<br/>#EST:20<br/>Adj. #EST:12.89

@@ -1,0 +1,1 @@
+lymph	HMID:HM01074<br/>GeneSymbol:HMGA1<br/>P-value:2.32e-63<br/>Zscore:4.82<br/>#EST:150<br/>Adj. #EST:5.75

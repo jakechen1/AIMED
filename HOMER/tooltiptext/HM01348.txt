@@ -1,0 +1,1 @@
+brain	HMID:HM01348<br/>GeneSymbol:GABRD<br/>P-value:2.51e-50<br/>Zscore:6.61<br/>#EST:91<br/>Adj. #EST:4.7

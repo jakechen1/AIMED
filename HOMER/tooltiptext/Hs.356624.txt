@@ -1,0 +1,1 @@
+ear	HMID:HM00457<br/>GeneSymbol:NID1<br/>P-value:7.64e-08<br/>Zscore:4.77<br/>#EST:11<br/>Adj. #EST:8.9

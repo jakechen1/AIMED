@@ -1,0 +1,1 @@
+heart	HMID:HM03620<br/>GeneSymbol:C6orf142<br/>P-value:4.76e-17<br/>Zscore:5.64<br/>#EST:19<br/>Adj. #EST:14.34

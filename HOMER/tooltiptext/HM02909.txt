@@ -1,0 +1,1 @@
+blood	HMID:HM02909<br/>GeneSymbol:LXN<br/>P-value:1.6e-22<br/>Zscore:4.43<br/>#EST:38<br/>Adj. #EST:7.78

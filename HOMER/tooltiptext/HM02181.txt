@@ -1,0 +1,1 @@
+bone	HMID:HM02181<br/>GeneSymbol:FCGR3A<br/>P-value:2.55e-30<br/>Zscore:4.2<br/>#EST:53<br/>Adj. #EST:7.67

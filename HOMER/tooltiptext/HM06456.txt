@@ -1,0 +1,1 @@
+nerve	HMID:HM06456<br/>GeneSymbol:DNAL4<br/>P-value:1.48e-06<br/>Zscore:4.3<br/>#EST:13<br/>Adj. #EST:5.32

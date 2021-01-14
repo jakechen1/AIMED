@@ -1,0 +1,1 @@
+placenta	HMID:HM05232<br/>GeneSymbol:SCIN<br/>P-value:6.92e-28<br/>Zscore:5.52<br/>#EST:41<br/>Adj. #EST:8.88

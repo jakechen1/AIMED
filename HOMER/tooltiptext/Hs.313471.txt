@@ -1,0 +1,1 @@
+testis	HMID:HM06710<br/>GeneSymbol:KIAA1683<br/>P-value:3.55e-71<br/>Zscore:6.44<br/>#EST:99<br/>Adj. #EST:8.69

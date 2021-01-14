@@ -1,0 +1,1 @@
+spleen	HMID:HM00930<br/>GeneSymbol:STOX1<br/>P-value:2.27e-09<br/>Zscore:4.54<br/>#EST:18<br/>Adj. #EST:5.47

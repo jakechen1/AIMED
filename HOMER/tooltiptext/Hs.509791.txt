@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02537<br/>GeneSymbol:ERH<br/>P-value:2.09e-13<br/>Zscore:6.06<br/>#EST:18<br/>Adj. #EST:10.92

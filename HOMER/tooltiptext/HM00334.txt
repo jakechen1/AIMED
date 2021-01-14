@@ -1,0 +1,1 @@
+blood	HMID:HM00334<br/>GeneSymbol:NCF2<br/>P-value:0<br/>Zscore:6.82<br/>#EST:177<br/>Adj. #EST:20.94

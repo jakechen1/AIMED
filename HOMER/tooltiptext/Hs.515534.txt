@@ -1,0 +1,1 @@
+salivary gland	HMID:HM03839<br/>GeneSymbol:TEAD2<br/>P-value:4.63e-18<br/>Zscore:6.63<br/>#EST:15<br/>Adj. #EST:31.11

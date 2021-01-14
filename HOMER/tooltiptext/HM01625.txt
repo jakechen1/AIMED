@@ -1,0 +1,1 @@
+thyroid	HMID:HM01625<br/>GeneSymbol:GABARAP<br/>P-value:1.37e-41<br/>Zscore:5.83<br/>#EST:69<br/>Adj. #EST:8.87

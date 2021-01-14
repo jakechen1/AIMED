@@ -1,0 +1,1 @@
+lymph node	HMID:HM00933<br/>GeneSymbol:FCHSD2<br/>P-value:2.24e-09<br/>Zscore:4.74<br/>#EST:17<br/>Adj. #EST:6.4

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05970<br/>GeneSymbol:PSMD14<br/>P-value:2.51e-40<br/>Zscore:5.98<br/>#EST:66<br/>Adj. #EST:8.82

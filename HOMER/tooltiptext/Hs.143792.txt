@@ -1,0 +1,1 @@
+skin	HMID:HM02230<br/>GeneSymbol:LRFN3<br/>P-value:1.07e-12<br/>Zscore:4.29<br/>#EST:23<br/>Adj. #EST:6.35

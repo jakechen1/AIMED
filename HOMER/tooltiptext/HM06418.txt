@@ -1,0 +1,1 @@
+eye	HMID:HM06418<br/>GeneSymbol:CACNA1A<br/>P-value:1.02e-06<br/>Zscore:4.01<br/>#EST:12<br/>Adj. #EST:5.71

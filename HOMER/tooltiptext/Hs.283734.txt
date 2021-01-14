@@ -1,0 +1,1 @@
+mouth	HMID:HM05615<br/>GeneSymbol:MRPL47<br/>P-value:2.64e-33<br/>Zscore:4.96<br/>#EST:37<br/>Adj. #EST:16.79

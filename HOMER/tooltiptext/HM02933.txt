@@ -1,0 +1,1 @@
+brain	HMID:HM02933<br/>GeneSymbol:GRM2<br/>P-value:2.78e-22<br/>Zscore:5.5<br/>#EST:42<br/>Adj. #EST:4.46

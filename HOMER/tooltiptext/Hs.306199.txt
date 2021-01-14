@@ -1,0 +1,1 @@
+lung	HMID:HM00810<br/>GeneSymbol:GPR84<br/>P-value:4.87e-09<br/>Zscore:4.3<br/>#EST:12<br/>Adj. #EST:8.24

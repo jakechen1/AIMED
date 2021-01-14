@@ -1,0 +1,1 @@
+testis	HMID:HM03303<br/>GeneSymbol:ATP8B3<br/>P-value:1.6e-19<br/>Zscore:4.36<br/>#EST:31<br/>Adj. #EST:7.02

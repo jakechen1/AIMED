@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02731<br/>GeneSymbol:<br/>P-value:7.71e-24<br/>Zscore:6.11<br/>#EST:20<br/>Adj. #EST:27.43

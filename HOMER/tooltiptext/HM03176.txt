@@ -1,0 +1,1 @@
+skin	HMID:HM03176<br/>GeneSymbol:ACER1<br/>P-value:2.09e-20<br/>Zscore:7.07<br/>#EST:14<br/>Adj. #EST:25.45

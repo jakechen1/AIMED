@@ -1,0 +1,1 @@
+liver	HMID:HM06302<br/>GeneSymbol:C20orf70<br/>P-value:4.41e-50<br/>Zscore:5.69<br/>#EST:47<br/>Adj. #EST:17.03

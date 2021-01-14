@@ -1,0 +1,1 @@
+small intestine	HMID:HM01800<br/>GeneSymbol:LYVE1<br/>P-value:1.06e-11<br/>Zscore:4.26<br/>#EST:18<br/>Adj. #EST:8.5

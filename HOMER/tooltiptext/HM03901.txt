@@ -1,0 +1,1 @@
+eye	HMID:HM03901<br/>GeneSymbol:NRXN2<br/>P-value:4.06e-16<br/>Zscore:4.69<br/>#EST:29<br/>Adj. #EST:6.68

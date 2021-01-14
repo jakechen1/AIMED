@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05355<br/>GeneSymbol:HEBP1<br/>P-value:1.6e-29<br/>Zscore:5.7<br/>#EST:43<br/>Adj. #EST:10.22

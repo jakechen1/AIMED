@@ -1,0 +1,1 @@
+leiomios	HMID:HM04921<br/>GeneSymbol:COL6A1<br/>P-value:3.33e-12<br/>Zscore:6.26<br/>#EST:14<br/>Adj. #EST:14.23

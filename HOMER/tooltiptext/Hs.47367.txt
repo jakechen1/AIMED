@@ -1,0 +1,1 @@
+trachea	HMID:HM00413<br/>GeneSymbol:FEM1C<br/>P-value:1.05e-07<br/>Zscore:4.9<br/>#EST:11<br/>Adj. #EST:8.46

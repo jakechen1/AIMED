@@ -1,0 +1,1 @@
+testis	HMID:HM01505<br/>GeneSymbol:KCNQ2<br/>P-value:5.19e-11<br/>Zscore:4.82<br/>#EST:25<br/>Adj. #EST:4.59

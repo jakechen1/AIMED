@@ -1,0 +1,1 @@
+pancreas	HMID:HM07626<br/>GeneSymbol:AMY2A<br/>P-value:0<br/>Zscore:7.06<br/>#EST:423<br/>Adj. #EST:27.98

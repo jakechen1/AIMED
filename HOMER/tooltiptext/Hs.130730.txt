@@ -1,0 +1,2 @@
+stomach	HMID:HM05552<br/>GeneSymbol:AQP2<br/>P-value:1.98e-32<br/>Zscore:4.77<br/>#EST:40<br/>Adj. #EST:12.34
+kidney	HMID:HM05810<br/>GeneSymbol:AQP2<br/>P-value:8.87e-37<br/>Zscore:4.54<br/>#EST:46<br/>Adj. #EST:11.8

@@ -1,0 +1,1 @@
+leiomios	HMID:HM05408<br/>GeneSymbol:MTO1<br/>P-value:3.54e-30<br/>Zscore:6.87<br/>#EST:22<br/>Adj. #EST:50.81

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05581<br/>GeneSymbol:LRRC6<br/>P-value:7.37e-10<br/>Zscore:5.98<br/>#EST:12<br/>Adj. #EST:11.33

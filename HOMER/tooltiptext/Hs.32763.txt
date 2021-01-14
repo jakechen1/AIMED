@@ -1,0 +1,1 @@
+brain	HMID:HM07327<br/>GeneSymbol:GRIA2<br/>P-value:1.78e-171<br/>Zscore:4.98<br/>#EST:320<br/>Adj. #EST:4.73

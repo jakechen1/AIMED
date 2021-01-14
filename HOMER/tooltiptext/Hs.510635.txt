@@ -1,0 +1,1 @@
+tonsil	HMID:HM07290<br/>GeneSymbol:IGHG1<br/>P-value:6.6e-158<br/>Zscore:4<br/>#EST:260<br/>Adj. #EST:9.56

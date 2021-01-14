@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00901<br/>GeneSymbol:FCN1<br/>P-value:5.77e-75<br/>Zscore:6.93<br/>#EST:60<br/>Adj. #EST:35.2

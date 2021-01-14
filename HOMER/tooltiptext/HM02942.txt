@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02942<br/>GeneSymbol:IKBKE<br/>P-value:3.19e-22<br/>Zscore:6.67<br/>#EST:18<br/>Adj. #EST:35.07

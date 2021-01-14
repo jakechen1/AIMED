@@ -1,0 +1,1 @@
+muscle	HMID:HM00016<br/>GeneSymbol:TNNC2<br/>P-value:0<br/>Zscore:6.57<br/>#EST:320<br/>Adj. #EST:32.07

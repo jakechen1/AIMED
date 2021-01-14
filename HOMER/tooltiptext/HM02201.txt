@@ -1,0 +1,1 @@
+thyroid	HMID:HM02201<br/>GeneSymbol:C20orf3<br/>P-value:5.04e-30<br/>Zscore:5.39<br/>#EST:54<br/>Adj. #EST:7.74

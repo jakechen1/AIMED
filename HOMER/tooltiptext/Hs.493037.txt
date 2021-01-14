@@ -1,0 +1,1 @@
+brain	HMID:HM02427<br/>GeneSymbol:KCNK9<br/>P-value:4.72e-13<br/>Zscore:6.66<br/>#EST:19<br/>Adj. #EST:5.23

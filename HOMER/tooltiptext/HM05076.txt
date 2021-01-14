@@ -1,0 +1,1 @@
+testis	HMID:HM05076<br/>GeneSymbol:TCTE1<br/>P-value:1.29e-11<br/>Zscore:4.18<br/>#EST:14<br/>Adj. #EST:9.08

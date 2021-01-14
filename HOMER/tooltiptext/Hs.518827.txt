@@ -1,0 +1,1 @@
+ear	HMID:HM04211<br/>GeneSymbol:CCNI<br/>P-value:4.24e-20<br/>Zscore:5.48<br/>#EST:36<br/>Adj. #EST:7.6

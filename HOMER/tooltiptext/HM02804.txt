@@ -1,0 +1,1 @@
+thymus	HMID:HM02804<br/>GeneSymbol:ARL5C<br/>P-value:2.71e-23<br/>Zscore:6.71<br/>#EST:14<br/>Adj. #EST:58.59

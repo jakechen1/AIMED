@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM04435<br/>GeneSymbol:TYK2<br/>P-value:6.73e-14<br/>Zscore:6.22<br/>#EST:17<br/>Adj. #EST:12.97

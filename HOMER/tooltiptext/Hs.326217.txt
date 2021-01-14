@@ -1,0 +1,1 @@
+muscle	HMID:HM05708<br/>GeneSymbol:NTN5<br/>P-value:7.07e-35<br/>Zscore:6.88<br/>#EST:21<br/>Adj. #EST:53.04

@@ -1,0 +1,7 @@
+"unigeneid"	"organ"	"pvalue"	"rzscore"	"source"
+"Hs.468442"	"spinal cord"	1.5e-11	4.670092961	"dbEST"
+"Hs.518525"	"spinal cord"	5.17e-14	6.37319094	"dbEST"
+"Hs.551713"	"spinal cord"	2.67e-18	4.978419544	"dbEST"
+"Hs.433670"	"spinal cord"	4.72e-27	5.376768087	"dbEST"
+"Hs.134602"	"spinal cord"	3.72e-27	5.979568687	"dbEST"
+"Hs.1787"	"spinal cord"	9.93e-28	6.63752667	"dbEST"

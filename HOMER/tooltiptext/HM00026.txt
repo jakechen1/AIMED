@@ -1,0 +1,1 @@
+pharynx	HMID:HM00026<br/>GeneSymbol:PLUNC<br/>P-value:0<br/>Zscore:7.07<br/>#EST:319<br/>Adj. #EST:134

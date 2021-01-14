@@ -1,0 +1,1 @@
+placenta	HMID:HM01345<br/>GeneSymbol:GATA2<br/>P-value:1.48e-50<br/>Zscore:4.65<br/>#EST:76<br/>Adj. #EST:8.87

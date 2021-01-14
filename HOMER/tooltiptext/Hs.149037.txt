@@ -1,0 +1,1 @@
+brain	HMID:HM02137<br/>GeneSymbol:HTR2C<br/>P-value:1.64e-12<br/>Zscore:5.75<br/>#EST:23<br/>Adj. #EST:4.43

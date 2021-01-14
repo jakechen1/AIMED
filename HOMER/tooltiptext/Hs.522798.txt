@@ -1,0 +1,1 @@
+liver	HMID:HM05538<br/>GeneSymbol:F9<br/>P-value:3.93e-32<br/>Zscore:7.07<br/>#EST:23<br/>Adj. #EST:23.19

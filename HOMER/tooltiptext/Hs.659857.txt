@@ -1,0 +1,1 @@
+testis	HMID:HM05098<br/>GeneSymbol:EID3<br/>P-value:2.34e-26<br/>Zscore:5.66<br/>#EST:34<br/>Adj. #EST:9.07

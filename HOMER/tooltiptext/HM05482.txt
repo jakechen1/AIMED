@@ -1,0 +1,1 @@
+uterus	HMID:HM05482<br/>GeneSymbol:MSX1<br/>P-value:3.53e-10<br/>Zscore:4.93<br/>#EST:20<br/>Adj. #EST:5.55

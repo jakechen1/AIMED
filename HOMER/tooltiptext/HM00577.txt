@@ -1,0 +1,1 @@
+colon	HMID:HM00577<br/>GeneSymbol:NOX1<br/>P-value:0<br/>Zscore:7.06<br/>#EST:75<br/>Adj. #EST:32.85

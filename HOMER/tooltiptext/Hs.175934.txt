@@ -1,0 +1,1 @@
+brain	HMID:HM07382<br/>GeneSymbol:GABRA1<br/>P-value:3.45e-199<br/>Zscore:6.98<br/>#EST:279<br/>Adj. #EST:5.62

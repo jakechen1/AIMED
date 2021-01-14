@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00333<br/>GeneSymbol:PTPRF<br/>P-value:2.37e-07<br/>Zscore:4.6<br/>#EST:13<br/>Adj. #EST:6.38

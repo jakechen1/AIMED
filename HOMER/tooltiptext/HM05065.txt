@@ -1,0 +1,1 @@
+eye	HMID:HM05065<br/>GeneSymbol:PLA2G5<br/>P-value:1.15e-11<br/>Zscore:5.37<br/>#EST:18<br/>Adj. #EST:7.68

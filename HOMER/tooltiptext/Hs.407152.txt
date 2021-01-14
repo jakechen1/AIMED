@@ -1,0 +1,1 @@
+placenta	HMID:HM06554<br/>GeneSymbol:MUC15<br/>P-value:3.3e-61<br/>Zscore:5.33<br/>#EST:76<br/>Adj. #EST:11.74

@@ -1,0 +1,1 @@
+ovary	HMID:HM03425<br/>GeneSymbol:SOCS1<br/>P-value:7.51e-19<br/>Zscore:4.78<br/>#EST:28<br/>Adj. #EST:9.35

@@ -1,0 +1,1 @@
+testis	HMID:HM02692<br/>GeneSymbol:CETN1<br/>P-value:3.72e-24<br/>Zscore:6.76<br/>#EST:28<br/>Adj. #EST:10.24

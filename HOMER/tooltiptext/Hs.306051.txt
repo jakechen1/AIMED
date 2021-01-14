@@ -1,0 +1,1 @@
+muscle	HMID:HM00906<br/>GeneSymbol:WNT5B<br/>P-value:2.66e-09<br/>Zscore:4.26<br/>#EST:17<br/>Adj. #EST:6.28

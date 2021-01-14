@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05063<br/>GeneSymbol:C9orf5<br/>P-value:1.14e-11<br/>Zscore:5.49<br/>#EST:19<br/>Adj. #EST:7.94

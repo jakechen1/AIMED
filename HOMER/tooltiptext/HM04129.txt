@@ -1,0 +1,1 @@
+lymph	HMID:HM04129<br/>GeneSymbol:MAP3K3<br/>P-value:3.75e-15<br/>Zscore:5.7<br/>#EST:23<br/>Adj. #EST:9.04

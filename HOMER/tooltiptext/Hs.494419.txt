@@ -1,0 +1,1 @@
+bladder	HMID:HM05528<br/>GeneSymbol:LAMP1<br/>P-value:6.34e-32<br/>Zscore:5.16<br/>#EST:43<br/>Adj. #EST:12.21

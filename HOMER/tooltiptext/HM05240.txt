@@ -1,0 +1,1 @@
+testis	HMID:HM05240<br/>GeneSymbol:AMHR2<br/>P-value:4.78e-11<br/>Zscore:5.68<br/>#EST:13<br/>Adj. #EST:9.27

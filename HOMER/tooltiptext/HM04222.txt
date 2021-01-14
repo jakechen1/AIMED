@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04222<br/>GeneSymbol:CTSG<br/>P-value:9.44e-15<br/>Zscore:5.87<br/>#EST:15<br/>Adj. #EST:17.49

@@ -1,0 +1,1 @@
+nerve	HMID:HM02101<br/>GeneSymbol:DGCR14<br/>P-value:9.86e-32<br/>Zscore:6.37<br/>#EST:40<br/>Adj. #EST:13.17

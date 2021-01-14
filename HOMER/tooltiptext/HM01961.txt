@@ -1,0 +1,1 @@
+testis	HMID:HM01961<br/>GeneSymbol:TEX19<br/>P-value:4.46e-34<br/>Zscore:4.63<br/>#EST:44<br/>Adj. #EST:9.23

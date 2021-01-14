@@ -1,0 +1,1 @@
+placenta	HMID:HM01483<br/>GeneSymbol:PLAC2<br/>P-value:1.31e-45<br/>Zscore:4.62<br/>#EST:53<br/>Adj. #EST:12.56

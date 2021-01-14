@@ -1,0 +1,1 @@
+trachea	HMID:HM04838<br/>GeneSymbol:BIRC2<br/>P-value:5.05e-24<br/>Zscore:5.02<br/>#EST:41<br/>Adj. #EST:8.14

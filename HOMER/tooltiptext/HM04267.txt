@@ -1,0 +1,1 @@
+thymus	HMID:HM04267<br/>GeneSymbol:CYP2U1<br/>P-value:1.37e-14<br/>Zscore:5.23<br/>#EST:21<br/>Adj. #EST:9.54

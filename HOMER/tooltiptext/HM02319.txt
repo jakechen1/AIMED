@@ -1,0 +1,1 @@
+rectum	HMID:HM02319<br/>GeneSymbol:PRSS8<br/>P-value:2.32e-28<br/>Zscore:6.78<br/>#EST:23<br/>Adj. #EST:37.14

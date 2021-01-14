@@ -1,0 +1,1 @@
+esophagus	HMID:HM03499<br/>GeneSymbol:RRM1<br/>P-value:2.3e-18<br/>Zscore:5.43<br/>#EST:31<br/>Adj. #EST:8.14

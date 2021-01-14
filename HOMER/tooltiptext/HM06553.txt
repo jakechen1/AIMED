@@ -1,0 +1,1 @@
+amnion	HMID:HM06553<br/>GeneSymbol:CLTC<br/>P-value:8.05e-06<br/>Zscore:5.47<br/>#EST:11<br/>Adj. #EST:5.5

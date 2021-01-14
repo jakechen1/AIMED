@@ -1,0 +1,1 @@
+ganglia	HMID:HM05046<br/>GeneSymbol:LTBP4<br/>P-value:9.48e-12<br/>Zscore:6.5<br/>#EST:13<br/>Adj. #EST:15.07

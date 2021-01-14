@@ -1,0 +1,1 @@
+lymph node	HMID:HM05761<br/>GeneSymbol:TIFA<br/>P-value:3.24e-09<br/>Zscore:5.42<br/>#EST:15<br/>Adj. #EST:7.29

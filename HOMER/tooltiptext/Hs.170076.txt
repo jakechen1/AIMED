@@ -1,0 +1,1 @@
+testis	HMID:HM05506<br/>GeneSymbol:VCX3A<br/>P-value:1.64e-31<br/>Zscore:7.04<br/>#EST:28<br/>Adj. #EST:13.65

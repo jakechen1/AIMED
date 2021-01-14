@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06221<br/>GeneSymbol:ELTD1<br/>P-value:4.49e-47<br/>Zscore:6.18<br/>#EST:49<br/>Adj. #EST:19.05

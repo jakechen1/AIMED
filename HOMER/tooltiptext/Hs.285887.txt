@@ -1,0 +1,1 @@
+liver	HMID:HM06496<br/>GeneSymbol:UGT2B4<br/>P-value:2.68e-58<br/>Zscore:6.89<br/>#EST:55<br/>Adj. #EST:17.01

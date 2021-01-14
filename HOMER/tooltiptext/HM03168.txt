@@ -1,0 +1,1 @@
+thyroid	HMID:HM03168<br/>GeneSymbol:PDE8B<br/>P-value:1.9e-20<br/>Zscore:6.51<br/>#EST:21<br/>Adj. #EST:18.81

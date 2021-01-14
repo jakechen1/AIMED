@@ -1,0 +1,1 @@
+pancreas	HMID:HM00716<br/>GeneSymbol:FBL<br/>P-value:1.04e-94<br/>Zscore:4.08<br/>#EST:213<br/>Adj. #EST:5.77

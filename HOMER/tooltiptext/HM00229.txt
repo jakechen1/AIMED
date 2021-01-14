@@ -1,0 +1,1 @@
+blood	HMID:HM00229<br/>GeneSymbol:CXCR1<br/>P-value:0<br/>Zscore:6.98<br/>#EST:187<br/>Adj. #EST:34.11

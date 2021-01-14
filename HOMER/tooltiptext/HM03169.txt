@@ -1,0 +1,1 @@
+pharynx	HMID:HM03169<br/>GeneSymbol:GPR183<br/>P-value:1.93e-20<br/>Zscore:5.07<br/>#EST:19<br/>Adj. #EST:23.45

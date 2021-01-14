@@ -1,0 +1,2 @@
+bone	HMID:HM00172<br/>GeneSymbol:DCN<br/>P-value:0<br/>Zscore:4.54<br/>#EST:719<br/>Adj. #EST:10.42
+ganglia	HMID:HM00172<br/>GeneSymbol:DCN<br/>P-value:5.79e-25<br/>Zscore:4.08<br/>#EST:39<br/>Adj. #EST:9.5

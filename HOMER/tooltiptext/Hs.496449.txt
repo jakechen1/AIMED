@@ -1,0 +1,1 @@
+trachea	HMID:HM00538<br/>GeneSymbol:CHM<br/>P-value:4.28e-08<br/>Zscore:4.47<br/>#EST:12<br/>Adj. #EST:8.15

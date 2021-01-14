@@ -1,0 +1,1 @@
+amnion	HMID:HM02628<br/>GeneSymbol:TNFRSF10B<br/>P-value:1.02e-13<br/>Zscore:6.69<br/>#EST:13<br/>Adj. #EST:21.71

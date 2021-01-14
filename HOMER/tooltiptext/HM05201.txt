@@ -1,0 +1,1 @@
+eye	HMID:HM05201<br/>GeneSymbol:CPLX3<br/>P-value:3.46e-11<br/>Zscore:5.05<br/>#EST:20<br/>Adj. #EST:6.37

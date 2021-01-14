@@ -1,0 +1,1 @@
+leiomios	HMID:HM05950<br/>GeneSymbol:UQCRB<br/>P-value:7.02e-40<br/>Zscore:6.95<br/>#EST:31<br/>Adj. #EST:43.81

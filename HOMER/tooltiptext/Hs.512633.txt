@@ -1,0 +1,1 @@
+placenta	HMID:HM07587<br/>GeneSymbol:PRG2<br/>P-value:0<br/>Zscore:6.82<br/>#EST:512<br/>Adj. #EST:16.56

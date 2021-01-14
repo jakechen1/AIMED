@@ -1,0 +1,1 @@
+testis	HMID:HM02636<br/>GeneSymbol:SLC36A3<br/>P-value:1.01e-13<br/>Zscore:6.5<br/>#EST:13<br/>Adj. #EST:12.25

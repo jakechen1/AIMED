@@ -1,0 +1,1 @@
+thyroid	HMID:HM05603<br/>GeneSymbol:EGR2<br/>P-value:8.39e-10<br/>Zscore:5.33<br/>#EST:12<br/>Adj. #EST:11.57

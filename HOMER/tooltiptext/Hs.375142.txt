@@ -1,0 +1,1 @@
+thyroid	HMID:HM02175<br/>GeneSymbol:RGL3<br/>P-value:1.62e-12<br/>Zscore:4.09<br/>#EST:13<br/>Adj. #EST:16.68

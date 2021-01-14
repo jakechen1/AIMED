@@ -1,0 +1,1 @@
+skin	HMID:HM07095<br/>GeneSymbol:LOC645638<br/>P-value:3.01e-109<br/>Zscore:6.05<br/>#EST:107<br/>Adj. #EST:17.39

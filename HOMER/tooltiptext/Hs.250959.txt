@@ -1,0 +1,1 @@
+salivary gland	HMID:HM07322<br/>GeneSymbol:HTN1<br/>P-value:1.93e-168<br/>Zscore:6.9<br/>#EST:110<br/>Adj. #EST:77.3

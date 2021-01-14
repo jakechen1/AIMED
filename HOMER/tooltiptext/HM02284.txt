@@ -1,0 +1,1 @@
+blood	HMID:HM02284<br/>GeneSymbol:TBX21<br/>P-value:8.4e-29<br/>Zscore:7.01<br/>#EST:20<br/>Adj. #EST:34.73

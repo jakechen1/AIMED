@@ -1,0 +1,1 @@
+liver	HMID:HM04631<br/>GeneSymbol:LOC100507389<br/>P-value:3.85e-13<br/>Zscore:5.52<br/>#EST:12<br/>Adj. #EST:15.54

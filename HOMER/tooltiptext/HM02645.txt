@@ -1,0 +1,1 @@
+thymus	HMID:HM02645<br/>GeneSymbol:DDX23<br/>P-value:1.47e-24<br/>Zscore:4.3<br/>#EST:65<br/>Adj. #EST:4.83

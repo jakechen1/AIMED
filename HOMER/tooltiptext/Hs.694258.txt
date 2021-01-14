@@ -1,0 +1,1 @@
+blood	HMID:HM07468<br/>GeneSymbol:FCGR3B<br/>P-value:8.84e-270<br/>Zscore:6.66<br/>#EST:201<br/>Adj. #EST:34.05

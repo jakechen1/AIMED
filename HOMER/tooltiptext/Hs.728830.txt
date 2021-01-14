@@ -1,0 +1,2 @@
+ganglia	HMID:HM04923<br/>GeneSymbol:DCN<br/>P-value:1.01e-24<br/>Zscore:4.28<br/>#EST:39<br/>Adj. #EST:9.35
+bone	HMID:HM07696<br/>GeneSymbol:DCN<br/>P-value:0<br/>Zscore:4.22<br/>#EST:787<br/>Adj. #EST:9.23

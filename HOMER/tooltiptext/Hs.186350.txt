@@ -1,0 +1,1 @@
+cervix	HMID:HM05975<br/>GeneSymbol:RPL4<br/>P-value:1.77e-40<br/>Zscore:4.29<br/>#EST:103<br/>Adj. #EST:5.23

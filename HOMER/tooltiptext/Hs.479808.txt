@@ -1,0 +1,1 @@
+larynx	HMID:HM06679<br/>GeneSymbol:IGFBP7<br/>P-value:1.7e-69<br/>Zscore:5.84<br/>#EST:75<br/>Adj. #EST:19.8

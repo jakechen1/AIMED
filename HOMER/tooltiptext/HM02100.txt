@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02100<br/>GeneSymbol:SERPINB1<br/>P-value:9.52e-32<br/>Zscore:5.03<br/>#EST:53<br/>Adj. #EST:8.5

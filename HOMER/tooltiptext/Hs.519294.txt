@@ -1,0 +1,1 @@
+placenta	HMID:HM06936<br/>GeneSymbol:FBN2<br/>P-value:1.57e-91<br/>Zscore:4.41<br/>#EST:122<br/>Adj. #EST:10.76

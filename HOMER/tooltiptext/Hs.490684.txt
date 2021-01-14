@@ -1,0 +1,1 @@
+pancreas	HMID:HM03424<br/>GeneSymbol:DPP6<br/>P-value:3.57e-16<br/>Zscore:4.33<br/>#EST:35<br/>Adj. #EST:5.45

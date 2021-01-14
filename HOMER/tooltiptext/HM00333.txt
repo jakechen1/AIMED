@@ -1,0 +1,1 @@
+larynx	HMID:HM00333<br/>GeneSymbol:PRH2<br/>P-value:0<br/>Zscore:6.44<br/>#EST:117<br/>Adj. #EST:80.66

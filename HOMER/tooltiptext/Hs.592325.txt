@@ -1,0 +1,2 @@
+nerve	HMID:HM03074<br/>GeneSymbol:XRCC3<br/>P-value:3.52e-15<br/>Zscore:4.44<br/>#EST:23<br/>Adj. #EST:8.98
+lymph	HMID:HM01377<br/>GeneSymbol:XRCC3<br/>P-value:1.29e-10<br/>Zscore:4.19<br/>#EST:16<br/>Adj. #EST:8.53

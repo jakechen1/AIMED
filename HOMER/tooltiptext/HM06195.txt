@@ -1,0 +1,1 @@
+nerve	HMID:HM06195<br/>GeneSymbol:COG8<br/>P-value:1.23e-07<br/>Zscore:4.85<br/>#EST:18<br/>Adj. #EST:4.64

@@ -1,0 +1,2 @@
+spleen	HMID:HM04074<br/>GeneSymbol:ABCG5<br/>P-value:2.97e-19<br/>Zscore:5.22<br/>#EST:24<br/>Adj. #EST:10.15
+liver	HMID:HM02519<br/>GeneSymbol:ABCG5<br/>P-value:2.32e-13<br/>Zscore:4.64<br/>#EST:18<br/>Adj. #EST:9.07

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01243<br/>GeneSymbol:CYB5A<br/>P-value:2.59e-55<br/>Zscore:4.46<br/>#EST:72<br/>Adj. #EST:12.76

@@ -1,0 +1,1 @@
+ear	HMID:HM05305<br/>GeneSymbol:PTN<br/>P-value:6.76e-29<br/>Zscore:6.2<br/>#EST:26<br/>Adj. #EST:27.98

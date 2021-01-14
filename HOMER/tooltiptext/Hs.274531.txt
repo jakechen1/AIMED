@@ -1,0 +1,1 @@
+trachea	HMID:HM04903<br/>GeneSymbol:SKIV2L2<br/>P-value:1.43e-24<br/>Zscore:4.52<br/>#EST:39<br/>Adj. #EST:9.04

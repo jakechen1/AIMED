@@ -1,0 +1,1 @@
+blood	HMID:HM00051<br/>GeneSymbol:FUCA1<br/>P-value:0<br/>Zscore:6.84<br/>#EST:906<br/>Adj. #EST:23.84

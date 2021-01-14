@@ -1,0 +1,1 @@
+tonsil	HMID:HM00726<br/>GeneSymbol:RPL7A<br/>P-value:8.62e-94<br/>Zscore:5.65<br/>#EST:155<br/>Adj. #EST:9.4

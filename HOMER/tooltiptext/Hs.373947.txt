@@ -1,0 +1,1 @@
+testis	HMID:HM04355<br/>GeneSymbol:KIF9<br/>P-value:6.02e-21<br/>Zscore:4.55<br/>#EST:47<br/>Adj. #EST:4.96

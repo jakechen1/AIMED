@@ -1,0 +1,1 @@
+mouth	HMID:HM00999<br/>GeneSymbol:PKP1<br/>P-value:1.53e-68<br/>Zscore:6.32<br/>#EST:68<br/>Adj. #EST:22.12

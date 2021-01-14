@@ -1,0 +1,1 @@
+mouth	HMID:HM05410<br/>GeneSymbol:DTX2<br/>P-value:1.95e-10<br/>Zscore:4.39<br/>#EST:21<br/>Adj. #EST:5.84

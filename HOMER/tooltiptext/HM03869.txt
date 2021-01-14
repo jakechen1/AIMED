@@ -1,0 +1,1 @@
+skin	HMID:HM03869<br/>GeneSymbol:SSX2<br/>P-value:2.78e-16<br/>Zscore:6.86<br/>#EST:16<br/>Adj. #EST:15.08

@@ -1,0 +1,2 @@
+bone marrow	HMID:HM01402<br/>GeneSymbol:<br/>P-value:2.96e-44<br/>Zscore:5.34<br/>#EST:45<br/>Adj. #EST:20.26
+ovary	HMID:HM01402<br/>GeneSymbol:<br/>P-value:2.53e-48<br/>Zscore:4.41<br/>#EST:53<br/>Adj. #EST:16.91

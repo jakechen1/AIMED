@@ -1,0 +1,1 @@
+brain	HMID:HM06848<br/>GeneSymbol:SNAP91<br/>P-value:5.44e-82<br/>Zscore:4.94<br/>#EST:176<br/>Adj. #EST:4.28

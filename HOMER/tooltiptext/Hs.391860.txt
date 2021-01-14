@@ -1,0 +1,1 @@
+spleen	HMID:HM05229<br/>GeneSymbol:ADCY9<br/>P-value:7.67e-28<br/>Zscore:5.33<br/>#EST:54<br/>Adj. #EST:6.14

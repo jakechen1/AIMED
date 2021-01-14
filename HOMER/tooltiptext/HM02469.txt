@@ -1,0 +1,1 @@
+thymus	HMID:HM02469<br/>GeneSymbol:REPIN1<br/>P-value:1.9e-26<br/>Zscore:4.61<br/>#EST:59<br/>Adj. #EST:5.81

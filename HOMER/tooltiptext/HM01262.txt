@@ -1,0 +1,1 @@
+testis	HMID:HM01262<br/>GeneSymbol:TXNDC2<br/>P-value:1.91e-54<br/>Zscore:7.04<br/>#EST:60<br/>Adj. #EST:11.26

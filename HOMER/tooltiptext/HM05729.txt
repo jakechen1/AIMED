@@ -1,0 +1,1 @@
+kidney	HMID:HM05729<br/>GeneSymbol:ACY3<br/>P-value:2.53e-09<br/>Zscore:4.98<br/>#EST:12<br/>Adj. #EST:9.38

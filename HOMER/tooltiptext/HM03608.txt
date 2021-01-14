@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03608<br/>GeneSymbol:CCDC159<br/>P-value:9.88e-18<br/>Zscore:6.94<br/>#EST:15<br/>Adj. #EST:29.52

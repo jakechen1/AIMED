@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01071<br/>GeneSymbol:ANKRD55<br/>P-value:8.84e-64<br/>Zscore:7.05<br/>#EST:45<br/>Adj. #EST:43.61

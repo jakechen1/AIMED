@@ -1,0 +1,1 @@
+liver	HMID:HM01317<br/>GeneSymbol:C8B<br/>P-value:9.78e-52<br/>Zscore:6.33<br/>#EST:51<br/>Adj. #EST:15.6

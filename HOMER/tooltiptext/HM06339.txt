@@ -1,0 +1,1 @@
+cervix	HMID:HM06339<br/>GeneSymbol:NECAB3<br/>P-value:4.85e-07<br/>Zscore:5.16<br/>#EST:12<br/>Adj. #EST:6.51

@@ -1,0 +1,1 @@
+mouth	HMID:HM02764<br/>GeneSymbol:POR<br/>P-value:1.41e-23<br/>Zscore:4.3<br/>#EST:54<br/>Adj. #EST:5.62

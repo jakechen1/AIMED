@@ -1,0 +1,1 @@
+thymus	HMID:HM03876<br/>GeneSymbol:FXR1<br/>P-value:3.06e-18<br/>Zscore:4.08<br/>#EST:53<br/>Adj. #EST:4.32

@@ -1,0 +1,1 @@
+mouth	HMID:HM00492<br/>GeneSymbol:CCDC57<br/>P-value:5.92e-08<br/>Zscore:4.9<br/>#EST:12<br/>Adj. #EST:7.86

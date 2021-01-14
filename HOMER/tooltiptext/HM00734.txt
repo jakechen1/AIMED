@@ -1,0 +1,1 @@
+testis	HMID:HM00734<br/>GeneSymbol:DAZL<br/>P-value:6.68e-93<br/>Zscore:6.51<br/>#EST:98<br/>Adj. #EST:11.95

@@ -1,0 +1,1 @@
+testis	HMID:HM00650<br/>GeneSymbol:ACSBG2<br/>P-value:0<br/>Zscore:7.06<br/>#EST:103<br/>Adj. #EST:12.45

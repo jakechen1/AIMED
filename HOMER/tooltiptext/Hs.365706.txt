@@ -1,0 +1,2 @@
+umbilical cord	HMID:HM03491<br/>GeneSymbol:MGP<br/>P-value:1.6e-16<br/>Zscore:4.22<br/>#EST:20<br/>Adj. #EST:13.68
+blood vessel	HMID:HM07202<br/>GeneSymbol:MGP<br/>P-value:6.05e-130<br/>Zscore:4.95<br/>#EST:153<br/>Adj. #EST:15.81

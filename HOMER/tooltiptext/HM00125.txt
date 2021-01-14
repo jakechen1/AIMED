@@ -1,0 +1,1 @@
+placenta	HMID:HM00125<br/>GeneSymbol:GDF15<br/>P-value:0<br/>Zscore:6.34<br/>#EST:511<br/>Adj. #EST:10.32

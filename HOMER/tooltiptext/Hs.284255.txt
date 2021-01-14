@@ -1,0 +1,1 @@
+placenta	HMID:HM07126<br/>GeneSymbol:ALPP<br/>P-value:4.77e-115<br/>Zscore:6.97<br/>#EST:90<br/>Adj. #EST:22.69

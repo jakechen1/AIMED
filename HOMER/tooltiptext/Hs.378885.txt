@@ -1,0 +1,1 @@
+spleen	HMID:HM00431<br/>GeneSymbol:PIGW<br/>P-value:9.27e-08<br/>Zscore:4.49<br/>#EST:12<br/>Adj. #EST:6.67

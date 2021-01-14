@@ -1,0 +1,1 @@
+trachea	HMID:HM05647<br/>GeneSymbol:TLR3<br/>P-value:1.29e-09<br/>Zscore:5.83<br/>#EST:10<br/>Adj. #EST:15.33

@@ -1,0 +1,1 @@
+amnion	HMID:HM02054<br/>GeneSymbol:ITGA3<br/>P-value:2.23e-12<br/>Zscore:6.39<br/>#EST:13<br/>Adj. #EST:16.96

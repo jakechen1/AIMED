@@ -1,0 +1,1 @@
+testis	HMID:HM02514<br/>GeneSymbol:TDRD5<br/>P-value:6.37e-26<br/>Zscore:5.64<br/>#EST:33<br/>Adj. #EST:9.23

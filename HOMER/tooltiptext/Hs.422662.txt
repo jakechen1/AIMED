@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05649<br/>GeneSymbol:VRK1<br/>P-value:5.39e-34<br/>Zscore:4.66<br/>#EST:46<br/>Adj. #EST:11.62

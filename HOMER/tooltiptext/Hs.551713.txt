@@ -1,0 +1,2 @@
+spinal cord	HMID:HM03886<br/>GeneSymbol:MBP<br/>P-value:2.67e-18<br/>Zscore:4.98<br/>#EST:38<br/>Adj. #EST:6.23
+brain	HMID:HM07690<br/>GeneSymbol:MBP<br/>P-value:0<br/>Zscore:4.02<br/>#EST:18779<br/>Adj. #EST:5.09

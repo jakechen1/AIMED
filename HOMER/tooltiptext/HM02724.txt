@@ -1,0 +1,1 @@
+larynx	HMID:HM02724<br/>GeneSymbol:KPNA4<br/>P-value:6.53e-24<br/>Zscore:6.73<br/>#EST:26<br/>Adj. #EST:17.64

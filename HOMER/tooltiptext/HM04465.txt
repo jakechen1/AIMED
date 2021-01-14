@@ -1,0 +1,1 @@
+trachea	HMID:HM04465<br/>GeneSymbol:HMG20A<br/>P-value:9.02e-14<br/>Zscore:5.52<br/>#EST:29<br/>Adj. #EST:5.84

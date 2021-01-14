@@ -1,0 +1,2 @@
+bladder	HMID:HM00582<br/>GeneSymbol:PNLIPRP1<br/>P-value:1.16e-18<br/>Zscore:5.45<br/>#EST:17<br/>Adj. #EST:24.6
+pancreas	HMID:HM00582<br/>GeneSymbol:PNLIPRP1<br/>P-value:0<br/>Zscore:4.3<br/>#EST:102<br/>Adj. #EST:19.6

@@ -1,0 +1,1 @@
+brain	HMID:HM05902<br/>GeneSymbol:RIMS1<br/>P-value:7.82e-39<br/>Zscore:4.58<br/>#EST:76<br/>Adj. #EST:4.49

@@ -1,0 +1,1 @@
+adipose	HMID:HM01418<br/>GeneSymbol:DPT<br/>P-value:8.91e-11<br/>Zscore:4.86<br/>#EST:11<br/>Adj. #EST:17.18

@@ -1,0 +1,1 @@
+mouth	HMID:HM01009<br/>GeneSymbol:COPB2<br/>P-value:6.56e-68<br/>Zscore:5.5<br/>#EST:119<br/>Adj. #EST:8.32

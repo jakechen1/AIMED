@@ -1,0 +1,1 @@
+lymph node	HMID:HM03059<br/>GeneSymbol:WAPAL<br/>P-value:3.96e-15<br/>Zscore:5.12<br/>#EST:32<br/>Adj. #EST:5.81

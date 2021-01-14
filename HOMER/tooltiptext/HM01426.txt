@@ -1,0 +1,1 @@
+testis	HMID:HM01426<br/>GeneSymbol:LRRC50<br/>P-value:1.81e-47<br/>Zscore:4.67<br/>#EST:70<br/>Adj. #EST:8.05

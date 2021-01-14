@@ -1,0 +1,1 @@
+trachea	HMID:HM06086<br/>GeneSymbol:FSTL1<br/>P-value:3.1e-43<br/>Zscore:4.41<br/>#EST:93<br/>Adj. #EST:6.32

@@ -1,0 +1,1 @@
+spleen	HMID:HM02535<br/>GeneSymbol:ACOT12<br/>P-value:1.13e-25<br/>Zscore:5.79<br/>#EST:26<br/>Adj. #EST:17.21

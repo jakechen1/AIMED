@@ -1,0 +1,1 @@
+pharynx	HMID:HM00440<br/>GeneSymbol:SLC35A4<br/>P-value:0<br/>Zscore:6.99<br/>#EST:128<br/>Adj. #EST:29.53

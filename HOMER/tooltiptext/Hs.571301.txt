@@ -1,0 +1,1 @@
+uterus	HMID:HM05805<br/>GeneSymbol:MGC4859<br/>P-value:1.19e-36<br/>Zscore:6.89<br/>#EST:31<br/>Adj. #EST:20.23

@@ -1,0 +1,1 @@
+rectum	HMID:HM06227<br/>GeneSymbol:SMTN<br/>P-value:1.75e-07<br/>Zscore:4.9<br/>#EST:10<br/>Adj. #EST:9.47

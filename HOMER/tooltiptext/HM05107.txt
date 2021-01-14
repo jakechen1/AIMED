@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05107<br/>GeneSymbol:NDUFA4<br/>P-value:1.57e-11<br/>Zscore:4.13<br/>#EST:22<br/>Adj. #EST:6.44

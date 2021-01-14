@@ -1,0 +1,1 @@
+tonsil	HMID:HM02501<br/>GeneSymbol:HLA-DQB1<br/>P-value:4.45e-26<br/>Zscore:6.06<br/>#EST:28<br/>Adj. #EST:18.5

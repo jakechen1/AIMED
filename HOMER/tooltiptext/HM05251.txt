@@ -1,0 +1,1 @@
+spleen	HMID:HM05251<br/>GeneSymbol:DKFZp686L14188<br/>P-value:5.3e-11<br/>Zscore:5.25<br/>#EST:15<br/>Adj. #EST:9.34

@@ -1,0 +1,1 @@
+liver	HMID:HM07288<br/>GeneSymbol:AGT<br/>P-value:8.5e-157<br/>Zscore:4.41<br/>#EST:486<br/>Adj. #EST:4.2

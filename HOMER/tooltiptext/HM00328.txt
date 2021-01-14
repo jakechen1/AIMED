@@ -1,0 +1,1 @@
+stomach	HMID:HM00328<br/>GeneSymbol:GADD45B<br/>P-value:0<br/>Zscore:5.45<br/>#EST:228<br/>Adj. #EST:14.05

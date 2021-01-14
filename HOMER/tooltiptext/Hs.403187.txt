@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00230<br/>GeneSymbol:C1orf201<br/>P-value:5.29e-07<br/>Zscore:4.45<br/>#EST:10<br/>Adj. #EST:8.06

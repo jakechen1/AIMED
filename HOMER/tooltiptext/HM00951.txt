@@ -1,0 +1,1 @@
+thymus	HMID:HM00951<br/>GeneSymbol:VAMP1<br/>P-value:2.09e-71<br/>Zscore:6.67<br/>#EST:90<br/>Adj. #EST:13.76

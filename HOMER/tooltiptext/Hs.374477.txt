@@ -1,0 +1,1 @@
+nerve	HMID:HM05340<br/>GeneSymbol:EWSR1<br/>P-value:2.71e-29<br/>Zscore:4.02<br/>#EST:91<br/>Adj. #EST:4.22

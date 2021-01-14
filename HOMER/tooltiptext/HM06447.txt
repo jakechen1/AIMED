@@ -1,0 +1,1 @@
+lymph node	HMID:HM06447<br/>GeneSymbol:RUFY1<br/>P-value:1.4e-06<br/>Zscore:4.03<br/>#EST:16<br/>Adj. #EST:4.33

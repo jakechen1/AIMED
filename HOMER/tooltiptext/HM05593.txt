@@ -1,0 +1,1 @@
+lymph	HMID:HM05593<br/>GeneSymbol:ZNF574<br/>P-value:7.77e-10<br/>Zscore:5.19<br/>#EST:17<br/>Adj. #EST:6.97

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM06760<br/>GeneSymbol:DYSF<br/>P-value:5.29e-74<br/>Zscore:7.02<br/>#EST:48<br/>Adj. #EST:78.52

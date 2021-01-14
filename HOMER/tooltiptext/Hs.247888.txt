@@ -1,0 +1,1 @@
+eye	HMID:HM03423<br/>GeneSymbol:GNG13<br/>P-value:3.62e-16<br/>Zscore:7.03<br/>#EST:13<br/>Adj. #EST:22.07

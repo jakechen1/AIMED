@@ -1,0 +1,1 @@
+skin	HMID:HM00384<br/>GeneSymbol:DMKN<br/>P-value:0<br/>Zscore:5.69<br/>#EST:203<br/>Adj. #EST:11.96

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02292<br/>GeneSymbol:LRFN5<br/>P-value:6.38e-13<br/>Zscore:6.68<br/>#EST:16<br/>Adj. #EST:11.78

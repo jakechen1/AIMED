@@ -1,0 +1,1 @@
+thymus	HMID:HM07297<br/>GeneSymbol:TCF7<br/>P-value:5.31e-162<br/>Zscore:6.89<br/>#EST:125<br/>Adj. #EST:38.64

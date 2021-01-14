@@ -1,0 +1,1 @@
+trachea	HMID:HM03057<br/>GeneSymbol:PRKAA1<br/>P-value:2.29e-21<br/>Zscore:5.34<br/>#EST:30<br/>Adj. #EST:10.71

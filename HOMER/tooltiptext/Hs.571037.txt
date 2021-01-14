@@ -1,0 +1,1 @@
+lymph	HMID:HM03535<br/>GeneSymbol:ACAT2<br/>P-value:1.06e-16<br/>Zscore:4.23<br/>#EST:32<br/>Adj. #EST:6.71

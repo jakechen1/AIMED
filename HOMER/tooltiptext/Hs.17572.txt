@@ -1,0 +1,1 @@
+spleen	HMID:HM03958<br/>GeneSymbol:KLRG2<br/>P-value:1.1e-18<br/>Zscore:6.3<br/>#EST:24<br/>Adj. #EST:9.73

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01564<br/>GeneSymbol:RCAN1<br/>P-value:3.39e-43<br/>Zscore:6.75<br/>#EST:42<br/>Adj. #EST:24.19

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04863<br/>GeneSymbol:STON1<br/>P-value:2.49e-12<br/>Zscore:4.84<br/>#EST:21<br/>Adj. #EST:7.3

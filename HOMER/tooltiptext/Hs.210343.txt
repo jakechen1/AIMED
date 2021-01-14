@@ -1,0 +1,1 @@
+testis	HMID:HM04275<br/>GeneSymbol:BCL2L14<br/>P-value:1.6e-20<br/>Zscore:4.11<br/>#EST:30<br/>Adj. #EST:7.71

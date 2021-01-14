@@ -1,0 +1,2 @@
+spleen	HMID:HM05646<br/>GeneSymbol:SLC2A2<br/>P-value:5.66e-34<br/>Zscore:4<br/>#EST:53<br/>Adj. #EST:7.99
+liver	HMID:HM06237<br/>GeneSymbol:SLC2A2<br/>P-value:1.05e-47<br/>Zscore:5.58<br/>#EST:61<br/>Adj. #EST:10.96

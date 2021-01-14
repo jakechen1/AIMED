@@ -1,0 +1,1 @@
+thyroid	HMID:HM04165<br/>GeneSymbol:RGS16<br/>P-value:5.16e-15<br/>Zscore:5.61<br/>#EST:22<br/>Adj. #EST:9.54

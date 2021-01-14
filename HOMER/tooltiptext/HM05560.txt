@@ -1,0 +1,1 @@
+eye	HMID:HM05560<br/>GeneSymbol:RCOR2<br/>P-value:6.59e-10<br/>Zscore:5.19<br/>#EST:16<br/>Adj. #EST:7.03

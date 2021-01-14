@@ -1,0 +1,1 @@
+thymus	HMID:HM06303<br/>GeneSymbol:LBH<br/>P-value:4.35e-50<br/>Zscore:4.87<br/>#EST:80<br/>Adj. #EST:9.29

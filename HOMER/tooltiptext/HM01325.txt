@@ -1,0 +1,1 @@
+leiomios	HMID:HM01325<br/>GeneSymbol:POFUT2<br/>P-value:1.75e-51<br/>Zscore:7.06<br/>#EST:30<br/>Adj. #EST:114.78

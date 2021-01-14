@@ -1,0 +1,1 @@
+kidney	HMID:HM02968<br/>GeneSymbol:FCAMR<br/>P-value:5.34e-22<br/>Zscore:5.91<br/>#EST:19<br/>Adj. #EST:20.16

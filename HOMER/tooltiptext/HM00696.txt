@@ -1,0 +1,1 @@
+blood	HMID:HM00696<br/>GeneSymbol:VNN2<br/>P-value:3.41e-97<br/>Zscore:6.61<br/>#EST:85<br/>Adj. #EST:24.6

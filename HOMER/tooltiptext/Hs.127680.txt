@@ -1,0 +1,1 @@
+stomach	HMID:HM06176<br/>GeneSymbol:LOC389332<br/>P-value:1.23e-45<br/>Zscore:5.94<br/>#EST:50<br/>Adj. #EST:15.3

@@ -1,0 +1,2 @@
+thymus	HMID:HM03425<br/>GeneSymbol:EPC1<br/>P-value:3.5e-16<br/>Zscore:4.19<br/>#EST:20<br/>Adj. #EST:12.41
+bone	HMID:HM05788<br/>GeneSymbol:EPC1<br/>P-value:2.28e-36<br/>Zscore:4.44<br/>#EST:44<br/>Adj. #EST:13.07

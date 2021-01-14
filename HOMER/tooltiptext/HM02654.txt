@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02654<br/>GeneSymbol:AKR1C3<br/>P-value:1.82e-24<br/>Zscore:5.66<br/>#EST:30<br/>Adj. #EST:14.11

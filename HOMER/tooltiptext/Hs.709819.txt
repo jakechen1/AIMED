@@ -1,0 +1,1 @@
+eye	HMID:HM02989<br/>GeneSymbol:SPTBN5<br/>P-value:6.86e-15<br/>Zscore:5.55<br/>#EST:20<br/>Adj. #EST:9.7

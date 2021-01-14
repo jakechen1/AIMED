@@ -1,0 +1,1 @@
+brain	HMID:HM07460<br/>GeneSymbol:ATP1A3<br/>P-value:5.34e-256<br/>Zscore:4.95<br/>#EST:515<br/>Adj. #EST:4.51

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01057<br/>GeneSymbol:CD109<br/>P-value:4.09e-65<br/>Zscore:6.97<br/>#EST:45<br/>Adj. #EST:61.43

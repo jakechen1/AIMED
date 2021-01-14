@@ -1,0 +1,1 @@
+placenta	HMID:HM02497<br/>GeneSymbol:TBC1D10A<br/>P-value:4.24e-26<br/>Zscore:4.3<br/>#EST:66<br/>Adj. #EST:4.78

@@ -1,0 +1,1 @@
+lymph node	HMID:HM00331<br/>GeneSymbol:LNPEP<br/>P-value:2.44e-07<br/>Zscore:4.16<br/>#EST:12<br/>Adj. #EST:6.83

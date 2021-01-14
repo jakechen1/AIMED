@@ -1,0 +1,1 @@
+liver	HMID:HM04361<br/>GeneSymbol:CYP2A7<br/>P-value:5.59e-21<br/>Zscore:6<br/>#EST:19<br/>Adj. #EST:16.95

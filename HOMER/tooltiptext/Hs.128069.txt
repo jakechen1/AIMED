@@ -1,0 +1,1 @@
+testis	HMID:HM01299<br/>GeneSymbol:FAM187B<br/>P-value:1.93e-10<br/>Zscore:6.9<br/>#EST:12<br/>Adj. #EST:9.42

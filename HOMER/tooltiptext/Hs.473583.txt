@@ -1,0 +1,1 @@
+blood	HMID:HM06949<br/>GeneSymbol:YBX1<br/>P-value:8.4e-93<br/>Zscore:4.14<br/>#EST:260<br/>Adj. #EST:4.74

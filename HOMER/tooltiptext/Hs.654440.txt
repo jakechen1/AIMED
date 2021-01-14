@@ -1,0 +1,1 @@
+liver	HMID:HM05920<br/>GeneSymbol:ASGR2<br/>P-value:2.77e-39<br/>Zscore:6.45<br/>#EST:44<br/>Adj. #EST:13.08

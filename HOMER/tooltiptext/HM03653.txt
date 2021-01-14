@@ -1,0 +1,1 @@
+amnion	HMID:HM03653<br/>GeneSymbol:C14orf119<br/>P-value:1.58e-17<br/>Zscore:6.85<br/>#EST:15<br/>Adj. #EST:29.37

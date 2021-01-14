@@ -1,0 +1,1 @@
+eye	HMID:HM00154<br/>GeneSymbol:KRT12<br/>P-value:0<br/>Zscore:7.07<br/>#EST:340<br/>Adj. #EST:28.75

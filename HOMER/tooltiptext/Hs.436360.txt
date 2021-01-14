@@ -1,0 +1,2 @@
+kidney	HMID:HM03438<br/>GeneSymbol:ATP6V0D2<br/>P-value:3.05e-16<br/>Zscore:4.69<br/>#EST:20<br/>Adj. #EST:11.11
+stomach	HMID:HM01724<br/>GeneSymbol:ATP6V0D2<br/>P-value:1.34e-11<br/>Zscore:4.21<br/>#EST:15<br/>Adj. #EST:10.03

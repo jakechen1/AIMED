@@ -1,0 +1,1 @@
+amnion	HMID:HM06656<br/>GeneSymbol:ANKRD1<br/>P-value:4.62e-68<br/>Zscore:7.01<br/>#EST:34<br/>Adj. #EST:212.27

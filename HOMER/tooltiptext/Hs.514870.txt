@@ -1,0 +1,1 @@
+bladder	HMID:HM04200<br/>GeneSymbol:ATP5F1<br/>P-value:5.11e-20<br/>Zscore:4.73<br/>#EST:40<br/>Adj. #EST:6.57

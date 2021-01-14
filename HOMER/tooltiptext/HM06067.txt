@@ -1,0 +1,1 @@
+testis	HMID:HM06067<br/>GeneSymbol:PPEF1<br/>P-value:4.27e-08<br/>Zscore:4.08<br/>#EST:20<br/>Adj. #EST:4.08

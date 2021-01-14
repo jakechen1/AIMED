@@ -1,0 +1,1 @@
+leiomios	HMID:HM01213<br/>GeneSymbol:STX7<br/>P-value:3.24e-10<br/>Zscore:6.51<br/>#EST:11<br/>Adj. #EST:15.28

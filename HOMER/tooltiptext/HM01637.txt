@@ -1,0 +1,1 @@
+brain	HMID:HM01637<br/>GeneSymbol:IGSF21<br/>P-value:2.54e-41<br/>Zscore:5.18<br/>#EST:88<br/>Adj. #EST:4.2

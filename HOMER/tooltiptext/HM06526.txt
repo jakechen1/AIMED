@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06526<br/>GeneSymbol:MAP7D1<br/>P-value:4.55e-06<br/>Zscore:4.55<br/>#EST:10<br/>Adj. #EST:6.54

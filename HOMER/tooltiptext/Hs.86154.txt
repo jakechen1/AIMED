@@ -1,0 +1,1 @@
+embryo	HMID:HM06719<br/>GeneSymbol:LIN28A<br/>P-value:1.49e-71<br/>Zscore:6.47<br/>#EST:80<br/>Adj. #EST:14.15

@@ -1,0 +1,1 @@
+nerve	HMID:HM03607<br/>GeneSymbol:NIPSNAP1<br/>P-value:5.19e-17<br/>Zscore:4.81<br/>#EST:45<br/>Adj. #EST:4.69

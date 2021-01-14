@@ -1,0 +1,1 @@
+placenta	HMID:HM02034<br/>GeneSymbol:INSL4<br/>P-value:7.85e-33<br/>Zscore:6.33<br/>#EST:33<br/>Adj. #EST:15.18

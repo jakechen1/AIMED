@@ -1,0 +1,1 @@
+leiomios	HMID:HM02318<br/>GeneSymbol:ERC1<br/>P-value:2.3e-28<br/>Zscore:7.05<br/>#EST:19<br/>Adj. #EST:65.23

@@ -1,0 +1,1 @@
+brain	HMID:HM07672<br/>GeneSymbol:NDRG4<br/>P-value:0<br/>Zscore:6.43<br/>#EST:1299<br/>Adj. #EST:4.87

@@ -1,0 +1,1 @@
+testis	HMID:HM00960<br/>GeneSymbol:FBXL13<br/>P-value:1.94e-09<br/>Zscore:4.84<br/>#EST:17<br/>Adj. #EST:5.59

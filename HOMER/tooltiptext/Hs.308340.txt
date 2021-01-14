@@ -1,0 +1,1 @@
+lymph	HMID:HM02641<br/>GeneSymbol:NUP188<br/>P-value:9.72e-14<br/>Zscore:5.1<br/>#EST:26<br/>Adj. #EST:6.62

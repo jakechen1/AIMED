@@ -1,0 +1,1 @@
+eye	HMID:HM05586<br/>GeneSymbol:CSPG5<br/>P-value:7.5e-10<br/>Zscore:4.11<br/>#EST:17<br/>Adj. #EST:6.49

@@ -1,0 +1,1 @@
+brain	HMID:HM01145<br/>GeneSymbol:PAK7<br/>P-value:9.71e-60<br/>Zscore:6.5<br/>#EST:114<br/>Adj. #EST:4.55

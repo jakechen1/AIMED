@@ -1,0 +1,1 @@
+pancreas	HMID:HM00097<br/>GeneSymbol:GCG<br/>P-value:0<br/>Zscore:7.02<br/>#EST:4273<br/>Adj. #EST:28.59

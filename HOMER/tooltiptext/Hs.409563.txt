@@ -1,0 +1,1 @@
+thymus	HMID:HM07061<br/>GeneSymbol:MZB1<br/>P-value:1.14e-105<br/>Zscore:6.67<br/>#EST:87<br/>Adj. #EST:32.98

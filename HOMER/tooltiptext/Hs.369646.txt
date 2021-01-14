@@ -1,0 +1,1 @@
+pharynx	HMID:HM06941<br/>GeneSymbol:MUC4<br/>P-value:4.77e-92<br/>Zscore:6.77<br/>#EST:72<br/>Adj. #EST:41.5

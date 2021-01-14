@@ -1,0 +1,1 @@
+kidney	HMID:HM04182<br/>GeneSymbol:GALNT11<br/>P-value:6.34e-15<br/>Zscore:4.08<br/>#EST:34<br/>Adj. #EST:5.13

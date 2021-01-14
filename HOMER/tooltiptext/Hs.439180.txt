@@ -1,0 +1,1 @@
+colon	HMID:HM05819<br/>GeneSymbol:C19orf21<br/>P-value:4.92e-37<br/>Zscore:5.26<br/>#EST:46<br/>Adj. #EST:12.23

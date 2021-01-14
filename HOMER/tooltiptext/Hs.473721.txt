@@ -1,0 +1,1 @@
+mouth	HMID:HM07062<br/>GeneSymbol:SLC2A1<br/>P-value:9.76e-106<br/>Zscore:5.6<br/>#EST:176<br/>Adj. #EST:9.09

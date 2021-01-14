@@ -1,0 +1,1 @@
+breast	HMID:HM00508<br/>GeneSymbol:FBXL20<br/>P-value:0<br/>Zscore:6.14<br/>#EST:142<br/>Adj. #EST:14.79

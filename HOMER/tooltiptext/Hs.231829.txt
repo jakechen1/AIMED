@@ -1,0 +1,1 @@
+pancreas	HMID:HM06896<br/>GeneSymbol:GAD2<br/>P-value:6.46e-87<br/>Zscore:7.05<br/>#EST:78<br/>Adj. #EST:20.54

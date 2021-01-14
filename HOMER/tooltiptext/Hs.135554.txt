@@ -1,0 +1,1 @@
+testis	HMID:HM05932<br/>GeneSymbol:HSPA4L<br/>P-value:1.58e-39<br/>Zscore:4.45<br/>#EST:79<br/>Adj. #EST:5.75

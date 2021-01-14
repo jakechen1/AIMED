@@ -1,0 +1,1 @@
+lymph	HMID:HM06190<br/>GeneSymbol:CSTF2<br/>P-value:1.14e-07<br/>Zscore:4.05<br/>#EST:12<br/>Adj. #EST:7.44

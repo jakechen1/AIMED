@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06258<br/>GeneSymbol:RAB23<br/>P-value:2.49e-07<br/>Zscore:4.1<br/>#EST:12<br/>Adj. #EST:6.81

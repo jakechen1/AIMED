@@ -1,0 +1,2 @@
+pharynx	HMID:HM05166<br/>GeneSymbol:SPRR2D<br/>P-value:3.4e-27<br/>Zscore:5.38<br/>#EST:20<br/>Adj. #EST:43.57
+blood vessel	HMID:HM06215<br/>GeneSymbol:SPRR2D<br/>P-value:1.01e-46<br/>Zscore:4.38<br/>#EST:36<br/>Adj. #EST:35.8

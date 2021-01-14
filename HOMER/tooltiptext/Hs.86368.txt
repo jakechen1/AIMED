@@ -1,0 +1,1 @@
+testis	HMID:HM06052<br/>GeneSymbol:CLGN<br/>P-value:3.49e-42<br/>Zscore:5.63<br/>#EST:73<br/>Adj. #EST:6.7

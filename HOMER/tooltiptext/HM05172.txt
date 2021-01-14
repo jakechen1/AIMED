@@ -1,0 +1,1 @@
+larynx	HMID:HM05172<br/>GeneSymbol:DNMT3A<br/>P-value:2.87e-11<br/>Zscore:5.76<br/>#EST:13<br/>Adj. #EST:13.57

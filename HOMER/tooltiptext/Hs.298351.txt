@@ -1,0 +1,1 @@
+nerve	HMID:HM00587<br/>GeneSymbol:ASPSCR1<br/>P-value:2.85e-08<br/>Zscore:4.34<br/>#EST:18<br/>Adj. #EST:5.11

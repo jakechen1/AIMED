@@ -1,0 +1,1 @@
+esophagus	HMID:HM06510<br/>GeneSymbol:BLCAP<br/>P-value:3.25e-06<br/>Zscore:4.34<br/>#EST:14<br/>Adj. #EST:4.66

@@ -1,0 +1,1 @@
+bladder	HMID:HM05040<br/>GeneSymbol:BCAS2<br/>P-value:9.03e-12<br/>Zscore:4.49<br/>#EST:17<br/>Adj. #EST:9.41

@@ -1,0 +1,1 @@
+skin	HMID:HM01322<br/>GeneSymbol:CALML5<br/>P-value:1.73e-10<br/>Zscore:4.48<br/>#EST:11<br/>Adj. #EST:12.82

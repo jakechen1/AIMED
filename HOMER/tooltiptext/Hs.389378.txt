@@ -1,0 +1,1 @@
+ear	HMID:HM06865<br/>GeneSymbol:MON2<br/>P-value:1.78e-83<br/>Zscore:6.96<br/>#EST:54<br/>Adj. #EST:78.74

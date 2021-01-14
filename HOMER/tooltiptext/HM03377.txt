@@ -1,0 +1,1 @@
+thymus	HMID:HM03377<br/>GeneSymbol:ADAM8<br/>P-value:3.55e-19<br/>Zscore:4.49<br/>#EST:25<br/>Adj. #EST:11.62

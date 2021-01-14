@@ -1,0 +1,1 @@
+testis	HMID:HM04004<br/>GeneSymbol:FAM75C2<br/>P-value:9.88e-16<br/>Zscore:7.07<br/>#EST:13<br/>Adj. #EST:14.26

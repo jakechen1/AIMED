@@ -1,0 +1,1 @@
+stomach	HMID:HM00751<br/>GeneSymbol:FAM82A1<br/>P-value:8.22e-09<br/>Zscore:4.02<br/>#EST:16<br/>Adj. #EST:6.08

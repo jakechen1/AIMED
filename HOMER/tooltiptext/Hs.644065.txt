@@ -1,0 +1,1 @@
+amnion	HMID:HM06858<br/>GeneSymbol:TSC22D2<br/>P-value:1.6e-82<br/>Zscore:7.06<br/>#EST:45<br/>Adj. #EST:153.06

@@ -1,0 +1,1 @@
+muscle	HMID:HM07018<br/>GeneSymbol:RPL37<br/>P-value:3.35e-99<br/>Zscore:4.63<br/>#EST:172<br/>Adj. #EST:8.34

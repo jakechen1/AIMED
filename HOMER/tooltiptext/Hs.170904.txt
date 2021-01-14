@@ -1,0 +1,1 @@
+spleen	HMID:HM05949<br/>GeneSymbol:GRTP1<br/>P-value:7.34e-40<br/>Zscore:4.31<br/>#EST:66<br/>Adj. #EST:7.51

@@ -1,0 +1,2 @@
+bone	HMID:HM04391<br/>GeneSymbol:LRRC15<br/>P-value:3.98e-14<br/>Zscore:4.33<br/>#EST:18<br/>Adj. #EST:10.96
+heart	HMID:HM04391<br/>GeneSymbol:LRRC15<br/>P-value:1.75e-12<br/>Zscore:4.22<br/>#EST:16<br/>Adj. #EST:10.71

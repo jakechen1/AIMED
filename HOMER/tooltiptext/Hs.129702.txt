@@ -1,0 +1,1 @@
+eye	HMID:HM07073<br/>GeneSymbol:BFSP1<br/>P-value:2.99e-106<br/>Zscore:6.67<br/>#EST:93<br/>Adj. #EST:21.69

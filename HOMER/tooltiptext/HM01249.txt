@@ -1,0 +1,1 @@
+amnion	HMID:HM01249<br/>GeneSymbol:<br/>P-value:4.91e-55<br/>Zscore:6.66<br/>#EST:33<br/>Adj. #EST:103.56

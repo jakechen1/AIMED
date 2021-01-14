@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03284<br/>GeneSymbol:RSRC1<br/>P-value:1.03e-19<br/>Zscore:5.7<br/>#EST:26<br/>Adj. #EST:11.38

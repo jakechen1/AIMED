@@ -1,0 +1,1 @@
+liver	HMID:HM07338<br/>GeneSymbol:ADH4<br/>P-value:1.05e-176<br/>Zscore:6.8<br/>#EST:173<br/>Adj. #EST:16.58

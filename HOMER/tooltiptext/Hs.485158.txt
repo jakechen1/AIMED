@@ -1,0 +1,1 @@
+breast	HMID:HM07498<br/>GeneSymbol:SPDEF<br/>P-value:1.71e-303<br/>Zscore:6.71<br/>#EST:275<br/>Adj. #EST:22.73

@@ -1,0 +1,1 @@
+lung	HMID:HM00168<br/>GeneSymbol:CD300C<br/>P-value:9.27e-07<br/>Zscore:4.46<br/>#EST:14<br/>Adj. #EST:4.72

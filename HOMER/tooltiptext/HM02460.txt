@@ -1,0 +1,1 @@
+lymph	HMID:HM02460<br/>GeneSymbol:TRAP1<br/>P-value:1.29e-26<br/>Zscore:5.73<br/>#EST:61<br/>Adj. #EST:5.7

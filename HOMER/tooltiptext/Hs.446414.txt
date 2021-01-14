@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04621<br/>GeneSymbol:CD47<br/>P-value:1.87e-22<br/>Zscore:4.4<br/>#EST:49<br/>Adj. #EST:5.86

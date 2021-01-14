@@ -1,0 +1,1 @@
+lymph node	HMID:HM01714<br/>GeneSymbol:TCF3<br/>P-value:4.55e-39<br/>Zscore:5.3<br/>#EST:67<br/>Adj. #EST:8.22

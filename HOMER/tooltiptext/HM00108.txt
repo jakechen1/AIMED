@@ -1,0 +1,1 @@
+placenta	HMID:HM00108<br/>GeneSymbol:H19<br/>P-value:0<br/>Zscore:4.05<br/>#EST:1456<br/>Adj. #EST:10.39

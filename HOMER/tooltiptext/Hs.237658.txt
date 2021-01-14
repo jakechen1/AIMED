@@ -1,0 +1,1 @@
+spleen	HMID:HM07539<br/>GeneSymbol:APOA2<br/>P-value:0<br/>Zscore:4.53<br/>#EST:694<br/>Adj. #EST:10.7

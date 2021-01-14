@@ -1,0 +1,1 @@
+skin	HMID:HM01720<br/>GeneSymbol:NCK2<br/>P-value:7.65e-39<br/>Zscore:4.8<br/>#EST:78<br/>Adj. #EST:6.24

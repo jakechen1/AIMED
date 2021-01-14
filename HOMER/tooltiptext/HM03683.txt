@@ -1,0 +1,1 @@
+salivary gland	HMID:HM03683<br/>GeneSymbol:TIMM17A<br/>P-value:2.32e-17<br/>Zscore:4.8<br/>#EST:24<br/>Adj. #EST:10.91

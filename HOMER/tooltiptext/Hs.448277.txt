@@ -1,0 +1,1 @@
+esophagus	HMID:HM05946<br/>GeneSymbol:MUC21<br/>P-value:7.68e-40<br/>Zscore:6.46<br/>#EST:22<br/>Adj. #EST:119.84

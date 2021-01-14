@@ -1,0 +1,1 @@
+pharynx	HMID:HM01615<br/>GeneSymbol:CSTA<br/>P-value:7.69e-42<br/>Zscore:5.36<br/>#EST:35<br/>Adj. #EST:32.97

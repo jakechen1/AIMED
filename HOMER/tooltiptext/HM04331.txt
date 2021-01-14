@@ -1,0 +1,2 @@
+kidney	HMID:HM04331<br/>GeneSymbol:FTCD<br/>P-value:2.14e-14<br/>Zscore:4.33<br/>#EST:22<br/>Adj. #EST:8.07
+spleen	HMID:HM04331<br/>GeneSymbol:FTCD<br/>P-value:9.1e-10<br/>Zscore:4.13<br/>#EST:15<br/>Adj. #EST:7.72

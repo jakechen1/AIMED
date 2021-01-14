@@ -1,0 +1,1 @@
+trachea	HMID:HM00367<br/>GeneSymbol:CTNNA1<br/>P-value:0<br/>Zscore:6.23<br/>#EST:274<br/>Adj. #EST:9.58

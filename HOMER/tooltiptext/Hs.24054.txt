@@ -1,0 +1,1 @@
+cervix	HMID:HM00232<br/>GeneSymbol:JAGN1<br/>P-value:5.16e-07<br/>Zscore:4.77<br/>#EST:14<br/>Adj. #EST:5.42

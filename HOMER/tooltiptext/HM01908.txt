@@ -1,0 +1,1 @@
+testis	HMID:HM01908<br/>GeneSymbol:ADAM2<br/>P-value:5.49e-35<br/>Zscore:6.45<br/>#EST:36<br/>Adj. #EST:11.94

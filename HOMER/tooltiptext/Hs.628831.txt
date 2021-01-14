@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03751<br/>GeneSymbol:DECR2<br/>P-value:1.06e-17<br/>Zscore:5.31<br/>#EST:24<br/>Adj. #EST:10.89

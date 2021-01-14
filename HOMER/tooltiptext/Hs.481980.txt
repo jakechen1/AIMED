@@ -1,0 +1,1 @@
+placenta	HMID:HM07006<br/>GeneSymbol:DAB2<br/>P-value:2.44e-98<br/>Zscore:4.2<br/>#EST:232<br/>Adj. #EST:5.4

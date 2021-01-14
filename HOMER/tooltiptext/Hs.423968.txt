@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00234<br/>GeneSymbol:FIS1<br/>P-value:5.09e-07<br/>Zscore:5.74<br/>#EST:10<br/>Adj. #EST:8.36

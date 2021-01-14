@@ -1,0 +1,1 @@
+lymph node	HMID:HM00463<br/>GeneSymbol:ZHX2<br/>P-value:7.33e-08<br/>Zscore:4.5<br/>#EST:14<br/>Adj. #EST:6.27

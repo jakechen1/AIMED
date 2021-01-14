@@ -1,0 +1,1 @@
+trachea	HMID:HM00411<br/>GeneSymbol:ARHGAP18<br/>P-value:1.07e-07<br/>Zscore:4.15<br/>#EST:12<br/>Adj. #EST:7.49

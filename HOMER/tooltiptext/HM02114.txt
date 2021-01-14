@@ -1,0 +1,1 @@
+pancreas	HMID:HM02114<br/>GeneSymbol:SCGN<br/>P-value:1.53e-31<br/>Zscore:6.04<br/>#EST:39<br/>Adj. #EST:11.82

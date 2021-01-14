@@ -1,0 +1,1 @@
+mouth	HMID:HM03966<br/>GeneSymbol:VTCN1<br/>P-value:8.03e-16<br/>Zscore:4.73<br/>#EST:17<br/>Adj. #EST:16.06

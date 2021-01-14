@@ -1,0 +1,1 @@
+thymus	HMID:HM04600<br/>GeneSymbol:DENND2D<br/>P-value:2.63e-13<br/>Zscore:4.14<br/>#EST:23<br/>Adj. #EST:7.29

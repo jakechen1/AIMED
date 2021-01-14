@@ -1,0 +1,1 @@
+colon	HMID:HM04884<br/>GeneSymbol:FERMT1<br/>P-value:2.41e-24<br/>Zscore:4.54<br/>#EST:36<br/>Adj. #EST:9.14

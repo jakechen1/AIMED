@@ -1,0 +1,1 @@
+muscle	HMID:HM03844<br/>GeneSymbol:UQCR11<br/>P-value:2.1e-16<br/>Zscore:4.26<br/>#EST:41<br/>Adj. #EST:4.88

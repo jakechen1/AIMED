@@ -1,0 +1,6 @@
+solid #dd9714
+solid #336699
+solid #93B9D9
+solid #ADC9E8
+solid #E6EFF7 best
+Solid #bbbbbb second best

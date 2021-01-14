@@ -1,0 +1,1 @@
+muscle	HMID:HM02329<br/>GeneSymbol:FEZ2<br/>P-value:3.19e-28<br/>Zscore:4.3<br/>#EST:52<br/>Adj. #EST:7.23

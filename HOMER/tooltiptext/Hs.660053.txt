@@ -1,0 +1,1 @@
+prostate	HMID:HM07207<br/>GeneSymbol:RPL41<br/>P-value:2.81e-131<br/>Zscore:6.82<br/>#EST:90<br/>Adj. #EST:33.83

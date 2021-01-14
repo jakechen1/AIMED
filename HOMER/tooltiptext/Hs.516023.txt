@@ -1,0 +1,1 @@
+rectum	HMID:HM00221<br/>GeneSymbol:EIF3F<br/>P-value:5.49e-07<br/>Zscore:5.23<br/>#EST:10<br/>Adj. #EST:8.34

@@ -1,0 +1,1 @@
+spleen	HMID:HM04874<br/>GeneSymbol:PPY2<br/>P-value:2.8e-24<br/>Zscore:6.56<br/>#EST:24<br/>Adj. #EST:14.15

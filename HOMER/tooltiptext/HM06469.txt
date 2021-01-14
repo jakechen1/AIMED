@@ -1,0 +1,1 @@
+nerve	HMID:HM06469<br/>GeneSymbol:H2AFY2<br/>P-value:1.85e-06<br/>Zscore:4.08<br/>#EST:16<br/>Adj. #EST:4.25

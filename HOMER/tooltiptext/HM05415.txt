@@ -1,0 +1,2 @@
+colon	HMID:HM05415<br/>GeneSymbol:<br/>P-value:4.32e-08<br/>Zscore:4.05<br/>#EST:12<br/>Adj. #EST:7.59
+kidney	HMID:HM05415<br/>GeneSymbol:<br/>P-value:2e-10<br/>Zscore:4.44<br/>#EST:15<br/>Adj. #EST:8.25

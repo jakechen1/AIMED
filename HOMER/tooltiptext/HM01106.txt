@@ -1,0 +1,1 @@
+breast	HMID:HM01106<br/>GeneSymbol:TRPS1<br/>P-value:6.82e-62<br/>Zscore:5.41<br/>#EST:73<br/>Adj. #EST:13.83

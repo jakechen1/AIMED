@@ -1,0 +1,1 @@
+brain	HMID:HM04495<br/>GeneSymbol:CSMD3<br/>P-value:1.23e-13<br/>Zscore:6.06<br/>#EST:26<br/>Adj. #EST:4.31

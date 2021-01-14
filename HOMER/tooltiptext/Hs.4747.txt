@@ -1,0 +1,1 @@
+lymph	HMID:HM04899<br/>GeneSymbol:DKC1<br/>P-value:1.6e-24<br/>Zscore:5.24<br/>#EST:39<br/>Adj. #EST:9.01

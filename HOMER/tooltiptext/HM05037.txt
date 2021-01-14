@@ -1,0 +1,1 @@
+esophagus	HMID:HM05037<br/>GeneSymbol:UGDH<br/>P-value:8.85e-12<br/>Zscore:5.31<br/>#EST:15<br/>Adj. #EST:11.59

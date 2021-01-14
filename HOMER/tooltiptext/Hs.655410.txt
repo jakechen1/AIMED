@@ -1,0 +1,1 @@
+lymph node	HMID:HM00622<br/>GeneSymbol:DNAJC16<br/>P-value:2.27e-08<br/>Zscore:5.46<br/>#EST:14<br/>Adj. #EST:6.88

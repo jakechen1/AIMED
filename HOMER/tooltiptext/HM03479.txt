@@ -1,0 +1,1 @@
+leiomios	HMID:HM03479<br/>GeneSymbol:TGFA<br/>P-value:1.74e-18<br/>Zscore:7.02<br/>#EST:11<br/>Adj. #EST:87.73

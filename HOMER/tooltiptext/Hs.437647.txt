@@ -1,0 +1,1 @@
+thymus	HMID:HM05861<br/>GeneSymbol:ANKZF1<br/>P-value:4.36e-38<br/>Zscore:5.7<br/>#EST:63<br/>Adj. #EST:8.69

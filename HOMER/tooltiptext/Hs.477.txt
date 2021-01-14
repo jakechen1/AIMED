@@ -1,0 +1,1 @@
+testis	HMID:HM00324<br/>GeneSymbol:HSD17B3<br/>P-value:2.58e-07<br/>Zscore:5.12<br/>#EST:12<br/>Adj. #EST:5.85

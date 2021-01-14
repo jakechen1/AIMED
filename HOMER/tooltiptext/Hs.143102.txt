@@ -1,0 +1,1 @@
+eye	HMID:HM01432<br/>GeneSymbol:AOC2<br/>P-value:7.51e-11<br/>Zscore:5.45<br/>#EST:12<br/>Adj. #EST:12.22

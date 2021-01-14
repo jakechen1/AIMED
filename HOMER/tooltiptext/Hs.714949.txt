@@ -1,0 +1,1 @@
+thymus	HMID:HM04253<br/>GeneSymbol:RBM14<br/>P-value:2.32e-20<br/>Zscore:4.29<br/>#EST:53<br/>Adj. #EST:4.84

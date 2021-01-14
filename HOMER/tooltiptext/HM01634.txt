@@ -1,0 +1,1 @@
+pancreas	HMID:HM01634<br/>GeneSymbol:CFC1<br/>P-value:2.1e-41<br/>Zscore:7.03<br/>#EST:34<br/>Adj. #EST:22.72

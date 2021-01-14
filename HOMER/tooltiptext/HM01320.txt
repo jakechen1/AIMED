@@ -1,0 +1,1 @@
+blood	HMID:HM01320<br/>GeneSymbol:ARHGAP25<br/>P-value:1.21e-51<br/>Zscore:5.65<br/>#EST:61<br/>Adj. #EST:14.09

@@ -1,0 +1,1 @@
+skin	HMID:HM03251<br/>GeneSymbol:PSMC3IP<br/>P-value:5.95e-20<br/>Zscore:4.73<br/>#EST:47<br/>Adj. #EST:5.05

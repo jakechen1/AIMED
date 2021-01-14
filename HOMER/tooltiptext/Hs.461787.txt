@@ -1,0 +1,1 @@
+mouth	HMID:HM02047<br/>GeneSymbol:NENF<br/>P-value:2.33e-12<br/>Zscore:4.26<br/>#EST:23<br/>Adj. #EST:6.61

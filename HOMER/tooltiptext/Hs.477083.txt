@@ -1,0 +1,1 @@
+lymph	HMID:HM02696<br/>GeneSymbol:PAFAH2<br/>P-value:5.86e-14<br/>Zscore:5.74<br/>#EST:17<br/>Adj. #EST:12.68

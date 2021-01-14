@@ -1,0 +1,1 @@
+testis	HMID:HM04110<br/>GeneSymbol:TMCO2<br/>P-value:1.58e-19<br/>Zscore:5.07<br/>#EST:23<br/>Adj. #EST:9.85

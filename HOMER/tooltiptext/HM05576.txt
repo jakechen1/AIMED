@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05576<br/>GeneSymbol:AMPD3<br/>P-value:7.08e-10<br/>Zscore:6.18<br/>#EST:11<br/>Adj. #EST:14

@@ -1,0 +1,1 @@
+liver	HMID:HM07519<br/>GeneSymbol:APOB<br/>P-value:0<br/>Zscore:6.13<br/>#EST:375<br/>Adj. #EST:13.98

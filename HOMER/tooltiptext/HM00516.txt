@@ -1,0 +1,1 @@
+brain	HMID:HM00516<br/>GeneSymbol:BAIAP3<br/>P-value:0<br/>Zscore:4.51<br/>#EST:264<br/>Adj. #EST:4.21

@@ -1,0 +1,1 @@
+kidney	HMID:HM01531<br/>GeneSymbol:PLA2G12B<br/>P-value:4.61e-11<br/>Zscore:5.65<br/>#EST:13<br/>Adj. #EST:11.14

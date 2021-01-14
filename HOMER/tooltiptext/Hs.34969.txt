@@ -1,0 +1,1 @@
+lung	HMID:HM00320<br/>GeneSymbol:DLX6-AS1<br/>P-value:2.63e-07<br/>Zscore:4.7<br/>#EST:17<br/>Adj. #EST:4.32

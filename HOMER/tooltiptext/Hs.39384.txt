@@ -1,0 +1,1 @@
+embryo	HMID:HM00050<br/>GeneSymbol:FJX1<br/>P-value:4.32e-06<br/>Zscore:4.58<br/>#EST:12<br/>Adj. #EST:4.98

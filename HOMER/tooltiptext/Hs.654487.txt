@@ -1,0 +1,1 @@
+prostate	HMID:HM04765<br/>GeneSymbol:FOLH1<br/>P-value:2.1e-23<br/>Zscore:5.45<br/>#EST:36<br/>Adj. #EST:8.69

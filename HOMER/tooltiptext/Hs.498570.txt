@@ -1,0 +1,1 @@
+thymus	HMID:HM00280<br/>GeneSymbol:PRKCQ<br/>P-value:3.48e-07<br/>Zscore:5.6<br/>#EST:10<br/>Adj. #EST:8.46

@@ -1,0 +1,1 @@
+nerve	HMID:HM02488<br/>GeneSymbol:HTR1E<br/>P-value:3.31e-26<br/>Zscore:7.07<br/>#EST:13<br/>Adj. #EST:91.19

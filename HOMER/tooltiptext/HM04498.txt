@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04498<br/>GeneSymbol:PPP2R3C<br/>P-value:1.27e-13<br/>Zscore:4.68<br/>#EST:30<br/>Adj. #EST:5.48

@@ -1,0 +1,1 @@
+thymus	HMID:HM04527<br/>GeneSymbol:CD28<br/>P-value:1.67e-13<br/>Zscore:5.29<br/>#EST:12<br/>Adj. #EST:22.19

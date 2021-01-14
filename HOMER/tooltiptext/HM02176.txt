@@ -1,0 +1,1 @@
+adipose	HMID:HM02176<br/>GeneSymbol:GSN<br/>P-value:2.08e-30<br/>Zscore:5.78<br/>#EST:47<br/>Adj. #EST:9.82

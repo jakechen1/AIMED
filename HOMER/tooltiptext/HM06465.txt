@@ -1,0 +1,1 @@
+eye	HMID:HM06465<br/>GeneSymbol:LHX2<br/>P-value:1.66e-06<br/>Zscore:5.14<br/>#EST:13<br/>Adj. #EST:5.03

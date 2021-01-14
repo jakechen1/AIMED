@@ -1,0 +1,1 @@
+skin	HMID:HM02457<br/>GeneSymbol:EGLN3<br/>P-value:1.24e-26<br/>Zscore:4.93<br/>#EST:53<br/>Adj. #EST:6.16

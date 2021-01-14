@@ -1,0 +1,1 @@
+leiomios	HMID:HM01231<br/>GeneSymbol:TIMP2<br/>P-value:3.01e-10<br/>Zscore:5.19<br/>#EST:13<br/>Adj. #EST:11.36

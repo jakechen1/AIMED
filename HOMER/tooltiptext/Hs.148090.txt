@@ -1,0 +1,1 @@
+muscle	HMID:HM05712<br/>GeneSymbol:CDH15<br/>P-value:5.93e-35<br/>Zscore:6.96<br/>#EST:28<br/>Adj. #EST:30.31

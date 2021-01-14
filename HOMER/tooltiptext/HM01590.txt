@@ -1,0 +1,1 @@
+thymus	HMID:HM01590<br/>GeneSymbol:LRMP<br/>P-value:1.71e-42<br/>Zscore:5.26<br/>#EST:54<br/>Adj. #EST:13.17

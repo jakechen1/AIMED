@@ -1,0 +1,2 @@
+heart	HMID:HM00194<br/>GeneSymbol:LDB3<br/>P-value:0<br/>Zscore:5.07<br/>#EST:281<br/>Adj. #EST:22.24
+muscle	HMID:HM00194<br/>GeneSymbol:LDB3<br/>P-value:0<br/>Zscore:4.71<br/>#EST:232<br/>Adj. #EST:20.76

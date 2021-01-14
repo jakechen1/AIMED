@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00030<br/>GeneSymbol:DHRS7<br/>P-value:6.12e-06<br/>Zscore:4.41<br/>#EST:10<br/>Adj. #EST:6.31

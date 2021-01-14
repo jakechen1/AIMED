@@ -1,0 +1,1 @@
+thymus	HMID:HM02607<br/>GeneSymbol:ITGB7<br/>P-value:7.44e-25<br/>Zscore:4.23<br/>#EST:33<br/>Adj. #EST:11.66

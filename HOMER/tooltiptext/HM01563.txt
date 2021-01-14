@@ -1,0 +1,1 @@
+skin	HMID:HM01563<br/>GeneSymbol:KRT34<br/>P-value:3.21e-43<br/>Zscore:6.97<br/>#EST:36<br/>Adj. #EST:20.82

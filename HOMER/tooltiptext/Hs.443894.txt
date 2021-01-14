@@ -1,0 +1,1 @@
+brain	HMID:HM07679<br/>GeneSymbol:ERMN<br/>P-value:0<br/>Zscore:6.2<br/>#EST:1122<br/>Adj. #EST:5.63

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05837<br/>GeneSymbol:XRCC4<br/>P-value:1.43e-37<br/>Zscore:6.67<br/>#EST:40<br/>Adj. #EST:17.91

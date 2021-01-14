@@ -1,0 +1,1 @@
+gallbladder	HMID:HM04620<br/>GeneSymbol:SAA1<br/>P-value:1.89e-22<br/>Zscore:6.96<br/>#EST:13<br/>Adj. #EST:104.48

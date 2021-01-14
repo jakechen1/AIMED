@@ -1,0 +1,1 @@
+embryo	HMID:HM01532<br/>GeneSymbol:CER1<br/>P-value:2.71e-44<br/>Zscore:7<br/>#EST:36<br/>Adj. #EST:21.79

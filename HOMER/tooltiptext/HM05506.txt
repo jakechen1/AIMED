@@ -1,0 +1,1 @@
+lymph	HMID:HM05506<br/>GeneSymbol:XRCC1<br/>P-value:4.34e-10<br/>Zscore:4.86<br/>#EST:16<br/>Adj. #EST:7.85

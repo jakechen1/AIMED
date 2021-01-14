@@ -1,0 +1,1 @@
+lymph	HMID:HM06635<br/>GeneSymbol:PHGDH<br/>P-value:1.32e-66<br/>Zscore:5.6<br/>#EST:125<br/>Adj. #EST:7.64

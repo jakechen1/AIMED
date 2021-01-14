@@ -1,0 +1,1 @@
+larynx	HMID:HM00693<br/>GeneSymbol:VPS13D<br/>P-value:1.39e-08<br/>Zscore:5.18<br/>#EST:14<br/>Adj. #EST:7.35

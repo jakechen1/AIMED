@@ -1,0 +1,1 @@
+thymus	HMID:HM07206<br/>GeneSymbol:SATB1<br/>P-value:5.34e-131<br/>Zscore:6.51<br/>#EST:120<br/>Adj. #EST:26.31

@@ -1,0 +1,1 @@
+spleen	HMID:HM01335<br/>GeneSymbol:ZFP28<br/>P-value:1.56e-10<br/>Zscore:5.08<br/>#EST:21<br/>Adj. #EST:5.37

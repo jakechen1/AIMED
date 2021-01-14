@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03543<br/>GeneSymbol:CYP39A1<br/>P-value:4.71e-18<br/>Zscore:5.78<br/>#EST:21<br/>Adj. #EST:13.88

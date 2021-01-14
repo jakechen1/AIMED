@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01122<br/>GeneSymbol:TBPL1<br/>P-value:6.25e-10<br/>Zscore:4.83<br/>#EST:11<br/>Adj. #EST:14.18

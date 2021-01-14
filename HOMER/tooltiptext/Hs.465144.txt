@@ -1,0 +1,1 @@
+nerve	HMID:HM01674<br/>GeneSymbol:MEX3C<br/>P-value:1.79e-11<br/>Zscore:4.37<br/>#EST:20<br/>Adj. #EST:7.06

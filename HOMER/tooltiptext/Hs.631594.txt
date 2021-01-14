@@ -1,0 +1,1 @@
+esophagus	HMID:HM04321<br/>GeneSymbol:LYPD3<br/>P-value:8.63e-21<br/>Zscore:6.57<br/>#EST:17<br/>Adj. #EST:33.33

@@ -1,0 +1,1 @@
+brain	HMID:HM07682<br/>GeneSymbol:NCAM1<br/>P-value:0<br/>Zscore:4.6<br/>#EST:930<br/>Adj. #EST:4.26

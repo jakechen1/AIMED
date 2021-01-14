@@ -1,0 +1,1 @@
+leiomios	HMID:HM03053<br/>GeneSymbol:PRMT10<br/>P-value:2.07e-21<br/>Zscore:7.05<br/>#EST:12<br/>Adj. #EST:113.11

@@ -1,0 +1,1 @@
+thymus	HMID:HM01782<br/>GeneSymbol:PLXDC1<br/>P-value:9.11e-38<br/>Zscore:5.05<br/>#EST:41<br/>Adj. #EST:17.34

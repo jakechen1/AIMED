@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02358<br/>GeneSymbol:UNC45A<br/>P-value:7.58e-28<br/>Zscore:6.65<br/>#EST:31<br/>Adj. #EST:17.41

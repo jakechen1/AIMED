@@ -1,0 +1,1 @@
+spleen	HMID:HM01630<br/>GeneSymbol:LPAL2<br/>P-value:2.53e-11<br/>Zscore:4.41<br/>#EST:13<br/>Adj. #EST:10.54

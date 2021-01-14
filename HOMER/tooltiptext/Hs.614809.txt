@@ -1,0 +1,1 @@
+testis	HMID:HM06179<br/>GeneSymbol:PIWIL2<br/>P-value:1.11e-45<br/>Zscore:6.77<br/>#EST:46<br/>Adj. #EST:12.27

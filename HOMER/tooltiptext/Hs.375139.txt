@@ -1,0 +1,1 @@
+stomach	HMID:HM01816<br/>GeneSymbol:SLC22A24<br/>P-value:9.43e-12<br/>Zscore:6.31<br/>#EST:10<br/>Adj. #EST:20.06

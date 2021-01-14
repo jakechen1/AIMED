@@ -1,0 +1,1 @@
+eye	HMID:HM00705<br/>GeneSymbol:ProSAPiP1<br/>P-value:1.28e-08<br/>Zscore:4.46<br/>#EST:19<br/>Adj. #EST:4.87

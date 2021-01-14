@@ -1,0 +1,1 @@
+brain	HMID:HM07114<br/>GeneSymbol:PNMA3<br/>P-value:3.06e-112<br/>Zscore:6.21<br/>#EST:222<br/>Adj. #EST:4.54

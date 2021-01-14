@@ -1,0 +1,1 @@
+stomach	HMID:HM05520<br/>GeneSymbol:TMEM176A<br/>P-value:8.49e-32<br/>Zscore:4.43<br/>#EST:65<br/>Adj. #EST:6.24

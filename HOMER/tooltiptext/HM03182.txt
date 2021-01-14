@@ -1,0 +1,1 @@
+lymph node	HMID:HM03182<br/>GeneSymbol:ITPKB<br/>P-value:2.2e-20<br/>Zscore:5.06<br/>#EST:28<br/>Adj. #EST:10.71

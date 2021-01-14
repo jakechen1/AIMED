@@ -1,0 +1,1 @@
+colon	HMID:HM01255<br/>GeneSymbol:SLC17A4<br/>P-value:2.63e-10<br/>Zscore:4.69<br/>#EST:14<br/>Adj. #EST:9.06

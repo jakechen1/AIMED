@@ -1,0 +1,1 @@
+small intestine	HMID:HM07305<br/>GeneSymbol:ALDH1A1<br/>P-value:5.06e-164<br/>Zscore:5.8<br/>#EST:226<br/>Adj. #EST:12.56

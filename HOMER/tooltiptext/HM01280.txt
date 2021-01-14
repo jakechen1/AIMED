@@ -1,0 +1,1 @@
+lymph node	HMID:HM01280<br/>GeneSymbol:KLK6<br/>P-value:3.01e-53<br/>Zscore:4.73<br/>#EST:57<br/>Adj. #EST:18.06

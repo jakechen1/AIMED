@@ -1,0 +1,1 @@
+lymph node	HMID:HM04779<br/>GeneSymbol:<br/>P-value:1.28e-12<br/>Zscore:6.1<br/>#EST:13<br/>Adj. #EST:16.12

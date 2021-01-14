@@ -1,0 +1,1 @@
+larynx	HMID:HM01008<br/>GeneSymbol:ETNK1<br/>P-value:5.71e-68<br/>Zscore:6.84<br/>#EST:61<br/>Adj. #EST:29.97

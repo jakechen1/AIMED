@@ -1,0 +1,1 @@
+leiomios	HMID:HM05924<br/>GeneSymbol:CD99<br/>P-value:1.14e-08<br/>Zscore:5.38<br/>#EST:10<br/>Adj. #EST:12.74

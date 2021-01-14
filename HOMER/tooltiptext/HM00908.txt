@@ -1,0 +1,1 @@
+skin	HMID:HM00908<br/>GeneSymbol:COMT<br/>P-value:2.18e-74<br/>Zscore:5.16<br/>#EST:185<br/>Adj. #EST:5.11

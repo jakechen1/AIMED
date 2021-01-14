@@ -1,0 +1,1 @@
+testis	HMID:HM01650<br/>GeneSymbol:SPINLW1<br/>P-value:5.78e-41<br/>Zscore:7.03<br/>#EST:40<br/>Adj. #EST:12.68

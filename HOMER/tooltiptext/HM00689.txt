@@ -1,0 +1,1 @@
+stomach	HMID:HM00689<br/>GeneSymbol:LCMT2<br/>P-value:6.45e-98<br/>Zscore:6.75<br/>#EST:81<br/>Adj. #EST:27.06

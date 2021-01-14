@@ -1,0 +1,1 @@
+kidney	HMID:HM06509<br/>GeneSymbol:BHMT2<br/>P-value:6.01e-59<br/>Zscore:5.72<br/>#EST:76<br/>Adj. #EST:11.57

@@ -1,0 +1,1 @@
+thymus	HMID:HM02689<br/>GeneSymbol:RELA<br/>P-value:3.59e-24<br/>Zscore:4.39<br/>#EST:65<br/>Adj. #EST:4.75

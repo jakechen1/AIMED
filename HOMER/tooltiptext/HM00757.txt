@@ -1,0 +1,1 @@
+testis	HMID:HM00757<br/>GeneSymbol:RPGRIP1<br/>P-value:4.21e-90<br/>Zscore:6.95<br/>#EST:94<br/>Adj. #EST:12.08

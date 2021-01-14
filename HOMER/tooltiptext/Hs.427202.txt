@@ -1,0 +1,2 @@
+skin	HMID:HM07563<br/>GeneSymbol:TTR<br/>P-value:0<br/>Zscore:4.72<br/>#EST:1504<br/>Adj. #EST:10.64
+pancreas	HMID:HM07564<br/>GeneSymbol:TTR<br/>P-value:0<br/>Zscore:4.95<br/>#EST:1417<br/>Adj. #EST:11.13

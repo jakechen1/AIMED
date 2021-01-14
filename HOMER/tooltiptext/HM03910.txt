@@ -1,0 +1,2 @@
+blood	HMID:HM03910<br/>GeneSymbol:MATK<br/>P-value:1.11e-10<br/>Zscore:4.21<br/>#EST:21<br/>Adj. #EST:5.84
+eye	HMID:HM03910<br/>GeneSymbol:MATK<br/>P-value:4.45e-16<br/>Zscore:4.29<br/>#EST:32<br/>Adj. #EST:5.95

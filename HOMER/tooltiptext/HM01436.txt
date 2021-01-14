@@ -1,0 +1,1 @@
+adipose	HMID:HM01436<br/>GeneSymbol:LPL<br/>P-value:3.48e-47<br/>Zscore:6.01<br/>#EST:49<br/>Adj. #EST:21.28

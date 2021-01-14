@@ -1,0 +1,2 @@
+spleen	HMID:HM05754<br/>GeneSymbol:PLAC1<br/>P-value:9.42e-36<br/>Zscore:4.09<br/>#EST:57<br/>Adj. #EST:7.81
+placenta	HMID:HM05600<br/>GeneSymbol:PLAC1<br/>P-value:3.85e-33<br/>Zscore:4.59<br/>#EST:50<br/>Adj. #EST:8.7

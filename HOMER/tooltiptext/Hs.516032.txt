@@ -1,0 +1,1 @@
+amnion	HMID:HM00090<br/>GeneSymbol:HADHA<br/>P-value:2.39e-06<br/>Zscore:4.56<br/>#EST:11<br/>Adj. #EST:6.26

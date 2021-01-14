@@ -1,0 +1,1 @@
+tonsil	HMID:HM05896<br/>GeneSymbol:IL4R<br/>P-value:9.56e-09<br/>Zscore:5.42<br/>#EST:10<br/>Adj. #EST:12.87

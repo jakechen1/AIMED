@@ -1,0 +1,1 @@
+nerve	HMID:HM02212<br/>GeneSymbol:FBXO7<br/>P-value:1.18e-12<br/>Zscore:4.1<br/>#EST:35<br/>Adj. #EST:4.35

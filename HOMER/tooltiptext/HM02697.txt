@@ -1,0 +1,1 @@
+breast	HMID:HM02697<br/>GeneSymbol:IDH3G<br/>P-value:4.2e-24<br/>Zscore:4.16<br/>#EST:66<br/>Adj. #EST:4.54

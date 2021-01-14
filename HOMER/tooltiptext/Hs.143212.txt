@@ -1,0 +1,1 @@
+blood	HMID:HM04921<br/>GeneSymbol:CST7<br/>P-value:1.07e-24<br/>Zscore:5.52<br/>#EST:26<br/>Adj. #EST:16.29

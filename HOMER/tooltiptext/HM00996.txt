@@ -1,0 +1,1 @@
+stomach	HMID:HM00996<br/>GeneSymbol:CLDN18<br/>P-value:1.13e-68<br/>Zscore:6.51<br/>#EST:61<br/>Adj. #EST:23.5

@@ -1,0 +1,1 @@
+embryo	HMID:HM01453<br/>GeneSymbol:TDGF1<br/>P-value:1.43e-46<br/>Zscore:6.76<br/>#EST:51<br/>Adj. #EST:14.12

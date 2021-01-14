@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05790<br/>GeneSymbol:STARD7<br/>P-value:3.98e-09<br/>Zscore:4.96<br/>#EST:16<br/>Adj. #EST:6.82

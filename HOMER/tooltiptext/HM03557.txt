@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03557<br/>GeneSymbol:GLIPR1L2<br/>P-value:5.57e-18<br/>Zscore:6.92<br/>#EST:14<br/>Adj. #EST:30.84

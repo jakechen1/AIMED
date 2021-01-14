@@ -1,0 +1,1 @@
+lymph node	HMID:HM02179<br/>GeneSymbol:BRCA2<br/>P-value:1.55e-12<br/>Zscore:6.37<br/>#EST:14<br/>Adj. #EST:13.96

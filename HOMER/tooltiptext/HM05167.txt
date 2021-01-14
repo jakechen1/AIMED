@@ -1,0 +1,1 @@
+cervix	HMID:HM05167<br/>GeneSymbol:HOXC10<br/>P-value:2.69e-11<br/>Zscore:5.57<br/>#EST:13<br/>Adj. #EST:13.37

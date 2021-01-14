@@ -1,0 +1,1 @@
+thyroid	HMID:HM03103<br/>GeneSymbol:TAF1C<br/>P-value:2.85e-15<br/>Zscore:4.44<br/>#EST:25<br/>Adj. #EST:8.16

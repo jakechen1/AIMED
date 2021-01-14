@@ -1,0 +1,2 @@
+muscle	HMID:HM07438<br/>GeneSymbol:LDB3<br/>P-value:1.72e-235<br/>Zscore:4.72<br/>#EST:232<br/>Adj. #EST:21.73
+heart	HMID:HM07494<br/>GeneSymbol:LDB3<br/>P-value:6.39e-299<br/>Zscore:5.07<br/>#EST:281<br/>Adj. #EST:23.28

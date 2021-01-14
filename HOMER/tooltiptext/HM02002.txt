@@ -1,0 +1,2 @@
+liver	HMID:HM02002<br/>GeneSymbol:OIT3<br/>P-value:2.36e-33<br/>Zscore:4.66<br/>#EST:40<br/>Adj. #EST:11.59
+spleen	HMID:HM02002<br/>GeneSymbol:OIT3<br/>P-value:2.72e-19<br/>Zscore:5.1<br/>#EST:23<br/>Adj. #EST:12.62

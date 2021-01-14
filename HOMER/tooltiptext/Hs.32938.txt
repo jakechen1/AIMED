@@ -1,0 +1,1 @@
+pancreas	HMID:HM05609<br/>GeneSymbol:PDX1<br/>P-value:2.98e-33<br/>Zscore:7.01<br/>#EST:25<br/>Adj. #EST:25.66

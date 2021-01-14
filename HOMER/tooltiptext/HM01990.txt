@@ -1,0 +1,1 @@
+kidney	HMID:HM01990<br/>GeneSymbol:CLCNKB<br/>P-value:1.39e-33<br/>Zscore:6.52<br/>#EST:31<br/>Adj. #EST:18.8

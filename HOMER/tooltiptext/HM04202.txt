@@ -1,0 +1,1 @@
+lung	HMID:HM04202<br/>GeneSymbol:<br/>P-value:7.8e-15<br/>Zscore:5.03<br/>#EST:17<br/>Adj. #EST:10.69

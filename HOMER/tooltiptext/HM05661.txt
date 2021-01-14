@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05661<br/>GeneSymbol:CMTM8<br/>P-value:1.51e-09<br/>Zscore:5.54<br/>#EST:10<br/>Adj. #EST:14.54

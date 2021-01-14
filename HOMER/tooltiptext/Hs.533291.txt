@@ -1,0 +1,1 @@
+spleen	HMID:HM04447<br/>GeneSymbol:GPLD1<br/>P-value:1.93e-21<br/>Zscore:4.08<br/>#EST:37<br/>Adj. #EST:6.85

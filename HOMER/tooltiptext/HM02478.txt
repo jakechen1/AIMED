@@ -1,0 +1,1 @@
+placenta	HMID:HM02478<br/>GeneSymbol:TMEM40<br/>P-value:2.27e-26<br/>Zscore:6.18<br/>#EST:33<br/>Adj. #EST:10.9

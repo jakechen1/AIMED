@@ -1,0 +1,1 @@
+lymph	HMID:HM02375<br/>GeneSymbol:TRAF7<br/>P-value:1.42e-27<br/>Zscore:6.37<br/>#EST:42<br/>Adj. #EST:9.71

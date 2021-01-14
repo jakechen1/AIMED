@@ -1,0 +1,2 @@
+kidney	HMID:HM05357<br/>GeneSymbol:GLYAT<br/>P-value:1.56e-29<br/>Zscore:4.63<br/>#EST:44<br/>Adj. #EST:9.04
+spleen	HMID:HM05870<br/>GeneSymbol:GLYAT<br/>P-value:2.98e-38<br/>Zscore:4.07<br/>#EST:60<br/>Adj. #EST:7.99

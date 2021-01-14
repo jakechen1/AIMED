@@ -1,0 +1,1 @@
+pharynx	HMID:HM03590<br/>GeneSymbol:NUDT5<br/>P-value:8.2e-18<br/>Zscore:4.99<br/>#EST:30<br/>Adj. #EST:8.04

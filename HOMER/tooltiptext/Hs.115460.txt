@@ -1,0 +1,1 @@
+testis	HMID:HM07339<br/>GeneSymbol:CCIN<br/>P-value:1.8e-177<br/>Zscore:7.07<br/>#EST:173<br/>Adj. #EST:12.94

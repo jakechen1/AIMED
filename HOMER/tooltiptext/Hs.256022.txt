@@ -1,0 +1,1 @@
+thymus	HMID:HM05380<br/>GeneSymbol:RORC<br/>P-value:7.67e-30<br/>Zscore:6.36<br/>#EST:31<br/>Adj. #EST:18.55

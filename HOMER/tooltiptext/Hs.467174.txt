@@ -1,0 +1,1 @@
+pancreas	HMID:HM00874<br/>GeneSymbol:NCRNA00085<br/>P-value:3.4e-09<br/>Zscore:5.07<br/>#EST:16<br/>Adj. #EST:6.35

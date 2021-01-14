@@ -1,0 +1,1 @@
+adipose	HMID:HM05112<br/>GeneSymbol:CLDN5<br/>P-value:1.67e-11<br/>Zscore:6.36<br/>#EST:12<br/>Adj. #EST:16.75

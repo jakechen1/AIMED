@@ -1,0 +1,1 @@
+testis	HMID:HM07417<br/>GeneSymbol:TKTL1<br/>P-value:8.81e-221<br/>Zscore:7.04<br/>#EST:229<br/>Adj. #EST:12.22

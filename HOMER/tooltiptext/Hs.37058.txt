@@ -1,0 +1,1 @@
+thyroid	HMID:HM05356<br/>GeneSymbol:CALCA<br/>P-value:1.59e-29<br/>Zscore:7.05<br/>#EST:16<br/>Adj. #EST:97.51

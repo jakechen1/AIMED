@@ -1,0 +1,1 @@
+thymus	HMID:HM05522<br/>GeneSymbol:CAMK4<br/>P-value:7.92e-32<br/>Zscore:6.85<br/>#EST:34<br/>Adj. #EST:17.69

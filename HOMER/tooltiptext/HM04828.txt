@@ -1,0 +1,1 @@
+skin	HMID:HM04828<br/>GeneSymbol:BCL11B<br/>P-value:1.86e-12<br/>Zscore:4.16<br/>#EST:20<br/>Adj. #EST:7.27

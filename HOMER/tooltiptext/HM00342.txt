@@ -1,0 +1,1 @@
+trachea	HMID:HM00342<br/>GeneSymbol:CRISP3<br/>P-value:0<br/>Zscore:6.58<br/>#EST:119<br/>Adj. #EST:62.84

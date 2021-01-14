@@ -1,0 +1,1 @@
+ear	HMID:HM03016<br/>GeneSymbol:FOXC1<br/>P-value:1.09e-21<br/>Zscore:6.99<br/>#EST:15<br/>Adj. #EST:53.83

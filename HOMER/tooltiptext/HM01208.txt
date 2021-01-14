@@ -1,0 +1,1 @@
+skin	HMID:HM01208<br/>GeneSymbol:VAMP7<br/>P-value:6.43e-57<br/>Zscore:4.4<br/>#EST:109<br/>Adj. #EST:6.7

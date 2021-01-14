@@ -1,0 +1,1 @@
+ear	HMID:HM02359<br/>GeneSymbol:SLC35F1<br/>P-value:8e-28<br/>Zscore:7.05<br/>#EST:17<br/>Adj. #EST:83.05

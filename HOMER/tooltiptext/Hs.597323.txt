@@ -1,0 +1,1 @@
+liver	HMID:HM01592<br/>GeneSymbol:CEP152<br/>P-value:3.08e-11<br/>Zscore:4.14<br/>#EST:23<br/>Adj. #EST:5.38

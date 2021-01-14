@@ -1,0 +1,1 @@
+thymus	HMID:HM05663<br/>GeneSymbol:TESK2<br/>P-value:1.53e-09<br/>Zscore:6.05<br/>#EST:14<br/>Adj. #EST:8.5

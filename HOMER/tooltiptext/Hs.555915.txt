@@ -1,0 +1,1 @@
+muscle	HMID:HM06590<br/>GeneSymbol:APOBEC2<br/>P-value:1.18e-63<br/>Zscore:6.68<br/>#EST:53<br/>Adj. #EST:29.2

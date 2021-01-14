@@ -1,0 +1,1 @@
+tonsil	HMID:HM07195<br/>GeneSymbol:A2M<br/>P-value:1.45e-127<br/>Zscore:5.93<br/>#EST:140<br/>Adj. #EST:19.78

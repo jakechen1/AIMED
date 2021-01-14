@@ -1,0 +1,1 @@
+pancreas	HMID:HM02909<br/>GeneSymbol:TCTEX1D2<br/>P-value:1.21e-14<br/>Zscore:6.28<br/>#EST:21<br/>Adj. #EST:8.8

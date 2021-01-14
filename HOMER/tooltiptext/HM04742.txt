@@ -1,0 +1,1 @@
+blood	HMID:HM04742<br/>GeneSymbol:LRRC33<br/>P-value:9.49e-13<br/>Zscore:5.91<br/>#EST:17<br/>Adj. #EST:9.97

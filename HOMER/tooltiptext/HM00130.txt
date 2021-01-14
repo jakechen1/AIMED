@@ -1,0 +1,1 @@
+pancreas	HMID:HM00130<br/>GeneSymbol:CTRB2<br/>P-value:0<br/>Zscore:7.07<br/>#EST:333<br/>Adj. #EST:28.46

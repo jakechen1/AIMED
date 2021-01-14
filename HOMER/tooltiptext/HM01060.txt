@@ -1,0 +1,1 @@
+kidney	HMID:HM01060<br/>GeneSymbol:FMO1<br/>P-value:8.32e-65<br/>Zscore:6.36<br/>#EST:80<br/>Adj. #EST:12.38

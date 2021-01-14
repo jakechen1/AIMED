@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+	terrafirma1.0 by nodethirtythree design
+	http://www.nodethirtythree.com
+
+-->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title>The Joshua Coon Research Group - UW Madison</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel="stylesheet" type="text/css" href="default.css" />
+<style type="text/css">
+<!--
+.style9 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; }
+.style11 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+-->
+.downloadlink { background: #F8F8F8 url(images/zip.png) no-repeat 10px center; padding: 10px 10px 11px 35px; font-size: 16px; border: 1px solid #CCCCCC; display: block; margin: 10px 0 20px 0;}
+.downloadlink:hover {background-color: #FCFCFC} 
+.content {color: #444444; font: 1.1em/1.8em Arial, Helvetica, sans-serif;}
+.content ul {padding: 0 0 20px 35px;}
+</style>
+</head>
+<body>
+
+<div id="outer">
+
+	<div id="upbg"></div>
+
+	<div id="inner">
+
+	  <div id="header">
+	    <h1 align="right"><strong>The  Coon <br />
+		    Research<br />
+	    Group </strong></h1>
+	  </div>
+	  <div id="splash"></div>
+	
+		<div id="menu">
+			<ul>
+				<li class="first"><a href="index.html">Home</a></li>
+				<li><a href="coonresearch.html">Research</a></li>
+				<li><a href="coonpeople.html">People</a></li>
+                <li><a href="software.html">Software</a></li>
+				<li><a href="coonpublications.html">Publications</a></li>
+                <li><a href="cooncollaborators.html">Collaborators</a></li>
+				<li><a href="cooncontact.html">Contact</a></li>
+                <li><a href="coonfunding.html">Funding</a></li>
+			</ul>
+
+
+		<div id="date"><script language="JavaScript">
+
+    // -- made by A1javascripts.com, please keep these credits when using this script
+    days = new Array(7)
+    days[1] = "Sunday";
+    days[2] = "Monday";
+    days[3] = "Tuesday"; 
+    days[4] = "Wednesday";
+    days[5] = "Thursday";
+    days[6] = "Friday";
+    days[7] = "Saturday";
+    months = new Array(12)
+    months[1] = "January";
+    months[2] = "February";
+    months[3] = "March";
+    months[4] = "April";
+    months[5] = "May";
+    months[6] = "June";
+    months[7] = "July";
+    months[8] = "August";
+    months[9] = "September";
+    months[10] = "October"; 
+    months[11] = "November";
+    months[12] = "December";
+    today = new Date(); day = days[today.getDay() + 1]
+    month = months[today.getMonth() + 1]
+    date = today.getDate()
+    year=today.getYear(); 
+if (year < 2000)
+year = year + 1900;
+    document.write ("<font size=1 face='trebuchet ms, helvetica, sans-serif' color=FFFFFF> "+ day +
+    ", " + month + " " + date + ", " + year + "</font>")
+    // -- end hiding 
+    </script></div>
+	  
+		</div>
+	
+
+		<div id="primarycontent">
+		
+			<!-- primary content start -->
+		
+		  <div class="post">
+			<div class="header">
+					<h3>DTA Generator</h3>
+			</div>
+			<div class="content">
+            	<p>DTA Generator creates .dta input files for the Open Mass Spectrometry Search Algorithm (OMSSA) directly from Thermo Scientific .raw LC-MS/MS data files. For each fragmentation spectrum, DTA Generator first   attempts to determine the precursor charge state using the information recorded in the scan header. If this information is available, only a single .dta file is written using that precursor charge. If it is not available (could not be determined by the instrument firmware), a .dta file is generated for every charge state in a user-specified range. The precursor [M + H]<sup>+</sup> value is written with its corresponding charge state, followed by every centroid <em>m/z</em> and intensity pair from the MS<sup>2</sup> scan. DTA Generator takes multiple input .raw files, automatically distinguishes between CAD- and ETD-generated spectra, allows the user to specify which spectral features should be removed (<em>i.e.</em>, precursor, charge-reduced precursor(s), and/or neutral losses from charge-reduced precursors), and generates either individual .dta files or merges 10,000 .dta files   into batch text files (for searching with OMSSA).</p>
+            	<p>The software supports three different ETD spectral pre-processing options: (1) removal of the precursor&mdash;all peaks &plusmn; 3.1 <em>m/z</em> from the precursor <em>m/z</em>; (2) removal of those charge-reduced precursor cations that were the result of ETnoD&mdash;all peaks &plusmn; 3.1 <em>m/z</em> from the charge-reduced precursor <em>m/z</em> for each charge state from +1 to the precursor charge state &minus;1; and (3) removal of those peaks that were the result of neutral losses from charge-reduced precursors&mdash;all peaks &minus;60 Da (scaled to charge) to the charge-reduced precursor <em>m/</em>z for each charge state from +1 to the precursor charge state &minus; 1.</p>
+            	<p><strong>System Requirements
+            	</strong>
+            	<ul>
+                <li>Microsoft Windows operating system</li>
+            	<li>Thermo Scientific Xcalibur 2.0 or later</li>
+                <li><a href="../../www.microsoft.com/downloads/details.aspx@FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5">Microsoft .NET Framework version 2.0</a></li>
+            	</ul>
+                </p>
+            	<p><a href="DTA Generator.zip" class="downloadlink">DTA Generator.zip (29 KB)</a></p>
+            	<p>If you use this software in a publication, please cite:</p>
+            	<p>Good DM, Wenger CD,  McAlister GC, Bai DL, Hunt DF, and Coon JJ. Post-Acquisition ETD  Spectral Processing for Increased Peptide Identifications. <em>Journal of  the American Society for Mass Spectrometry</em>. e-published 14 March  <strong>2009</strong>.</p>
+           	  <p><a href="../../dx.doi.org/10.1016/j.jasms.2009.03.006">http://dx.doi.org/10.1016/j.jasms.2009.03.006</a></p>				
+		    </div>			
+	      </div>
+		
+			<!--<div class="post">
+			  <p class="content"><strong>The epigenotype of pluripotency.&nbsp; </strong>This research is based on the following hypothesis:<strong>&nbsp; </strong>human  ES cells are distinguished from their somatic cell counterparts by unique  epigenotypes.&nbsp; The new technology created  by our laboratory has allowed for the first high fidelity examination of human ES  cell histone modification patterns.&nbsp;  Ongoing aims in the laboratory include the global characterization and quantification  of the full repertoire of PTM patterns within the core histone tails of human ES  cells relative to human control cells.&nbsp;  And, using potent differentiating agents, we aim to determine the  changes to those histone codes upon lineage commitment. <br />
+			    <br />
+			  </p>-->
+		  </div>
+
+		  <!-- primary content end -->
+	
+		</div>
+		
+		<div id="secondarycontent">
+
+			<!-- secondary content start -->
+		
+			<h3>Research Links</h3>
+			<div class="content">
+			  <p align="left"><strong><span class="style9"><a href="coonbiomarkers.html">Biomarkers</a></span><br />
+			    <span class="style9"><a href="coonhE5cells.html">hES Cells</a> </span></strong><br />
+<span class="style11"><a href="coonionion.html">Ion ion reactions</a></span><br />
+<span class="style11"><a href="coonbioinformatics.html">Bioinformatics</a></span><br />
+<span class="style11"><a href="cooninstrumentation.html">Instrumentation</a></span><br />
+<br />
+		      </p>
+		  </div>
+			
+			<div class="content">
+				
+			</div>
+
+			<!-- secondary content end -->
+
+	  </div>
+	
+		<div id="footer">
+		
+		&copy; Joshua Coon. All rights reserved.</div>
+
+  </div>
+
+</div>
+
+</body>
+</html>

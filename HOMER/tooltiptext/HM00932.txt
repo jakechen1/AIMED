@@ -1,0 +1,1 @@
+brain	HMID:HM00932<br/>GeneSymbol:CTNNA2<br/>P-value:7.04e-73<br/>Zscore:5.54<br/>#EST:169<br/>Adj. #EST:4.02

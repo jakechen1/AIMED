@@ -1,0 +1,1 @@
+skin	HMID:HM05154<br/>GeneSymbol:LY6G6C<br/>P-value:2.35e-11<br/>Zscore:5.69<br/>#EST:12<br/>Adj. #EST:12.73

@@ -1,0 +1,1 @@
+uterus	HMID:HM05328<br/>GeneSymbol:LCN6<br/>P-value:9.4e-11<br/>Zscore:6.55<br/>#EST:10<br/>Adj. #EST:15.1

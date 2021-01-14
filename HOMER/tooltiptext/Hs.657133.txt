@@ -1,0 +1,1 @@
+brain	HMID:HM06004<br/>GeneSymbol:RGS7BP<br/>P-value:4.01e-41<br/>Zscore:4.03<br/>#EST:73<br/>Adj. #EST:4.8

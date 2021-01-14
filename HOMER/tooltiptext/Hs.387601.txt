@@ -1,0 +1,2 @@
+cervix	HMID:HM00104<br/>GeneSymbol:FOXRED2<br/>P-value:1.88e-06<br/>Zscore:4<br/>#EST:12<br/>Adj. #EST:5.72
+pancreas	HMID:HM05749<br/>GeneSymbol:FOXRED2<br/>P-value:1.14e-35<br/>Zscore:4.77<br/>#EST:68<br/>Adj. #EST:6.7

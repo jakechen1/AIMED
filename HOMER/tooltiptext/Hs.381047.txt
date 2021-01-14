@@ -1,0 +1,1 @@
+muscle	HMID:HM06934<br/>GeneSymbol:MYOZ2<br/>P-value:6.08e-91<br/>Zscore:5.51<br/>#EST:83<br/>Adj. #EST:24.66

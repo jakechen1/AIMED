@@ -1,0 +1,1 @@
+bone	HMID:HM07525<br/>GeneSymbol:COMP<br/>P-value:0<br/>Zscore:6.78<br/>#EST:366<br/>Adj. #EST:28.06

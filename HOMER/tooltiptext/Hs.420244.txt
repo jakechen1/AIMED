@@ -1,0 +1,1 @@
+eye	HMID:HM00106<br/>GeneSymbol:RIMKLA<br/>P-value:1.81e-06<br/>Zscore:4.29<br/>#EST:15<br/>Adj. #EST:4.36

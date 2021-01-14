@@ -1,0 +1,1 @@
+thymus	HMID:HM04968<br/>GeneSymbol:CD8B<br/>P-value:4.94e-12<br/>Zscore:5.99<br/>#EST:11<br/>Adj. #EST:20.34

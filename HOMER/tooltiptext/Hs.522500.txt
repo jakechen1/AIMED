@@ -1,0 +1,1 @@
+lymph node	HMID:HM02842<br/>GeneSymbol:SEC16A<br/>P-value:1.59e-14<br/>Zscore:4.04<br/>#EST:38<br/>Adj. #EST:4.64

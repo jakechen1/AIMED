@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05004<br/>GeneSymbol:RBP7<br/>P-value:2.44e-25<br/>Zscore:5.61<br/>#EST:20<br/>Adj. #EST:31.91

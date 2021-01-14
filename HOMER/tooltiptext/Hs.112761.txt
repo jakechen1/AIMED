@@ -1,0 +1,1 @@
+testis	HMID:HM04852<br/>GeneSymbol:RNASE11<br/>P-value:4.29e-24<br/>Zscore:6.58<br/>#EST:27<br/>Adj. #EST:10.6

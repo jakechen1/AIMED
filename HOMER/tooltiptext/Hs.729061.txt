@@ -1,0 +1,1 @@
+kidney	HMID:HM02228<br/>GeneSymbol:C14orf149<br/>P-value:1.08e-12<br/>Zscore:4.43<br/>#EST:31<br/>Adj. #EST:4.69

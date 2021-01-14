@@ -1,0 +1,1 @@
+mouth	HMID:HM05182<br/>GeneSymbol:GALNTL4<br/>P-value:2.52e-27<br/>Zscore:6.99<br/>#EST:25<br/>Adj. #EST:24.41

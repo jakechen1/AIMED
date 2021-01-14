@@ -1,0 +1,1 @@
+placenta	HMID:HM07584<br/>GeneSymbol:CAPN6<br/>P-value:0<br/>Zscore:6.75<br/>#EST:357<br/>Adj. #EST:15.64

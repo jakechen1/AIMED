@@ -1,0 +1,1 @@
+ovary	HMID:HM04017<br/>GeneSymbol:SFXN4<br/>P-value:1.12e-15<br/>Zscore:4.98<br/>#EST:29<br/>Adj. #EST:6.8

@@ -1,0 +1,1 @@
+bone	HMID:HM00158<br/>GeneSymbol:SCFV<br/>P-value:0<br/>Zscore:5.73<br/>#EST:577<br/>Adj. #EST:19.42

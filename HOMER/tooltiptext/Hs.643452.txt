@@ -1,0 +1,1 @@
+leiomios	HMID:HM06870<br/>GeneSymbol:DGCR8<br/>P-value:3.61e-84<br/>Zscore:7.07<br/>#EST:44<br/>Adj. #EST:182.77

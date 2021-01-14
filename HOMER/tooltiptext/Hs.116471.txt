@@ -1,0 +1,1 @@
+larynx	HMID:HM01104<br/>GeneSymbol:CDH11<br/>P-value:7.14e-10<br/>Zscore:4.14<br/>#EST:16<br/>Adj. #EST:7.68

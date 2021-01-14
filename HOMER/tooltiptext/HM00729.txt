@@ -1,0 +1,1 @@
+muscle	HMID:HM00729<br/>GeneSymbol:CASQ1<br/>P-value:1.7e-93<br/>Zscore:5.09<br/>#EST:87<br/>Adj. #EST:23.5

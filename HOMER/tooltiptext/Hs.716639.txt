@@ -1,0 +1,1 @@
+mouth	HMID:HM07472<br/>GeneSymbol:COL9A3<br/>P-value:1.24e-277<br/>Zscore:6.13<br/>#EST:205<br/>Adj. #EST:45.53

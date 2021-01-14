@@ -1,0 +1,1 @@
+pituitary	HMID:HM00629<br/>GeneSymbol:GNAS<br/>P-value:0<br/>Zscore:4.74<br/>#EST:148<br/>Adj. #EST:12.01

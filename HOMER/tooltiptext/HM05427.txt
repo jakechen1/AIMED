@@ -1,0 +1,1 @@
+nerve	HMID:HM05427<br/>GeneSymbol:MAGEB2<br/>P-value:2.13e-10<br/>Zscore:6.35<br/>#EST:10<br/>Adj. #EST:17.88

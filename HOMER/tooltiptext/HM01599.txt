@@ -1,0 +1,1 @@
+blood	HMID:HM01599<br/>GeneSymbol:GBP5<br/>P-value:3.88e-42<br/>Zscore:6.44<br/>#EST:49<br/>Adj. #EST:14.28

@@ -1,0 +1,1 @@
+placenta	HMID:HM07628<br/>GeneSymbol:CSH2<br/>P-value:0<br/>Zscore:6.93<br/>#EST:2060<br/>Adj. #EST:21.91

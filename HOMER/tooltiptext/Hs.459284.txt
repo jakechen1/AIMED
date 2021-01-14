@@ -1,0 +1,1 @@
+esophagus	HMID:HM06446<br/>GeneSymbol:RHCG<br/>P-value:1.78e-56<br/>Zscore:6.73<br/>#EST:38<br/>Adj. #EST:66.2

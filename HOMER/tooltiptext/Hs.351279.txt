@@ -1,0 +1,1 @@
+pharynx	HMID:HM06131<br/>GeneSymbol:HLA-DMB<br/>P-value:2.55e-44<br/>Zscore:6.12<br/>#EST:44<br/>Adj. #EST:22.43

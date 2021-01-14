@@ -1,0 +1,1 @@
+pituitary	HMID:HM01560<br/>GeneSymbol:CHGB<br/>P-value:2.28e-43<br/>Zscore:5.37<br/>#EST:43<br/>Adj. #EST:23.3

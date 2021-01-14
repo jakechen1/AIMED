@@ -1,0 +1,1 @@
+testis	HMID:HM00607<br/>GeneSymbol:STK31<br/>P-value:0<br/>Zscore:6.1<br/>#EST:116<br/>Adj. #EST:11.57

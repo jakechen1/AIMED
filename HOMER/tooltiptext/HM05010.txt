@@ -1,0 +1,1 @@
+tonsil	HMID:HM05010<br/>GeneSymbol:CD82<br/>P-value:6.3e-12<br/>Zscore:6.41<br/>#EST:13<br/>Adj. #EST:15.44

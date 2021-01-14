@@ -1,0 +1,1 @@
+brain	HMID:HM07352<br/>GeneSymbol:SYT1<br/>P-value:1.05e-183<br/>Zscore:5.33<br/>#EST:358<br/>Adj. #EST:4.6

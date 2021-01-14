@@ -1,0 +1,1 @@
+spleen	HMID:HM00430<br/>GeneSymbol:DKFZP434I0714<br/>P-value:9.27e-08<br/>Zscore:5.36<br/>#EST:12<br/>Adj. #EST:6.67

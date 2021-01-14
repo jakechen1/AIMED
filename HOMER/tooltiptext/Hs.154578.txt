@@ -1,0 +1,2 @@
+blood	HMID:HM00875<br/>GeneSymbol:MYO7B<br/>P-value:3.37e-09<br/>Zscore:4.94<br/>#EST:12<br/>Adj. #EST:9.63
+colon	HMID:HM01092<br/>GeneSymbol:MYO7B<br/>P-value:7.56e-10<br/>Zscore:4.28<br/>#EST:14<br/>Adj. #EST:8.42

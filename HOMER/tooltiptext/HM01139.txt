@@ -1,0 +1,1 @@
+placenta	HMID:HM01139<br/>GeneSymbol:BPGM<br/>P-value:5.55e-60<br/>Zscore:4.33<br/>#EST:135<br/>Adj. #EST:5.58

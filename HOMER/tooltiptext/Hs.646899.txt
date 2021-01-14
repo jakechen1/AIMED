@@ -1,0 +1,1 @@
+breast	HMID:HM06938<br/>GeneSymbol:EVC<br/>P-value:7.66e-92<br/>Zscore:4.82<br/>#EST:105<br/>Adj. #EST:14.92

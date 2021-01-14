@@ -1,0 +1,1 @@
+brain	HMID:HM07189<br/>GeneSymbol:SYP<br/>P-value:2.76e-126<br/>Zscore:4.24<br/>#EST:280<br/>Adj. #EST:4.21

@@ -1,0 +1,1 @@
+pharynx	HMID:HM01401<br/>GeneSymbol:RIN2<br/>P-value:1.02e-10<br/>Zscore:4.66<br/>#EST:13<br/>Adj. #EST:12.11

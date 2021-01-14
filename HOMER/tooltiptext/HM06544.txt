@@ -1,0 +1,1 @@
+muscle	HMID:HM06544<br/>GeneSymbol:WSCD1<br/>P-value:6.59e-06<br/>Zscore:4.34<br/>#EST:13<br/>Adj. #EST:4.59

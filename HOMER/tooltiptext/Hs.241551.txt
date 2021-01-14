@@ -1,0 +1,1 @@
+mouth	HMID:HM07294<br/>GeneSymbol:CLCA2<br/>P-value:3.12e-160<br/>Zscore:6.2<br/>#EST:115<br/>Adj. #EST:48.18

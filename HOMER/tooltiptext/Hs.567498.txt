@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03120<br/>GeneSymbol:FAM198B<br/>P-value:2.41e-15<br/>Zscore:6.53<br/>#EST:14<br/>Adj. #EST:24.14

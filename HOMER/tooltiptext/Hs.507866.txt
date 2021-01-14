@@ -1,0 +1,1 @@
+lung	HMID:HM05551<br/>GeneSymbol:C13orf15<br/>P-value:2.21e-32<br/>Zscore:4.03<br/>#EST:90<br/>Adj. #EST:4.34

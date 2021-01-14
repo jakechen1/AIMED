@@ -1,0 +1,1 @@
+amnion	HMID:HM01738<br/>GeneSymbol:RPS19<br/>P-value:2e-38<br/>Zscore:6.08<br/>#EST:46<br/>Adj. #EST:15.69

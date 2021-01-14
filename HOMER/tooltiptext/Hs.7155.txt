@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05089<br/>GeneSymbol:CMPK2<br/>P-value:2.84e-26<br/>Zscore:5.9<br/>#EST:30<br/>Adj. #EST:15.45

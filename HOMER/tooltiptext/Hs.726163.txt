@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06511<br/>GeneSymbol:EEF1E1<br/>P-value:5.22e-59<br/>Zscore:6.62<br/>#EST:60<br/>Adj. #EST:20.24

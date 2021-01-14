@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01504<br/>GeneSymbol:LNX1<br/>P-value:5.22e-11<br/>Zscore:4.41<br/>#EST:21<br/>Adj. #EST:6.23

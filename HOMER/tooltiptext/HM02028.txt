@@ -1,0 +1,1 @@
+thymus	HMID:HM02028<br/>GeneSymbol:ZAP70<br/>P-value:6.02e-33<br/>Zscore:5.68<br/>#EST:30<br/>Adj. #EST:24.34

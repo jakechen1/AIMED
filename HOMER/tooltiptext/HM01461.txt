@@ -1,0 +1,1 @@
+bladder	HMID:HM01461<br/>GeneSymbol:PRDX3<br/>P-value:2.61e-46<br/>Zscore:5.06<br/>#EST:76<br/>Adj. #EST:9.16

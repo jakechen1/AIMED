@@ -1,0 +1,1 @@
+placenta	HMID:HM05118<br/>GeneSymbol:SLC13A4<br/>P-value:1.1e-26<br/>Zscore:6.38<br/>#EST:43<br/>Adj. #EST:7.87

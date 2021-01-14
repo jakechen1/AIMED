@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00685<br/>GeneSymbol:SNRNP27<br/>P-value:1.46e-08<br/>Zscore:6.25<br/>#EST:11<br/>Adj. #EST:10.46

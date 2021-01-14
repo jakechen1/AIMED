@@ -1,0 +1,1 @@
+placenta	HMID:HM04056<br/>GeneSymbol:EXPH5<br/>P-value:3.84e-19<br/>Zscore:4.27<br/>#EST:33<br/>Adj. #EST:7.03

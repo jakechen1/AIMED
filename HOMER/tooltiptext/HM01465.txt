@@ -1,0 +1,1 @@
+placenta	HMID:HM01465<br/>GeneSymbol:HTRA4<br/>P-value:3.75e-46<br/>Zscore:6.97<br/>#EST:36<br/>Adj. #EST:21.65

@@ -1,0 +1,1 @@
+placenta	HMID:HM07071<br/>GeneSymbol:CGB<br/>P-value:4.02e-106<br/>Zscore:6.99<br/>#EST:91<br/>Adj. #EST:20.26

@@ -1,0 +1,1 @@
+larynx	HMID:HM05493<br/>GeneSymbol:GYLTL1B<br/>P-value:2.49e-31<br/>Zscore:5.24<br/>#EST:24<br/>Adj. #EST:41.86

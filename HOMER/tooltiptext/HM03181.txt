@@ -1,0 +1,1 @@
+kidney	HMID:HM03181<br/>GeneSymbol:DDC<br/>P-value:2.19e-20<br/>Zscore:4.46<br/>#EST:35<br/>Adj. #EST:7.27

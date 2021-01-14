@@ -1,0 +1,1 @@
+spleen	HMID:HM04069<br/>GeneSymbol:CAPN12<br/>P-value:3.16e-19<br/>Zscore:4.2<br/>#EST:32<br/>Adj. #EST:7.07

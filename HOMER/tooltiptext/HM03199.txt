@@ -1,0 +1,1 @@
+skin	HMID:HM03199<br/>GeneSymbol:TBC1D7<br/>P-value:2.57e-20<br/>Zscore:4.55<br/>#EST:45<br/>Adj. #EST:5.38

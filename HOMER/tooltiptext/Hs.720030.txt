@@ -1,0 +1,1 @@
+pharynx	HMID:HM07186<br/>GeneSymbol:TSTD1<br/>P-value:6.47e-126<br/>Zscore:6.94<br/>#EST:90<br/>Adj. #EST:53.34

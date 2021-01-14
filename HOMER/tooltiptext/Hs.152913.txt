@@ -1,0 +1,1 @@
+ear	HMID:HM01138<br/>GeneSymbol:EMCN<br/>P-value:5.54e-10<br/>Zscore:4.32<br/>#EST:10<br/>Adj. #EST:17.36

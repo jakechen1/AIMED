@@ -1,0 +1,1 @@
+spleen	HMID:HM02582<br/>GeneSymbol:CLEC4M<br/>P-value:1.61e-13<br/>Zscore:4.17<br/>#EST:24<br/>Adj. #EST:6.31

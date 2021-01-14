@@ -1,0 +1,1 @@
+muscle	HMID:HM05377<br/>GeneSymbol:C20orf166<br/>P-value:8.77e-30<br/>Zscore:7.05<br/>#EST:17<br/>Adj. #EST:57.25

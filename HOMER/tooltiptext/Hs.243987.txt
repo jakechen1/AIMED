@@ -1,0 +1,1 @@
+ovary	HMID:HM00052<br/>GeneSymbol:GATA4<br/>P-value:4.1e-06<br/>Zscore:4.05<br/>#EST:11<br/>Adj. #EST:5.74

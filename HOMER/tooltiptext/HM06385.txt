@@ -1,0 +1,1 @@
+testis	HMID:HM06385<br/>GeneSymbol:SRSF12<br/>P-value:7.7e-07<br/>Zscore:5.48<br/>#EST:14<br/>Adj. #EST:4.64

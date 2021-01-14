@@ -1,0 +1,1 @@
+brain	HMID:HM07680<br/>GeneSymbol:PLEKHB1<br/>P-value:0<br/>Zscore:6.04<br/>#EST:1178<br/>Adj. #EST:4.45

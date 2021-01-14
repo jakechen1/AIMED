@@ -1,0 +1,1 @@
+colon	HMID:HM05453<br/>GeneSymbol:ST7OT2<br/>P-value:2.87e-10<br/>Zscore:6.7<br/>#EST:11<br/>Adj. #EST:12.96

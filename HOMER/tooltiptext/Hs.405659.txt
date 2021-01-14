@@ -1,0 +1,1 @@
+testis	HMID:HM07104<br/>GeneSymbol:PIWIL1<br/>P-value:4.99e-111<br/>Zscore:6.94<br/>#EST:118<br/>Adj. #EST:11.83

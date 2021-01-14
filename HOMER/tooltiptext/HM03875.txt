@@ -1,0 +1,1 @@
+bone	HMID:HM03875<br/>GeneSymbol:PENK<br/>P-value:3.02e-16<br/>Zscore:4.21<br/>#EST:25<br/>Adj. #EST:8.51

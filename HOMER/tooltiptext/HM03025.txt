@@ -1,0 +1,1 @@
+pituitary	HMID:HM03025<br/>GeneSymbol:C19orf30<br/>P-value:1.27e-21<br/>Zscore:7.05<br/>#EST:12<br/>Adj. #EST:108.31

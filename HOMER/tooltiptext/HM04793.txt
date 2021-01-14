@@ -1,0 +1,1 @@
+pharynx	HMID:HM04793<br/>GeneSymbol:CMTM7<br/>P-value:1.43e-12<br/>Zscore:4.65<br/>#EST:22<br/>Adj. #EST:7.24

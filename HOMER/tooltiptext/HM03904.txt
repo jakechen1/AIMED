@@ -1,0 +1,1 @@
+kidney	HMID:HM03904<br/>GeneSymbol:SLC5A10<br/>P-value:4.25e-16<br/>Zscore:5.92<br/>#EST:17<br/>Adj. #EST:14.03

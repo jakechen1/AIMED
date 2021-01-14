@@ -1,0 +1,1 @@
+blood	HMID:HM04162<br/>GeneSymbol:TRAF1<br/>P-value:5.08e-15<br/>Zscore:4.04<br/>#EST:24<br/>Adj. #EST:7.95

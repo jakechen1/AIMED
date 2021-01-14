@@ -1,0 +1,1 @@
+prostate	HMID:HM05451<br/>GeneSymbol:CYP4F8<br/>P-value:1.04e-30<br/>Zscore:6.68<br/>#EST:26<br/>Adj. #EST:23.12

@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM04475<br/>GeneSymbol:TSPAN12<br/>P-value:9.09e-14<br/>Zscore:5.69<br/>#EST:15<br/>Adj. #EST:15.75

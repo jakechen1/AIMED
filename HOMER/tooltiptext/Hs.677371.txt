@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06270<br/>GeneSymbol:<br/>P-value:9.16e-49<br/>Zscore:7.06<br/>#EST:28<br/>Adj. #EST:74.53

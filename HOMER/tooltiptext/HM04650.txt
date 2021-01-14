@@ -1,0 +1,1 @@
+thymus	HMID:HM04650<br/>GeneSymbol:CRLF3<br/>P-value:4.44e-13<br/>Zscore:6.01<br/>#EST:18<br/>Adj. #EST:10.01

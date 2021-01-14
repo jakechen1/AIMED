@@ -1,0 +1,1 @@
+kidney	HMID:HM06184<br/>GeneSymbol:CPA4<br/>P-value:7.74e-46<br/>Zscore:5.4<br/>#EST:68<br/>Adj. #EST:9.36

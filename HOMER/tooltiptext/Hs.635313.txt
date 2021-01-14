@@ -1,0 +1,1 @@
+bladder	HMID:HM04252<br/>GeneSymbol:CHMP5<br/>P-value:2.35e-20<br/>Zscore:4.92<br/>#EST:30<br/>Adj. #EST:10.02

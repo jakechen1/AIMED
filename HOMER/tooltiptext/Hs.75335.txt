@@ -1,0 +1,1 @@
+kidney	HMID:HM07155<br/>GeneSymbol:GATM<br/>P-value:2.01e-119<br/>Zscore:5.48<br/>#EST:214<br/>Adj. #EST:7.55

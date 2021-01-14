@@ -1,0 +1,1 @@
+amnion	HMID:HM02052<br/>GeneSymbol:CAPZB<br/>P-value:1.55e-32<br/>Zscore:6.88<br/>#EST:32<br/>Adj. #EST:23.35

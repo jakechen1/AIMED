@@ -1,0 +1,1 @@
+testis	HMID:HM05816<br/>GeneSymbol:CPA5<br/>P-value:5.23e-37<br/>Zscore:6.93<br/>#EST:38<br/>Adj. #EST:11.94

@@ -1,0 +1,1 @@
+brain	HMID:HM02864<br/>GeneSymbol:NAP1L2<br/>P-value:7.74e-23<br/>Zscore:6.07<br/>#EST:40<br/>Adj. #EST:4.69

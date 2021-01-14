@@ -1,0 +1,1 @@
+skin	HMID:HM01527<br/>GeneSymbol:TRPM1<br/>P-value:2.15e-44<br/>Zscore:5.3<br/>#EST:59<br/>Adj. #EST:10.57

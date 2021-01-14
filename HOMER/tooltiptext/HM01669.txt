@@ -1,0 +1,1 @@
+gallbladder	HMID:HM01669<br/>GeneSymbol:SERPINA3<br/>P-value:1.75e-40<br/>Zscore:6.94<br/>#EST:31<br/>Adj. #EST:46.2

@@ -1,0 +1,1 @@
+larynx	HMID:HM04095<br/>GeneSymbol:MGEA5<br/>P-value:2.61e-15<br/>Zscore:4.85<br/>#EST:31<br/>Adj. #EST:6.27

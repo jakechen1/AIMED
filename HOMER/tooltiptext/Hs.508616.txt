@@ -1,0 +1,1 @@
+lung	HMID:HM04716<br/>GeneSymbol:FGF14<br/>P-value:3.47e-23<br/>Zscore:4.58<br/>#EST:35<br/>Adj. #EST:8.01

@@ -1,0 +1,1 @@
+lymph	HMID:HM01526<br/>GeneSymbol:CHMP7<br/>P-value:4.73e-11<br/>Zscore:5.12<br/>#EST:23<br/>Adj. #EST:5.71

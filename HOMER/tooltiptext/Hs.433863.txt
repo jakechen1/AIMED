@@ -1,0 +1,1 @@
+amnion	HMID:HM02766<br/>GeneSymbol:PEBP1<br/>P-value:3.2e-14<br/>Zscore:5.25<br/>#EST:22<br/>Adj. #EST:8.92

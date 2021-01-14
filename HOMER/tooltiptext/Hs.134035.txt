@@ -1,0 +1,1 @@
+spleen	HMID:HM06869<br/>GeneSymbol:CD5L<br/>P-value:4.84e-84<br/>Zscore:6.7<br/>#EST:93<br/>Adj. #EST:12.92

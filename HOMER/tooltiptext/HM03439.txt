@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03439<br/>GeneSymbol:PCDH12<br/>P-value:9.53e-19<br/>Zscore:6.98<br/>#EST:13<br/>Adj. #EST:52.14

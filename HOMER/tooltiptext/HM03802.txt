@@ -1,0 +1,1 @@
+colon	HMID:HM03802<br/>GeneSymbol:DPEP1<br/>P-value:9.84e-17<br/>Zscore:5.22<br/>#EST:23<br/>Adj. #EST:9.7

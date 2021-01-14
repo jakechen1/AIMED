@@ -1,0 +1,1 @@
+trachea	HMID:HM02238<br/>GeneSymbol:CCDC132<br/>P-value:1.01e-12<br/>Zscore:5.35<br/>#EST:22<br/>Adj. #EST:7.33

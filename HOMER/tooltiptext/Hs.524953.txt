@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03772<br/>GeneSymbol:KL<br/>P-value:8.31e-18<br/>Zscore:6.75<br/>#EST:12<br/>Adj. #EST:54.81

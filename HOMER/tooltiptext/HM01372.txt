@@ -1,0 +1,1 @@
+heart	HMID:HM01372<br/>GeneSymbol:POPDC2<br/>P-value:2.61e-49<br/>Zscore:4.17<br/>#EST:48<br/>Adj. #EST:20.36

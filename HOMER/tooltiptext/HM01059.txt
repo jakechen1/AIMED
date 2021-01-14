@@ -1,0 +1,1 @@
+tonsil	HMID:HM01059<br/>GeneSymbol:RPL9<br/>P-value:7.17e-65<br/>Zscore:5.78<br/>#EST:110<br/>Adj. #EST:8.94

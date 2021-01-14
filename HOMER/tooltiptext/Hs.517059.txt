@@ -1,0 +1,1 @@
+brain	HMID:HM06763<br/>GeneSymbol:GDAP1L1<br/>P-value:3.94e-74<br/>Zscore:4.21<br/>#EST:154<br/>Adj. #EST:4.37

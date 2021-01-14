@@ -1,0 +1,1 @@
+small intestine	HMID:HM02186<br/>GeneSymbol:PCDH9<br/>P-value:1.48e-12<br/>Zscore:6.31<br/>#EST:14<br/>Adj. #EST:14.61

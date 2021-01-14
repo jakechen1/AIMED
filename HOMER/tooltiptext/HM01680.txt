@@ -1,0 +1,1 @@
+testis	HMID:HM01680<br/>GeneSymbol:CYLC1<br/>P-value:5.69e-40<br/>Zscore:7.07<br/>#EST:34<br/>Adj. #EST:14.26

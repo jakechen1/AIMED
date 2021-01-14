@@ -1,0 +1,1 @@
+trachea	HMID:HM03548<br/>GeneSymbol:CD200R1<br/>P-value:4.87e-18<br/>Zscore:6.99<br/>#EST:12<br/>Adj. #EST:50.28

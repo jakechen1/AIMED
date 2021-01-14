@@ -1,0 +1,1 @@
+uterus	HMID:HM06557<br/>GeneSymbol:PAEP<br/>P-value:2.24e-61<br/>Zscore:5.1<br/>#EST:79<br/>Adj. #EST:11.23

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04833<br/>GeneSymbol:PSMB3<br/>P-value:1.91e-12<br/>Zscore:5.65<br/>#EST:17<br/>Adj. #EST:10.45

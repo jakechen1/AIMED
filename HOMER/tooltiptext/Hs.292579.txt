@@ -1,0 +1,1 @@
+lymph	HMID:HM00845<br/>GeneSymbol:PTDSS1<br/>P-value:4.17e-09<br/>Zscore:4.85<br/>#EST:19<br/>Adj. #EST:5.49

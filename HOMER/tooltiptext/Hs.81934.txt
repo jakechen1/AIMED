@@ -1,0 +1,1 @@
+spleen	HMID:HM06599<br/>GeneSymbol:ACADSB<br/>P-value:3.46e-64<br/>Zscore:4.78<br/>#EST:127<br/>Adj. #EST:6.25

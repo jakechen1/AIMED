@@ -1,0 +1,1 @@
+lymph node	HMID:HM06086<br/>GeneSymbol:MCM9<br/>P-value:5.06e-08<br/>Zscore:5.78<br/>#EST:11<br/>Adj. #EST:8.89

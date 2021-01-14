@@ -1,0 +1,1 @@
+ovary	HMID:HM03261<br/>GeneSymbol:STYXL1<br/>P-value:8.39e-16<br/>Zscore:5.85<br/>#EST:29<br/>Adj. #EST:6.88

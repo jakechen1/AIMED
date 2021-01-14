@@ -1,0 +1,1 @@
+lymph node	HMID:HM06737<br/>GeneSymbol:TTC7A<br/>P-value:1.08e-72<br/>Zscore:6.69<br/>#EST:73<br/>Adj. #EST:20.95

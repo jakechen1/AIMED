@@ -1,0 +1,1 @@
+spleen	HMID:HM02187<br/>GeneSymbol:NDST3<br/>P-value:1.44e-12<br/>Zscore:4.59<br/>#EST:20<br/>Adj. #EST:7.07

@@ -1,0 +1,1 @@
+blood	HMID:HM02699<br/>GeneSymbol:CD86<br/>P-value:5.71e-14<br/>Zscore:5.1<br/>#EST:21<br/>Adj. #EST:8.57

@@ -1,0 +1,1 @@
+prostate	HMID:HM04578<br/>GeneSymbol:RAB26<br/>P-value:2.26e-13<br/>Zscore:5.19<br/>#EST:23<br/>Adj. #EST:6.98

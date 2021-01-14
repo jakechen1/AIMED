@@ -1,0 +1,1 @@
+skin	HMID:HM06239<br/>GeneSymbol:SNAR-B1<br/>P-value:9.94e-48<br/>Zscore:6.19<br/>#EST:37<br/>Adj. #EST:23.62

@@ -1,0 +1,1 @@
+bone	HMID:HM06332<br/>GeneSymbol:UNC5B<br/>P-value:4.49e-07<br/>Zscore:4.01<br/>#EST:17<br/>Adj. #EST:4.4

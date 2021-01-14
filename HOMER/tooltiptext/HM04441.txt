@@ -1,0 +1,1 @@
+colon	HMID:HM04441<br/>GeneSymbol:SLC22A18<br/>P-value:7.06e-14<br/>Zscore:4.27<br/>#EST:23<br/>Adj. #EST:7.34

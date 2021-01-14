@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM01549<br/>GeneSymbol:SOAT1<br/>P-value:4.02e-11<br/>Zscore:5.16<br/>#EST:15<br/>Adj. #EST:10.31

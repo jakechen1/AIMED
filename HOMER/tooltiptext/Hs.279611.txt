@@ -1,0 +1,1 @@
+trachea	HMID:HM07252<br/>GeneSymbol:DMBT1<br/>P-value:5.23e-145<br/>Zscore:6.83<br/>#EST:99<br/>Adj. #EST:57.75

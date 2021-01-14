@@ -1,0 +1,2 @@
+thymus	HMID:HM01827<br/>GeneSymbol:GFI1<br/>P-value:8.47e-12<br/>Zscore:4.36<br/>#EST:12<br/>Adj. #EST:16.48
+bone marrow	HMID:HM02084<br/>GeneSymbol:GFI1<br/>P-value:1.81e-12<br/>Zscore:5.03<br/>#EST:12<br/>Adj. #EST:18.85

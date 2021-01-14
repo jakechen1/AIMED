@@ -1,0 +1,1 @@
+mouth	HMID:HM01522<br/>GeneSymbol:CHSY1<br/>P-value:4.8e-11<br/>Zscore:5.01<br/>#EST:17<br/>Adj. #EST:8.29

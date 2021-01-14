@@ -1,0 +1,1 @@
+larynx	HMID:HM04061<br/>GeneSymbol:<br/>P-value:3.46e-19<br/>Zscore:7.01<br/>#EST:12<br/>Adj. #EST:68.46

@@ -1,0 +1,2 @@
+eye	HMID:HM05249<br/>GeneSymbol:NEUROD1<br/>P-value:4.08e-28<br/>Zscore:4.47<br/>#EST:40<br/>Adj. #EST:9.62
+pancreas	HMID:HM05299<br/>GeneSymbol:NEUROD1<br/>P-value:7.96e-29<br/>Zscore:4.47<br/>#EST:41<br/>Adj. #EST:9.61

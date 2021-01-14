@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02022<br/>GeneSymbol:KCNJ16<br/>P-value:4.87e-33<br/>Zscore:6.82<br/>#EST:23<br/>Adj. #EST:55.89

@@ -1,0 +1,2 @@
+ear	HMID:HM00295<br/>GeneSymbol:COL1A2<br/>P-value:0<br/>Zscore:4.93<br/>#EST:191<br/>Adj. #EST:28.64
+leiomios	HMID:HM00295<br/>GeneSymbol:COL1A2<br/>P-value:2.68e-73<br/>Zscore:4.59<br/>#EST:70<br/>Adj. #EST:26.84

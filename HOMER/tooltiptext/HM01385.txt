@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01385<br/>GeneSymbol:LGALS3BP<br/>P-value:6.8e-49<br/>Zscore:4.01<br/>#EST:111<br/>Adj. #EST:5.92

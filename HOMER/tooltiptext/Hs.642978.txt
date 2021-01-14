@@ -1,0 +1,1 @@
+embryo	HMID:HM05429<br/>GeneSymbol:<br/>P-value:1.86e-30<br/>Zscore:6.86<br/>#EST:29<br/>Adj. #EST:17.29

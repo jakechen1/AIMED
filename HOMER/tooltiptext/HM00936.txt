@@ -1,0 +1,1 @@
+kidney	HMID:HM00936<br/>GeneSymbol:SLC7A7<br/>P-value:1.72e-72<br/>Zscore:5.13<br/>#EST:123<br/>Adj. #EST:7.98

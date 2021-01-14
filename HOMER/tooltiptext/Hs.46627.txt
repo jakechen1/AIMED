@@ -1,0 +1,2 @@
+kidney	HMID:HM03249<br/>GeneSymbol:NKAIN4<br/>P-value:9.6e-16<br/>Zscore:4.56<br/>#EST:33<br/>Adj. #EST:5.62
+stomach	HMID:HM01600<br/>GeneSymbol:NKAIN4<br/>P-value:2.9e-11<br/>Zscore:4.12<br/>#EST:25<br/>Adj. #EST:5.13

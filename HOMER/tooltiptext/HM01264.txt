@@ -1,0 +1,2 @@
+esophagus	HMID:HM01264<br/>GeneSymbol:AQP3<br/>P-value:8.58e-53<br/>Zscore:4.67<br/>#EST:50<br/>Adj. #EST:26.16
+salivary gland	HMID:HM01264<br/>GeneSymbol:AQP3<br/>P-value:2.59e-54<br/>Zscore:4.78<br/>#EST:51<br/>Adj. #EST:26.75

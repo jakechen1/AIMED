@@ -1,0 +1,1 @@
+placenta	HMID:HM06832<br/>GeneSymbol:PGF<br/>P-value:2.16e-80<br/>Zscore:5.64<br/>#EST:98<br/>Adj. #EST:12.17

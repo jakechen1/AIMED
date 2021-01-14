@@ -1,0 +1,1 @@
+spleen	HMID:HM00354<br/>GeneSymbol:PDZK1P1<br/>P-value:2.05e-07<br/>Zscore:5.06<br/>#EST:10<br/>Adj. #EST:7.78

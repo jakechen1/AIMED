@@ -1,0 +1,1 @@
+ear	HMID:HM04070<br/>GeneSymbol:CRISPLD1<br/>P-value:3.11e-19<br/>Zscore:6.71<br/>#EST:15<br/>Adj. #EST:37.47

@@ -1,0 +1,1 @@
+thymus	HMID:HM06288<br/>GeneSymbol:CCR9<br/>P-value:1.3e-49<br/>Zscore:6.74<br/>#EST:29<br/>Adj. #EST:67.48

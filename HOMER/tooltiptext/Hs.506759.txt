@@ -1,0 +1,1 @@
+muscle	HMID:HM06611<br/>GeneSymbol:ATP2A2<br/>P-value:5.4e-65<br/>Zscore:5.73<br/>#EST:132<br/>Adj. #EST:6.72

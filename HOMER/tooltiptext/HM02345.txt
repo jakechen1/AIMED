@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02345<br/>GeneSymbol:C9orf93<br/>P-value:4.48e-28<br/>Zscore:6.76<br/>#EST:29<br/>Adj. #EST:18.33

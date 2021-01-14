@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06180<br/>GeneSymbol:MSRA<br/>P-value:1.06e-07<br/>Zscore:4.28<br/>#EST:13<br/>Adj. #EST:6.65

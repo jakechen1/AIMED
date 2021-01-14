@@ -1,0 +1,1 @@
+spleen	HMID:HM04735<br/>GeneSymbol:CLEC1B<br/>P-value:2.73e-23<br/>Zscore:6.44<br/>#EST:24<br/>Adj. #EST:13.34

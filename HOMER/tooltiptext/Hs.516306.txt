@@ -1,0 +1,2 @@
+lymph	HMID:HM02501<br/>GeneSymbol:PSD4<br/>P-value:2.58e-13<br/>Zscore:4.44<br/>#EST:19<br/>Adj. #EST:9.7
+thymus	HMID:HM03904<br/>GeneSymbol:PSD4<br/>P-value:2.14e-18<br/>Zscore:4.14<br/>#EST:28<br/>Adj. #EST:9.12

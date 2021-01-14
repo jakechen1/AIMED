@@ -1,0 +1,1 @@
+spleen	HMID:HM01788<br/>GeneSymbol:<br/>P-value:1.12e-11<br/>Zscore:5.7<br/>#EST:15<br/>Adj. #EST:9.12

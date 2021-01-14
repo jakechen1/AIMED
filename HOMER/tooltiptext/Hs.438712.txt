@@ -1,0 +1,1 @@
+spleen	HMID:HM05971<br/>GeneSymbol:GDPD2<br/>P-value:2.47e-40<br/>Zscore:6.56<br/>#EST:55<br/>Adj. #EST:9.55

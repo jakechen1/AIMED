@@ -1,0 +1,1 @@
+bladder	HMID:HM06087<br/>GeneSymbol:SUMO2<br/>P-value:2.79e-43<br/>Zscore:5.88<br/>#EST:54<br/>Adj. #EST:14.36

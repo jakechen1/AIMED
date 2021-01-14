@@ -1,0 +1,1 @@
+stomach	HMID:HM06171<br/>GeneSymbol:TP53I13<br/>P-value:1.68e-45<br/>Zscore:5.49<br/>#EST:75<br/>Adj. #EST:8.31

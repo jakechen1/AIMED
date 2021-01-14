@@ -1,0 +1,1 @@
+lung	HMID:HM01967<br/>GeneSymbol:LDLRAD1<br/>P-value:3.49e-12<br/>Zscore:5.29<br/>#EST:11<br/>Adj. #EST:14.57

@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM01256<br/>GeneSymbol:EPRS<br/>P-value:2.61e-10<br/>Zscore:4.65<br/>#EST:24<br/>Adj. #EST:5.03

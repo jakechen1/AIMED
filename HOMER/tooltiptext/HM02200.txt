@@ -1,0 +1,1 @@
+tonsil	HMID:HM02200<br/>GeneSymbol:CD27<br/>P-value:5.03e-30<br/>Zscore:6.96<br/>#EST:18<br/>Adj. #EST:88.62

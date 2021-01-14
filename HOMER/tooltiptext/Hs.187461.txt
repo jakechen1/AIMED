@@ -1,0 +1,1 @@
+pancreas	HMID:HM02755<br/>GeneSymbol:FBXO27<br/>P-value:3.58e-14<br/>Zscore:6<br/>#EST:22<br/>Adj. #EST:7.89

@@ -1,0 +1,1 @@
+kidney	HMID:HM01710<br/>GeneSymbol:LRRN4<br/>P-value:1.46e-11<br/>Zscore:5.78<br/>#EST:18<br/>Adj. #EST:7.6

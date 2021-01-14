@@ -1,0 +1,1 @@
+brain	HMID:HM03896<br/>GeneSymbol:KCNF1<br/>P-value:3.8e-16<br/>Zscore:6.12<br/>#EST:29<br/>Adj. #EST:4.54

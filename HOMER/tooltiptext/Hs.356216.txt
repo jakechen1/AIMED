@@ -1,0 +1,1 @@
+trachea	HMID:HM01500<br/>GeneSymbol:FAM46C<br/>P-value:5.4e-11<br/>Zscore:4.57<br/>#EST:16<br/>Adj. #EST:9.05

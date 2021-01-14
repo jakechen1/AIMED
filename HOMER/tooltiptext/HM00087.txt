@@ -1,0 +1,1 @@
+pancreas	HMID:HM00087<br/>GeneSymbol:PNLIP<br/>P-value:0<br/>Zscore:7.06<br/>#EST:951<br/>Adj. #EST:27.49

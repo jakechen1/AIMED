@@ -1,0 +1,1 @@
+liver	HMID:HM06626<br/>GeneSymbol:C2<br/>P-value:6.46e-66<br/>Zscore:4.54<br/>#EST:136<br/>Adj. #EST:6.12

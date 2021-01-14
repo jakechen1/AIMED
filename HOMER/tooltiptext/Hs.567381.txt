@@ -1,0 +1,1 @@
+adipose	HMID:HM02927<br/>GeneSymbol:GYG2<br/>P-value:1.09e-14<br/>Zscore:6.98<br/>#EST:11<br/>Adj. #EST:39.35

@@ -1,0 +1,1 @@
+liver	HMID:HM01148<br/>GeneSymbol:C4BPB<br/>P-value:1.37e-59<br/>Zscore:5.46<br/>#EST:68<br/>Adj. #EST:12.8

@@ -1,0 +1,1 @@
+heart	HMID:HM03506<br/>GeneSymbol:HSPB3<br/>P-value:1.39e-16<br/>Zscore:6.53<br/>#EST:17<br/>Adj. #EST:16.57

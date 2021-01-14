@@ -1,0 +1,1 @@
+kidney	HMID:HM03432<br/>GeneSymbol:ARSE<br/>P-value:3.3e-16<br/>Zscore:4.05<br/>#EST:29<br/>Adj. #EST:6.74

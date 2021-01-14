@@ -1,0 +1,1 @@
+trachea	HMID:HM00476<br/>GeneSymbol:HSPA6<br/>P-value:6.54e-08<br/>Zscore:4.04<br/>#EST:10<br/>Adj. #EST:10.26

@@ -1,0 +1,1 @@
+lymph	HMID:HM04230<br/>GeneSymbol:CCDC88C<br/>P-value:3.16e-20<br/>Zscore:6.08<br/>#EST:22<br/>Adj. #EST:16.69

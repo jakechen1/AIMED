@@ -1,0 +1,1 @@
+trachea	HMID:HM01487<br/>GeneSymbol:C10orf81<br/>P-value:1.63e-45<br/>Zscore:6.99<br/>#EST:32<br/>Adj. #EST:49.66

@@ -1,0 +1,1 @@
+lymph	HMID:HM03713<br/>GeneSymbol:PELP1<br/>P-value:1.66e-17<br/>Zscore:5.64<br/>#EST:30<br/>Adj. #EST:7.79

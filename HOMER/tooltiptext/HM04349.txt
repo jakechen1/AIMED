@@ -1,0 +1,1 @@
+thyroid	HMID:HM04349<br/>GeneSymbol:SFRP1<br/>P-value:2.62e-14<br/>Zscore:4.76<br/>#EST:24<br/>Adj. #EST:7.8

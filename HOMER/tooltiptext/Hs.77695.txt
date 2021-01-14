@@ -1,0 +1,1 @@
+thymus	HMID:HM02037<br/>GeneSymbol:DLGAP5<br/>P-value:2.47e-12<br/>Zscore:4.86<br/>#EST:23<br/>Adj. #EST:6.55

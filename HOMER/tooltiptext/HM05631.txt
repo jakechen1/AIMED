@@ -1,0 +1,1 @@
+esophagus	HMID:HM05631<br/>GeneSymbol:ECM1<br/>P-value:1.08e-09<br/>Zscore:4.35<br/>#EST:17<br/>Adj. #EST:6.91

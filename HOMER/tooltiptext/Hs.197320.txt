@@ -1,0 +1,1 @@
+stomach	HMID:HM06297<br/>GeneSymbol:TLE1<br/>P-value:7.27e-50<br/>Zscore:4.48<br/>#EST:104<br/>Adj. #EST:6.25

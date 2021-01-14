@@ -1,0 +1,1 @@
+ear	HMID:HM03874<br/>GeneSymbol:NID2<br/>P-value:3.07e-18<br/>Zscore:5.89<br/>#EST:16<br/>Adj. #EST:27.45

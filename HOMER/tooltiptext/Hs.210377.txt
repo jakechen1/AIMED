@@ -1,0 +1,1 @@
+testis	HMID:HM04641<br/>GeneSymbol:CCDC38<br/>P-value:1.38e-22<br/>Zscore:7.07<br/>#EST:19<br/>Adj. #EST:14.14

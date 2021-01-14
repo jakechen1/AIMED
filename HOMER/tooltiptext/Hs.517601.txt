@@ -1,0 +1,1 @@
+tonsil	HMID:HM04195<br/>GeneSymbol:RAC2<br/>P-value:5.39e-20<br/>Zscore:5.86<br/>#EST:21<br/>Adj. #EST:18.61

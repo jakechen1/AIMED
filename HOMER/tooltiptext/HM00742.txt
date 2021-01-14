@@ -1,0 +1,1 @@
+bladder	HMID:HM00742<br/>GeneSymbol:KRT7<br/>P-value:3.28e-92<br/>Zscore:5.18<br/>#EST:112<br/>Adj. #EST:15.72

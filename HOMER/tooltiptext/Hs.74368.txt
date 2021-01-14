@@ -1,0 +1,1 @@
+amnion	HMID:HM02702<br/>GeneSymbol:CKAP4<br/>P-value:5.33e-14<br/>Zscore:6.62<br/>#EST:15<br/>Adj. #EST:16.8

@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01341<br/>GeneSymbol:MGAT4B<br/>P-value:1.07e-50<br/>Zscore:6.56<br/>#EST:62<br/>Adj. #EST:15.2

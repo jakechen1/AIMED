@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03894<br/>GeneSymbol:ARL3<br/>P-value:2.38e-18<br/>Zscore:6.69<br/>#EST:20<br/>Adj. #EST:16.94

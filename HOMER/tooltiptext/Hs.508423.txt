@@ -1,0 +1,1 @@
+prostate	HMID:HM07045<br/>GeneSymbol:ABCC4<br/>P-value:3.23e-103<br/>Zscore:6.28<br/>#EST:122<br/>Adj. #EST:14.03

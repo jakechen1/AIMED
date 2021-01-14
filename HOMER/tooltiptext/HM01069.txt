@@ -1,0 +1,1 @@
+stomach	HMID:HM01069<br/>GeneSymbol:PLP2<br/>P-value:8.52e-64<br/>Zscore:4.84<br/>#EST:114<br/>Adj. #EST:7.71

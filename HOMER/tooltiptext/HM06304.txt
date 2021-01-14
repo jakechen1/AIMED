@@ -1,0 +1,1 @@
+thyroid	HMID:HM06304<br/>GeneSymbol:HEATR7A<br/>P-value:3.39e-07<br/>Zscore:4.23<br/>#EST:10<br/>Adj. #EST:8.62

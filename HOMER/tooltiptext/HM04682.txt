@@ -1,0 +1,1 @@
+lymph node	HMID:HM04682<br/>GeneSymbol:DENND4A<br/>P-value:5.6e-13<br/>Zscore:5.8<br/>#EST:17<br/>Adj. #EST:10.73

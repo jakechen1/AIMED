@@ -1,0 +1,1 @@
+testis	HMID:HM04118<br/>GeneSymbol:FAM46D<br/>P-value:3.23e-15<br/>Zscore:5.69<br/>#EST:15<br/>Adj. #EST:11.89

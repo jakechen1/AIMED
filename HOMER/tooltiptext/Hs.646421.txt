@@ -1,0 +1,1 @@
+testis	HMID:HM06180<br/>GeneSymbol:USP44<br/>P-value:1.09e-45<br/>Zscore:6.44<br/>#EST:55<br/>Adj. #EST:10.1

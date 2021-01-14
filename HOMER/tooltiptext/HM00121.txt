@@ -1,0 +1,1 @@
+stomach	HMID:HM00121<br/>GeneSymbol:PGA3<br/>P-value:0<br/>Zscore:6.7<br/>#EST:1040<br/>Adj. #EST:39.5

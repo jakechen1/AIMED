@@ -1,0 +1,1 @@
+kidney	HMID:HM04396<br/>GeneSymbol:TREH<br/>P-value:3.09e-21<br/>Zscore:7.03<br/>#EST:18<br/>Adj. #EST:20.77

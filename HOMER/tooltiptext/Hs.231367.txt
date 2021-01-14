@@ -1,0 +1,1 @@
+blood	HMID:HM01538<br/>GeneSymbol:IL2RA<br/>P-value:4.33e-11<br/>Zscore:4.05<br/>#EST:13<br/>Adj. #EST:11.89

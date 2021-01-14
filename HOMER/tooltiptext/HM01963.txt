@@ -1,0 +1,1 @@
+placenta	HMID:HM01963<br/>GeneSymbol:CLEC1A<br/>P-value:5.18e-34<br/>Zscore:4.69<br/>#EST:42<br/>Adj. #EST:11.32

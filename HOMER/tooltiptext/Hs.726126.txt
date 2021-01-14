@@ -1,0 +1,1 @@
+spleen	HMID:HM05254<br/>GeneSymbol:FLVCR2<br/>P-value:3.29e-28<br/>Zscore:4.99<br/>#EST:66<br/>Adj. #EST:5.07

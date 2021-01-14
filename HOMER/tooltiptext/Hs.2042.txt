@@ -1,0 +1,1 @@
+testis	HMID:HM07112<br/>GeneSymbol:CRISP2<br/>P-value:6e-112<br/>Zscore:7.03<br/>#EST:126<br/>Adj. #EST:11.13

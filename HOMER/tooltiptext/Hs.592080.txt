@@ -1,0 +1,1 @@
+pancreas	HMID:HM05318<br/>GeneSymbol:SPSB3<br/>P-value:4.67e-29<br/>Zscore:4.24<br/>#EST:88<br/>Adj. #EST:4.15

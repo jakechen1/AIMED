@@ -1,0 +1,1 @@
+blood	HMID:HM03659<br/>GeneSymbol:TNFRSF18<br/>P-value:2.68e-17<br/>Zscore:5.93<br/>#EST:15<br/>Adj. #EST:22.13

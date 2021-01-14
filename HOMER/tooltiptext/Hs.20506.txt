@@ -1,0 +1,1 @@
+spleen	HMID:HM02888<br/>GeneSymbol:ZNF677<br/>P-value:1.38e-14<br/>Zscore:5.18<br/>#EST:29<br/>Adj. #EST:5.64

@@ -1,0 +1,1 @@
+prostate	HMID:HM04705<br/>GeneSymbol:IPPK<br/>P-value:7.29e-13<br/>Zscore:4<br/>#EST:28<br/>Adj. #EST:5.32

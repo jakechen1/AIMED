@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02573<br/>GeneSymbol:RPS7<br/>P-value:1.69e-13<br/>Zscore:5.76<br/>#EST:20<br/>Adj. #EST:9.39

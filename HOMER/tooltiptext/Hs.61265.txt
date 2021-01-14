@@ -1,0 +1,1 @@
+rectum	HMID:HM04929<br/>GeneSymbol:FAM3D<br/>P-value:9.42e-25<br/>Zscore:6.94<br/>#EST:14<br/>Adj. #EST:113.72

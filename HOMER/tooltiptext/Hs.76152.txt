@@ -1,0 +1,1 @@
+ganglia	HMID:HM01798<br/>GeneSymbol:AQP1<br/>P-value:1.08e-11<br/>Zscore:4.98<br/>#EST:15<br/>Adj. #EST:11.52

@@ -1,0 +1,1 @@
+spleen	HMID:HM00179<br/>GeneSymbol:BGN<br/>P-value:0<br/>Zscore:4.85<br/>#EST:556<br/>Adj. #EST:8.43

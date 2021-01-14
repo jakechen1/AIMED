@@ -1,0 +1,1 @@
+cervix	HMID:HM04489<br/>GeneSymbol:CDT1<br/>P-value:1.1e-13<br/>Zscore:4.52<br/>#EST:19<br/>Adj. #EST:10.19

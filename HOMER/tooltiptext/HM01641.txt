@@ -1,0 +1,1 @@
+kidney	HMID:HM01641<br/>GeneSymbol:C12orf59<br/>P-value:2.76e-41<br/>Zscore:6.86<br/>#EST:38<br/>Adj. #EST:19.13

@@ -1,0 +1,1 @@
+testis	HMID:HM05777<br/>GeneSymbol:FBXO24<br/>P-value:3.32e-36<br/>Zscore:5.76<br/>#EST:45<br/>Adj. #EST:9.64

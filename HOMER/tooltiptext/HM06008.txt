@@ -1,0 +1,1 @@
+tonsil	HMID:HM06008<br/>GeneSymbol:NIF3L1<br/>P-value:2.51e-08<br/>Zscore:6.19<br/>#EST:11<br/>Adj. #EST:9.93

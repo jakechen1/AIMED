@@ -1,0 +1,1 @@
+mouth	HMID:HM01551<br/>GeneSymbol:SERPINB13<br/>P-value:1.37e-43<br/>Zscore:6.85<br/>#EST:27<br/>Adj. #EST:63.15

@@ -1,0 +1,1 @@
+bladder	HMID:HM03512<br/>GeneSymbol:TMEM126B<br/>P-value:1.34e-16<br/>Zscore:5.35<br/>#EST:21<br/>Adj. #EST:12.49

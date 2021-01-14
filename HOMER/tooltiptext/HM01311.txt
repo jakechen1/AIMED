@@ -1,0 +1,1 @@
+colon	HMID:HM01311<br/>GeneSymbol:MT1A<br/>P-value:5.57e-52<br/>Zscore:6.64<br/>#EST:42<br/>Adj. #EST:25.17

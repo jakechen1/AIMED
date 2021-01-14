@@ -1,0 +1,1 @@
+prostate	HMID:HM00272<br/>GeneSymbol:ANO7<br/>P-value:3.79e-07<br/>Zscore:4.53<br/>#EST:11<br/>Adj. #EST:7.03

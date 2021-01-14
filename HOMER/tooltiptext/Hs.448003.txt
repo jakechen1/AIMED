@@ -1,0 +1,1 @@
+spleen	HMID:HM04797<br/>GeneSymbol:NSUN3<br/>P-value:1.14e-23<br/>Zscore:4.16<br/>#EST:42<br/>Adj. #EST:6.7

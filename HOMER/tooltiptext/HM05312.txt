@@ -1,0 +1,1 @@
+mouth	HMID:HM05312<br/>GeneSymbol:CHSY1<br/>P-value:8.5e-11<br/>Zscore:4.99<br/>#EST:17<br/>Adj. #EST:7.99

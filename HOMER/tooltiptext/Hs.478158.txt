@@ -1,0 +1,1 @@
+spleen	HMID:HM00068<br/>GeneSymbol:EGFEM1P<br/>P-value:3.26e-06<br/>Zscore:4.35<br/>#EST:12<br/>Adj. #EST:4.96

@@ -1,0 +1,1 @@
+lymph	HMID:HM04766<br/>GeneSymbol:INTS9<br/>P-value:2.03e-23<br/>Zscore:6.4<br/>#EST:29<br/>Adj. #EST:13.4

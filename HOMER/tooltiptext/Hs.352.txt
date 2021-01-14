@@ -1,0 +1,1 @@
+kidney	HMID:HM01214<br/>GeneSymbol:FOLR3<br/>P-value:3.22e-10<br/>Zscore:4.85<br/>#EST:13<br/>Adj. #EST:9.75

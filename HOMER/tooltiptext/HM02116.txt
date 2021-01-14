@@ -1,0 +1,1 @@
+trachea	HMID:HM02116<br/>GeneSymbol:PLS1<br/>P-value:1.78e-31<br/>Zscore:6.02<br/>#EST:29<br/>Adj. #EST:24.97

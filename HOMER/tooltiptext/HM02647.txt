@@ -1,0 +1,1 @@
+peritoneum	HMID:HM02647<br/>GeneSymbol:CKM<br/>P-value:1.5e-24<br/>Zscore:6.92<br/>#EST:12<br/>Adj. #EST:213.73

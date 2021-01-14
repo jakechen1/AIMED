@@ -1,0 +1,1 @@
+thyroid	HMID:HM00338<br/>GeneSymbol:PAX8<br/>P-value:0<br/>Zscore:6.99<br/>#EST:127<br/>Adj. #EST:55.62

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06230<br/>GeneSymbol:CINP<br/>P-value:1.84e-07<br/>Zscore:4.32<br/>#EST:10<br/>Adj. #EST:9.35

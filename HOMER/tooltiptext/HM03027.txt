@@ -1,0 +1,2 @@
+heart	HMID:HM03027<br/>GeneSymbol:MYOM1<br/>P-value:1.32e-21<br/>Zscore:4.71<br/>#EST:25<br/>Adj. #EST:13.83
+muscle	HMID:HM03027<br/>GeneSymbol:MYOM1<br/>P-value:2.47e-15<br/>Zscore:4<br/>#EST:19<br/>Adj. #EST:11.88

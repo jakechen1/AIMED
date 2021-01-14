@@ -1,0 +1,1 @@
+small intestine	HMID:HM00857<br/>GeneSymbol:TPD52<br/>P-value:3.93e-09<br/>Zscore:4.54<br/>#EST:22<br/>Adj. #EST:4.74

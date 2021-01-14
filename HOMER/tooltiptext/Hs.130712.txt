@@ -1,0 +1,1 @@
+lymph	HMID:HM05575<br/>GeneSymbol:ADCK4<br/>P-value:9.73e-33<br/>Zscore:6.81<br/>#EST:27<br/>Adj. #EST:32.52

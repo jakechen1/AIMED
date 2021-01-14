@@ -1,0 +1,1 @@
+lymph node	HMID:HM06104<br/>GeneSymbol:LARP4B<br/>P-value:1.19e-43<br/>Zscore:6.48<br/>#EST:60<br/>Adj. #EST:11.54

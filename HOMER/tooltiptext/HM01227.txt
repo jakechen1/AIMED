@@ -1,0 +1,1 @@
+small intestine	HMID:HM01227<br/>GeneSymbol:C1S<br/>P-value:3.55e-56<br/>Zscore:4.67<br/>#EST:100<br/>Adj. #EST:8.17

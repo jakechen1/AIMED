@@ -1,0 +1,1 @@
+muscle	HMID:HM03610<br/>GeneSymbol:NOS1<br/>P-value:1.01e-17<br/>Zscore:6.76<br/>#EST:17<br/>Adj. #EST:19.18

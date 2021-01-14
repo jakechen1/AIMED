@@ -1,0 +1,1 @@
+blood	HMID:HM02762<br/>GeneSymbol:CCL22<br/>P-value:3.36e-14<br/>Zscore:4.04<br/>#EST:14<br/>Adj. #EST:16.85

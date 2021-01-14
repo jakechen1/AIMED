@@ -1,0 +1,1 @@
+stomach	HMID:HM06653<br/>GeneSymbol:PHGR1<br/>P-value:6.98e-68<br/>Zscore:5.55<br/>#EST:71<br/>Adj. #EST:16.87

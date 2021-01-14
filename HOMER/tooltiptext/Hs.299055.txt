@@ -1,0 +1,1 @@
+tonsil	HMID:HM02779<br/>GeneSymbol:GDI2<br/>P-value:2.59e-14<br/>Zscore:5.31<br/>#EST:33<br/>Adj. #EST:5.37

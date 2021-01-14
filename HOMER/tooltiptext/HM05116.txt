@@ -1,0 +1,1 @@
+mouth	HMID:HM05116<br/>GeneSymbol:CXCL11<br/>P-value:1.69e-11<br/>Zscore:6.33<br/>#EST:10<br/>Adj. #EST:22.84

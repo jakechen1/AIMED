@@ -1,0 +1,1 @@
+amnion	HMID:HM00659<br/>GeneSymbol:VCL<br/>P-value:1.72e-08<br/>Zscore:5.7<br/>#EST:11<br/>Adj. #EST:10.37

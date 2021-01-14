@@ -1,0 +1,1 @@
+nerve	HMID:HM00444<br/>GeneSymbol:NT5DC1<br/>P-value:8.08e-08<br/>Zscore:4.2<br/>#EST:17<br/>Adj. #EST:5.05

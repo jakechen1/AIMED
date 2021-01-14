@@ -1,0 +1,1 @@
+ganglia	HMID:HM03521<br/>GeneSymbol:JUN<br/>P-value:3.24e-18<br/>Zscore:5.01<br/>#EST:22<br/>Adj. #EST:14.04

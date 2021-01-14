@@ -1,0 +1,1 @@
+colon	HMID:HM01192<br/>GeneSymbol:HOXB7<br/>P-value:3.69e-10<br/>Zscore:4.41<br/>#EST:19<br/>Adj. #EST:6.03

@@ -1,0 +1,1 @@
+thymus	HMID:HM03197<br/>GeneSymbol:ANKRD49<br/>P-value:2.57e-20<br/>Zscore:5.44<br/>#EST:27<br/>Adj. #EST:11.36

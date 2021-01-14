@@ -1,0 +1,1 @@
+bone	HMID:HM01697<br/>GeneSymbol:EPC1<br/>P-value:1.24e-39<br/>Zscore:4.91<br/>#EST:44<br/>Adj. #EST:15.55

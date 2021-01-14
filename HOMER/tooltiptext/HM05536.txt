@@ -1,0 +1,1 @@
+skin	HMID:HM05536<br/>GeneSymbol:NCCRP1<br/>P-value:5.34e-10<br/>Zscore:5.25<br/>#EST:11<br/>Adj. #EST:11.67

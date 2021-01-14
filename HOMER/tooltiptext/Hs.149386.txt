@@ -1,0 +1,1 @@
+skin	HMID:HM06672<br/>GeneSymbol:KPRP<br/>P-value:5.37e-69<br/>Zscore:6.98<br/>#EST:55<br/>Adj. #EST:23.04

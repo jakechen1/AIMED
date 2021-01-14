@@ -1,0 +1,1 @@
+trachea	HMID:HM02213<br/>GeneSymbol:TMC5<br/>P-value:7.69e-30<br/>Zscore:5.91<br/>#EST:29<br/>Adj. #EST:22.09

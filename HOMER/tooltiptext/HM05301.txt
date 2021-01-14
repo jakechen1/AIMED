@@ -1,0 +1,1 @@
+mouth	HMID:HM05301<br/>GeneSymbol:PSME4<br/>P-value:7.99e-11<br/>Zscore:4.69<br/>#EST:23<br/>Adj. #EST:5.54

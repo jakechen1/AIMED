@@ -1,0 +1,1 @@
+mouth	HMID:HM01851<br/>GeneSymbol:PDZD2<br/>P-value:6.75e-12<br/>Zscore:5.32<br/>#EST:20<br/>Adj. #EST:7.47

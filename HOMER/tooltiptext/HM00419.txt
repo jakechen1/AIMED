@@ -1,0 +1,1 @@
+placenta	HMID:HM00419<br/>GeneSymbol:MMP11<br/>P-value:0<br/>Zscore:6.28<br/>#EST:206<br/>Adj. #EST:10.07

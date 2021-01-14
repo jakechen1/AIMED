@@ -1,0 +1,1 @@
+bladder	HMID:HM04772<br/>GeneSymbol:MRPL50<br/>P-value:1.91e-23<br/>Zscore:6.55<br/>#EST:24<br/>Adj. #EST:19.85

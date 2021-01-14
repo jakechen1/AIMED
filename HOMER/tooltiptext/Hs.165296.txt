@@ -1,0 +1,1 @@
+pharynx	HMID:HM03755<br/>GeneSymbol:KLK13<br/>P-value:9.9e-18<br/>Zscore:6.86<br/>#EST:10<br/>Adj. #EST:83.87

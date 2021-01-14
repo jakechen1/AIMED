@@ -1,0 +1,1 @@
+trachea	HMID:HM04288<br/>GeneSymbol:NR4A2<br/>P-value:1.48e-14<br/>Zscore:5.39<br/>#EST:23<br/>Adj. #EST:8.48

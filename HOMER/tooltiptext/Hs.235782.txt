@@ -1,0 +1,1 @@
+colon	HMID:HM03080<br/>GeneSymbol:SLCO4A1<br/>P-value:3.44e-15<br/>Zscore:4.26<br/>#EST:32<br/>Adj. #EST:5.62

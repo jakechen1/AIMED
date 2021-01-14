@@ -1,0 +1,1 @@
+leiomios	HMID:HM03098<br/>GeneSymbol:PTPRM<br/>P-value:3e-15<br/>Zscore:6.5<br/>#EST:12<br/>Adj. #EST:35.33

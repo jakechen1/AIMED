@@ -1,0 +1,1 @@
+thymus	HMID:HM06747<br/>GeneSymbol:ELOVL4<br/>P-value:2.35e-73<br/>Zscore:6.89<br/>#EST:61<br/>Adj. #EST:31.74

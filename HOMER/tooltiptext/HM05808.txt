@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05808<br/>GeneSymbol:THRA<br/>P-value:4.5e-09<br/>Zscore:4.82<br/>#EST:12<br/>Adj. #EST:10.16

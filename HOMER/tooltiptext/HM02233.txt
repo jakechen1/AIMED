@@ -1,0 +1,1 @@
+larynx	HMID:HM02233<br/>GeneSymbol:SLC24A2<br/>P-value:1.72e-29<br/>Zscore:5.57<br/>#EST:21<br/>Adj. #EST:50.54

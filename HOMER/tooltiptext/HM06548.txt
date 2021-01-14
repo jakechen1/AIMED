@@ -1,0 +1,1 @@
+bladder	HMID:HM06548<br/>GeneSymbol:GOLT1B<br/>P-value:7.32e-06<br/>Zscore:4.63<br/>#EST:10<br/>Adj. #EST:6.17

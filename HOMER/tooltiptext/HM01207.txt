@@ -1,0 +1,1 @@
+brain	HMID:HM01207<br/>GeneSymbol:SLC6A7<br/>P-value:6.18e-57<br/>Zscore:6.86<br/>#EST:86<br/>Adj. #EST:5.26

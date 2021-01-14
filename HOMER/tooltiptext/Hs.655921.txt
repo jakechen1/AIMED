@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00116<br/>GeneSymbol:ZBTB8OS<br/>P-value:1.59e-06<br/>Zscore:4.74<br/>#EST:12<br/>Adj. #EST:5.74

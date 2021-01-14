@@ -1,0 +1,1 @@
+lymph	HMID:HM04313<br/>GeneSymbol:ALG3<br/>P-value:1.77e-14<br/>Zscore:4.6<br/>#EST:22<br/>Adj. #EST:8.96

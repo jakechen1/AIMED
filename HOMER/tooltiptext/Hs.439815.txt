@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02502<br/>GeneSymbol:HBXIP<br/>P-value:2.56e-13<br/>Zscore:6.46<br/>#EST:17<br/>Adj. #EST:11.87

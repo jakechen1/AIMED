@@ -1,0 +1,1 @@
+lymph	HMID:HM03406<br/>GeneSymbol:DTX1<br/>P-value:5.59e-19<br/>Zscore:5.01<br/>#EST:17<br/>Adj. #EST:24.63

@@ -1,0 +1,1 @@
+thymus	HMID:HM03577<br/>GeneSymbol:TTK<br/>P-value:6.91e-17<br/>Zscore:5.68<br/>#EST:25<br/>Adj. #EST:9.39

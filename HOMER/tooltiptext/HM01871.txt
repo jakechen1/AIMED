@@ -1,0 +1,2 @@
+breast	HMID:HM01871<br/>GeneSymbol:<br/>P-value:5.64e-17<br/>Zscore:4.01<br/>#EST:23<br/>Adj. #EST:10.01
+eye	HMID:HM01871<br/>GeneSymbol:<br/>P-value:1.07e-35<br/>Zscore:5.63<br/>#EST:40<br/>Adj. #EST:13.81

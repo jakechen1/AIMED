@@ -1,0 +1,1 @@
+thymus	HMID:HM01979<br/>GeneSymbol:SH3TC1<br/>P-value:8.57e-34<br/>Zscore:6.01<br/>#EST:38<br/>Adj. #EST:16.07

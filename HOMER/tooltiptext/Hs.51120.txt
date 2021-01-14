@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06420<br/>GeneSymbol:CAMP<br/>P-value:4.8e-55<br/>Zscore:7.03<br/>#EST:35<br/>Adj. #EST:59.89

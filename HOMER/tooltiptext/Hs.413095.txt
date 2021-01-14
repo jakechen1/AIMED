@@ -1,0 +1,1 @@
+colon	HMID:HM01683<br/>GeneSymbol:SLC6A20<br/>P-value:1.61e-11<br/>Zscore:5.15<br/>#EST:14<br/>Adj. #EST:10.91

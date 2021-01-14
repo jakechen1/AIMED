@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00929<br/>GeneSymbol:SLC22A16<br/>P-value:2.34e-09<br/>Zscore:5.96<br/>#EST:11<br/>Adj. #EST:11.86

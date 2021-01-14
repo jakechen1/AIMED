@@ -1,0 +1,1 @@
+lymph node	HMID:HM06731<br/>GeneSymbol:PIK3AP1<br/>P-value:1.76e-72<br/>Zscore:6.71<br/>#EST:70<br/>Adj. #EST:22.67

@@ -1,0 +1,1 @@
+amnion	HMID:HM02684<br/>GeneSymbol:CREBZF<br/>P-value:6.64e-14<br/>Zscore:6.04<br/>#EST:13<br/>Adj. #EST:22.47

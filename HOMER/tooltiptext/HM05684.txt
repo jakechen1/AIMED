@@ -1,0 +1,1 @@
+lymph node	HMID:HM05684<br/>GeneSymbol:NFATC1<br/>P-value:1.82e-09<br/>Zscore:4.06<br/>#EST:15<br/>Adj. #EST:7.6

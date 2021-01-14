@@ -1,0 +1,1 @@
+pancreas	HMID:HM01064<br/>GeneSymbol:NDUFA8<br/>P-value:3.85e-64<br/>Zscore:5.81<br/>#EST:107<br/>Adj. #EST:8.11

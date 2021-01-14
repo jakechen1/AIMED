@@ -1,0 +1,1 @@
+stomach	HMID:HM00690<br/>GeneSymbol:GLTPD2<br/>P-value:1.41e-08<br/>Zscore:4.57<br/>#EST:11<br/>Adj. #EST:9.46

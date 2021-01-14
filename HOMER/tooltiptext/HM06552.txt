@@ -1,0 +1,2 @@
+parathyroid gland	HMID:HM06552<br/>GeneSymbol:SUMO1<br/>P-value:8.99e-06<br/>Zscore:4.04<br/>#EST:10<br/>Adj. #EST:6.04
+salivary gland	HMID:HM06552<br/>GeneSymbol:SUMO1<br/>P-value:7.66e-06<br/>Zscore:4.13<br/>#EST:10<br/>Adj. #EST:6.15

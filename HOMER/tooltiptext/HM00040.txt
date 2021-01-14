@@ -1,0 +1,2 @@
+blood	HMID:HM00040<br/>GeneSymbol:MMP9<br/>P-value:0<br/>Zscore:5.15<br/>#EST:412<br/>Adj. #EST:26.04
+leiomios	HMID:HM00040<br/>GeneSymbol:MMP9<br/>P-value:7.33e-16<br/>Zscore:4.44<br/>#EST:15<br/>Adj. #EST:22.64

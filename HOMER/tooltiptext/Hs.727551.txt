@@ -1,0 +1,1 @@
+trachea	HMID:HM01264<br/>GeneSymbol:RPRD1B<br/>P-value:2.52e-10<br/>Zscore:4.03<br/>#EST:20<br/>Adj. #EST:6.13

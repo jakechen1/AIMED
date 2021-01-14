@@ -1,0 +1,1 @@
+colon	HMID:HM01109<br/>GeneSymbol:GPR35<br/>P-value:1.28e-61<br/>Zscore:6.76<br/>#EST:54<br/>Adj. #EST:22.22

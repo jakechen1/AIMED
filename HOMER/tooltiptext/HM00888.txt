@@ -1,0 +1,1 @@
+larynx	HMID:HM00888<br/>GeneSymbol:CES1<br/>P-value:7.58e-76<br/>Zscore:5.92<br/>#EST:59<br/>Adj. #EST:43.57

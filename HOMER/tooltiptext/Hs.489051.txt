@@ -1,0 +1,2 @@
+colon	HMID:HM06634<br/>GeneSymbol:STEAP2<br/>P-value:1.46e-66<br/>Zscore:4.08<br/>#EST:103<br/>Adj. #EST:9.15
+prostate	HMID:HM06859<br/>GeneSymbol:STEAP2<br/>P-value:7.68e-83<br/>Zscore:4.92<br/>#EST:115<br/>Adj. #EST:10.86

@@ -1,0 +1,1 @@
+placenta	HMID:HM06864<br/>GeneSymbol:FSTL3<br/>P-value:2.92e-83<br/>Zscore:6.13<br/>#EST:139<br/>Adj. #EST:7.97

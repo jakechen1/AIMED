@@ -1,0 +1,1 @@
+larynx	HMID:HM05481<br/>GeneSymbol:CCND1<br/>P-value:3.53e-10<br/>Zscore:4.54<br/>#EST:20<br/>Adj. #EST:6.07

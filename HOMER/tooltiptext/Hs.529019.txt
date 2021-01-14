@@ -1,0 +1,1 @@
+bone marrow	HMID:HM07280<br/>GeneSymbol:BPI<br/>P-value:1.73e-153<br/>Zscore:7.05<br/>#EST:96<br/>Adj. #EST:64.78

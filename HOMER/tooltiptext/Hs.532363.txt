@@ -1,0 +1,1 @@
+breast	HMID:HM04488<br/>GeneSymbol:HIPK1<br/>P-value:1.08e-21<br/>Zscore:4.55<br/>#EST:60<br/>Adj. #EST:4.47

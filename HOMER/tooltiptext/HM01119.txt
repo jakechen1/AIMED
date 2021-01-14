@@ -1,0 +1,1 @@
+esophagus	HMID:HM01119<br/>GeneSymbol:SLC3A2<br/>P-value:4.91e-61<br/>Zscore:5.55<br/>#EST:100<br/>Adj. #EST:9.37

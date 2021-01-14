@@ -1,0 +1,1 @@
+blood	HMID:HM06083<br/>GeneSymbol:SLC11A1<br/>P-value:3.84e-43<br/>Zscore:6.1<br/>#EST:55<br/>Adj. #EST:12.39

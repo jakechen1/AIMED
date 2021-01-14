@@ -1,0 +1,1 @@
+ganglia	HMID:HM06101<br/>GeneSymbol:SERPING1<br/>P-value:5.49e-08<br/>Zscore:4.02<br/>#EST:14<br/>Adj. #EST:6.62

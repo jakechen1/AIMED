@@ -1,0 +1,1 @@
+prostate	HMID:HM05368<br/>GeneSymbol:FBXO31<br/>P-value:1.12e-29<br/>Zscore:5.75<br/>#EST:56<br/>Adj. #EST:6.82

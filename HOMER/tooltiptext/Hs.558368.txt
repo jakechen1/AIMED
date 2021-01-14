@@ -1,0 +1,1 @@
+pancreas	HMID:HM07430<br/>GeneSymbol:PPY<br/>P-value:1.16e-228<br/>Zscore:7.04<br/>#EST:174<br/>Adj. #EST:26.42

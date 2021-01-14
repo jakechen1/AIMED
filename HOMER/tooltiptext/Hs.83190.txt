@@ -1,0 +1,1 @@
+prostate	HMID:HM07388<br/>GeneSymbol:FASN<br/>P-value:3.38e-202<br/>Zscore:5.46<br/>#EST:330<br/>Adj. #EST:8.8

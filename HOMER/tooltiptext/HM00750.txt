@@ -1,0 +1,1 @@
+trachea	HMID:HM00750<br/>GeneSymbol:PDK4<br/>P-value:7.29e-91<br/>Zscore:6.46<br/>#EST:98<br/>Adj. #EST:19.31

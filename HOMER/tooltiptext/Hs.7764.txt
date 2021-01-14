@@ -1,0 +1,1 @@
+trachea	HMID:HM00157<br/>GeneSymbol:KLHL21<br/>P-value:1.05e-06<br/>Zscore:4.85<br/>#EST:17<br/>Adj. #EST:4.22

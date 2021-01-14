@@ -1,0 +1,1 @@
+tonsil	HMID:HM03007<br/>GeneSymbol:CD22<br/>P-value:9.56e-22<br/>Zscore:5.06<br/>#EST:22<br/>Adj. #EST:20.41

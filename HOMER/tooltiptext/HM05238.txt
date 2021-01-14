@@ -1,0 +1,1 @@
+lymph node	HMID:HM05238<br/>GeneSymbol:SIP1<br/>P-value:4.75e-11<br/>Zscore:4.58<br/>#EST:15<br/>Adj. #EST:9.81

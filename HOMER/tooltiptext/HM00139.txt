@@ -1,0 +1,1 @@
+placenta	HMID:HM00139<br/>GeneSymbol:PSG3<br/>P-value:0<br/>Zscore:7.07<br/>#EST:1007<br/>Adj. #EST:22.63

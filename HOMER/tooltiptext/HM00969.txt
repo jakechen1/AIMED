@@ -1,0 +1,1 @@
+thymus	HMID:HM00969<br/>GeneSymbol:LEF1<br/>P-value:3.31e-70<br/>Zscore:6.63<br/>#EST:75<br/>Adj. #EST:18.64

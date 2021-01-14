@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05227<br/>GeneSymbol:MED28<br/>P-value:4.44e-11<br/>Zscore:6.59<br/>#EST:11<br/>Adj. #EST:18.32

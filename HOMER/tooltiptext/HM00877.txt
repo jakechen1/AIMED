@@ -1,0 +1,1 @@
+pancreas	HMID:HM00877<br/>GeneSymbol:TIMM50<br/>P-value:2e-77<br/>Zscore:6.08<br/>#EST:132<br/>Adj. #EST:7.94

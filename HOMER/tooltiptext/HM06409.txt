@@ -1,0 +1,1 @@
+tonsil	HMID:HM06409<br/>GeneSymbol:NDUFS5<br/>P-value:9.58e-07<br/>Zscore:4.59<br/>#EST:11<br/>Adj. #EST:6.87

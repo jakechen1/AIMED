@@ -1,0 +1,1 @@
+amnion	HMID:HM05518<br/>GeneSymbol:TM4SF1<br/>P-value:9.17e-32<br/>Zscore:6.05<br/>#EST:32<br/>Adj. #EST:22.06

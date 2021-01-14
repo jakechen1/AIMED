@@ -1,0 +1,1 @@
+colon	HMID:HM02671<br/>GeneSymbol:FERMT1<br/>P-value:2.76e-24<br/>Zscore:4.65<br/>#EST:36<br/>Adj. #EST:9.11

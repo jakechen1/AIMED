@@ -1,0 +1,1 @@
+ear	HMID:HM01571<br/>GeneSymbol:LAMB1<br/>P-value:3.82e-43<br/>Zscore:6.04<br/>#EST:42<br/>Adj. #EST:24.29

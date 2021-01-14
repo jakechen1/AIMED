@@ -1,0 +1,1 @@
+testis	HMID:HM04141<br/>GeneSymbol:PRSS30P<br/>P-value:4.22e-15<br/>Zscore:6.58<br/>#EST:18<br/>Adj. #EST:9.51

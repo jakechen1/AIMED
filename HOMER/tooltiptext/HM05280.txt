@@ -1,0 +1,1 @@
+thymus	HMID:HM05280<br/>GeneSymbol:FAM108B1<br/>P-value:6.68e-11<br/>Zscore:4.9<br/>#EST:18<br/>Adj. #EST:7.45

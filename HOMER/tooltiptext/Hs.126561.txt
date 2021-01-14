@@ -1,0 +1,1 @@
+brain	HMID:HM05715<br/>GeneSymbol:KIAA1409<br/>P-value:5.47e-35<br/>Zscore:4.4<br/>#EST:63<br/>Adj. #EST:4.73

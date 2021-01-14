@@ -1,0 +1,1 @@
+lymph	HMID:HM01350<br/>GeneSymbol:KIFC1<br/>P-value:1.4e-10<br/>Zscore:5.31<br/>#EST:17<br/>Adj. #EST:7.8

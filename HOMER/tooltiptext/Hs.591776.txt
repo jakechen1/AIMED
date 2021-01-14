@@ -1,0 +1,2 @@
+blood vessel	HMID:HM03210<br/>GeneSymbol:FAM159B<br/>P-value:1.27e-15<br/>Zscore:4.98<br/>#EST:15<br/>Adj. #EST:19.47
+pancreas	HMID:HM06007<br/>GeneSymbol:FAM159B<br/>P-value:2.56e-41<br/>Zscore:4.9<br/>#EST:38<br/>Adj. #EST:19.17

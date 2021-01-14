@@ -1,0 +1,1 @@
+larynx	HMID:HM07080<br/>GeneSymbol:RPS11<br/>P-value:6.07e-107<br/>Zscore:6.21<br/>#EST:154<br/>Adj. #EST:11.7

@@ -1,0 +1,1 @@
+kidney	HMID:HM02185<br/>GeneSymbol:PTGER1<br/>P-value:2.82e-30<br/>Zscore:6.68<br/>#EST:29<br/>Adj. #EST:17.58

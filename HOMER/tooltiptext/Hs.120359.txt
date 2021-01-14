@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03956<br/>GeneSymbol:ARMS2<br/>P-value:1.14e-18<br/>Zscore:6.95<br/>#EST:12<br/>Adj. #EST:48.37

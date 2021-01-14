@@ -1,0 +1,1 @@
+skin	HMID:HM07325<br/>GeneSymbol:SERPINA12<br/>P-value:1.36e-169<br/>Zscore:7.06<br/>#EST:125<br/>Adj. #EST:25.58

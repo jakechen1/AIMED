@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06438<br/>GeneSymbol:NDUFB8<br/>P-value:1.23e-06<br/>Zscore:4.78<br/>#EST:14<br/>Adj. #EST:5.07

@@ -1,0 +1,1 @@
+ovary	HMID:HM04786<br/>GeneSymbol:IQGAP3<br/>P-value:1.38e-23<br/>Zscore:5.97<br/>#EST:26<br/>Adj. #EST:15.76

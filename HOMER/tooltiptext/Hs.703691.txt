@@ -1,0 +1,2 @@
+larynx	HMID:HM03207<br/>GeneSymbol:<br/>P-value:1.34e-15<br/>Zscore:4.16<br/>#EST:14<br/>Adj. #EST:24.73
+bone marrow	HMID:HM06085<br/>GeneSymbol:<br/>P-value:3.37e-43<br/>Zscore:4.15<br/>#EST:40<br/>Adj. #EST:24.72

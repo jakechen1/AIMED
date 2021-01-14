@@ -1,0 +1,1 @@
+tonsil	HMID:HM02858<br/>GeneSymbol:NAP1L1<br/>P-value:7.03e-23<br/>Zscore:5.73<br/>#EST:46<br/>Adj. #EST:6.64

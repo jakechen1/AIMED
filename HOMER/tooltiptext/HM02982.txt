@@ -1,0 +1,1 @@
+testis	HMID:HM02982<br/>GeneSymbol:BCL2L14<br/>P-value:6.17e-22<br/>Zscore:4.31<br/>#EST:30<br/>Adj. #EST:8.39

@@ -1,0 +1,1 @@
+tonsil	HMID:HM03452<br/>GeneSymbol:COTL1<br/>P-value:1.1e-18<br/>Zscore:6.24<br/>#EST:26<br/>Adj. #EST:10.93

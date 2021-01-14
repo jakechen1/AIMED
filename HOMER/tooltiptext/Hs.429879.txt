@@ -1,0 +1,1 @@
+spleen	HMID:HM06170<br/>GeneSymbol:EHHADH<br/>P-value:1.73e-45<br/>Zscore:4.41<br/>#EST:82<br/>Adj. #EST:6.85

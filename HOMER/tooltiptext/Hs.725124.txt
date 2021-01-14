@@ -1,0 +1,1 @@
+mouth	HMID:HM05929<br/>GeneSymbol:ELOVL5<br/>P-value:1.88e-39<br/>Zscore:4.81<br/>#EST:75<br/>Adj. #EST:7.28

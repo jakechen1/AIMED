@@ -1,0 +1,1 @@
+blood	HMID:HM05441<br/>GeneSymbol:IL2<br/>P-value:1.3e-30<br/>Zscore:7.07<br/>#EST:18<br/>Adj. #EST:45.74

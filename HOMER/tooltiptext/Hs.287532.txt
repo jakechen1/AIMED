@@ -1,0 +1,1 @@
+embryo	HMID:HM03574<br/>GeneSymbol:PRDM14<br/>P-value:7.16e-17<br/>Zscore:6.36<br/>#EST:14<br/>Adj. #EST:20.21

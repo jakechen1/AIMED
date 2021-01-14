@@ -1,0 +1,1 @@
+nerve	HMID:HM00322<br/>GeneSymbol:SNORA43<br/>P-value:2.62e-07<br/>Zscore:4.27<br/>#EST:17<br/>Adj. #EST:4.65

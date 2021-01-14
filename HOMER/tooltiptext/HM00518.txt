@@ -1,0 +1,1 @@
+skin	HMID:HM00518<br/>GeneSymbol:DCT<br/>P-value:0<br/>Zscore:6.01<br/>#EST:131<br/>Adj. #EST:14.69

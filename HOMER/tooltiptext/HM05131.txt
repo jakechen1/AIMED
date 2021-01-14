@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05131<br/>GeneSymbol:ANGPT1<br/>P-value:1.91e-11<br/>Zscore:4.67<br/>#EST:15<br/>Adj. #EST:10.57

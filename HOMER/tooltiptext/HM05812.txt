@@ -1,0 +1,1 @@
+ganglia	HMID:HM05812<br/>GeneSymbol:IGFBP5<br/>P-value:4.71e-09<br/>Zscore:5.41<br/>#EST:14<br/>Adj. #EST:8.08

@@ -1,0 +1,1 @@
+placenta	HMID:HM00479<br/>GeneSymbol:MFSD2A<br/>P-value:0<br/>Zscore:5.58<br/>#EST:253<br/>Adj. #EST:6.71

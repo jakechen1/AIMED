@@ -1,0 +1,1 @@
+kidney	HMID:HM05036<br/>GeneSymbol:PKLR<br/>P-value:8.85e-12<br/>Zscore:4.3<br/>#EST:17<br/>Adj. #EST:8.42

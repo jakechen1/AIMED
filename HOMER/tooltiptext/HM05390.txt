@@ -1,0 +1,1 @@
+larynx	HMID:HM05390<br/>GeneSymbol:NRXN3<br/>P-value:1.67e-10<br/>Zscore:6.83<br/>#EST:11<br/>Adj. #EST:15.97

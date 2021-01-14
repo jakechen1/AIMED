@@ -1,0 +1,1 @@
+lymph node	HMID:HM04237<br/>GeneSymbol:KIAA1370<br/>P-value:1.08e-14<br/>Zscore:4.41<br/>#EST:25<br/>Adj. #EST:7.52

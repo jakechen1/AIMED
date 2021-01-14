@@ -1,0 +1,1 @@
+lymph	HMID:HM05155<br/>GeneSymbol:SPIB<br/>P-value:4.67e-27<br/>Zscore:4.08<br/>#EST:22<br/>Adj. #EST:32.82

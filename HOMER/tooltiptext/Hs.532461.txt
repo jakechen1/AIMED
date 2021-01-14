@@ -1,0 +1,1 @@
+pancreas	HMID:HM04476<br/>GeneSymbol:RRAGC<br/>P-value:1.27e-21<br/>Zscore:4.21<br/>#EST:53<br/>Adj. #EST:4.94

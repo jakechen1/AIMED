@@ -1,0 +1,1 @@
+eye	HMID:HM01988<br/>GeneSymbol:CABP4<br/>P-value:3.35e-12<br/>Zscore:6.12<br/>#EST:15<br/>Adj. #EST:10.66

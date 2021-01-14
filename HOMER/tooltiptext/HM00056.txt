@@ -1,0 +1,1 @@
+brain	HMID:HM00056<br/>GeneSymbol:CHN1<br/>P-value:0<br/>Zscore:6.23<br/>#EST:1056<br/>Adj. #EST:4.47

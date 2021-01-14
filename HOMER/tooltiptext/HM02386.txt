@@ -1,0 +1,1 @@
+brain	HMID:HM02386<br/>GeneSymbol:PRMT8<br/>P-value:2.03e-27<br/>Zscore:4.92<br/>#EST:60<br/>Adj. #EST:4.07

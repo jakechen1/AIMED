@@ -1,0 +1,1 @@
+placenta	HMID:HM05035<br/>GeneSymbol:HES2<br/>P-value:8.8e-26<br/>Zscore:4.37<br/>#EST:35<br/>Adj. #EST:9.83

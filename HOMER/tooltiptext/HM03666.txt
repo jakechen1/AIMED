@@ -1,0 +1,1 @@
+trachea	HMID:HM03666<br/>GeneSymbol:DNAJC10<br/>P-value:1.98e-17<br/>Zscore:5.06<br/>#EST:34<br/>Adj. #EST:6.59

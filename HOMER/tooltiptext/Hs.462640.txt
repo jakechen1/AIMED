@@ -1,0 +1,1 @@
+lymph	HMID:HM05173<br/>GeneSymbol:DNAJC11<br/>P-value:3.04e-27<br/>Zscore:6.07<br/>#EST:41<br/>Adj. #EST:9.89

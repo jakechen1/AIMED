@@ -1,0 +1,1 @@
+nerve	HMID:HM04661<br/>GeneSymbol:FAM32A<br/>P-value:4.62e-13<br/>Zscore:5.06<br/>#EST:30<br/>Adj. #EST:5.24

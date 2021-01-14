@@ -1,0 +1,1 @@
+blood	HMID:HM00912<br/>GeneSymbol:DUSP2<br/>P-value:6.48e-74<br/>Zscore:6.75<br/>#EST:72<br/>Adj. #EST:20.04

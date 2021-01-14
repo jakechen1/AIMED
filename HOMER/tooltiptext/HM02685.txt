@@ -1,0 +1,1 @@
+mouth	HMID:HM02685<br/>GeneSymbol:PCSK9<br/>P-value:3.2e-24<br/>Zscore:6.44<br/>#EST:25<br/>Adj. #EST:18.6

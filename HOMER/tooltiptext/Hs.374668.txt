@@ -1,0 +1,1 @@
+muscle	HMID:HM03787<br/>GeneSymbol:ABRA<br/>P-value:6.56e-18<br/>Zscore:6.37<br/>#EST:13<br/>Adj. #EST:34.26

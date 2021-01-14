@@ -1,0 +1,1 @@
+amnion	HMID:HM00115<br/>GeneSymbol:HSP90B1<br/>P-value:1.6e-06<br/>Zscore:4.1<br/>#EST:15<br/>Adj. #EST:4.64

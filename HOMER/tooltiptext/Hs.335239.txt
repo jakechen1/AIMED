@@ -1,0 +1,1 @@
+leiomios	HMID:HM03009<br/>GeneSymbol:ANKRD28<br/>P-value:5.59e-15<br/>Zscore:6.49<br/>#EST:12<br/>Adj. #EST:33.53

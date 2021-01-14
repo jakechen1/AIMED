@@ -1,0 +1,1 @@
+blood	HMID:HM01783<br/>GeneSymbol:NFKBIA<br/>P-value:9.19e-38<br/>Zscore:4.01<br/>#EST:90<br/>Adj. #EST:5.4

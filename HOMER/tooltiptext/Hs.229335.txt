@@ -1,0 +1,1 @@
+mouth	HMID:HM02267<br/>GeneSymbol:KREMEN1<br/>P-value:8.59e-13<br/>Zscore:4.27<br/>#EST:18<br/>Adj. #EST:9.75

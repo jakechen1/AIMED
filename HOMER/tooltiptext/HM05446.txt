@@ -1,0 +1,1 @@
+thyroid	HMID:HM05446<br/>GeneSymbol:R3HDM1<br/>P-value:2.67e-10<br/>Zscore:5.66<br/>#EST:17<br/>Adj. #EST:7.49

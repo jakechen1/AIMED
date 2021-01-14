@@ -1,0 +1,1 @@
+thymus	HMID:HM05145<br/>GeneSymbol:CALCOCO1<br/>P-value:5.77e-27<br/>Zscore:4.6<br/>#EST:68<br/>Adj. #EST:5.1

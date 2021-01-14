@@ -1,0 +1,1 @@
+spinal cord	HMID:HM04455<br/>GeneSymbol:GLUL<br/>P-value:7.99e-14<br/>Zscore:6.37<br/>#EST:13<br/>Adj. #EST:22.26

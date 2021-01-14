@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01645<br/>GeneSymbol:MTCP1NB<br/>P-value:3.94e-41<br/>Zscore:6.72<br/>#EST:42<br/>Adj. #EST:19.44

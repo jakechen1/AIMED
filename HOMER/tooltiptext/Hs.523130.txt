@@ -1,0 +1,1 @@
+stomach	HMID:HM07594<br/>GeneSymbol:LIPF<br/>P-value:0<br/>Zscore:7.07<br/>#EST:756<br/>Adj. #EST:35.6

@@ -1,0 +1,1 @@
+adipose	HMID:HM06417<br/>GeneSymbol:COL4A2<br/>P-value:1e-06<br/>Zscore:4.16<br/>#EST:12<br/>Adj. #EST:6.15

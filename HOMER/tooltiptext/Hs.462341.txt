@@ -1,0 +1,1 @@
+ovary	HMID:HM03566<br/>GeneSymbol:MPRIP<br/>P-value:8.12e-17<br/>Zscore:4.8<br/>#EST:40<br/>Adj. #EST:5.17

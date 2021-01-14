@@ -1,0 +1,1 @@
+amnion	HMID:HM04425<br/>GeneSymbol:CEBPG<br/>P-value:5.96e-14<br/>Zscore:6.94<br/>#EST:11<br/>Adj. #EST:34.16

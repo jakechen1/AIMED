@@ -1,0 +1,2 @@
+bone marrow	HMID:HM04249<br/>GeneSymbol:ARG1<br/>P-value:2.46e-20<br/>Zscore:4.17<br/>#EST:31<br/>Adj. #EST:9.28
+liver	HMID:HM07033<br/>GeneSymbol:ARG1<br/>P-value:2e-101<br/>Zscore:4.59<br/>#EST:140<br/>Adj. #EST:10.14

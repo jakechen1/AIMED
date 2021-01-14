@@ -1,0 +1,1 @@
+placenta	HMID:HM01122<br/>GeneSymbol:ITIH5<br/>P-value:8.49e-61<br/>Zscore:4.05<br/>#EST:107<br/>Adj. #EST:7.34

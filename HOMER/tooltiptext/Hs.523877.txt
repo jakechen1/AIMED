@@ -1,0 +1,1 @@
+testis	HMID:HM06909<br/>GeneSymbol:CLPB<br/>P-value:1.55e-88<br/>Zscore:5.05<br/>#EST:169<br/>Adj. #EST:6.19

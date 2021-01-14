@@ -1,0 +1,1 @@
+testis	HMID:HM05420<br/>GeneSymbol:TRIML1<br/>P-value:2.1e-10<br/>Zscore:4.24<br/>#EST:11<br/>Adj. #EST:10.46

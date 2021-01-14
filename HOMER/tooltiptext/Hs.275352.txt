@@ -1,0 +1,1 @@
+spleen	HMID:HM04597<br/>GeneSymbol:C14orf109<br/>P-value:2.63e-22<br/>Zscore:4.95<br/>#EST:46<br/>Adj. #EST:5.66

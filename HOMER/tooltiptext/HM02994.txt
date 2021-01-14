@@ -1,0 +1,1 @@
+stomach	HMID:HM02994<br/>GeneSymbol:CAPN8<br/>P-value:7.54e-22<br/>Zscore:6.16<br/>#EST:23<br/>Adj. #EST:15.86

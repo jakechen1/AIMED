@@ -1,0 +1,1 @@
+cervix	HMID:HM07001<br/>GeneSymbol:ASS1<br/>P-value:8.12e-98<br/>Zscore:6.56<br/>#EST:118<br/>Adj. #EST:15.68

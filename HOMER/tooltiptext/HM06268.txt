@@ -1,0 +1,1 @@
+lymph node	HMID:HM06268<br/>GeneSymbol:MTMR1<br/>P-value:2.69e-07<br/>Zscore:4.81<br/>#EST:15<br/>Adj. #EST:5.24

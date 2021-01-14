@@ -1,0 +1,1 @@
+small intestine	HMID:HM00196<br/>GeneSymbol:IGJ<br/>P-value:0<br/>Zscore:5.81<br/>#EST:230<br/>Adj. #EST:41.53

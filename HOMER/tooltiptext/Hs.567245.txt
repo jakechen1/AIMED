@@ -1,0 +1,1 @@
+liver	HMID:HM05476<br/>GeneSymbol:AKR1C4<br/>P-value:4.33e-31<br/>Zscore:6.29<br/>#EST:26<br/>Adj. #EST:19.45

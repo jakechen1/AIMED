@@ -1,0 +1,1 @@
+testis	HMID:HM06790<br/>GeneSymbol:TPD52L3<br/>P-value:1.83e-76<br/>Zscore:7.07<br/>#EST:73<br/>Adj. #EST:13.06

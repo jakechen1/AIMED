@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06430<br/>GeneSymbol:BIN1<br/>P-value:1.14e-06<br/>Zscore:4.97<br/>#EST:11<br/>Adj. #EST:6.74

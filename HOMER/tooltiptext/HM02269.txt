@@ -1,0 +1,2 @@
+kidney	HMID:HM02269<br/>GeneSymbol:SLC28A1<br/>P-value:4.74e-29<br/>Zscore:5.1<br/>#EST:34<br/>Adj. #EST:12.79
+lymph node	HMID:HM02269<br/>GeneSymbol:SLC28A1<br/>P-value:1.13e-09<br/>Zscore:4.32<br/>#EST:12<br/>Adj. #EST:10.93

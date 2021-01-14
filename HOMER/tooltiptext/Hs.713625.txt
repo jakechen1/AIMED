@@ -1,0 +1,1 @@
+gallbladder	HMID:HM07043<br/>GeneSymbol:FGG<br/>P-value:4.49e-103<br/>Zscore:6.92<br/>#EST:66<br/>Adj. #EST:88.71

@@ -1,0 +1,1 @@
+bladder	HMID:HM07066<br/>GeneSymbol:SRP9<br/>P-value:6.79e-106<br/>Zscore:4.58<br/>#EST:140<br/>Adj. #EST:13.52

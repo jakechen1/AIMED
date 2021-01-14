@@ -1,0 +1,1 @@
+trachea	HMID:HM01310<br/>GeneSymbol:PAM<br/>P-value:3.86e-52<br/>Zscore:5.87<br/>#EST:84<br/>Adj. #EST:9.35

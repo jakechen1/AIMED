@@ -1,0 +1,2 @@
+salivary gland	HMID:HM07375<br/>GeneSymbol:MUC7<br/>P-value:2.18e-195<br/>Zscore:4.79<br/>#EST:127<br/>Adj. #EST:78.8
+trachea	HMID:HM07614<br/>GeneSymbol:MUC7<br/>P-value:0<br/>Zscore:5.1<br/>#EST:351<br/>Adj. #EST:83.75

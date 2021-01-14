@@ -1,0 +1,1 @@
+lymph node	HMID:HM02469<br/>GeneSymbol:MDFIC<br/>P-value:3.58e-13<br/>Zscore:4.1<br/>#EST:18<br/>Adj. #EST:10.1

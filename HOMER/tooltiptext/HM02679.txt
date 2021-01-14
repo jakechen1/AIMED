@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02679<br/>GeneSymbol:ATG4C<br/>P-value:3.03e-24<br/>Zscore:5.59<br/>#EST:33<br/>Adj. #EST:11.1

@@ -1,0 +1,1 @@
+stomach	HMID:HM02276<br/>GeneSymbol:CHCHD6<br/>P-value:6.36e-29<br/>Zscore:5.18<br/>#EST:45<br/>Adj. #EST:8.87

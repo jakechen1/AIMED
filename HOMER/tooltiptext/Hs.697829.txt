@@ -1,0 +1,2 @@
+nerve	HMID:HM01331<br/>GeneSymbol:<br/>P-value:1.62e-10<br/>Zscore:4.27<br/>#EST:11<br/>Adj. #EST:15.31
+placenta	HMID:HM06587<br/>GeneSymbol:<br/>P-value:2.11e-63<br/>Zscore:5.55<br/>#EST:55<br/>Adj. #EST:19.7

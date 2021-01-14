@@ -1,0 +1,1 @@
+bladder	HMID:HM06908<br/>GeneSymbol:PSMA4<br/>P-value:1.65e-88<br/>Zscore:6.11<br/>#EST:98<br/>Adj. #EST:18.89

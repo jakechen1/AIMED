@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03914<br/>GeneSymbol:ECE1<br/>P-value:4.56e-16<br/>Zscore:5.68<br/>#EST:20<br/>Adj. #EST:12.94

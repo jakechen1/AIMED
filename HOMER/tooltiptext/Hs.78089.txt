@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00375<br/>GeneSymbol:ATP6V1F<br/>P-value:1.71e-07<br/>Zscore:4.23<br/>#EST:12<br/>Adj. #EST:7.26

@@ -1,0 +1,1 @@
+lymph node	HMID:HM04138<br/>GeneSymbol:MOBKL1B<br/>P-value:4.08e-15<br/>Zscore:4.11<br/>#EST:37<br/>Adj. #EST:4.97

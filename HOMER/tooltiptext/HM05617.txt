@@ -1,0 +1,1 @@
+lymph node	HMID:HM05617<br/>GeneSymbol:GLCCI1<br/>P-value:9.83e-10<br/>Zscore:4.31<br/>#EST:19<br/>Adj. #EST:5.92

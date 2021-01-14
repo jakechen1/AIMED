@@ -1,0 +1,1 @@
+stomach	HMID:HM05540<br/>GeneSymbol:FLJ42627<br/>P-value:5.49e-10<br/>Zscore:5.99<br/>#EST:14<br/>Adj. #EST:8.8

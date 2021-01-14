@@ -1,0 +1,1 @@
+eye	HMID:HM06478<br/>GeneSymbol:MTRNR2L2<br/>P-value:1.34e-57<br/>Zscore:6.65<br/>#EST:56<br/>Adj. #EST:18.01

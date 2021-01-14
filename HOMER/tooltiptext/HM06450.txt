@@ -1,0 +1,1 @@
+prostate	HMID:HM06450<br/>GeneSymbol:ARHGEF26<br/>P-value:1.44e-06<br/>Zscore:4.2<br/>#EST:17<br/>Adj. #EST:4

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02315<br/>GeneSymbol:GPR97<br/>P-value:5.08e-13<br/>Zscore:6.04<br/>#EST:11<br/>Adj. #EST:25.09

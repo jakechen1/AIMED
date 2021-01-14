@@ -1,0 +1,1 @@
+muscle	HMID:HM00720<br/>GeneSymbol:RTN4<br/>P-value:4.5e-94<br/>Zscore:5.32<br/>#EST:207<br/>Adj. #EST:6.17

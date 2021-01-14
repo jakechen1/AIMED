@@ -1,0 +1,1 @@
+mouth	HMID:HM05872<br/>GeneSymbol:KBTBD5<br/>P-value:2.6e-38<br/>Zscore:6.6<br/>#EST:28<br/>Adj. #EST:42.61

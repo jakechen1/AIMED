@@ -1,0 +1,1 @@
+ear	HMID:HM00364<br/>GeneSymbol:KCTD12<br/>P-value:0<br/>Zscore:7.06<br/>#EST:114<br/>Adj. #EST:73.61

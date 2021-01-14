@@ -1,0 +1,1 @@
+lymph	HMID:HM05547<br/>GeneSymbol:PYCR1<br/>P-value:2.36e-32<br/>Zscore:5.34<br/>#EST:54<br/>Adj. #EST:8.62

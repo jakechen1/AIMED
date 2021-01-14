@@ -1,0 +1,1 @@
+pharynx	HMID:HM00003<br/>GeneSymbol:COL17A1<br/>P-value:0<br/>Zscore:7.02<br/>#EST:407<br/>Adj. #EST:99.38

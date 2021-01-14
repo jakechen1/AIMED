@@ -1,0 +1,1 @@
+ear	HMID:HM00407<br/>GeneSymbol:WWTR1<br/>P-value:1.2e-07<br/>Zscore:5.14<br/>#EST:10<br/>Adj. #EST:9.82

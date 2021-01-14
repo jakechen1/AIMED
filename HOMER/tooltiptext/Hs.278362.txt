@@ -1,0 +1,1 @@
+prostate	HMID:HM07215<br/>GeneSymbol:MEA1<br/>P-value:2.27e-134<br/>Zscore:6.09<br/>#EST:176<br/>Adj. #EST:12.01

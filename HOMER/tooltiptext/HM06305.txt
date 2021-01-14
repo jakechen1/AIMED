@@ -1,0 +1,1 @@
+lymph node	HMID:HM06305<br/>GeneSymbol:DNAJB14<br/>P-value:3.42e-07<br/>Zscore:4.45<br/>#EST:14<br/>Adj. #EST:5.53

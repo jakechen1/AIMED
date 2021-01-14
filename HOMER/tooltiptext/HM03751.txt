@@ -1,0 +1,1 @@
+thymus	HMID:HM03751<br/>GeneSymbol:SEC31B<br/>P-value:6.7e-17<br/>Zscore:4.98<br/>#EST:22<br/>Adj. #EST:11.43

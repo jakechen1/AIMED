@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07050<br/>GeneSymbol:MRPL1<br/>P-value:5.12e-104<br/>Zscore:5.69<br/>#EST:110<br/>Adj. #EST:19.23

@@ -1,0 +1,1 @@
+lymph	HMID:HM04051<br/>GeneSymbol:SH3KBP1<br/>P-value:1.77e-15<br/>Zscore:5.17<br/>#EST:26<br/>Adj. #EST:7.86

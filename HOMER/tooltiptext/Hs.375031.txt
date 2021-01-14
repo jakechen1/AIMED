@@ -1,0 +1,1 @@
+skin	HMID:HM02749<br/>GeneSymbol:WFDC5<br/>P-value:3.75e-14<br/>Zscore:5.94<br/>#EST:12<br/>Adj. #EST:18.92

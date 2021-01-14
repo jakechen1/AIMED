@@ -1,0 +1,1 @@
+small intestine	HMID:HM04481<br/>GeneSymbol:CDH17<br/>P-value:1.2e-21<br/>Zscore:4.66<br/>#EST:20<br/>Adj. #EST:23.95

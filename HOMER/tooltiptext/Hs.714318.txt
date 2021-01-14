@@ -1,0 +1,1 @@
+larynx	HMID:HM04436<br/>GeneSymbol:RFC4<br/>P-value:2.03e-21<br/>Zscore:5.58<br/>#EST:28<br/>Adj. #EST:12.32

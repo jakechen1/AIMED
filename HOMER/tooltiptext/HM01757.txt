@@ -1,0 +1,2 @@
+mouth	HMID:HM01757<br/>GeneSymbol:DDR1<br/>P-value:1.32e-37<br/>Zscore:4.13<br/>#EST:82<br/>Adj. #EST:6.13
+trachea	HMID:HM01757<br/>GeneSymbol:DDR1<br/>P-value:5.25e-38<br/>Zscore:4.85<br/>#EST:74<br/>Adj. #EST:7.08

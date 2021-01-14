@@ -1,0 +1,1 @@
+testis	HMID:HM02008<br/>GeneSymbol:<br/>P-value:3.12e-12<br/>Zscore:7.07<br/>#EST:10<br/>Adj. #EST:14.14

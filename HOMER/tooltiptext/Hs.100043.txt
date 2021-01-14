@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01440<br/>GeneSymbol:CCDC124<br/>P-value:6.95e-11<br/>Zscore:6.53<br/>#EST:12<br/>Adj. #EST:14.7

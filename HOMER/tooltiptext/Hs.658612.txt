@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01334<br/>GeneSymbol:MRS2<br/>P-value:1.57e-10<br/>Zscore:4.72<br/>#EST:13<br/>Adj. #EST:11.87

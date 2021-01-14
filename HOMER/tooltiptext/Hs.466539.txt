@@ -1,0 +1,1 @@
+brain	HMID:HM07499<br/>GeneSymbol:CLIP3<br/>P-value:4.56e-306<br/>Zscore:6.06<br/>#EST:694<br/>Adj. #EST:4.17

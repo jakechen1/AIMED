@@ -1,0 +1,1 @@
+tonsil	HMID:HM02734<br/>GeneSymbol:SFT2D1<br/>P-value:4.13e-14<br/>Zscore:6.26<br/>#EST:14<br/>Adj. #EST:19.52

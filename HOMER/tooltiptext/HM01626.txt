@@ -1,0 +1,1 @@
+stomach	HMID:HM01626<br/>GeneSymbol:GAST<br/>P-value:1.67e-41<br/>Zscore:7.07<br/>#EST:25<br/>Adj. #EST:42.76

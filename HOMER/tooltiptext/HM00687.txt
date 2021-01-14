@@ -1,0 +1,1 @@
+pancreas	HMID:HM00687<br/>GeneSymbol:CEL<br/>P-value:3.94e-98<br/>Zscore:5.82<br/>#EST:93<br/>Adj. #EST:18.86

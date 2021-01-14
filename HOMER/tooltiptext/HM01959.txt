@@ -1,0 +1,1 @@
+ganglia	HMID:HM01959<br/>GeneSymbol:MPZ<br/>P-value:4.25e-34<br/>Zscore:7.01<br/>#EST:19<br/>Adj. #EST:125.24

@@ -1,0 +1,1 @@
+stomach	HMID:HM02025<br/>GeneSymbol:TLL2<br/>P-value:2.77e-12<br/>Zscore:5.37<br/>#EST:15<br/>Adj. #EST:11.05

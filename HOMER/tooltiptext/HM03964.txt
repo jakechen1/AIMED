@@ -1,0 +1,1 @@
+breast	HMID:HM03964<br/>GeneSymbol:SRMS<br/>P-value:7.96e-16<br/>Zscore:6.54<br/>#EST:13<br/>Adj. #EST:22.63

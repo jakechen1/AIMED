@@ -1,0 +1,1 @@
+thyroid	HMID:HM05273<br/>GeneSymbol:RBMS2<br/>P-value:6.24e-11<br/>Zscore:4.54<br/>#EST:19<br/>Adj. #EST:7.09

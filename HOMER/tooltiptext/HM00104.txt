@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00104<br/>GeneSymbol:ROBO4<br/>P-value:0<br/>Zscore:7.07<br/>#EST:189<br/>Adj. #EST:170.98

@@ -1,0 +1,1 @@
+lymph node	HMID:HM04725<br/>GeneSymbol:SNX25<br/>P-value:8.48e-13<br/>Zscore:5.02<br/>#EST:18<br/>Adj. #EST:9.59

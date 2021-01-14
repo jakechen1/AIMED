@@ -1,0 +1,1 @@
+mouth	HMID:HM04862<br/>GeneSymbol:RETSAT<br/>P-value:3.35e-24<br/>Zscore:4.11<br/>#EST:43<br/>Adj. #EST:7.66

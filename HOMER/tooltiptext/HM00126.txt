@@ -1,0 +1,1 @@
+liver	HMID:HM00126<br/>GeneSymbol:MALAT1<br/>P-value:0<br/>Zscore:5.55<br/>#EST:7750<br/>Adj. #EST:10.25

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05704<br/>GeneSymbol:EMP2<br/>P-value:2.13e-09<br/>Zscore:5.18<br/>#EST:13<br/>Adj. #EST:9.56

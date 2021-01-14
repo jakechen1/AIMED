@@ -1,0 +1,2 @@
+thymus	HMID:HM04989<br/>GeneSymbol:ITGB7<br/>P-value:3.55e-25<br/>Zscore:4.75<br/>#EST:33<br/>Adj. #EST:11.96
+blood	HMID:HM05839<br/>GeneSymbol:ITGB7<br/>P-value:1.41e-37<br/>Zscore:4.11<br/>#EST:53<br/>Adj. #EST:10.49

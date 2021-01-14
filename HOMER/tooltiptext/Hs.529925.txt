@@ -1,0 +1,1 @@
+spleen	HMID:HM06183<br/>GeneSymbol:UBR2<br/>P-value:7.89e-46<br/>Zscore:4.71<br/>#EST:100<br/>Adj. #EST:5.57

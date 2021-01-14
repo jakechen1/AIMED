@@ -1,0 +1,1 @@
+blood	HMID:HM05911<br/>GeneSymbol:ADA<br/>P-value:4.85e-39<br/>Zscore:5.28<br/>#EST:51<br/>Adj. #EST:11.84

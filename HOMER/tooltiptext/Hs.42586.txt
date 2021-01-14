@@ -1,0 +1,1 @@
+adipose	HMID:HM04630<br/>GeneSymbol:GPAM<br/>P-value:1.61e-22<br/>Zscore:6.55<br/>#EST:19<br/>Adj. #EST:31.73

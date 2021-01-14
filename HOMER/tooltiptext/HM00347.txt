@@ -1,0 +1,2 @@
+ear	HMID:HM00347<br/>GeneSymbol:COL3A1<br/>P-value:0<br/>Zscore:4.83<br/>#EST:170<br/>Adj. #EST:27.63
+leiomios	HMID:HM00347<br/>GeneSymbol:COL3A1<br/>P-value:8.27e-70<br/>Zscore:4.79<br/>#EST:66<br/>Adj. #EST:27.43

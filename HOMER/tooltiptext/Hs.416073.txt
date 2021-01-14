@@ -1,0 +1,1 @@
+tonsil	HMID:HM06434<br/>GeneSymbol:S100A8<br/>P-value:6.2e-56<br/>Zscore:4.81<br/>#EST:47<br/>Adj. #EST:35.57

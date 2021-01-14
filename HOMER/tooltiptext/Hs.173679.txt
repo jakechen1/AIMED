@@ -1,0 +1,1 @@
+blood	HMID:HM00319<br/>GeneSymbol:C1orf228<br/>P-value:2.65e-07<br/>Zscore:4.84<br/>#EST:11<br/>Adj. #EST:7.39

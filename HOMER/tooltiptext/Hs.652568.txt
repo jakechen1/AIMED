@@ -1,0 +1,1 @@
+thyroid	HMID:HM03642<br/>GeneSymbol:RMST<br/>P-value:3.52e-17<br/>Zscore:6.37<br/>#EST:13<br/>Adj. #EST:36.56

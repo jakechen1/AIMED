@@ -1,0 +1,1 @@
+skin	HMID:HM05909<br/>GeneSymbol:SLC24A5<br/>P-value:1.03e-08<br/>Zscore:4.59<br/>#EST:18<br/>Adj. #EST:5.15

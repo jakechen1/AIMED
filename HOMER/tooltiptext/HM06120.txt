@@ -1,0 +1,1 @@
+nerve	HMID:HM06120<br/>GeneSymbol:SNORA43<br/>P-value:6.43e-08<br/>Zscore:4.4<br/>#EST:17<br/>Adj. #EST:5.13

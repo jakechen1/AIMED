@@ -1,0 +1,1 @@
+tonsil	HMID:HM05701<br/>GeneSymbol:ARPC2<br/>P-value:9.49e-35<br/>Zscore:5.79<br/>#EST:43<br/>Adj. #EST:14.47

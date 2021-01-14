@@ -1,0 +1,1 @@
+lymph	HMID:HM06116<br/>GeneSymbol:BRI3BP<br/>P-value:6.24e-08<br/>Zscore:4.2<br/>#EST:11<br/>Adj. #EST:8.9

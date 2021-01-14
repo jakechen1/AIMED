@@ -1,0 +1,1 @@
+larynx	HMID:HM06139<br/>GeneSymbol:PI3<br/>P-value:1.33e-44<br/>Zscore:5.73<br/>#EST:33<br/>Adj. #EST:48.07

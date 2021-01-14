@@ -1,0 +1,2 @@
+liver	HMID:HM04833<br/>GeneSymbol:UPB1<br/>P-value:6.03e-24<br/>Zscore:5.33<br/>#EST:33<br/>Adj. #EST:9.45
+kidney	HMID:HM02077<br/>GeneSymbol:UPB1<br/>P-value:1.87e-12<br/>Zscore:4.12<br/>#EST:20<br/>Adj. #EST:7.41

@@ -1,0 +1,1 @@
+spleen	HMID:HM03960<br/>GeneSymbol:UBR2<br/>P-value:7.59e-16<br/>Zscore:4.06<br/>#EST:36<br/>Adj. #EST:5.29

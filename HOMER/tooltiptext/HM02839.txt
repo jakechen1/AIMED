@@ -1,0 +1,1 @@
+lymph node	HMID:HM02839<br/>GeneSymbol:TCL1B<br/>P-value:5.06e-23<br/>Zscore:5.3<br/>#EST:16<br/>Adj. #EST:41.1

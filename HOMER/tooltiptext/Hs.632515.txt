@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00451<br/>GeneSymbol:AURKAIP1<br/>P-value:7.95e-08<br/>Zscore:5.15<br/>#EST:13<br/>Adj. #EST:7.01

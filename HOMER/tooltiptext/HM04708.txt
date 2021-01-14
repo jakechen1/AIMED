@@ -1,0 +1,1 @@
+trachea	HMID:HM04708<br/>GeneSymbol:TBC1D23<br/>P-value:7.65e-13<br/>Zscore:4.8<br/>#EST:23<br/>Adj. #EST:7.02

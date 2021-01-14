@@ -1,0 +1,2 @@
+ovary	HMID:HM04969<br/>GeneSymbol:MSLN<br/>P-value:5.85e-25<br/>Zscore:4.45<br/>#EST:32<br/>Adj. #EST:12.21
+cervix	HMID:HM01533<br/>GeneSymbol:MSLN<br/>P-value:4.5e-11<br/>Zscore:4.1<br/>#EST:14<br/>Adj. #EST:11.33

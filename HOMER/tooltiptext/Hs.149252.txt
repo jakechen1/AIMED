@@ -1,0 +1,1 @@
+liver	HMID:HM07304<br/>GeneSymbol:CPS1<br/>P-value:2.05e-163<br/>Zscore:5.07<br/>#EST:226<br/>Adj. #EST:10.21

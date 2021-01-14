@@ -1,0 +1,1 @@
+stomach	HMID:HM00223<br/>GeneSymbol:ANXA8L2<br/>P-value:0<br/>Zscore:6.65<br/>#EST:234<br/>Adj. #EST:24.35

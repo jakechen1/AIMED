@@ -1,0 +1,2 @@
+liver	HMID:HM01692<br/>GeneSymbol:CYP3A7<br/>P-value:8.97e-40<br/>Zscore:4.91<br/>#EST:48<br/>Adj. #EST:11.61
+spleen	HMID:HM01692<br/>GeneSymbol:CYP3A7<br/>P-value:1.08e-19<br/>Zscore:4.84<br/>#EST:25<br/>Adj. #EST:11.46

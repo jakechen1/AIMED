@@ -1,0 +1,1 @@
+pancreas	HMID:HM05573<br/>GeneSymbol:PLCXD3<br/>P-value:6.89e-10<br/>Zscore:5.58<br/>#EST:16<br/>Adj. #EST:7.02

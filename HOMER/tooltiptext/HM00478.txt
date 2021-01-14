@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00478<br/>GeneSymbol:HHIP<br/>P-value:0<br/>Zscore:6.69<br/>#EST:104<br/>Adj. #EST:35

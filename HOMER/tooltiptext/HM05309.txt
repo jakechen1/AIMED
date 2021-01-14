@@ -1,0 +1,1 @@
+tonsil	HMID:HM05309<br/>GeneSymbol:PPP1CA<br/>P-value:8.28e-11<br/>Zscore:4.92<br/>#EST:20<br/>Adj. #EST:6.62

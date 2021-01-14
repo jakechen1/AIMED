@@ -1,0 +1,1 @@
+heart	HMID:HM02558<br/>GeneSymbol:KRT71<br/>P-value:1.9e-13<br/>Zscore:6.46<br/>#EST:11<br/>Adj. #EST:24.57

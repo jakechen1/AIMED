@@ -1,0 +1,1 @@
+lymph	HMID:HM05298<br/>GeneSymbol:BMF<br/>P-value:7.59e-11<br/>Zscore:4.69<br/>#EST:13<br/>Adj. #EST:12.27

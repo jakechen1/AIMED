@@ -1,0 +1,1 @@
+blood	HMID:HM02223<br/>GeneSymbol:ICAM3<br/>P-value:1.18e-29<br/>Zscore:4.75<br/>#EST:45<br/>Adj. #EST:9.22

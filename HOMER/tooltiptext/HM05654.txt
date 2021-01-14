@@ -1,0 +1,1 @@
+kidney	HMID:HM05654<br/>GeneSymbol:UNC5CL<br/>P-value:1.38e-09<br/>Zscore:4.64<br/>#EST:13<br/>Adj. #EST:8.78

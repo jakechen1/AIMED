@@ -1,0 +1,1 @@
+colon	HMID:HM00855<br/>GeneSymbol:CD177<br/>P-value:3.03e-79<br/>Zscore:5.41<br/>#EST:89<br/>Adj. #EST:14.9

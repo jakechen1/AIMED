@@ -1,0 +1,1 @@
+stomach	HMID:HM05999<br/>GeneSymbol:DPEP1<br/>P-value:4.85e-41<br/>Zscore:5.55<br/>#EST:50<br/>Adj. #EST:12.8

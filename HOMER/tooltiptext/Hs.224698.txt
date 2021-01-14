@@ -1,0 +1,1 @@
+liver	HMID:HM05200<br/>GeneSymbol:PROC<br/>P-value:1.53e-27<br/>Zscore:6.07<br/>#EST:35<br/>Adj. #EST:10.68

@@ -1,0 +1,1 @@
+brain	HMID:HM01516<br/>GeneSymbol:MAGEE2<br/>P-value:4.85e-11<br/>Zscore:6.74<br/>#EST:15<br/>Adj. #EST:5.42

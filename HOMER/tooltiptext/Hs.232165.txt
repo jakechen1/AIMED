@@ -1,0 +1,2 @@
+colon	HMID:HM06816<br/>GeneSymbol:CD177<br/>P-value:2.09e-79<br/>Zscore:5.32<br/>#EST:90<br/>Adj. #EST:14.69
+prostate	HMID:HM06271<br/>GeneSymbol:CD177<br/>P-value:9e-49<br/>Zscore:4.01<br/>#EST:65<br/>Adj. #EST:11.28

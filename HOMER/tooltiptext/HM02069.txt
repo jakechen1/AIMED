@@ -1,0 +1,1 @@
+brain	HMID:HM02069<br/>GeneSymbol:GABRB1<br/>P-value:3.03e-32<br/>Zscore:6.53<br/>#EST:57<br/>Adj. #EST:4.72

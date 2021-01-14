@@ -1,0 +1,1 @@
+brain	HMID:HM07268<br/>GeneSymbol:ANKS1B<br/>P-value:1.03e-149<br/>Zscore:6.03<br/>#EST:294<br/>Adj. #EST:4.57

@@ -1,0 +1,1 @@
+placenta	HMID:HM05995<br/>GeneSymbol:NOTUM<br/>P-value:6.27e-41<br/>Zscore:6.83<br/>#EST:45<br/>Adj. #EST:13.73

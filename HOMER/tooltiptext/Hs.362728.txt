@@ -1,0 +1,1 @@
+pharynx	HMID:HM06204<br/>GeneSymbol:SEP15<br/>P-value:2.71e-46<br/>Zscore:5.8<br/>#EST:68<br/>Adj. #EST:10.8

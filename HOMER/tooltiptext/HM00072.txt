@@ -1,0 +1,1 @@
+liver	HMID:HM00072<br/>GeneSymbol:APOH<br/>P-value:0<br/>Zscore:6.88<br/>#EST:421<br/>Adj. #EST:16.26

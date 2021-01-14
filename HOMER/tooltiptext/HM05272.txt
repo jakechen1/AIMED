@@ -1,0 +1,1 @@
+blood	HMID:HM05272<br/>GeneSymbol:IL2RA<br/>P-value:6.2e-11<br/>Zscore:4.06<br/>#EST:13<br/>Adj. #EST:11.52

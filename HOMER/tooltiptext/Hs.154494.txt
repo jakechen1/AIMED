@@ -1,0 +1,1 @@
+nerve	HMID:HM03247<br/>GeneSymbol:C2orf47<br/>P-value:1.01e-15<br/>Zscore:5.61<br/>#EST:20<br/>Adj. #EST:11.86

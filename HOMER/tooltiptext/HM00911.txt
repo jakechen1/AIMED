@@ -1,0 +1,1 @@
+adipose	HMID:HM00911<br/>GeneSymbol:ITLN1<br/>P-value:6.32e-74<br/>Zscore:6.66<br/>#EST:40<br/>Adj. #EST:145.65

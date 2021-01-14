@@ -1,0 +1,1 @@
+thyroid	HMID:HM02948<br/>GeneSymbol:RBAK<br/>P-value:9.09e-15<br/>Zscore:4.82<br/>#EST:15<br/>Adj. #EST:18.13

@@ -1,0 +1,1 @@
+placenta	HMID:HM07272<br/>GeneSymbol:EGFL6<br/>P-value:8.41e-151<br/>Zscore:6.67<br/>#EST:168<br/>Adj. #EST:14.07

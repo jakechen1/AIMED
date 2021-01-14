@@ -1,0 +1,1 @@
+mouth	HMID:HM02417<br/>GeneSymbol:STK38<br/>P-value:5.16e-27<br/>Zscore:5.45<br/>#EST:42<br/>Adj. #EST:9.31

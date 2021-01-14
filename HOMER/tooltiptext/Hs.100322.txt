@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06564<br/>GeneSymbol:CA6<br/>P-value:9.94e-62<br/>Zscore:7.07<br/>#EST:30<br/>Adj. #EST:191.31

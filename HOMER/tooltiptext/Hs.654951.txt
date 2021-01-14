@@ -1,0 +1,1 @@
+bladder	HMID:HM07035<br/>GeneSymbol:DPM1<br/>P-value:6.06e-102<br/>Zscore:6.56<br/>#EST:88<br/>Adj. #EST:33.48

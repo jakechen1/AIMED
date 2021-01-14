@@ -1,0 +1,1 @@
+lymph node	HMID:HM06809<br/>GeneSymbol:INPP5D<br/>P-value:1.89e-78<br/>Zscore:6.26<br/>#EST:61<br/>Adj. #EST:36.11

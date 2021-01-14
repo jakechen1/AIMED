@@ -1,0 +1,1 @@
+small intestine	HMID:HM01245<br/>GeneSymbol:MEP1A<br/>P-value:3.44e-55<br/>Zscore:6.01<br/>#EST:37<br/>Adj. #EST:58.97

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03630<br/>GeneSymbol:FGD5<br/>P-value:4.32e-17<br/>Zscore:6.96<br/>#EST:13<br/>Adj. #EST:39.24

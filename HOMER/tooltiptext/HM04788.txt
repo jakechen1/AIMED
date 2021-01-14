@@ -1,0 +1,1 @@
+testis	HMID:HM04788<br/>GeneSymbol:RSPH10B2<br/>P-value:1.38e-12<br/>Zscore:6.69<br/>#EST:15<br/>Adj. #EST:9.3

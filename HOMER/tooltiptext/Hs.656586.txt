@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06985<br/>GeneSymbol:ADK<br/>P-value:3.26e-96<br/>Zscore:6.86<br/>#EST:100<br/>Adj. #EST:19.84

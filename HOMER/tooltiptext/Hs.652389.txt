@@ -1,0 +1,1 @@
+placenta	HMID:HM04636<br/>GeneSymbol:SMAGP<br/>P-value:1.47e-22<br/>Zscore:4.74<br/>#EST:45<br/>Adj. #EST:6.04

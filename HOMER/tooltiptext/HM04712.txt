@@ -1,0 +1,1 @@
+kidney	HMID:HM04712<br/>GeneSymbol:CARD10<br/>P-value:7.8e-13<br/>Zscore:4.32<br/>#EST:27<br/>Adj. #EST:5.46

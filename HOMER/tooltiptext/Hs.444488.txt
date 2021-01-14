@@ -1,0 +1,2 @@
+liver	HMID:HM04563<br/>GeneSymbol:SPP2<br/>P-value:4.83e-22<br/>Zscore:4.97<br/>#EST:28<br/>Adj. #EST:10.47
+spleen	HMID:HM05091<br/>GeneSymbol:SPP2<br/>P-value:2.65e-26<br/>Zscore:4.91<br/>#EST:33<br/>Adj. #EST:10.35

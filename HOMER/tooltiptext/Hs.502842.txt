@@ -1,0 +1,1 @@
+mouth	HMID:HM06031<br/>GeneSymbol:CAPN1<br/>P-value:6.51e-42<br/>Zscore:5.15<br/>#EST:83<br/>Adj. #EST:6.93

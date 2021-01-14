@@ -1,0 +1,1 @@
+testis	HMID:HM01312<br/>GeneSymbol:SESN3<br/>P-value:6.14e-52<br/>Zscore:6.49<br/>#EST:63<br/>Adj. #EST:10.1

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00489<br/>GeneSymbol:ATP1B1<br/>P-value:6.02e-08<br/>Zscore:4.46<br/>#EST:17<br/>Adj. #EST:5.23

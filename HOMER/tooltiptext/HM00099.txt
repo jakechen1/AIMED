@@ -1,0 +1,1 @@
+lung	HMID:HM00099<br/>GeneSymbol:QSOX1<br/>P-value:0<br/>Zscore:6.11<br/>#EST:607<br/>Adj. #EST:7.48

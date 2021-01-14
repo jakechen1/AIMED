@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00057<br/>GeneSymbol:DEFA1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:214<br/>Adj. #EST:76.92

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM04170<br/>GeneSymbol:<br/>P-value:7.95e-20<br/>Zscore:5.9<br/>#EST:24<br/>Adj. #EST:14.11

@@ -1,0 +1,1 @@
+ear	HMID:HM04220<br/>GeneSymbol:ZBTB44<br/>P-value:9.26e-15<br/>Zscore:6.12<br/>#EST:15<br/>Adj. #EST:18.77

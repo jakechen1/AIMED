@@ -1,0 +1,1 @@
+lung	HMID:HM06024<br/>GeneSymbol:KCNA4<br/>P-value:2.88e-08<br/>Zscore:5.99<br/>#EST:13<br/>Adj. #EST:6.54

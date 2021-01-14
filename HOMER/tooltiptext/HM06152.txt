@@ -1,0 +1,1 @@
+heart	HMID:HM06152<br/>GeneSymbol:TMEM200C<br/>P-value:7.86e-08<br/>Zscore:5.28<br/>#EST:11<br/>Adj. #EST:8.35

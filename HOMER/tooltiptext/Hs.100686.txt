@@ -1,0 +1,1 @@
+breast	HMID:HM03594<br/>GeneSymbol:AGR3<br/>P-value:5.67e-17<br/>Zscore:5.54<br/>#EST:21<br/>Adj. #EST:11.55

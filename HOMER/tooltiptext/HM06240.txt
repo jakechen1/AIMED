@@ -1,0 +1,1 @@
+stomach	HMID:HM06240<br/>GeneSymbol:CPNE7<br/>P-value:2.07e-07<br/>Zscore:4.94<br/>#EST:12<br/>Adj. #EST:6.75

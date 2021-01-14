@@ -1,0 +1,1 @@
+nerve	HMID:HM01636<br/>GeneSymbol:SLC18A1<br/>P-value:2.19e-41<br/>Zscore:7.04<br/>#EST:26<br/>Adj. #EST:59.27

@@ -1,0 +1,1 @@
+spleen	HMID:HM03856<br/>GeneSymbol:GATA5<br/>P-value:3.74e-18<br/>Zscore:6.06<br/>#EST:24<br/>Adj. #EST:9.34

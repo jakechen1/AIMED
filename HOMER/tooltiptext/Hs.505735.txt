@@ -1,0 +1,2 @@
+amnion	HMID:HM02935<br/>GeneSymbol:NACA<br/>P-value:9.93e-15<br/>Zscore:4.06<br/>#EST:23<br/>Adj. #EST:8.85
+larynx	HMID:HM06409<br/>GeneSymbol:NACA<br/>P-value:1.76e-54<br/>Zscore:4.51<br/>#EST:87<br/>Adj. #EST:9.66

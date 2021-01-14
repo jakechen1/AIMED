@@ -1,0 +1,1 @@
+placenta	HMID:HM07036<br/>GeneSymbol:PLTP<br/>P-value:5.64e-102<br/>Zscore:4.39<br/>#EST:226<br/>Adj. #EST:5.77

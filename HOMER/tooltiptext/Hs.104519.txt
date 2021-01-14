@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM01182<br/>GeneSymbol:PLD2<br/>P-value:3.93e-10<br/>Zscore:5.72<br/>#EST:10<br/>Adj. #EST:18.04

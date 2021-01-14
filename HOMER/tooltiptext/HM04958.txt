@@ -1,0 +1,1 @@
+lymph node	HMID:HM04958<br/>GeneSymbol:DGKD<br/>P-value:4.78e-12<br/>Zscore:4.02<br/>#EST:23<br/>Adj. #EST:6.31

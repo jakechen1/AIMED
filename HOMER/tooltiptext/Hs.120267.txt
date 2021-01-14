@@ -1,0 +1,1 @@
+testis	HMID:HM06371<br/>GeneSymbol:TSGA10<br/>P-value:5.09e-53<br/>Zscore:6.25<br/>#EST:72<br/>Adj. #EST:8.85

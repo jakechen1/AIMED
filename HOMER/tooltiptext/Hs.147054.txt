@@ -1,0 +1,1 @@
+brain	HMID:HM06068<br/>GeneSymbol:HMGCLL1<br/>P-value:1.45e-42<br/>Zscore:6.82<br/>#EST:72<br/>Adj. #EST:4.96

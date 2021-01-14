@@ -1,0 +1,1 @@
+muscle	HMID:HM04438<br/>GeneSymbol:FITM1<br/>P-value:1.98e-21<br/>Zscore:6.03<br/>#EST:18<br/>Adj. #EST:25.98

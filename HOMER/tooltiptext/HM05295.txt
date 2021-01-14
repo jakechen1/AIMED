@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05295<br/>GeneSymbol:RIN3<br/>P-value:7.46e-11<br/>Zscore:4.76<br/>#EST:18<br/>Adj. #EST:7.44

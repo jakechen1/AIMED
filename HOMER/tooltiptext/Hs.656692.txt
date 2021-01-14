@@ -1,0 +1,1 @@
+lymph node	HMID:HM02587<br/>GeneSymbol:EML6<br/>P-value:1.56e-13<br/>Zscore:6.2<br/>#EST:15<br/>Adj. #EST:14.38

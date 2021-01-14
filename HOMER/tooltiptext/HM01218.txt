@@ -1,0 +1,2 @@
+liver	HMID:HM01218<br/>GeneSymbol:MT1E<br/>P-value:1.8e-56<br/>Zscore:4.48<br/>#EST:105<br/>Adj. #EST:6.8
+spleen	HMID:HM01218<br/>GeneSymbol:MT1E<br/>P-value:9.1e-28<br/>Zscore:4.35<br/>#EST:54<br/>Adj. #EST:6.62

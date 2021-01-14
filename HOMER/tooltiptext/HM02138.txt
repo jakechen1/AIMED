@@ -1,0 +1,1 @@
+ovary	HMID:HM02138<br/>GeneSymbol:TUBB2A<br/>P-value:5.33e-31<br/>Zscore:4.06<br/>#EST:90<br/>Adj. #EST:4.47

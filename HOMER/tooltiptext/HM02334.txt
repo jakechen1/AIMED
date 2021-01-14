@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02334<br/>GeneSymbol:PIK3C2G<br/>P-value:3.49e-28<br/>Zscore:7<br/>#EST:20<br/>Adj. #EST:40.38

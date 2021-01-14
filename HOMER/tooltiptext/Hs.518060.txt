@@ -1,0 +1,1 @@
+pharynx	HMID:HM04320<br/>GeneSymbol:ARL6IP5<br/>P-value:8.95e-21<br/>Zscore:4.31<br/>#EST:46<br/>Adj. #EST:5.82

@@ -1,0 +1,1 @@
+leiomios	HMID:HM06842<br/>GeneSymbol:CYR61<br/>P-value:2.06e-81<br/>Zscore:6.67<br/>#EST:59<br/>Adj. #EST:57.5

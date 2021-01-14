@@ -1,0 +1,1 @@
+lymph node	HMID:HM01496<br/>GeneSymbol:LYSMD3<br/>P-value:5.53e-11<br/>Zscore:5.26<br/>#EST:16<br/>Adj. #EST:8.85

@@ -1,0 +1,1 @@
+lung	HMID:HM06566<br/>GeneSymbol:C17orf100<br/>P-value:9.69e-06<br/>Zscore:4.13<br/>#EST:13<br/>Adj. #EST:4.16

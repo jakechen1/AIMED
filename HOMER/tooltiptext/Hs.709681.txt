@@ -1,0 +1,1 @@
+muscle	HMID:HM07303<br/>GeneSymbol:TMOD4<br/>P-value:3.3e-163<br/>Zscore:7.04<br/>#EST:106<br/>Adj. #EST:49.05

@@ -1,0 +1,2 @@
+liver	HMID:HM06006<br/>GeneSymbol:A1CF<br/>P-value:3.39e-41<br/>Zscore:4.6<br/>#EST:67<br/>Adj. #EST:7.92
+spleen	HMID:HM06016<br/>GeneSymbol:A1CF<br/>P-value:1.3e-41<br/>Zscore:4.12<br/>#EST:72<br/>Adj. #EST:7.15

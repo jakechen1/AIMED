@@ -1,0 +1,1 @@
+spleen	HMID:HM06937<br/>GeneSymbol:AHSP<br/>P-value:1.38e-91<br/>Zscore:5.45<br/>#EST:120<br/>Adj. #EST:10.38

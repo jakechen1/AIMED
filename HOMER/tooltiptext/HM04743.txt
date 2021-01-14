@@ -1,0 +1,1 @@
+brain	HMID:HM04743<br/>GeneSymbol:TNR<br/>P-value:9.73e-13<br/>Zscore:6.51<br/>#EST:22<br/>Adj. #EST:4.59

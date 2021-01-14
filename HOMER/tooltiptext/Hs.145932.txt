@@ -1,0 +1,1 @@
+testis	HMID:HM02916<br/>GeneSymbol:MTL5<br/>P-value:1.16e-14<br/>Zscore:4.52<br/>#EST:30<br/>Adj. #EST:5.23

@@ -1,0 +1,1 @@
+amnion	HMID:HM02589<br/>GeneSymbol:PRUNE<br/>P-value:5.63e-25<br/>Zscore:6.87<br/>#EST:17<br/>Adj. #EST:60.28

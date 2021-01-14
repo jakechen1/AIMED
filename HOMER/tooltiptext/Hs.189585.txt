@@ -1,0 +1,1 @@
+leiomios	HMID:HM02770<br/>GeneSymbol:DIP2A<br/>P-value:3.06e-14<br/>Zscore:7.02<br/>#EST:10<br/>Adj. #EST:47.7

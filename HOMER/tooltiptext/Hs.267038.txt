@@ -1,0 +1,1 @@
+trachea	HMID:HM04142<br/>GeneSymbol:POF1B<br/>P-value:1.32e-19<br/>Zscore:6.3<br/>#EST:15<br/>Adj. #EST:36.11

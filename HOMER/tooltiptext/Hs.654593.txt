@@ -1,0 +1,1 @@
+leiomios	HMID:HM03096<br/>GeneSymbol:IL10RB<br/>P-value:3.02e-15<br/>Zscore:6.93<br/>#EST:11<br/>Adj. #EST:45.01

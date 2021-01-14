@@ -1,0 +1,1 @@
+brain	HMID:HM05293<br/>GeneSymbol:FRMPD2<br/>P-value:7.35e-11<br/>Zscore:6.04<br/>#EST:20<br/>Adj. #EST:4.33

@@ -1,0 +1,1 @@
+blood	HMID:HM03490<br/>GeneSymbol:MIR155HG<br/>P-value:1.93e-18<br/>Zscore:6.07<br/>#EST:18<br/>Adj. #EST:17.76

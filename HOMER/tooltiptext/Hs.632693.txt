@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06602<br/>GeneSymbol:FAM73B<br/>P-value:2.69e-64<br/>Zscore:6.39<br/>#EST:79<br/>Adj. #EST:14.53

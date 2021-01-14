@@ -1,0 +1,2 @@
+mouth	HMID:HM01491<br/>GeneSymbol:EGFR<br/>P-value:2.32e-12<br/>Zscore:4.31<br/>#EST:23<br/>Adj. #EST:6.61
+placenta	HMID:HM01491<br/>GeneSymbol:EGFR<br/>P-value:2.19e-45<br/>Zscore:4.04<br/>#EST:91<br/>Adj. #EST:6.24

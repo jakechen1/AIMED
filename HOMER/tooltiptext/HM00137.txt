@@ -1,0 +1,1 @@
+placenta	HMID:HM00137<br/>GeneSymbol:CSH1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:2387<br/>Adj. #EST:22.85

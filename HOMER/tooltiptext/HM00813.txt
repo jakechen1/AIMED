@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00813<br/>GeneSymbol:CXCL6<br/>P-value:3.88e-84<br/>Zscore:6.6<br/>#EST:65<br/>Adj. #EST:36.34

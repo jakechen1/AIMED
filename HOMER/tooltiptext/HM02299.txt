@@ -1,0 +1,2 @@
+bone	HMID:HM02299<br/>GeneSymbol:KRT81<br/>P-value:1.32e-28<br/>Zscore:4.06<br/>#EST:41<br/>Adj. #EST:10.04
+muscle	HMID:HM02299<br/>GeneSymbol:KRT81<br/>P-value:3.74e-24<br/>Zscore:4.2<br/>#EST:34<br/>Adj. #EST:10.35

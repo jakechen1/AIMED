@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03139<br/>GeneSymbol:TRIM55<br/>P-value:1.04e-20<br/>Zscore:6.54<br/>#EST:19<br/>Adj. #EST:22.27

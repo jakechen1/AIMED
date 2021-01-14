@@ -1,0 +1,1 @@
+stomach	HMID:HM00237<br/>GeneSymbol:WNT7B<br/>P-value:0<br/>Zscore:6.85<br/>#EST:197<br/>Adj. #EST:29.05

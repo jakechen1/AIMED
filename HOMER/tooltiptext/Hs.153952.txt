@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05739<br/>GeneSymbol:NT5E<br/>P-value:1.57e-35<br/>Zscore:5.74<br/>#EST:58<br/>Adj. #EST:8.77

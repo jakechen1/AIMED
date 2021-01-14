@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04992<br/>GeneSymbol:SF3B5<br/>P-value:5.76e-12<br/>Zscore:5.57<br/>#EST:17<br/>Adj. #EST:9.74

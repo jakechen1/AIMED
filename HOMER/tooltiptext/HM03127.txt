@@ -1,0 +1,1 @@
+bladder	HMID:HM03127<br/>GeneSymbol:CRIPT<br/>P-value:8.99e-21<br/>Zscore:6.26<br/>#EST:21<br/>Adj. #EST:19.95

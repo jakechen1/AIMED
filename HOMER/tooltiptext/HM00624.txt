@@ -1,0 +1,1 @@
+muscle	HMID:HM00624<br/>GeneSymbol:STAC3<br/>P-value:0<br/>Zscore:7.02<br/>#EST:72<br/>Adj. #EST:42.71

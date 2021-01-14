@@ -1,0 +1,1 @@
+muscle	HMID:HM04573<br/>GeneSymbol:NDUFB10<br/>P-value:2.15e-13<br/>Zscore:4.58<br/>#EST:30<br/>Adj. #EST:5.33

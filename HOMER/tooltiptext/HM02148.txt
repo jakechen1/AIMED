@@ -1,0 +1,1 @@
+amnion	HMID:HM02148<br/>GeneSymbol:UFSP2<br/>P-value:8.07e-31<br/>Zscore:7.03<br/>#EST:21<br/>Adj. #EST:62.42

@@ -1,0 +1,2 @@
+bone	HMID:HM00444<br/>GeneSymbol:<br/>P-value:0<br/>Zscore:4.6<br/>#EST:139<br/>Adj. #EST:19.86
+ear	HMID:HM00444<br/>GeneSymbol:<br/>P-value:1.96e-17<br/>Zscore:4.95<br/>#EST:17<br/>Adj. #EST:21.28

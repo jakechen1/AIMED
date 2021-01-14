@@ -1,0 +1,1 @@
+ear	HMID:HM06442<br/>GeneSymbol:TBL1XR1<br/>P-value:1.29e-06<br/>Zscore:4.93<br/>#EST:11<br/>Adj. #EST:6.67

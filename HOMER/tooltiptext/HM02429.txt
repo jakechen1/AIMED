@@ -1,0 +1,1 @@
+brain	HMID:HM02429<br/>GeneSymbol:STXBP5L<br/>P-value:6.9e-27<br/>Zscore:5.84<br/>#EST:49<br/>Adj. #EST:4.6

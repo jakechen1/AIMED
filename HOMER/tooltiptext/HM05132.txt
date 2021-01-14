@@ -1,0 +1,1 @@
+larynx	HMID:HM05132<br/>GeneSymbol:ANXA8L1<br/>P-value:1.92e-11<br/>Zscore:5.25<br/>#EST:12<br/>Adj. #EST:16.33

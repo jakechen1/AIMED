@@ -1,0 +1,1 @@
+esophagus	HMID:HM01433<br/>GeneSymbol:CCT8<br/>P-value:7.48e-11<br/>Zscore:4.17<br/>#EST:28<br/>Adj. #EST:4.6

@@ -1,0 +1,1 @@
+pharynx	HMID:HM02468<br/>GeneSymbol:IGLJ3<br/>P-value:1.8e-26<br/>Zscore:6.66<br/>#EST:18<br/>Adj. #EST:53.07

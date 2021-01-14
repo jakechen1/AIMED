@@ -1,0 +1,1 @@
+thyroid	HMID:HM05215<br/>GeneSymbol:IPO5<br/>P-value:1.13e-27<br/>Zscore:4.8<br/>#EST:66<br/>Adj. #EST:5.48

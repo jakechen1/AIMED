@@ -1,0 +1,1 @@
+tonsil	HMID:HM02423<br/>GeneSymbol:POLD4<br/>P-value:4.81e-13<br/>Zscore:6.22<br/>#EST:15<br/>Adj. #EST:14.26

@@ -1,0 +1,1 @@
+embryo	HMID:HM04497<br/>GeneSymbol:VRTN<br/>P-value:8.86e-22<br/>Zscore:6.46<br/>#EST:21<br/>Adj. #EST:16.45

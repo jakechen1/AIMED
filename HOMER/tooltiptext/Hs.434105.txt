@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04325<br/>GeneSymbol:SPANXB2<br/>P-value:8.08e-21<br/>Zscore:7.05<br/>#EST:13<br/>Adj. #EST:52.4

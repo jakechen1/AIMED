@@ -1,0 +1,1 @@
+lymph	HMID:HM06753<br/>GeneSymbol:TUBB<br/>P-value:1.28e-73<br/>Zscore:4.65<br/>#EST:248<br/>Adj. #EST:4.08

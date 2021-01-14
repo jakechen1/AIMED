@@ -1,0 +1,1 @@
+testis	HMID:HM04735<br/>GeneSymbol:WNT2B<br/>P-value:9.01e-13<br/>Zscore:5.31<br/>#EST:24<br/>Adj. #EST:5.61

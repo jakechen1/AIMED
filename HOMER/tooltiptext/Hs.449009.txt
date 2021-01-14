@@ -1,0 +1,1 @@
+pancreas	HMID:HM06553<br/>GeneSymbol:VWA1<br/>P-value:3.83e-61<br/>Zscore:4.47<br/>#EST:133<br/>Adj. #EST:5.91

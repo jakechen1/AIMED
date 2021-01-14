@@ -1,0 +1,1 @@
+nerve	HMID:HM05960<br/>GeneSymbol:ICA1<br/>P-value:1.67e-08<br/>Zscore:4.34<br/>#EST:15<br/>Adj. #EST:6.51

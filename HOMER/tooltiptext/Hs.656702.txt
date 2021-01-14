@@ -1,0 +1,1 @@
+brain	HMID:HM05787<br/>GeneSymbol:LIX1<br/>P-value:2.42e-36<br/>Zscore:5.91<br/>#EST:77<br/>Adj. #EST:4.24

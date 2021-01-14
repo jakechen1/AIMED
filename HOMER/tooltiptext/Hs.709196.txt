@@ -1,0 +1,1 @@
+colon	HMID:HM07644<br/>GeneSymbol:CEACAM5<br/>P-value:0<br/>Zscore:4.79<br/>#EST:386<br/>Adj. #EST:19.81

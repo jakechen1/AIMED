@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04935<br/>GeneSymbol:CPSF3<br/>P-value:8.82e-25<br/>Zscore:5.42<br/>#EST:52<br/>Adj. #EST:6.18

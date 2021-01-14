@@ -1,0 +1,1 @@
+stomach	HMID:HM03532<br/>GeneSymbol:TMEM82<br/>P-value:1.14e-16<br/>Zscore:6.31<br/>#EST:15<br/>Adj. #EST:19.35

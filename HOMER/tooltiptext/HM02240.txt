@@ -1,0 +1,1 @@
+thymus	HMID:HM02240<br/>GeneSymbol:TRO<br/>P-value:2.03e-29<br/>Zscore:5.13<br/>#EST:58<br/>Adj. #EST:6.76

@@ -1,0 +1,1 @@
+testis	HMID:HM06618<br/>GeneSymbol:UBQLN3<br/>P-value:2.54e-65<br/>Zscore:7.07<br/>#EST:63<br/>Adj. #EST:12.91

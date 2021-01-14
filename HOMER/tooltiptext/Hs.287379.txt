@@ -1,0 +1,1 @@
+lymph	HMID:HM06172<br/>GeneSymbol:WDFY4<br/>P-value:1.67e-45<br/>Zscore:4.87<br/>#EST:36<br/>Adj. #EST:37.21

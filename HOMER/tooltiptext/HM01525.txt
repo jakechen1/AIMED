@@ -1,0 +1,1 @@
+thymus	HMID:HM01525<br/>GeneSymbol:SLAMF1<br/>P-value:2.03e-44<br/>Zscore:6.76<br/>#EST:34<br/>Adj. #EST:36.53

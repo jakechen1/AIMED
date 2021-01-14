@@ -1,0 +1,1 @@
+salivary gland	HMID:HM03069<br/>GeneSymbol:CISD1<br/>P-value:2.9e-21<br/>Zscore:6.37<br/>#EST:22<br/>Adj. #EST:19.33

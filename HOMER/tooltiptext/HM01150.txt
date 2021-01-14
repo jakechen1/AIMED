@@ -1,0 +1,1 @@
+brain	HMID:HM01150<br/>GeneSymbol:APC2<br/>P-value:1.74e-59<br/>Zscore:5.44<br/>#EST:126<br/>Adj. #EST:4.25

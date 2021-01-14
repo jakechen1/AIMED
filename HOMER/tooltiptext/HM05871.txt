@@ -1,0 +1,1 @@
+blood	HMID:HM05871<br/>GeneSymbol:ZNF683<br/>P-value:7.84e-09<br/>Zscore:6.22<br/>#EST:11<br/>Adj. #EST:10.16

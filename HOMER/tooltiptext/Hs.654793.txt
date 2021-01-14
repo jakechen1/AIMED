@@ -1,0 +1,1 @@
+brain	HMID:HM05524<br/>GeneSymbol:DLGAP1<br/>P-value:7.29e-32<br/>Zscore:4.97<br/>#EST:72<br/>Adj. #EST:4.04

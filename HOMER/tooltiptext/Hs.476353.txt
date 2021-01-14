@@ -1,0 +1,1 @@
+amnion	HMID:HM02302<br/>GeneSymbol:DCP1A<br/>P-value:5.8e-13<br/>Zscore:6.85<br/>#EST:12<br/>Adj. #EST:22.54

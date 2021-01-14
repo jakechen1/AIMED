@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM02608<br/>GeneSymbol:DHCR24<br/>P-value:7.47e-25<br/>Zscore:4.21<br/>#EST:52<br/>Adj. #EST:6.34

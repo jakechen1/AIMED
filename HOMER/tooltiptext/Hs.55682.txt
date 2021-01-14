@@ -1,0 +1,1 @@
+nerve	HMID:HM05614<br/>GeneSymbol:EIF3D<br/>P-value:2.68e-33<br/>Zscore:4.39<br/>#EST:96<br/>Adj. #EST:4.55

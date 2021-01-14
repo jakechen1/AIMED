@@ -1,0 +1,1 @@
+skin	HMID:HM07065<br/>GeneSymbol:MLANA<br/>P-value:8.35e-106<br/>Zscore:6.81<br/>#EST:101<br/>Adj. #EST:18.05

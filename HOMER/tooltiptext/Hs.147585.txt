@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02923<br/>GeneSymbol:FAM124B<br/>P-value:1.1e-14<br/>Zscore:6.01<br/>#EST:14<br/>Adj. #EST:19.49

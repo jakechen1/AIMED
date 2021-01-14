@@ -1,0 +1,1 @@
+spleen	HMID:HM04543<br/>GeneSymbol:ENHO<br/>P-value:5.73e-22<br/>Zscore:6.26<br/>#EST:36<br/>Adj. #EST:7.29

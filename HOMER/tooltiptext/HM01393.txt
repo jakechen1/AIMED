@@ -1,0 +1,1 @@
+trachea	HMID:HM01393<br/>GeneSymbol:SCNN1A<br/>P-value:1.42e-48<br/>Zscore:5.9<br/>#EST:55<br/>Adj. #EST:16.94

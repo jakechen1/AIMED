@@ -1,0 +1,1 @@
+thymus	HMID:HM07175<br/>GeneSymbol:IL23A<br/>P-value:5.59e-124<br/>Zscore:6.55<br/>#EST:118<br/>Adj. #EST:24.23

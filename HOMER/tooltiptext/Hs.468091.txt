@@ -1,0 +1,1 @@
+thyroid	HMID:HM02538<br/>GeneSymbol:SPAST<br/>P-value:2.08e-13<br/>Zscore:6.19<br/>#EST:14<br/>Adj. #EST:16.78

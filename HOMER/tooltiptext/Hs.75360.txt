@@ -1,0 +1,1 @@
+pituitary	HMID:HM05134<br/>GeneSymbol:CPE<br/>P-value:8.76e-27<br/>Zscore:4.73<br/>#EST:33<br/>Adj. #EST:14.2

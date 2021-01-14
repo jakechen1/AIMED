@@ -1,0 +1,1 @@
+larynx	HMID:HM02836<br/>GeneSymbol:GJA1<br/>P-value:4.68e-23<br/>Zscore:4.99<br/>#EST:38<br/>Adj. #EST:8.63

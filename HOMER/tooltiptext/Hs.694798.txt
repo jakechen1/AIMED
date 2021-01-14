@@ -1,0 +1,1 @@
+colon	HMID:HM00261<br/>GeneSymbol:C2CD3<br/>P-value:4.14e-07<br/>Zscore:4.38<br/>#EST:14<br/>Adj. #EST:5.27

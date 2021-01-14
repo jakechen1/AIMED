@@ -1,0 +1,1 @@
+esophagus	HMID:HM05826<br/>GeneSymbol:SCPEP1<br/>P-value:3.07e-37<br/>Zscore:5.74<br/>#EST:39<br/>Adj. #EST:20.27

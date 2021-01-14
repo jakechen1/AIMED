@@ -1,0 +1,1 @@
+lymph	HMID:HM02458<br/>GeneSymbol:BTK<br/>P-value:4.06e-13<br/>Zscore:4.84<br/>#EST:17<br/>Adj. #EST:11.27

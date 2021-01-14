@@ -1,0 +1,1 @@
+pancreas	HMID:HM01402<br/>GeneSymbol:LMO1<br/>P-value:1.01e-10<br/>Zscore:6.19<br/>#EST:12<br/>Adj. #EST:11.9

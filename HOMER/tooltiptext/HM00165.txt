@@ -1,0 +1,1 @@
+leiomios	HMID:HM00165<br/>GeneSymbol:ST13<br/>P-value:0<br/>Zscore:7.07<br/>#EST:328<br/>Adj. #EST:215.93

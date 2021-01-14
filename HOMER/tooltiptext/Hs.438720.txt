@@ -1,0 +1,1 @@
+thymus	HMID:HM05924<br/>GeneSymbol:MCM7<br/>P-value:2.44e-39<br/>Zscore:4.06<br/>#EST:121<br/>Adj. #EST:4.31

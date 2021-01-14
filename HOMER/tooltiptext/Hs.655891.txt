@@ -1,0 +1,1 @@
+spleen	HMID:HM01662<br/>GeneSymbol:DTWD2<br/>P-value:2.05e-11<br/>Zscore:4.57<br/>#EST:21<br/>Adj. #EST:5.92

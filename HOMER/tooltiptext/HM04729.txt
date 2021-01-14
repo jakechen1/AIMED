@@ -1,0 +1,1 @@
+colon	HMID:HM04729<br/>GeneSymbol:B3GNT3<br/>P-value:8.7e-13<br/>Zscore:4.71<br/>#EST:13<br/>Adj. #EST:14.8

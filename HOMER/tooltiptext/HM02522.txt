@@ -1,0 +1,1 @@
+placenta	HMID:HM02522<br/>GeneSymbol:GJA4<br/>P-value:7.3e-26<br/>Zscore:4.67<br/>#EST:46<br/>Adj. #EST:6.92

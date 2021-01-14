@@ -1,0 +1,1 @@
+blood	HMID:HM06480<br/>GeneSymbol:TNFSF13B<br/>P-value:2.04e-06<br/>Zscore:4.56<br/>#EST:10<br/>Adj. #EST:6.78

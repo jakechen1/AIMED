@@ -1,0 +1,1 @@
+larynx	HMID:HM03480<br/>GeneSymbol:LRP5<br/>P-value:1.74e-16<br/>Zscore:6.5<br/>#EST:17<br/>Adj. #EST:18.47

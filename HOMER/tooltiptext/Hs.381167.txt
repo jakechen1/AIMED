@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05442<br/>GeneSymbol:SERPINB1<br/>P-value:1.22e-30<br/>Zscore:5.05<br/>#EST:53<br/>Adj. #EST:8.08

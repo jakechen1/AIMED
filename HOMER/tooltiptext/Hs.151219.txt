@@ -1,0 +1,1 @@
+brain	HMID:HM07293<br/>GeneSymbol:KIF5A<br/>P-value:5.76e-160<br/>Zscore:5.58<br/>#EST:272<br/>Adj. #EST:5.03

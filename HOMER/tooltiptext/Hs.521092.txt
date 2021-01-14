@@ -1,0 +1,1 @@
+lymph node	HMID:HM02895<br/>GeneSymbol:TRIM56<br/>P-value:1.28e-14<br/>Zscore:5.82<br/>#EST:18<br/>Adj. #EST:12.17

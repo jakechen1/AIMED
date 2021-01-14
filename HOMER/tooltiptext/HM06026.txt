@@ -1,0 +1,1 @@
+pharynx	HMID:HM06026<br/>GeneSymbol:BUB3<br/>P-value:2.96e-08<br/>Zscore:4.12<br/>#EST:22<br/>Adj. #EST:4.24

@@ -1,0 +1,1 @@
+leiomios	HMID:HM01258<br/>GeneSymbol:ARID1A<br/>P-value:2.58e-10<br/>Zscore:6.45<br/>#EST:10<br/>Adj. #EST:19

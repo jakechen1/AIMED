@@ -1,0 +1,1 @@
+placenta	HMID:HM04753<br/>GeneSymbol:OLAH<br/>P-value:1.05e-12<br/>Zscore:5.42<br/>#EST:18<br/>Adj. #EST:8.44

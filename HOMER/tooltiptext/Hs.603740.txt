@@ -1,0 +1,1 @@
+liver	HMID:HM07453<br/>GeneSymbol:PAH<br/>P-value:2.32e-248<br/>Zscore:4.2<br/>#EST:283<br/>Adj. #EST:13.45

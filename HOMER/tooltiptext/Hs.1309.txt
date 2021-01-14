@@ -1,0 +1,1 @@
+thymus	HMID:HM07289<br/>GeneSymbol:CD1A<br/>P-value:5.31e-157<br/>Zscore:7.07<br/>#EST:90<br/>Adj. #EST:72.5

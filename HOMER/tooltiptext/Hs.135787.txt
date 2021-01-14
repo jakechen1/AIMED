@@ -1,0 +1,1 @@
+embryo	HMID:HM00072<br/>GeneSymbol:SALL1<br/>P-value:3.05e-06<br/>Zscore:4.54<br/>#EST:13<br/>Adj. #EST:4.75

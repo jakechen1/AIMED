@@ -1,0 +1,1 @@
+muscle	HMID:HM04704<br/>GeneSymbol:SGCA<br/>P-value:4.05e-23<br/>Zscore:6.38<br/>#EST:24<br/>Adj. #EST:17.32

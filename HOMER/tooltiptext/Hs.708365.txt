@@ -1,0 +1,1 @@
+embryo	HMID:HM02029<br/>GeneSymbol:FOXH1<br/>P-value:2.53e-12<br/>Zscore:6.22<br/>#EST:12<br/>Adj. #EST:14.96

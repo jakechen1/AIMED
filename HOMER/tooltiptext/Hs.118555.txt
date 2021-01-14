@@ -1,0 +1,1 @@
+eye	HMID:HM03665<br/>GeneSymbol:FSCN2<br/>P-value:2.52e-17<br/>Zscore:6.84<br/>#EST:13<br/>Adj. #EST:24.83

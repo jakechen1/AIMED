@@ -1,0 +1,1 @@
+adipose	HMID:HM02379<br/>GeneSymbol:CD36<br/>P-value:1.49e-27<br/>Zscore:5.22<br/>#EST:30<br/>Adj. #EST:18.21

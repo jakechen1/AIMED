@@ -1,0 +1,2 @@
+muscle	HMID:HM03449<br/>GeneSymbol:FABP3<br/>P-value:2.83e-16<br/>Zscore:4.78<br/>#EST:22<br/>Adj. #EST:10.5
+heart	HMID:HM03444<br/>GeneSymbol:FABP3<br/>P-value:2.93e-16<br/>Zscore:4.39<br/>#EST:23<br/>Adj. #EST:9.7

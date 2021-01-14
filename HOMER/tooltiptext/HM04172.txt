@@ -1,0 +1,1 @@
+liver	HMID:HM04172<br/>GeneSymbol:FLJ36840<br/>P-value:5.91e-15<br/>Zscore:5.64<br/>#EST:16<br/>Adj. #EST:12.58

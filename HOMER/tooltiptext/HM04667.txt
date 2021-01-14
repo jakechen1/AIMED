@@ -1,0 +1,2 @@
+bladder	HMID:HM04667<br/>GeneSymbol:TNFRSF21<br/>P-value:1.9e-08<br/>Zscore:4.31<br/>#EST:13<br/>Adj. #EST:7.91
+trachea	HMID:HM04667<br/>GeneSymbol:TNFRSF21<br/>P-value:4.95e-13<br/>Zscore:4.12<br/>#EST:22<br/>Adj. #EST:7.6

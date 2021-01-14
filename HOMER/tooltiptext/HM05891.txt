@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05891<br/>GeneSymbol:GMPR2<br/>P-value:9.13e-09<br/>Zscore:4.91<br/>#EST:14<br/>Adj. #EST:7.62

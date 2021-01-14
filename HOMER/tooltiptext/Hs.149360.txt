@@ -1,0 +1,1 @@
+bladder	HMID:HM01162<br/>GeneSymbol:ODF2L<br/>P-value:5.02e-10<br/>Zscore:5.15<br/>#EST:12<br/>Adj. #EST:12.27

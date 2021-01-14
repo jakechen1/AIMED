@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01029<br/>GeneSymbol:CASR<br/>P-value:9.71e-67<br/>Zscore:6.84<br/>#EST:31<br/>Adj. #EST:216.18

@@ -1,0 +1,1 @@
+adipose	HMID:HM05954<br/>GeneSymbol:FABP4<br/>P-value:4.96e-40<br/>Zscore:6.38<br/>#EST:30<br/>Adj. #EST:47.69

@@ -1,0 +1,1 @@
+larynx	HMID:HM03122<br/>GeneSymbol:VOPP1<br/>P-value:2.36e-15<br/>Zscore:6.3<br/>#EST:19<br/>Adj. #EST:12.84

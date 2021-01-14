@@ -1,0 +1,1 @@
+brain	HMID:HM01285<br/>GeneSymbol:FAM131B<br/>P-value:4.32e-53<br/>Zscore:6.55<br/>#EST:102<br/>Adj. #EST:4.52

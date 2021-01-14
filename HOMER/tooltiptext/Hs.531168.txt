@@ -1,0 +1,1 @@
+lymph node	HMID:HM00086<br/>GeneSymbol:FAM81A<br/>P-value:2.45e-06<br/>Zscore:5.65<br/>#EST:10<br/>Adj. #EST:6.82

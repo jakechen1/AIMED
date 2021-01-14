@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01529<br/>GeneSymbol:NME7<br/>P-value:2.27e-44<br/>Zscore:6.38<br/>#EST:45<br/>Adj. #EST:19.82

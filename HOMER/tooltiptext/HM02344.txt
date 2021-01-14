@@ -1,0 +1,2 @@
+liver	HMID:HM02344<br/>GeneSymbol:ABCC6P1<br/>P-value:4.39e-28<br/>Zscore:4<br/>#EST:35<br/>Adj. #EST:10.85
+spleen	HMID:HM02344<br/>GeneSymbol:ABCC6P1<br/>P-value:4.63e-24<br/>Zscore:5.71<br/>#EST:26<br/>Adj. #EST:15.27

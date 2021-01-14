@@ -1,0 +1,1 @@
+thyroid	HMID:HM00183<br/>GeneSymbol:WIF1<br/>P-value:8.23e-07<br/>Zscore:4.25<br/>#EST:11<br/>Adj. #EST:6.9

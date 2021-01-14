@@ -1,0 +1,1 @@
+placenta	HMID:HM06608<br/>GeneSymbol:PSG8<br/>P-value:8.89e-65<br/>Zscore:6.98<br/>#EST:55<br/>Adj. #EST:20.29

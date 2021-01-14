@@ -1,0 +1,1 @@
+pharynx	HMID:HM06499<br/>GeneSymbol:LAMC2<br/>P-value:1.76e-58<br/>Zscore:6.32<br/>#EST:55<br/>Adj. #EST:25.84

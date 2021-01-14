@@ -1,0 +1,1 @@
+pancreas	HMID:HM02038<br/>GeneSymbol:LOC729178<br/>P-value:2.47e-12<br/>Zscore:5.79<br/>#EST:17<br/>Adj. #EST:9.03

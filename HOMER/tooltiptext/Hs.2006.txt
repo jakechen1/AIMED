@@ -1,0 +1,1 @@
+blood	HMID:HM05801<br/>GeneSymbol:GSTM3<br/>P-value:1.37e-36<br/>Zscore:4.14<br/>#EST:72<br/>Adj. #EST:6.69

@@ -1,0 +1,1 @@
+kidney	HMID:HM01448<br/>GeneSymbol:GLYATL1<br/>P-value:7.01e-47<br/>Zscore:5.62<br/>#EST:63<br/>Adj. #EST:10.76

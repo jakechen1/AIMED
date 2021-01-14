@@ -1,0 +1,1 @@
+trachea	HMID:HM04967<br/>GeneSymbol:ECT2L<br/>P-value:5.99e-25<br/>Zscore:7.07<br/>#EST:13<br/>Adj. #EST:101.27

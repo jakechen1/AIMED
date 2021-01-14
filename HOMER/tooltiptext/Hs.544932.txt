@@ -1,0 +1,1 @@
+spleen	HMID:HM05596<br/>GeneSymbol:TFR2<br/>P-value:4.37e-33<br/>Zscore:4.23<br/>#EST:54<br/>Adj. #EST:7.56

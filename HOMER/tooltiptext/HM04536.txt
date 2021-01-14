@@ -1,0 +1,1 @@
+cervix	HMID:HM04536<br/>GeneSymbol:COPZ1<br/>P-value:1.74e-13<br/>Zscore:4.36<br/>#EST:37<br/>Adj. #EST:4.45

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05985<br/>GeneSymbol:RNF40<br/>P-value:1.08e-40<br/>Zscore:6.77<br/>#EST:44<br/>Adj. #EST:19.26

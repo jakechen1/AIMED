@@ -1,0 +1,1 @@
+thymus	HMID:HM06113<br/>GeneSymbol:SRSF5<br/>P-value:6.2e-44<br/>Zscore:4.79<br/>#EST:112<br/>Adj. #EST:5.19

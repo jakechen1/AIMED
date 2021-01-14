@@ -1,0 +1,1 @@
+bone	HMID:HM02865<br/>GeneSymbol:PLA2G2D<br/>P-value:7.74e-23<br/>Zscore:5.69<br/>#EST:21<br/>Adj. #EST:20.68

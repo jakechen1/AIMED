@@ -1,0 +1,1 @@
+pharynx	HMID:HM01821<br/>GeneSymbol:CCL5<br/>P-value:9.11e-12<br/>Zscore:5.31<br/>#EST:11<br/>Adj. #EST:20.5

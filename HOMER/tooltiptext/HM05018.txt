@@ -1,0 +1,1 @@
+spleen	HMID:HM05018<br/>GeneSymbol:TBXAS1<br/>P-value:7.01e-12<br/>Zscore:4.12<br/>#EST:29<br/>Adj. #EST:4.74

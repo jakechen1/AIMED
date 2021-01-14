@@ -1,0 +1,1 @@
+larynx	HMID:HM03376<br/>GeneSymbol:TPR<br/>P-value:3.54e-19<br/>Zscore:4.77<br/>#EST:24<br/>Adj. #EST:13.08

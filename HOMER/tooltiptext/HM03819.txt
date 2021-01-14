@@ -1,0 +1,1 @@
+nerve	HMID:HM03819<br/>GeneSymbol:TMEM101<br/>P-value:1.42e-16<br/>Zscore:4.84<br/>#EST:29<br/>Adj. #EST:7.45

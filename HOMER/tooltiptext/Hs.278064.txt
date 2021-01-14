@@ -1,0 +1,1 @@
+spleen	HMID:HM03853<br/>GeneSymbol:ZNF37BP<br/>P-value:3.78e-18<br/>Zscore:5.16<br/>#EST:38<br/>Adj. #EST:5.47

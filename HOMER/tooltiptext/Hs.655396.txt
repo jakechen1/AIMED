@@ -1,0 +1,1 @@
+pharynx	HMID:HM01202<br/>GeneSymbol:PSMD11<br/>P-value:3.53e-10<br/>Zscore:4.81<br/>#EST:21<br/>Adj. #EST:5.7

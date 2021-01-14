@@ -1,0 +1,1 @@
+leiomios	HMID:HM04731<br/>GeneSymbol:HGSNAT<br/>P-value:8.73e-13<br/>Zscore:6.86<br/>#EST:11<br/>Adj. #EST:26.71

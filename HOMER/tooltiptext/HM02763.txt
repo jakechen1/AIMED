@@ -1,0 +1,1 @@
+skin	HMID:HM02763<br/>GeneSymbol:TUB<br/>P-value:1.31e-23<br/>Zscore:6.2<br/>#EST:28<br/>Adj. #EST:11.88

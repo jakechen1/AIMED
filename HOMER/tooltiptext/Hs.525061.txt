@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07384<br/>GeneSymbol:TDRD3<br/>P-value:1.93e-199<br/>Zscore:6.99<br/>#EST:167<br/>Adj. #EST:31.73

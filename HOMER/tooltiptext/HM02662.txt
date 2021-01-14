@@ -1,0 +1,2 @@
+liver	HMID:HM02662<br/>GeneSymbol:SLC22A25<br/>P-value:2.41e-24<br/>Zscore:4.68<br/>#EST:26<br/>Adj. #EST:13.31
+spleen	HMID:HM02662<br/>GeneSymbol:SLC22A25<br/>P-value:4e-14<br/>Zscore:5.14<br/>#EST:15<br/>Adj. #EST:14.55

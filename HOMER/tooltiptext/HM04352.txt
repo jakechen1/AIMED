@@ -1,0 +1,1 @@
+thymus	HMID:HM04352<br/>GeneSymbol:MX2<br/>P-value:2.7e-14<br/>Zscore:4.13<br/>#EST:21<br/>Adj. #EST:9.22

@@ -1,0 +1,1 @@
+breast	HMID:HM04192<br/>GeneSymbol:SLC4A8<br/>P-value:6.18e-20<br/>Zscore:5.57<br/>#EST:31<br/>Adj. #EST:8.46

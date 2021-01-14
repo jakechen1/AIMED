@@ -1,0 +1,1 @@
+kidney	HMID:HM03014<br/>GeneSymbol:C12orf39<br/>P-value:1.05e-21<br/>Zscore:5.03<br/>#EST:31<br/>Adj. #EST:9.3

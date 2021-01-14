@@ -1,0 +1,2 @@
+heart	HMID:HM02023<br/>GeneSymbol:MYL4<br/>P-value:3.19e-26<br/>Zscore:4.5<br/>#EST:37<br/>Adj. #EST:10.29
+spleen	HMID:HM02023<br/>GeneSymbol:MYL4<br/>P-value:5.04e-33<br/>Zscore:4.59<br/>#EST:46<br/>Adj. #EST:10.48

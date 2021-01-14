@@ -1,0 +1,1 @@
+cervix	HMID:HM03640<br/>GeneSymbol:CUL4A<br/>P-value:1.42e-17<br/>Zscore:5.24<br/>#EST:32<br/>Adj. #EST:7.21

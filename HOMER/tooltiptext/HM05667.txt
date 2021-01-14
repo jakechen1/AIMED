@@ -1,0 +1,1 @@
+eye	HMID:HM05667<br/>GeneSymbol:GAL3ST3<br/>P-value:1.63e-09<br/>Zscore:6.64<br/>#EST:12<br/>Adj. #EST:9.67

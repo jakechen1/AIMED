@@ -1,0 +1,1 @@
+lymph node	HMID:HM03892<br/>GeneSymbol:CYorf15B<br/>P-value:2.51e-18<br/>Zscore:5.09<br/>#EST:21<br/>Adj. #EST:14.33

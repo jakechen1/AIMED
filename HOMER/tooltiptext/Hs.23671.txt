@@ -1,0 +1,1 @@
+placenta	HMID:HM03560<br/>GeneSymbol:LGALS13<br/>P-value:8.25e-17<br/>Zscore:6.96<br/>#EST:14<br/>Adj. #EST:19.22

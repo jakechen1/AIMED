@@ -1,0 +1,1 @@
+embryo	HMID:HM04043<br/>GeneSymbol:CNTNAP2<br/>P-value:1.58e-15<br/>Zscore:4.26<br/>#EST:36<br/>Adj. #EST:5.01

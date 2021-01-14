@@ -1,0 +1,1 @@
+nerve	HMID:HM00141<br/>GeneSymbol:SCLY<br/>P-value:1.24e-06<br/>Zscore:4.21<br/>#EST:12<br/>Adj. #EST:5.91

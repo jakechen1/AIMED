@@ -1,0 +1,1 @@
+uterus	HMID:HM00437<br/>GeneSymbol:AOC3<br/>P-value:0<br/>Zscore:5.71<br/>#EST:185<br/>Adj. #EST:11.2

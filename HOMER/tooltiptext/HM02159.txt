@@ -1,0 +1,1 @@
+lymph node	HMID:HM02159<br/>GeneSymbol:PAX5<br/>P-value:1.25e-30<br/>Zscore:6.75<br/>#EST:22<br/>Adj. #EST:39.56

@@ -1,0 +1,1 @@
+trachea	HMID:HM06048<br/>GeneSymbol:SAMHD1<br/>P-value:3.39e-08<br/>Zscore:4.07<br/>#EST:15<br/>Adj. #EST:6.22

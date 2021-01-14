@@ -1,0 +1,1 @@
+testis	HMID:HM03525<br/>GeneSymbol:ADAM7<br/>P-value:3.56e-18<br/>Zscore:6.83<br/>#EST:17<br/>Adj. #EST:12.76

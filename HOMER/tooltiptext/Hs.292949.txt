@@ -1,0 +1,1 @@
+lymph node	HMID:HM00349<br/>GeneSymbol:INO80<br/>P-value:2.14e-07<br/>Zscore:4.84<br/>#EST:15<br/>Adj. #EST:5.33

@@ -1,0 +1,1 @@
+spleen	HMID:HM00903<br/>GeneSymbol:TLX1<br/>P-value:2.73e-09<br/>Zscore:6.08<br/>#EST:11<br/>Adj. #EST:9.73

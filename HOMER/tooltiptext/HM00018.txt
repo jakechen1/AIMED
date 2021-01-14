@@ -1,0 +1,1 @@
+stomach	HMID:HM00018<br/>GeneSymbol:PGC<br/>P-value:0<br/>Zscore:6.7<br/>#EST:277<br/>Adj. #EST:30.06

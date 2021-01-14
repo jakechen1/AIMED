@@ -1,0 +1,1 @@
+stomach	HMID:HM06598<br/>GeneSymbol:GKN2<br/>P-value:3.73e-64<br/>Zscore:7<br/>#EST:51<br/>Adj. #EST:26.69

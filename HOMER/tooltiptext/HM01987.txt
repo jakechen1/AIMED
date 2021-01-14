@@ -1,0 +1,1 @@
+lung	HMID:HM01987<br/>GeneSymbol:C13orf15<br/>P-value:1.3e-33<br/>Zscore:4.04<br/>#EST:90<br/>Adj. #EST:4.48

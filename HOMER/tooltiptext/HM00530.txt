@@ -1,0 +1,1 @@
+testis	HMID:HM00530<br/>GeneSymbol:NT5C1B<br/>P-value:0<br/>Zscore:7.07<br/>#EST:104<br/>Adj. #EST:14.13

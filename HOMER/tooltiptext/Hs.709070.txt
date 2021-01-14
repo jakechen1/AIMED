@@ -1,0 +1,1 @@
+thymus	HMID:HM05935<br/>GeneSymbol:POLDIP3<br/>P-value:1.31e-39<br/>Zscore:4.62<br/>#EST:92<br/>Adj. #EST:5.7

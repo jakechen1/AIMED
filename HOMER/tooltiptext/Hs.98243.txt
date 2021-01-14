@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00954<br/>GeneSymbol:SPINK2<br/>P-value:2.01e-09<br/>Zscore:5.8<br/>#EST:12<br/>Adj. #EST:10.44

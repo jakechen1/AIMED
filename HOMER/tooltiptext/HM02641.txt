@@ -1,0 +1,1 @@
+colon	HMID:HM02641<br/>GeneSymbol:GUCY2C<br/>P-value:1.31e-24<br/>Zscore:5.44<br/>#EST:24<br/>Adj. #EST:17.44

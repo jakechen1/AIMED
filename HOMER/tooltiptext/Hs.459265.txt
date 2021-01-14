@@ -1,0 +1,1 @@
+tonsil	HMID:HM02068<br/>GeneSymbol:ISG20<br/>P-value:2e-12<br/>Zscore:5.75<br/>#EST:11<br/>Adj. #EST:24.31

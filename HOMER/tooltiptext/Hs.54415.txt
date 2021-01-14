@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04721<br/>GeneSymbol:CSN3<br/>P-value:3.28e-23<br/>Zscore:7.07<br/>#EST:13<br/>Adj. #EST:66.37

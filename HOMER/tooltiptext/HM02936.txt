@@ -1,0 +1,1 @@
+spleen	HMID:HM02936<br/>GeneSymbol:RBP5<br/>P-value:2.84e-22<br/>Zscore:5.15<br/>#EST:27<br/>Adj. #EST:12.51

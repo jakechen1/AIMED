@@ -1,0 +1,1 @@
+small intestine	HMID:HM01544<br/>GeneSymbol:CLPTM1L<br/>P-value:4.2e-11<br/>Zscore:4.42<br/>#EST:23<br/>Adj. #EST:5.76

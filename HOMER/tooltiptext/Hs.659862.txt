@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06045<br/>GeneSymbol:BFSP2<br/>P-value:3.86e-42<br/>Zscore:5.76<br/>#EST:37<br/>Adj. #EST:26.73

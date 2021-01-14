@@ -1,0 +1,1 @@
+muscle	HMID:HM03561<br/>GeneSymbol:CACNA1S<br/>P-value:5.67e-18<br/>Zscore:5.23<br/>#EST:13<br/>Adj. #EST:34

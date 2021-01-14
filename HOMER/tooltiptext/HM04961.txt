@@ -1,0 +1,1 @@
+testis	HMID:HM04961<br/>GeneSymbol:DDX43<br/>P-value:4.84e-12<br/>Zscore:4.57<br/>#EST:17<br/>Adj. #EST:7.58

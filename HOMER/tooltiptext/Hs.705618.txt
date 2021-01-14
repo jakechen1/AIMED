@@ -1,0 +1,1 @@
+spleen	HMID:HM06361<br/>GeneSymbol:TAL1<br/>P-value:1.06e-52<br/>Zscore:6.28<br/>#EST:67<br/>Adj. #EST:10.6

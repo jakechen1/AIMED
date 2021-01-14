@@ -1,0 +1,1 @@
+small intestine	HMID:HM05447<br/>GeneSymbol:APOL3<br/>P-value:1.07e-30<br/>Zscore:4.92<br/>#EST:44<br/>Adj. #EST:10.85

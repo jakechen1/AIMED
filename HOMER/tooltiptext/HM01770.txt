@@ -1,0 +1,1 @@
+spleen	HMID:HM01770<br/>GeneSymbol:HBZ<br/>P-value:6.34e-38<br/>Zscore:6.37<br/>#EST:37<br/>Adj. #EST:19.05

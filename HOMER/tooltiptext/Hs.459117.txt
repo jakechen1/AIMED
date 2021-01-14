@@ -1,0 +1,1 @@
+trachea	HMID:HM03494<br/>GeneSymbol:FAM154B<br/>P-value:1.58e-16<br/>Zscore:6.64<br/>#EST:12<br/>Adj. #EST:39.73

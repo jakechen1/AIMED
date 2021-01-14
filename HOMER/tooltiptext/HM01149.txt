@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM01149<br/>GeneSymbol:ANXA2<br/>P-value:1.45e-59<br/>Zscore:5.06<br/>#EST:88<br/>Adj. #EST:11.05

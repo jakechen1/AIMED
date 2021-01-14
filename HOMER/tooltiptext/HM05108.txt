@@ -1,0 +1,1 @@
+lung	HMID:HM05108<br/>GeneSymbol:ZNF771<br/>P-value:1.61e-11<br/>Zscore:4.25<br/>#EST:29<br/>Adj. #EST:4.33

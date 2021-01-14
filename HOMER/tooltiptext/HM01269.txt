@@ -1,0 +1,1 @@
+pancreas	HMID:HM01269<br/>GeneSymbol:ERO1LB<br/>P-value:5.24e-54<br/>Zscore:6.44<br/>#EST:71<br/>Adj. #EST:11.16

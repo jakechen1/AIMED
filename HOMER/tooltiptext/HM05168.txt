@@ -1,0 +1,1 @@
+bladder	HMID:HM05168<br/>GeneSymbol:LAD1<br/>P-value:2.7e-11<br/>Zscore:4.89<br/>#EST:14<br/>Adj. #EST:11.92

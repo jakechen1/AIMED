@@ -1,0 +1,1 @@
+skin	HMID:HM01464<br/>GeneSymbol:TYR<br/>P-value:3.74e-46<br/>Zscore:5.82<br/>#EST:44<br/>Adj. #EST:17.23

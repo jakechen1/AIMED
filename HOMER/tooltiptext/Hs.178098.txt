@@ -1,0 +1,2 @@
+small intestine	HMID:HM01168<br/>GeneSymbol:ACE2<br/>P-value:4.86e-10<br/>Zscore:4.41<br/>#EST:14<br/>Adj. #EST:9.48
+testis	HMID:HM07313<br/>GeneSymbol:ACE2<br/>P-value:1.94e-166<br/>Zscore:5.35<br/>#EST:184<br/>Adj. #EST:11.41

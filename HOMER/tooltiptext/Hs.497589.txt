@@ -1,0 +1,1 @@
+colon	HMID:HM07383<br/>GeneSymbol:PIGR<br/>P-value:3.26e-199<br/>Zscore:5.73<br/>#EST:215<br/>Adj. #EST:16.27

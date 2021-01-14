@@ -1,0 +1,1 @@
+bladder	HMID:HM01403<br/>GeneSymbol:SCP2<br/>P-value:2.86e-48<br/>Zscore:6.13<br/>#EST:69<br/>Adj. #EST:11.4

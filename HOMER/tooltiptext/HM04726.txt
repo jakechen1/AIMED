@@ -1,0 +1,1 @@
+tonsil	HMID:HM04726<br/>GeneSymbol:NAPSB<br/>P-value:8.51e-13<br/>Zscore:6.13<br/>#EST:10<br/>Adj. #EST:33.27

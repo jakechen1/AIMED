@@ -1,0 +1,1 @@
+liver	HMID:HM07216<br/>GeneSymbol:KNG1<br/>P-value:1.1e-134<br/>Zscore:5.57<br/>#EST:175<br/>Adj. #EST:11.09

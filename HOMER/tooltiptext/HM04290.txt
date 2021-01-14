@@ -1,0 +1,1 @@
+pharynx	HMID:HM04290<br/>GeneSymbol:CYP4B1<br/>P-value:1.49e-14<br/>Zscore:5.06<br/>#EST:17<br/>Adj. #EST:13.88

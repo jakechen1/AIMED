@@ -1,0 +1,1 @@
+thyroid	HMID:HM02263<br/>GeneSymbol:MT1G<br/>P-value:8.87e-13<br/>Zscore:4.57<br/>#EST:20<br/>Adj. #EST:8.43

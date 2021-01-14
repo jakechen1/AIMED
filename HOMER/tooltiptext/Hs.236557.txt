@@ -1,0 +1,1 @@
+prostate	HMID:HM05041<br/>GeneSymbol:NCRNA00253<br/>P-value:7.86e-26<br/>Zscore:6.85<br/>#EST:19<br/>Adj. #EST:28.86

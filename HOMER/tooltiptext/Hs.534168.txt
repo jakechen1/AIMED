@@ -1,0 +1,1 @@
+muscle	HMID:HM05663<br/>GeneSymbol:NDUFA1<br/>P-value:3.57e-34<br/>Zscore:4.15<br/>#EST:59<br/>Adj. #EST:8

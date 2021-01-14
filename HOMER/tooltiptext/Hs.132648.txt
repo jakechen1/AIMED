@@ -1,0 +1,1 @@
+skin	HMID:HM01221<br/>GeneSymbol:THEM5<br/>P-value:3.08e-10<br/>Zscore:4.37<br/>#EST:11<br/>Adj. #EST:12.29

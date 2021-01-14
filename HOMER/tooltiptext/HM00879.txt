@@ -1,0 +1,1 @@
+testis	HMID:HM00879<br/>GeneSymbol:LCA5L<br/>P-value:2.56e-77<br/>Zscore:6.73<br/>#EST:90<br/>Adj. #EST:10.7

@@ -1,0 +1,1 @@
+lymph node	HMID:HM01653<br/>GeneSymbol:GPR18<br/>P-value:2.17e-11<br/>Zscore:6.1<br/>#EST:12<br/>Adj. #EST:15.15

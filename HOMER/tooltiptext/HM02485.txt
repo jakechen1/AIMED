@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02485<br/>GeneSymbol:C7orf10<br/>P-value:2.97e-26<br/>Zscore:6.67<br/>#EST:27<br/>Adj. #EST:18.34

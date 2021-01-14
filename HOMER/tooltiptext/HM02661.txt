@@ -1,0 +1,1 @@
+eye	HMID:HM02661<br/>GeneSymbol:CABP5<br/>P-value:2.39e-24<br/>Zscore:7.02<br/>#EST:17<br/>Adj. #EST:27.39

@@ -1,0 +1,1 @@
+spleen	HMID:HM06067<br/>GeneSymbol:AADAC<br/>P-value:1.51e-42<br/>Zscore:4.18<br/>#EST:63<br/>Adj. #EST:8.63

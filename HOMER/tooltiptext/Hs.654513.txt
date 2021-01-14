@@ -1,0 +1,1 @@
+pancreas	HMID:HM06741<br/>GeneSymbol:PRSS3<br/>P-value:3.98e-73<br/>Zscore:6.7<br/>#EST:78<br/>Adj. #EST:15.58

@@ -1,0 +1,1 @@
+uterus	HMID:HM04030<br/>GeneSymbol:LOC100505776<br/>P-value:5.31e-19<br/>Zscore:7.07<br/>#EST:13<br/>Adj. #EST:25.45

@@ -1,0 +1,1 @@
+mouth	HMID:HM06210<br/>GeneSymbol:DDX19A<br/>P-value:1.38e-07<br/>Zscore:4.25<br/>#EST:20<br/>Adj. #EST:4.18

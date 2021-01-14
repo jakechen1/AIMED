@@ -1,0 +1,1 @@
+thymus	HMID:HM06014<br/>GeneSymbol:MPHOSPH9<br/>P-value:2.69e-08<br/>Zscore:4.48<br/>#EST:16<br/>Adj. #EST:5.81

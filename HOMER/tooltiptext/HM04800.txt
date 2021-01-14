@@ -1,0 +1,1 @@
+larynx	HMID:HM04800<br/>GeneSymbol:CLSTN1<br/>P-value:1.55e-12<br/>Zscore:5.33<br/>#EST:27<br/>Adj. #EST:5.67

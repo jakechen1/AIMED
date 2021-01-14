@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01734<br/>GeneSymbol:ITGB3BP<br/>P-value:1.51e-38<br/>Zscore:5.69<br/>#EST:46<br/>Adj. #EST:14.47

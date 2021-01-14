@@ -1,0 +1,1 @@
+testis	HMID:HM05597<br/>GeneSymbol:TTLL6<br/>P-value:3.98e-33<br/>Zscore:6.57<br/>#EST:39<br/>Adj. #EST:10.21

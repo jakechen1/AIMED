@@ -1,0 +1,1 @@
+esophagus	HMID:HM03787<br/>GeneSymbol:RPN1<br/>P-value:8.7e-17<br/>Zscore:5.4<br/>#EST:33<br/>Adj. #EST:6.59

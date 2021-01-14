@@ -1,0 +1,1 @@
+leiomios	HMID:HM03973<br/>GeneSymbol:IDS<br/>P-value:9.06e-19<br/>Zscore:6.55<br/>#EST:20<br/>Adj. #EST:18.08

@@ -1,0 +1,1 @@
+placenta	HMID:HM02273<br/>GeneSymbol:FCGR2C<br/>P-value:6.04e-29<br/>Zscore:5.63<br/>#EST:44<br/>Adj. #EST:8.46

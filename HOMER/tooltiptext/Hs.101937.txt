@@ -1,0 +1,1 @@
+cervix	HMID:HM03763<br/>GeneSymbol:SIX2<br/>P-value:8.95e-18<br/>Zscore:6.99<br/>#EST:12<br/>Adj. #EST:49.41

@@ -1,0 +1,1 @@
+brain	HMID:HM01031<br/>GeneSymbol:GABRA5<br/>P-value:1.33e-66<br/>Zscore:6.37<br/>#EST:109<br/>Adj. #EST:5.03

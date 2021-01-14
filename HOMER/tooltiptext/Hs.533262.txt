@@ -1,0 +1,1 @@
+lymph	HMID:HM04988<br/>GeneSymbol:ANAPC2<br/>P-value:3.68e-25<br/>Zscore:6.25<br/>#EST:30<br/>Adj. #EST:14.48

@@ -1,0 +1,1 @@
+lymph node	HMID:HM05355<br/>GeneSymbol:PDCD2<br/>P-value:1.22e-10<br/>Zscore:4.38<br/>#EST:26<br/>Adj. #EST:4.75

@@ -1,0 +1,1 @@
+testis	HMID:HM04175<br/>GeneSymbol:OR4N4<br/>P-value:7.84e-20<br/>Zscore:5.03<br/>#EST:20<br/>Adj. #EST:11.78

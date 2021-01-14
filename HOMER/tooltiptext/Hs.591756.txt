@@ -1,0 +1,1 @@
+spleen	HMID:HM06723<br/>GeneSymbol:ACOT12<br/>P-value:7.47e-72<br/>Zscore:6.26<br/>#EST:78<br/>Adj. #EST:13.2

@@ -1,0 +1,1 @@
+larynx	HMID:HM02384<br/>GeneSymbol:ATG16L2<br/>P-value:2e-27<br/>Zscore:6.37<br/>#EST:26<br/>Adj. #EST:24.14

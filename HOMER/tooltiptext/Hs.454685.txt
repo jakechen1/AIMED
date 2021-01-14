@@ -1,0 +1,1 @@
+lymph	HMID:HM06117<br/>GeneSymbol:ZNF689<br/>P-value:4.62e-44<br/>Zscore:6.85<br/>#EST:43<br/>Adj. #EST:22.85

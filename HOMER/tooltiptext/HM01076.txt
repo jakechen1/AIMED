@@ -1,0 +1,1 @@
+brain	HMID:HM01076<br/>GeneSymbol:NEUROD6<br/>P-value:3.96e-63<br/>Zscore:6.94<br/>#EST:93<br/>Adj. #EST:5.34

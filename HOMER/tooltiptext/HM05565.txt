@@ -1,0 +1,1 @@
+testis	HMID:HM05565<br/>GeneSymbol:PAGE2B<br/>P-value:6.73e-10<br/>Zscore:5.22<br/>#EST:10<br/>Adj. #EST:10.97

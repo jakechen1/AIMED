@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05256<br/>GeneSymbol:FLOT1<br/>P-value:5.5e-11<br/>Zscore:4.44<br/>#EST:19<br/>Adj. #EST:7.23

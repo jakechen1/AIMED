@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01338<br/>GeneSymbol:SLC7A2<br/>P-value:7.92e-51<br/>Zscore:6.76<br/>#EST:41<br/>Adj. #EST:38.91

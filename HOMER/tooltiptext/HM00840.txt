@@ -1,0 +1,1 @@
+skin	HMID:HM00840<br/>GeneSymbol:FLG2<br/>P-value:1.03e-80<br/>Zscore:7.05<br/>#EST:61<br/>Adj. #EST:23.89

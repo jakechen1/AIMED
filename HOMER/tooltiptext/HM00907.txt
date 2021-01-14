@@ -1,0 +1,1 @@
+liver	HMID:HM00907<br/>GeneSymbol:ADH6<br/>P-value:1.8e-74<br/>Zscore:5.2<br/>#EST:89<br/>Adj. #EST:12.1

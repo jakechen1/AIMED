@@ -1,0 +1,1 @@
+trachea	HMID:HM01165<br/>GeneSymbol:TNFRSF19<br/>P-value:4.38e-59<br/>Zscore:6.55<br/>#EST:52<br/>Adj. #EST:29.31

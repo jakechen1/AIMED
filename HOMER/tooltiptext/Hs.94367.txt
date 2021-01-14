@@ -1,0 +1,1 @@
+lung	HMID:HM06528<br/>GeneSymbol:NKX2-1<br/>P-value:3.2e-60<br/>Zscore:4.94<br/>#EST:68<br/>Adj. #EST:12.24

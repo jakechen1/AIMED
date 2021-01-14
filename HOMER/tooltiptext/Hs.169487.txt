@@ -1,0 +1,1 @@
+mouth	HMID:HM03204<br/>GeneSymbol:MAFB<br/>P-value:1.37e-15<br/>Zscore:4.53<br/>#EST:30<br/>Adj. #EST:6.57

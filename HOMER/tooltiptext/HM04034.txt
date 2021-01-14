@@ -1,0 +1,1 @@
+eye	HMID:HM04034<br/>GeneSymbol:STAC2<br/>P-value:1.33e-15<br/>Zscore:4.83<br/>#EST:20<br/>Adj. #EST:10.36

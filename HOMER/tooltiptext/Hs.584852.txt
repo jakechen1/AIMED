@@ -1,0 +1,1 @@
+nerve	HMID:HM01645<br/>GeneSymbol:MAB21L2<br/>P-value:2.25e-11<br/>Zscore:6.25<br/>#EST:11<br/>Adj. #EST:18.22

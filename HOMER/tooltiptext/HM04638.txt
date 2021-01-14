@@ -1,0 +1,1 @@
+brain	HMID:HM04638<br/>GeneSymbol:LRRC3B<br/>P-value:3.97e-13<br/>Zscore:5.76<br/>#EST:26<br/>Adj. #EST:4.18

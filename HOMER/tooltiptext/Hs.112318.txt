@@ -1,0 +1,1 @@
+tonsil	HMID:HM02491<br/>GeneSymbol:TOMM7<br/>P-value:2.71e-13<br/>Zscore:4.16<br/>#EST:19<br/>Adj. #EST:9.88

@@ -1,0 +1,1 @@
+brain	HMID:HM00251<br/>GeneSymbol:LMO3<br/>P-value:0<br/>Zscore:5.84<br/>#EST:465<br/>Adj. #EST:4.47

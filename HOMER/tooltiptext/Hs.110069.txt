@@ -1,0 +1,1 @@
+spleen	HMID:HM00575<br/>GeneSymbol:FAM133A<br/>P-value:3.33e-08<br/>Zscore:4.69<br/>#EST:15<br/>Adj. #EST:5.61

@@ -1,0 +1,1 @@
+testis	HMID:HM05542<br/>GeneSymbol:ZNRD1-AS1<br/>P-value:5.58e-10<br/>Zscore:4.17<br/>#EST:26<br/>Adj. #EST:4.03

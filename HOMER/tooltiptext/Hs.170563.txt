@@ -1,0 +1,1 @@
+small intestine	HMID:HM06291<br/>GeneSymbol:TSPAN8<br/>P-value:1.09e-49<br/>Zscore:5.48<br/>#EST:52<br/>Adj. #EST:20.13

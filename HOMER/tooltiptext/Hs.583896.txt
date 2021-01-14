@@ -1,0 +1,1 @@
+lymph	HMID:HM05997<br/>GeneSymbol:TDH<br/>P-value:5.02e-41<br/>Zscore:7.06<br/>#EST:23<br/>Adj. #EST:88.81

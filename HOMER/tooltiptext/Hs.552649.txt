@@ -1,0 +1,1 @@
+spleen	HMID:HM03591<br/>GeneSymbol:NCRNA00292<br/>P-value:5.94e-17<br/>Zscore:6.22<br/>#EST:24<br/>Adj. #EST:8.49

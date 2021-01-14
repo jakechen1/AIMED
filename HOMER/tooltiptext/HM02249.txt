@@ -1,0 +1,1 @@
+pancreas	HMID:HM02249<br/>GeneSymbol:TSEN2<br/>P-value:2.52e-29<br/>Zscore:5.04<br/>#EST:55<br/>Adj. #EST:6.74

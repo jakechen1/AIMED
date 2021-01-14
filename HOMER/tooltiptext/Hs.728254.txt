@@ -1,0 +1,1 @@
+cervix	HMID:HM00047<br/>GeneSymbol:VPS33B<br/>P-value:4.68e-06<br/>Zscore:4.73<br/>#EST:11<br/>Adj. #EST:5.76

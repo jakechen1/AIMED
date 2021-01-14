@@ -1,0 +1,1 @@
+placenta	HMID:HM00750<br/>GeneSymbol:NPFFR2<br/>P-value:8.34e-09<br/>Zscore:4.67<br/>#EST:11<br/>Adj. #EST:9.37

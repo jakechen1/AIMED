@@ -1,0 +1,1 @@
+testis	HMID:HM06079<br/>GeneSymbol:DMRTB1<br/>P-value:5.09e-43<br/>Zscore:7.02<br/>#EST:42<br/>Adj. #EST:12.63

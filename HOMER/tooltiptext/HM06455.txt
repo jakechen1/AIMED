@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM06455<br/>GeneSymbol:XPO6<br/>P-value:1.47e-06<br/>Zscore:4.84<br/>#EST:11<br/>Adj. #EST:6.58

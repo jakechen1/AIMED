@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00923<br/>GeneSymbol:VWF<br/>P-value:2.39e-73<br/>Zscore:6.87<br/>#EST:55<br/>Adj. #EST:50.13

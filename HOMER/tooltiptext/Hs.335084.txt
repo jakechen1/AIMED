@@ -1,0 +1,1 @@
+lymph	HMID:HM05882<br/>GeneSymbol:FPGS<br/>P-value:2.06e-38<br/>Zscore:5.88<br/>#EST:51<br/>Adj. #EST:12.49

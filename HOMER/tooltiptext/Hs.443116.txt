@@ -1,0 +1,1 @@
+thymus	HMID:HM04402<br/>GeneSymbol:RNF4<br/>P-value:2.84e-21<br/>Zscore:5.11<br/>#EST:56<br/>Adj. #EST:4.8

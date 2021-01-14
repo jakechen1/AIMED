@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02225<br/>GeneSymbol:RHOG<br/>P-value:1.09e-12<br/>Zscore:4.69<br/>#EST:25<br/>Adj. #EST:6.19

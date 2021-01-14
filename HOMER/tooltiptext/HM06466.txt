@@ -1,0 +1,1 @@
+trachea	HMID:HM06466<br/>GeneSymbol:PIGN<br/>P-value:1.68e-06<br/>Zscore:4.02<br/>#EST:11<br/>Adj. #EST:6.4

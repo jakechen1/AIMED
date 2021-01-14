@@ -1,0 +1,1 @@
+thymus	HMID:HM04202<br/>GeneSymbol:KIF22<br/>P-value:4.73e-20<br/>Zscore:4.27<br/>#EST:48<br/>Adj. #EST:5.26

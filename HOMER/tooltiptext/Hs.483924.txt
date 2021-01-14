@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06885<br/>GeneSymbol:MRPL22<br/>P-value:9.32e-86<br/>Zscore:6.48<br/>#EST:83<br/>Adj. #EST:22.78

@@ -1,0 +1,1 @@
+ear	HMID:HM02450<br/>GeneSymbol:LHFP<br/>P-value:4.22e-13<br/>Zscore:5.06<br/>#EST:14<br/>Adj. #EST:16.47

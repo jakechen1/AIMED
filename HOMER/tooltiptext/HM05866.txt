@@ -1,0 +1,1 @@
+lymph	HMID:HM05866<br/>GeneSymbol:TACC3<br/>P-value:7.57e-09<br/>Zscore:4.3<br/>#EST:17<br/>Adj. #EST:5.98

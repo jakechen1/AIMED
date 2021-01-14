@@ -1,0 +1,1 @@
+lymph node	HMID:HM06446<br/>GeneSymbol:PYROXD1<br/>P-value:1.39e-06<br/>Zscore:4.22<br/>#EST:11<br/>Adj. #EST:6.43

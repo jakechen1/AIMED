@@ -1,0 +1,1 @@
+stomach	HMID:HM06230<br/>GeneSymbol:PGA5<br/>P-value:2.31e-47<br/>Zscore:5.31<br/>#EST:33<br/>Adj. #EST:32.21

@@ -1,0 +1,1 @@
+nerve	HMID:HM06411<br/>GeneSymbol:MAP2K6<br/>P-value:9.74e-07<br/>Zscore:5.3<br/>#EST:10<br/>Adj. #EST:7.6

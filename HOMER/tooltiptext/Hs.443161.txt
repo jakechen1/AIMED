@@ -1,0 +1,1 @@
+liver	HMID:HM05804<br/>GeneSymbol:DPYS<br/>P-value:1.28e-36<br/>Zscore:4.53<br/>#EST:61<br/>Adj. #EST:7.64

@@ -1,0 +1,1 @@
+kidney	HMID:HM02191<br/>GeneSymbol:EMX2OS<br/>P-value:1.39e-12<br/>Zscore:4.67<br/>#EST:19<br/>Adj. #EST:8.03

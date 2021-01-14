@@ -1,0 +1,1 @@
+esophagus	HMID:HM05922<br/>GeneSymbol:CCNB2<br/>P-value:1.12e-08<br/>Zscore:5.82<br/>#EST:12<br/>Adj. #EST:9.36

@@ -1,0 +1,1 @@
+bone	HMID:HM03871<br/>GeneSymbol:MATN3<br/>P-value:3.18e-18<br/>Zscore:5.24<br/>#EST:19<br/>Adj. #EST:15.55

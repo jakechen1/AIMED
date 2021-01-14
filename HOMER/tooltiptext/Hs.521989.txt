@@ -1,0 +1,1 @@
+placenta	HMID:HM05512<br/>GeneSymbol:CD274<br/>P-value:1.12e-31<br/>Zscore:4.94<br/>#EST:47<br/>Adj. #EST:8.86

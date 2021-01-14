@@ -1,0 +1,1 @@
+testis	HMID:HM06815<br/>GeneSymbol:ARHGAP28<br/>P-value:3.16e-79<br/>Zscore:6.59<br/>#EST:112<br/>Adj. #EST:8.56

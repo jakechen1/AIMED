@@ -1,0 +1,2 @@
+eye	HMID:HM04152<br/>GeneSymbol:ANKRD33<br/>P-value:3.92e-12<br/>Zscore:4.96<br/>#EST:13<br/>Adj. #EST:13
+placenta	HMID:HM04152<br/>GeneSymbol:ANKRD33<br/>P-value:4.74e-15<br/>Zscore:4.94<br/>#EST:16<br/>Adj. #EST:12.94

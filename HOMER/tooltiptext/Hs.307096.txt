@@ -1,0 +1,1 @@
+eye	HMID:HM07142<br/>GeneSymbol:LACRT<br/>P-value:1.45e-117<br/>Zscore:7.07<br/>#EST:82<br/>Adj. #EST:29.48

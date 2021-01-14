@@ -1,0 +1,1 @@
+trachea	HMID:HM03026<br/>GeneSymbol:FBXL3<br/>P-value:1.29e-21<br/>Zscore:5.42<br/>#EST:33<br/>Adj. #EST:9.43

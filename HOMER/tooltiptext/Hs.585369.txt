@@ -1,0 +1,1 @@
+spleen	HMID:HM04296<br/>GeneSymbol:PROX1<br/>P-value:1.22e-20<br/>Zscore:5.16<br/>#EST:37<br/>Adj. #EST:6.54

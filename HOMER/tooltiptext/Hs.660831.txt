@@ -1,0 +1,1 @@
+eye	HMID:HM02424<br/>GeneSymbol:KCNV2<br/>P-value:4.75e-13<br/>Zscore:6.76<br/>#EST:11<br/>Adj. #EST:19.77

@@ -1,0 +1,1 @@
+mouth	HMID:HM01879<br/>GeneSymbol:EGFR<br/>P-value:5.65e-12<br/>Zscore:4.25<br/>#EST:23<br/>Adj. #EST:6.33

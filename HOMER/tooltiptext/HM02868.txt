@@ -1,0 +1,1 @@
+thyroid	HMID:HM02868<br/>GeneSymbol:SFTA3<br/>P-value:7.78e-23<br/>Zscore:6.7<br/>#EST:18<br/>Adj. #EST:34.71

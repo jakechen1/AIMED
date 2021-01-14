@@ -1,0 +1,1 @@
+placenta	HMID:HM05481<br/>GeneSymbol:FER1L4<br/>P-value:3.78e-31<br/>Zscore:5.09<br/>#EST:38<br/>Adj. #EST:11.59

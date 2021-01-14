@@ -1,0 +1,1 @@
+lymph	HMID:HM05128<br/>GeneSymbol:CD48<br/>P-value:1.82e-11<br/>Zscore:4.89<br/>#EST:13<br/>Adj. #EST:13.73

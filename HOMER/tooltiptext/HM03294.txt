@@ -1,0 +1,1 @@
+lung	HMID:HM03294<br/>GeneSymbol:SCGB3A1<br/>P-value:1.31e-19<br/>Zscore:5.48<br/>#EST:34<br/>Adj. #EST:6.65

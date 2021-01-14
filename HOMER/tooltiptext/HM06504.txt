@@ -1,0 +1,1 @@
+ovary	HMID:HM06504<br/>GeneSymbol:TIMM22<br/>P-value:2.94e-06<br/>Zscore:4.1<br/>#EST:14<br/>Adj. #EST:4.6

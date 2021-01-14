@@ -1,0 +1,1 @@
+testis	HMID:HM04101<br/>GeneSymbol:SEPT14<br/>P-value:1.72e-19<br/>Zscore:7.06<br/>#EST:19<br/>Adj. #EST:12.21

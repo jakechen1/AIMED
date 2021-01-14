@@ -1,0 +1,1 @@
+kidney	HMID:HM02235<br/>GeneSymbol:FXYD2<br/>P-value:1.77e-29<br/>Zscore:4.35<br/>#EST:46<br/>Adj. #EST:8.49

@@ -1,0 +1,2 @@
+heart	HMID:HM06779<br/>GeneSymbol:CSRP3<br/>P-value:8.25e-76<br/>Zscore:5.34<br/>#EST:68<br/>Adj. #EST:24.63
+muscle	HMID:HM06351<br/>GeneSymbol:CSRP3<br/>P-value:4.25e-52<br/>Zscore:4.49<br/>#EST:51<br/>Adj. #EST:20.89

@@ -1,0 +1,1 @@
+lymph node	HMID:HM01428<br/>GeneSymbol:MARCH1<br/>P-value:7.69e-11<br/>Zscore:5.32<br/>#EST:16<br/>Adj. #EST:8.66

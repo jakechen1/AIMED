@@ -1,0 +1,1 @@
+blood	HMID:HM07109<br/>GeneSymbol:CD69<br/>P-value:1.27e-111<br/>Zscore:6.59<br/>#EST:104<br/>Adj. #EST:22.33

@@ -1,0 +1,1 @@
+testis	HMID:HM03668<br/>GeneSymbol:IRGC<br/>P-value:2.01e-17<br/>Zscore:6.66<br/>#EST:24<br/>Adj. #EST:8.15

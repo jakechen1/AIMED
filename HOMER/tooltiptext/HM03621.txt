@@ -1,0 +1,1 @@
+lymph node	HMID:HM03621<br/>GeneSymbol:TLE4<br/>P-value:1.11e-17<br/>Zscore:5.11<br/>#EST:33<br/>Adj. #EST:6.86

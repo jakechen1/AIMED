@@ -1,0 +1,1 @@
+testis	HMID:HM00905<br/>GeneSymbol:LDHC<br/>P-value:1.26e-74<br/>Zscore:6.18<br/>#EST:84<br/>Adj. #EST:11.09

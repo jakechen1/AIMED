@@ -1,0 +1,1 @@
+trachea	HMID:HM05847<br/>GeneSymbol:GIMAP6<br/>P-value:6.13e-09<br/>Zscore:4.08<br/>#EST:13<br/>Adj. #EST:8.6

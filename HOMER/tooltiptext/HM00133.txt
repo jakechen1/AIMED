@@ -1,0 +1,1 @@
+placenta	HMID:HM00133<br/>GeneSymbol:PAPPA<br/>P-value:0<br/>Zscore:7.02<br/>#EST:923<br/>Adj. #EST:18.73

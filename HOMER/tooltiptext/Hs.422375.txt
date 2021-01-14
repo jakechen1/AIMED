@@ -1,0 +1,1 @@
+brain	HMID:HM01406<br/>GeneSymbol:C13orf36<br/>P-value:9.77e-11<br/>Zscore:4.52<br/>#EST:21<br/>Adj. #EST:4.19

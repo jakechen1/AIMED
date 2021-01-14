@@ -1,0 +1,1 @@
+testis	HMID:HM05897<br/>GeneSymbol:NODAL<br/>P-value:9.69e-09<br/>Zscore:4.36<br/>#EST:14<br/>Adj. #EST:6.24

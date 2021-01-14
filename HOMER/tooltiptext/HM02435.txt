@@ -1,0 +1,1 @@
+nerve	HMID:HM02435<br/>GeneSymbol:CHST8<br/>P-value:7.87e-27<br/>Zscore:5.87<br/>#EST:20<br/>Adj. #EST:38

@@ -1,0 +1,1 @@
+muscle	HMID:HM00665<br/>GeneSymbol:COX6A2<br/>P-value:0<br/>Zscore:7.02<br/>#EST:210<br/>Adj. #EST:46.12

@@ -1,0 +1,1 @@
+trachea	HMID:HM05777<br/>GeneSymbol:GFM1<br/>P-value:3.58e-09<br/>Zscore:4.37<br/>#EST:22<br/>Adj. #EST:4.76

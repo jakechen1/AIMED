@@ -1,0 +1,2 @@
+liver	HMID:HM00820<br/>GeneSymbol:MAT1A<br/>P-value:1.79e-83<br/>Zscore:5.24<br/>#EST:100<br/>Adj. #EST:12.1
+spleen	HMID:HM00820<br/>GeneSymbol:MAT1A<br/>P-value:3.86e-33<br/>Zscore:4.53<br/>#EST:46<br/>Adj. #EST:10.54

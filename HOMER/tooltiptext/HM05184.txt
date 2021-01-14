@@ -1,0 +1,1 @@
+eye	HMID:HM05184<br/>GeneSymbol:FRMPD1<br/>P-value:3.02e-11<br/>Zscore:5.88<br/>#EST:12<br/>Adj. #EST:12.89

@@ -1,0 +1,1 @@
+testis	HMID:HM05983<br/>GeneSymbol:GALNTL5<br/>P-value:1.24e-40<br/>Zscore:7.07<br/>#EST:39<br/>Adj. #EST:12.82

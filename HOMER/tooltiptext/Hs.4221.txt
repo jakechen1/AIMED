@@ -1,0 +1,1 @@
+brain	HMID:HM07343<br/>GeneSymbol:SVOP<br/>P-value:3.13e-180<br/>Zscore:6.5<br/>#EST:291<br/>Adj. #EST:5.2

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06315<br/>GeneSymbol:ARHGAP4<br/>P-value:2e-50<br/>Zscore:6.21<br/>#EST:54<br/>Adj. #EST:18.54

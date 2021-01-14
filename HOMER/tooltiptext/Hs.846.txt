@@ -1,0 +1,1 @@
+blood	HMID:HM07377<br/>GeneSymbol:CXCR2<br/>P-value:9.89e-198<br/>Zscore:7.05<br/>#EST:142<br/>Adj. #EST:36.08

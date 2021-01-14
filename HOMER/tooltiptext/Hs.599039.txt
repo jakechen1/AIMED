@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02932<br/>GeneSymbol:MCAM<br/>P-value:1e-14<br/>Zscore:4.28<br/>#EST:22<br/>Adj. #EST:9.43

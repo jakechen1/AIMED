@@ -1,0 +1,1 @@
+thymus	HMID:HM06843<br/>GeneSymbol:RAG1<br/>P-value:1.19e-81<br/>Zscore:7.07<br/>#EST:48<br/>Adj. #EST:68.15

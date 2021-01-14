@@ -1,0 +1,1 @@
+colon	HMID:HM06312<br/>GeneSymbol:CFTR<br/>P-value:2.55e-50<br/>Zscore:5.18<br/>#EST:53<br/>Adj. #EST:16.23

@@ -1,0 +1,2 @@
+salivary gland	HMID:HM06529<br/>GeneSymbol:UBE2V2<br/>P-value:2.95e-60<br/>Zscore:4.23<br/>#EST:69<br/>Adj. #EST:17.49
+bladder	HMID:HM07064<br/>GeneSymbol:UBE2V2<br/>P-value:9.29e-106<br/>Zscore:4.83<br/>#EST:115<br/>Adj. #EST:19.75

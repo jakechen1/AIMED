@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07667<br/>GeneSymbol:HTATIP2<br/>P-value:0<br/>Zscore:6.96<br/>#EST:289<br/>Adj. #EST:38.22

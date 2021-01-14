@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04346<br/>GeneSymbol:PIP<br/>P-value:6.88e-21<br/>Zscore:6.8<br/>#EST:15<br/>Adj. #EST:47.39

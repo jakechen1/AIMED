@@ -1,0 +1,1 @@
+brain	HMID:HM07669<br/>GeneSymbol:NAPB<br/>P-value:0<br/>Zscore:6.21<br/>#EST:739<br/>Adj. #EST:4.58

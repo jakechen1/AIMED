@@ -1,0 +1,1 @@
+lymph node	HMID:HM06392<br/>GeneSymbol:TOX<br/>P-value:8.42e-07<br/>Zscore:4.23<br/>#EST:10<br/>Adj. #EST:7.65

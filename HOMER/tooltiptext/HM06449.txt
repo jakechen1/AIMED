@@ -1,0 +1,1 @@
+trachea	HMID:HM06449<br/>GeneSymbol:CYB5D1<br/>P-value:1.43e-06<br/>Zscore:5.1<br/>#EST:10<br/>Adj. #EST:7.35

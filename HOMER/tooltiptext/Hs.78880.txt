@@ -1,0 +1,1 @@
+lymph	HMID:HM04900<br/>GeneSymbol:ILVBL<br/>P-value:1.57e-24<br/>Zscore:6.44<br/>#EST:32<br/>Adj. #EST:12.32

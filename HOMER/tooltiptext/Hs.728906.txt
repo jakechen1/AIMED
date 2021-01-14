@@ -1,0 +1,1 @@
+blood	HMID:HM02285<br/>GeneSymbol:LRRC33<br/>P-value:6.65e-13<br/>Zscore:5.92<br/>#EST:17<br/>Adj. #EST:10.23

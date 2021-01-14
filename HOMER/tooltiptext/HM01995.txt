@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01995<br/>GeneSymbol:FARSB<br/>P-value:1.74e-33<br/>Zscore:4.96<br/>#EST:72<br/>Adj. #EST:6.14

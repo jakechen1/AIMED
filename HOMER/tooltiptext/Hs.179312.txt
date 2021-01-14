@@ -1,0 +1,1 @@
+nerve	HMID:HM01006<br/>GeneSymbol:SNAPC1<br/>P-value:1.44e-09<br/>Zscore:4.61<br/>#EST:12<br/>Adj. #EST:10.87

@@ -1,0 +1,1 @@
+placenta	HMID:HM00030<br/>GeneSymbol:FBLN1<br/>P-value:0<br/>Zscore:5.81<br/>#EST:763<br/>Adj. #EST:10.75

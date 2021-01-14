@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05363<br/>GeneSymbol:VPS29<br/>P-value:1.33e-10<br/>Zscore:4.48<br/>#EST:16<br/>Adj. #EST:8.65

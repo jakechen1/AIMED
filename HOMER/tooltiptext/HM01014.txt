@@ -1,0 +1,1 @@
+blood	HMID:HM01014<br/>GeneSymbol:BNIP3L<br/>P-value:9.58e-68<br/>Zscore:5.92<br/>#EST:149<br/>Adj. #EST:6.03

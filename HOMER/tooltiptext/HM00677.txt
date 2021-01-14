@@ -1,0 +1,1 @@
+esophagus	HMID:HM00677<br/>GeneSymbol:EMP1<br/>P-value:4.79e-99<br/>Zscore:6.19<br/>#EST:95<br/>Adj. #EST:26.35

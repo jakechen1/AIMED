@@ -1,0 +1,1 @@
+eye	HMID:HM00209<br/>GeneSymbol:CRYBA4<br/>P-value:0<br/>Zscore:7.07<br/>#EST:202<br/>Adj. #EST:27.64

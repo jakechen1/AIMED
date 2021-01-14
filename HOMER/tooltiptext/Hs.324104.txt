@@ -1,0 +1,1 @@
+testis	HMID:HM01040<br/>GeneSymbol:C20orf144<br/>P-value:1.15e-09<br/>Zscore:5.51<br/>#EST:12<br/>Adj. #EST:8.48

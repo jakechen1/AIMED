@@ -1,0 +1,1 @@
+breast	HMID:HM01130<br/>GeneSymbol:STC2<br/>P-value:2.1e-60<br/>Zscore:5<br/>#EST:103<br/>Adj. #EST:8.06

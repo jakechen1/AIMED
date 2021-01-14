@@ -1,0 +1,1 @@
+trachea	HMID:HM04320<br/>GeneSymbol:LOXL4<br/>P-value:1.97e-14<br/>Zscore:6.19<br/>#EST:18<br/>Adj. #EST:12.23

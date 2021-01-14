@@ -1,0 +1,1 @@
+nerve	HMID:HM04575<br/>GeneSymbol:TAB1<br/>P-value:2.2e-13<br/>Zscore:4.91<br/>#EST:26<br/>Adj. #EST:6.34

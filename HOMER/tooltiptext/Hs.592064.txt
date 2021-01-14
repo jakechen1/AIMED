@@ -1,0 +1,1 @@
+stomach	HMID:HM04860<br/>GeneSymbol:CLEC18A<br/>P-value:3.54e-24<br/>Zscore:5.58<br/>#EST:30<br/>Adj. #EST:11.9

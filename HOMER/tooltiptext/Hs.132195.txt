@@ -1,0 +1,1 @@
+mouth	HMID:HM05029<br/>GeneSymbol:TMPRSS11D<br/>P-value:1.11e-25<br/>Zscore:5.43<br/>#EST:17<br/>Adj. #EST:51.75

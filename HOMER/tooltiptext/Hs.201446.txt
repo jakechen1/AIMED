@@ -1,0 +1,1 @@
+esophagus	HMID:HM07145<br/>GeneSymbol:PERP<br/>P-value:7.4e-118<br/>Zscore:6.88<br/>#EST:107<br/>Adj. #EST:30.34

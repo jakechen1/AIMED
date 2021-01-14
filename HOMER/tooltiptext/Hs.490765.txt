@@ -1,0 +1,1 @@
+lymph node	HMID:HM01626<br/>GeneSymbol:KCNN3<br/>P-value:2.66e-11<br/>Zscore:4.41<br/>#EST:12<br/>Adj. #EST:14.9

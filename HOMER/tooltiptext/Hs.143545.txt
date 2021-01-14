@@ -1,0 +1,1 @@
+placenta	HMID:HM04979<br/>GeneSymbol:SLC30A2<br/>P-value:4.42e-25<br/>Zscore:5.72<br/>#EST:32<br/>Adj. #EST:10.68

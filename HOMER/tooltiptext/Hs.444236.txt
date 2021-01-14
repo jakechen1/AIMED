@@ -1,0 +1,1 @@
+testis	HMID:HM06377<br/>GeneSymbol:SPATA16<br/>P-value:2.15e-53<br/>Zscore:5.83<br/>#EST:56<br/>Adj. #EST:11.82

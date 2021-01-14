@@ -1,0 +1,1 @@
+liver	HMID:HM04635<br/>GeneSymbol:SNORA58<br/>P-value:3.94e-13<br/>Zscore:7.05<br/>#EST:10<br/>Adj. #EST:20.02

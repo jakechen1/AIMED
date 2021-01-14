@@ -1,0 +1,1 @@
+brain	HMID:HM07691<br/>GeneSymbol:HMP19<br/>P-value:0<br/>Zscore:5.67<br/>#EST:677<br/>Adj. #EST:4.81

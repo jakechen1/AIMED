@@ -1,0 +1,1 @@
+bone	HMID:HM07310<br/>GeneSymbol:<br/>P-value:4.32e-165<br/>Zscore:5.01<br/>#EST:177<br/>Adj. #EST:17.02

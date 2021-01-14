@@ -1,0 +1,1 @@
+kidney	HMID:HM00790<br/>GeneSymbol:CDH16<br/>P-value:1.72e-86<br/>Zscore:6.45<br/>#EST:75<br/>Adj. #EST:21.63

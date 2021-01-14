@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00136<br/>GeneSymbol:FOSL2<br/>P-value:1.28e-06<br/>Zscore:4.89<br/>#EST:10<br/>Adj. #EST:7.55

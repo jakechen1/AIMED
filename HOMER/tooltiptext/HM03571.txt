@@ -1,0 +1,1 @@
+kidney	HMID:HM03571<br/>GeneSymbol:SLC36A2<br/>P-value:6.45e-18<br/>Zscore:6.86<br/>#EST:14<br/>Adj. #EST:23.11

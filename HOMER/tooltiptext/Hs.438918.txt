@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00726<br/>GeneSymbol:ACVR1B<br/>P-value:1.1e-08<br/>Zscore:6.2<br/>#EST:10<br/>Adj. #EST:12.65

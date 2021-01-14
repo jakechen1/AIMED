@@ -1,0 +1,2 @@
+blood	HMID:HM00298<br/>GeneSymbol:HIST1H4C<br/>P-value:0<br/>Zscore:4.22<br/>#EST:330<br/>Adj. #EST:17.89
+bone marrow	HMID:HM00298<br/>GeneSymbol:HIST1H4C<br/>P-value:0<br/>Zscore:5.42<br/>#EST:200<br/>Adj. #EST:22.71

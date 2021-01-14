@@ -1,0 +1,1 @@
+kidney	HMID:HM06362<br/>GeneSymbol:TMEM174<br/>P-value:1.04e-52<br/>Zscore:6.54<br/>#EST:47<br/>Adj. #EST:20.44

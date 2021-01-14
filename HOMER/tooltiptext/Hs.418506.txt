@@ -1,0 +1,1 @@
+placenta	HMID:HM05250<br/>GeneSymbol:INSL4<br/>P-value:3.91e-28<br/>Zscore:5.99<br/>#EST:33<br/>Adj. #EST:12.17

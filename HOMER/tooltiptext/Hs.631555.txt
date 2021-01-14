@@ -1,0 +1,1 @@
+kidney	HMID:HM02185<br/>GeneSymbol:DHDH<br/>P-value:1.49e-12<br/>Zscore:6.89<br/>#EST:10<br/>Adj. #EST:21.43

@@ -1,0 +1,1 @@
+testis	HMID:HM06475<br/>GeneSymbol:ADAM29<br/>P-value:1.83e-57<br/>Zscore:7.02<br/>#EST:52<br/>Adj. #EST:13.61

@@ -1,0 +1,1 @@
+blood	HMID:HM02191<br/>GeneSymbol:TBC1D10C<br/>P-value:3.8e-30<br/>Zscore:4.83<br/>#EST:35<br/>Adj. #EST:13.94

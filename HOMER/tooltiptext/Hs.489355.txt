@@ -1,0 +1,1 @@
+colon	HMID:HM07582<br/>GeneSymbol:MUC12<br/>P-value:0<br/>Zscore:6.97<br/>#EST:486<br/>Adj. #EST:30.14

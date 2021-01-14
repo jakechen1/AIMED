@@ -1,0 +1,1 @@
+ganglia	HMID:HM03638<br/>GeneSymbol:NR4A1<br/>P-value:4.11e-17<br/>Zscore:5.11<br/>#EST:17<br/>Adj. #EST:20.57

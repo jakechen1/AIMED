@@ -1,0 +1,1 @@
+brain	HMID:HM00191<br/>GeneSymbol:SPOCK3<br/>P-value:0<br/>Zscore:6.42<br/>#EST:495<br/>Adj. #EST:5.01

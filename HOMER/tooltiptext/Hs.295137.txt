@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06579<br/>GeneSymbol:AMFR<br/>P-value:1.09e-62<br/>Zscore:5.92<br/>#EST:72<br/>Adj. #EST:16.42

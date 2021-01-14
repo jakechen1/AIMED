@@ -1,0 +1,1 @@
+brain	HMID:HM03242<br/>GeneSymbol:ZNF536<br/>P-value:5.07e-20<br/>Zscore:4.88<br/>#EST:41<br/>Adj. #EST:4.2

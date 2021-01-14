@@ -1,0 +1,1 @@
+lung	HMID:HM02642<br/>GeneSymbol:HCN4<br/>P-value:9.65e-14<br/>Zscore:5.93<br/>#EST:18<br/>Adj. #EST:9.02

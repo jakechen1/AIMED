@@ -1,0 +1,1 @@
+blood	HMID:HM04582<br/>GeneSymbol:NUDT8<br/>P-value:2.32e-13<br/>Zscore:6.61<br/>#EST:14<br/>Adj. #EST:14.82

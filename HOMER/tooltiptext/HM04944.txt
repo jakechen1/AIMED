@@ -1,0 +1,1 @@
+lymph node	HMID:HM04944<br/>GeneSymbol:PPPDE1<br/>P-value:4.05e-12<br/>Zscore:4.36<br/>#EST:29<br/>Adj. #EST:4.94

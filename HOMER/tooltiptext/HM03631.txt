@@ -1,0 +1,1 @@
+lymph node	HMID:HM03631<br/>GeneSymbol:RERE<br/>P-value:1.34e-17<br/>Zscore:4.64<br/>#EST:41<br/>Adj. #EST:5.32

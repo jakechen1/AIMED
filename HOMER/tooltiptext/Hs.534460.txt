@@ -1,0 +1,1 @@
+lymph	HMID:HM03116<br/>GeneSymbol:DUS2L<br/>P-value:2.54e-15<br/>Zscore:6<br/>#EST:21<br/>Adj. #EST:10.6

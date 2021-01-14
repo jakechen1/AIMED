@@ -1,0 +1,1 @@
+brain	HMID:HM00346<br/>GeneSymbol:<br/>P-value:2.19e-07<br/>Zscore:6.56<br/>#EST:10<br/>Adj. #EST:5.26

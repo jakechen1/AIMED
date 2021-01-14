@@ -1,0 +1,1 @@
+pharynx	HMID:HM02394<br/>GeneSymbol:ADIPOR1<br/>P-value:2.68e-27<br/>Zscore:5.22<br/>#EST:47<br/>Adj. #EST:8.18

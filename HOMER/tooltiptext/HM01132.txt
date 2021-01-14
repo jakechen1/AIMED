@@ -1,0 +1,1 @@
+liver	HMID:HM01132<br/>GeneSymbol:HPD<br/>P-value:2.13e-60<br/>Zscore:6.25<br/>#EST:75<br/>Adj. #EST:11.39

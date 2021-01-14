@@ -1,0 +1,1 @@
+nerve	HMID:HM03095<br/>GeneSymbol:ASL<br/>P-value:4.14e-21<br/>Zscore:5.49<br/>#EST:32<br/>Adj. #EST:9.38

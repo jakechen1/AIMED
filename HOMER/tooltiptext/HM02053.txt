@@ -1,0 +1,1 @@
+bone	HMID:HM02053<br/>GeneSymbol:VCAM1<br/>P-value:1.58e-32<br/>Zscore:4.57<br/>#EST:54<br/>Adj. #EST:8.25

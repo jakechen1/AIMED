@@ -1,0 +1,1 @@
+pancreas	HMID:HM05290<br/>GeneSymbol:MEG3<br/>P-value:7.23e-11<br/>Zscore:6.6<br/>#EST:12<br/>Adj. #EST:12.17

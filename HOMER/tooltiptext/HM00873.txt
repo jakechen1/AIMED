@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00873<br/>GeneSymbol:PADI4<br/>P-value:5.73e-78<br/>Zscore:6.98<br/>#EST:52<br/>Adj. #EST:53.74

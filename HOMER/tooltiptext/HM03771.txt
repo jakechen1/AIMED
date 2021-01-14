@@ -1,0 +1,1 @@
+mouth	HMID:HM03771<br/>GeneSymbol:NUP205<br/>P-value:7.34e-17<br/>Zscore:5.57<br/>#EST:29<br/>Adj. #EST:7.66

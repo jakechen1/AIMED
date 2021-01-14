@@ -1,0 +1,1 @@
+thymus	HMID:HM03094<br/>GeneSymbol:SLC24A6<br/>P-value:4.11e-21<br/>Zscore:5.4<br/>#EST:35<br/>Adj. #EST:8.21

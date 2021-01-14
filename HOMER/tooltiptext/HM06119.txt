@@ -1,0 +1,1 @@
+ureter	HMID:HM06119<br/>GeneSymbol:IGFBP3<br/>P-value:6.32e-08<br/>Zscore:4.73<br/>#EST:12<br/>Adj. #EST:8.03

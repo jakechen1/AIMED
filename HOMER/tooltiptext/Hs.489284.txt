@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04763<br/>GeneSymbol:ARPC1B<br/>P-value:2.15e-23<br/>Zscore:4.49<br/>#EST:39<br/>Adj. #EST:8.52

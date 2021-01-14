@@ -1,0 +1,1 @@
+thymus	HMID:HM04713<br/>GeneSymbol:TRAT1<br/>P-value:7.87e-13<br/>Zscore:4.99<br/>#EST:11<br/>Adj. #EST:23.64

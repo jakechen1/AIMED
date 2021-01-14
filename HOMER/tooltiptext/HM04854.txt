@@ -1,0 +1,1 @@
+colon	HMID:HM04854<br/>GeneSymbol:BCAN<br/>P-value:2.27e-12<br/>Zscore:4.13<br/>#EST:18<br/>Adj. #EST:8.54

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03526<br/>GeneSymbol:SLC4A1AP<br/>P-value:1.21e-16<br/>Zscore:5.37<br/>#EST:28<br/>Adj. #EST:7.79

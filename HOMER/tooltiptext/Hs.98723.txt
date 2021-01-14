@@ -1,0 +1,1 @@
+testis	HMID:HM01349<br/>GeneSymbol:KIAA1875<br/>P-value:1.41e-10<br/>Zscore:6.23<br/>#EST:16<br/>Adj. #EST:6.85

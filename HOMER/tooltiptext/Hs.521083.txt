@@ -1,0 +1,1 @@
+spleen	HMID:HM04118<br/>GeneSymbol:AGFG2<br/>P-value:1.46e-19<br/>Zscore:4.78<br/>#EST:42<br/>Adj. #EST:5.37

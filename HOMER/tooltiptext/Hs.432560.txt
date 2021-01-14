@@ -1,0 +1,1 @@
+lymph	HMID:HM00287<br/>GeneSymbol:HARS2<br/>P-value:3.26e-07<br/>Zscore:4.54<br/>#EST:16<br/>Adj. #EST:4.88

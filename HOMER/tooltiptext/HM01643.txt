@@ -1,0 +1,1 @@
+testis	HMID:HM01643<br/>GeneSymbol:RNF17<br/>P-value:3.32e-41<br/>Zscore:6.93<br/>#EST:41<br/>Adj. #EST:12.44

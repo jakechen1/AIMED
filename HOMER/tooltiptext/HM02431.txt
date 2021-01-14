@@ -1,0 +1,1 @@
+spinal cord	HMID:HM02431<br/>GeneSymbol:FTL<br/>P-value:7.27e-27<br/>Zscore:5.38<br/>#EST:35<br/>Adj. #EST:12.91

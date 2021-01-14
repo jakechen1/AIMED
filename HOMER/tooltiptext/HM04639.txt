@@ -1,0 +1,1 @@
+skin	HMID:HM04639<br/>GeneSymbol:GPR143<br/>P-value:3.98e-13<br/>Zscore:4.65<br/>#EST:18<br/>Adj. #EST:8.98

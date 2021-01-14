@@ -1,0 +1,1 @@
+placenta	HMID:HM07580<br/>GeneSymbol:PLAC4<br/>P-value:0<br/>Zscore:6.55<br/>#EST:418<br/>Adj. #EST:17.57

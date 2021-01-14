@@ -1,0 +1,1 @@
+leiomios	HMID:HM04348<br/>GeneSymbol:MTPN<br/>P-value:2.57e-14<br/>Zscore:6.76<br/>#EST:15<br/>Adj. #EST:17.69

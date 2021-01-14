@@ -1,0 +1,1 @@
+mouth	HMID:HM00568<br/>GeneSymbol:TBC1D22B<br/>P-value:3.57e-08<br/>Zscore:4.73<br/>#EST:16<br/>Adj. #EST:5.73

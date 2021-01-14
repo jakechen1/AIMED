@@ -1,0 +1,1 @@
+lymph	HMID:HM03574<br/>GeneSymbol:TRANK1<br/>P-value:6.85e-18<br/>Zscore:5.05<br/>#EST:21<br/>Adj. #EST:14.14

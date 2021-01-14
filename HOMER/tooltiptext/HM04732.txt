@@ -1,0 +1,1 @@
+tonsil	HMID:HM04732<br/>GeneSymbol:FAIM3<br/>P-value:8.74e-13<br/>Zscore:4.46<br/>#EST:14<br/>Adj. #EST:15.57

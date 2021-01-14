@@ -1,0 +1,1 @@
+lymph node	HMID:HM02722<br/>GeneSymbol:ACD<br/>P-value:6.34e-24<br/>Zscore:4.42<br/>#EST:39<br/>Adj. #EST:8.47

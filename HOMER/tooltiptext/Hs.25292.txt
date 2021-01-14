@@ -1,0 +1,2 @@
+ganglia	HMID:HM00289<br/>GeneSymbol:JUNB<br/>P-value:3.16e-07<br/>Zscore:4.12<br/>#EST:10<br/>Adj. #EST:8.86
+blood	HMID:HM07181<br/>GeneSymbol:JUNB<br/>P-value:4.07e-125<br/>Zscore:4.51<br/>#EST:194<br/>Adj. #EST:9.6

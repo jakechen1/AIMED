@@ -1,0 +1,1 @@
+trachea	HMID:HM02945<br/>GeneSymbol:NFATC4<br/>P-value:9.25e-15<br/>Zscore:4.92<br/>#EST:28<br/>Adj. #EST:6.68

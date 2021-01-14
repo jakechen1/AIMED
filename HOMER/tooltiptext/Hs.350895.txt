@@ -1,0 +1,1 @@
+brain	HMID:HM06704<br/>GeneSymbol:SLC39A12<br/>P-value:1.29e-70<br/>Zscore:6.59<br/>#EST:122<br/>Adj. #EST:4.94

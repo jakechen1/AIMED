@@ -1,0 +1,1 @@
+liver	HMID:HM07323<br/>GeneSymbol:ITIH2<br/>P-value:5.29e-169<br/>Zscore:5.7<br/>#EST:203<br/>Adj. #EST:12.42

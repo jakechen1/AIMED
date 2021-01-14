@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05268<br/>GeneSymbol:BSPRY<br/>P-value:1.65e-28<br/>Zscore:6.81<br/>#EST:20<br/>Adj. #EST:53.65

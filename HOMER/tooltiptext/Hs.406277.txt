@@ -1,0 +1,1 @@
+thymus	HMID:HM05025<br/>GeneSymbol:SF3A1<br/>P-value:1.35e-25<br/>Zscore:4.9<br/>#EST:68<br/>Adj. #EST:4.83

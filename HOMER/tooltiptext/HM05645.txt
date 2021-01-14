@@ -1,0 +1,1 @@
+kidney	HMID:HM05645<br/>GeneSymbol:SLCO4C1<br/>P-value:1.24e-09<br/>Zscore:5<br/>#EST:12<br/>Adj. #EST:9.9

@@ -1,0 +1,1 @@
+esophagus	HMID:HM05213<br/>GeneSymbol:GLO1<br/>P-value:3.78e-11<br/>Zscore:4.85<br/>#EST:26<br/>Adj. #EST:5.11

@@ -1,0 +1,1 @@
+thyroid	HMID:HM02037<br/>GeneSymbol:ATP1A1<br/>P-value:9.04e-33<br/>Zscore:4.21<br/>#EST:99<br/>Adj. #EST:4.38

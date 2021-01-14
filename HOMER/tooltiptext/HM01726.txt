@@ -1,0 +1,1 @@
+placenta	HMID:HM01726<br/>GeneSymbol:DNMT3L<br/>P-value:9.89e-39<br/>Zscore:7<br/>#EST:34<br/>Adj. #EST:18.55

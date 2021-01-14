@@ -1,0 +1,1 @@
+mouth	HMID:HM02308<br/>GeneSymbol:PIAS3<br/>P-value:1.53e-28<br/>Zscore:5.5<br/>#EST:45<br/>Adj. #EST:9.17

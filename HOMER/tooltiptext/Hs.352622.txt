@@ -1,0 +1,2 @@
+mouth	HMID:HM02925<br/>GeneSymbol:B3GNT6<br/>P-value:1.09e-14<br/>Zscore:4.44<br/>#EST:11<br/>Adj. #EST:34.5
+trachea	HMID:HM02718<br/>GeneSymbol:B3GNT6<br/>P-value:4.76e-14<br/>Zscore:5.2<br/>#EST:10<br/>Adj. #EST:40.13

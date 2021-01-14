@@ -1,0 +1,1 @@
+skin	HMID:HM03188<br/>GeneSymbol:CSPG4<br/>P-value:1.46e-15<br/>Zscore:4.01<br/>#EST:30<br/>Adj. #EST:6.09

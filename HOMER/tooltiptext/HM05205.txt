@@ -1,0 +1,1 @@
+nerve	HMID:HM05205<br/>GeneSymbol:KIF21A<br/>P-value:3.53e-11<br/>Zscore:4.46<br/>#EST:19<br/>Adj. #EST:7.25

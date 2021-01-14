@@ -1,0 +1,1 @@
+spleen	HMID:HM06223<br/>GeneSymbol:GSTA2<br/>P-value:4.21e-47<br/>Zscore:5.67<br/>#EST:72<br/>Adj. #EST:8.34

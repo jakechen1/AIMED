@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04409<br/>GeneSymbol:MRPS21<br/>P-value:2.58e-21<br/>Zscore:4.4<br/>#EST:44<br/>Adj. #EST:6.21

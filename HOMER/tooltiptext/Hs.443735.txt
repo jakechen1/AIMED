@@ -1,0 +1,1 @@
+larynx	HMID:HM07130<br/>GeneSymbol:SETD8<br/>P-value:1.21e-115<br/>Zscore:7.05<br/>#EST:82<br/>Adj. #EST:58.03

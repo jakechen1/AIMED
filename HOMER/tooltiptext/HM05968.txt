@@ -1,0 +1,1 @@
+bone	HMID:HM05968<br/>GeneSymbol:ECM2<br/>P-value:1.77e-08<br/>Zscore:4.15<br/>#EST:15<br/>Adj. #EST:6.31

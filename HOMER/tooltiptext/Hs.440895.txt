@@ -1,0 +1,1 @@
+muscle	HMID:HM01170<br/>GeneSymbol:MYH3<br/>P-value:4.82e-10<br/>Zscore:4.51<br/>#EST:14<br/>Adj. #EST:9.12

@@ -1,0 +1,1 @@
+larynx	HMID:HM02677<br/>GeneSymbol:NCOA6<br/>P-value:7.29e-14<br/>Zscore:6.43<br/>#EST:17<br/>Adj. #EST:12.79

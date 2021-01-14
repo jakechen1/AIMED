@@ -1,0 +1,1 @@
+tonsil	HMID:HM04027<br/>GeneSymbol:EEF1D<br/>P-value:5.39e-19<br/>Zscore:4.82<br/>#EST:39<br/>Adj. #EST:6.34

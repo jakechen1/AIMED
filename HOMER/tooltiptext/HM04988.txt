@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04988<br/>GeneSymbol:NEDD8<br/>P-value:5.63e-12<br/>Zscore:5.3<br/>#EST:16<br/>Adj. #EST:10.74

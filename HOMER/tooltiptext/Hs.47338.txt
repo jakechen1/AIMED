@@ -1,0 +1,1 @@
+bladder	HMID:HM03167<br/>GeneSymbol:IFIT3<br/>P-value:1.8e-15<br/>Zscore:5<br/>#EST:21<br/>Adj. #EST:10.95

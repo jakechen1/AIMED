@@ -1,0 +1,1 @@
+larynx	HMID:HM03392<br/>GeneSymbol:SNRNP200<br/>P-value:4.31e-19<br/>Zscore:5.36<br/>#EST:36<br/>Adj. #EST:7.04

@@ -1,0 +1,1 @@
+thyroid	HMID:HM00006<br/>GeneSymbol:EIF4G3<br/>P-value:9.62e-06<br/>Zscore:4.27<br/>#EST:13<br/>Adj. #EST:4.5

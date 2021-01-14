@@ -1,0 +1,1 @@
+lymph node	HMID:HM00008<br/>GeneSymbol:ZBTB1<br/>P-value:9.3e-06<br/>Zscore:4.12<br/>#EST:12<br/>Adj. #EST:4.83

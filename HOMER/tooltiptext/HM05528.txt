@@ -1,0 +1,1 @@
+nerve	HMID:HM05528<br/>GeneSymbol:AAAS<br/>P-value:5.21e-10<br/>Zscore:4.41<br/>#EST:27<br/>Adj. #EST:4.3

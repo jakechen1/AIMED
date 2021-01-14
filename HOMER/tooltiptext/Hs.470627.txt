@@ -1,0 +1,1 @@
+thymus	HMID:HM07488<br/>GeneSymbol:LCK<br/>P-value:5.98e-295<br/>Zscore:6.73<br/>#EST:222<br/>Adj. #EST:41.33

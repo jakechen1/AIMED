@@ -1,0 +1,1 @@
+testis	HMID:HM01885<br/>GeneSymbol:SYCE1<br/>P-value:2.23e-35<br/>Zscore:6<br/>#EST:44<br/>Adj. #EST:9.66

@@ -1,0 +1,1 @@
+lung	HMID:HM02001<br/>GeneSymbol:SOX1<br/>P-value:2.32e-33<br/>Zscore:6.95<br/>#EST:35<br/>Adj. #EST:12.84

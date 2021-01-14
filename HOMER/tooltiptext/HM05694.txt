@@ -1,0 +1,1 @@
+bladder	HMID:HM05694<br/>GeneSymbol:DEAF1<br/>P-value:2e-09<br/>Zscore:5.39<br/>#EST:13<br/>Adj. #EST:9.56

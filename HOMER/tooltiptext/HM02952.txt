@@ -1,0 +1,1 @@
+bladder	HMID:HM02952<br/>GeneSymbol:GPX2<br/>P-value:3.71e-22<br/>Zscore:4.17<br/>#EST:25<br/>Adj. #EST:16.14

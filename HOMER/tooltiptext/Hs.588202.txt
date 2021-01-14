@@ -1,0 +1,1 @@
+spleen	HMID:HM00042<br/>GeneSymbol:KIF6<br/>P-value:5.22e-06<br/>Zscore:4.26<br/>#EST:12<br/>Adj. #EST:4.76

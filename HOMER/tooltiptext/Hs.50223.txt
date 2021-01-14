@@ -1,0 +1,1 @@
+liver	HMID:HM07076<br/>GeneSymbol:RBP4<br/>P-value:1.55e-106<br/>Zscore:5.72<br/>#EST:154<br/>Adj. #EST:9.55

@@ -1,0 +1,1 @@
+brain	HMID:HM06309<br/>GeneSymbol:CADM2<br/>P-value:3.34e-50<br/>Zscore:5.26<br/>#EST:95<br/>Adj. #EST:4.62

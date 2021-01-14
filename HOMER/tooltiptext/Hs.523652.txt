@@ -1,0 +1,1 @@
+placenta	HMID:HM00453<br/>GeneSymbol:PAQR7<br/>P-value:7.87e-08<br/>Zscore:5.03<br/>#EST:10<br/>Adj. #EST:8.82

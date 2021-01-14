@@ -1,0 +1,1 @@
+placenta	HMID:HM00088<br/>GeneSymbol:PSG9<br/>P-value:0<br/>Zscore:6.95<br/>#EST:477<br/>Adj. #EST:19.67

@@ -1,0 +1,1 @@
+placenta	HMID:HM01393<br/>GeneSymbol:ZFP42<br/>P-value:1.15e-10<br/>Zscore:5.45<br/>#EST:11<br/>Adj. #EST:12.94

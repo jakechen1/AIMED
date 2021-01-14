@@ -1,0 +1,1 @@
+spleen	HMID:HM04114<br/>GeneSymbol:PROZ<br/>P-value:1.49e-19<br/>Zscore:4.04<br/>#EST:24<br/>Adj. #EST:10.38

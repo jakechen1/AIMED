@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM03007<br/>GeneSymbol:ALAS1<br/>P-value:5.71e-15<br/>Zscore:5.34<br/>#EST:25<br/>Adj. #EST:7.97

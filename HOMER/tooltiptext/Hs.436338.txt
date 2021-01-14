@@ -1,0 +1,2 @@
+kidney	HMID:HM00073<br/>GeneSymbol:ASPDH<br/>P-value:3e-06<br/>Zscore:4.03<br/>#EST:11<br/>Adj. #EST:5.69
+stomach	HMID:HM00053<br/>GeneSymbol:ASPDH<br/>P-value:4.08e-06<br/>Zscore:4.45<br/>#EST:10<br/>Adj. #EST:6.22

@@ -1,0 +1,1 @@
+spleen	HMID:HM05213<br/>GeneSymbol:OSBP2<br/>P-value:1.17e-27<br/>Zscore:4.64<br/>#EST:64<br/>Adj. #EST:5.12

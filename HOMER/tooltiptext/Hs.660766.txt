@@ -1,0 +1,1 @@
+pharynx	HMID:HM07042<br/>GeneSymbol:NTN3<br/>P-value:6.09e-103<br/>Zscore:6.78<br/>#EST:85<br/>Adj. #EST:36.37

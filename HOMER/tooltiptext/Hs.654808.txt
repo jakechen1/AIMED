@@ -1,0 +1,1 @@
+lymph	HMID:HM01488<br/>GeneSymbol:RIMS3<br/>P-value:6.11e-11<br/>Zscore:6.21<br/>#EST:15<br/>Adj. #EST:9.89

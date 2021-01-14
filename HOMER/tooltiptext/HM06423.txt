@@ -1,0 +1,1 @@
+bladder	HMID:HM06423<br/>GeneSymbol:C18orf32<br/>P-value:1.07e-06<br/>Zscore:4.76<br/>#EST:11<br/>Adj. #EST:6.76

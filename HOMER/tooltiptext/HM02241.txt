@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02241<br/>GeneSymbol:DNAH14<br/>P-value:2.1e-29<br/>Zscore:6.69<br/>#EST:26<br/>Adj. #EST:25.2

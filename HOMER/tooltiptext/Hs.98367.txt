@@ -1,0 +1,1 @@
+ovary	HMID:HM05074<br/>GeneSymbol:SOX17<br/>P-value:3.74e-26<br/>Zscore:6.74<br/>#EST:26<br/>Adj. #EST:19.4

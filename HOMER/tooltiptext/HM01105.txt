@@ -1,0 +1,2 @@
+liver	HMID:HM01105<br/>GeneSymbol:HABP2<br/>P-value:5.93e-62<br/>Zscore:4.73<br/>#EST:80<br/>Adj. #EST:10.81
+spleen	HMID:HM01105<br/>GeneSymbol:HABP2<br/>P-value:4.15e-33<br/>Zscore:4.94<br/>#EST:44<br/>Adj. #EST:11.26

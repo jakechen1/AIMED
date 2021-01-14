@@ -1,0 +1,1 @@
+esophagus	HMID:HM07267<br/>GeneSymbol:CRNN<br/>P-value:1.39e-149<br/>Zscore:7.03<br/>#EST:71<br/>Adj. #EST:215.63

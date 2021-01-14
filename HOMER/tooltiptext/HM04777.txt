@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04777<br/>GeneSymbol:CD59<br/>P-value:1.22e-12<br/>Zscore:4.86<br/>#EST:19<br/>Adj. #EST:9.04

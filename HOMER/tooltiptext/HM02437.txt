@@ -1,0 +1,1 @@
+pharynx	HMID:HM02437<br/>GeneSymbol:GIMAP7<br/>P-value:8.28e-27<br/>Zscore:6.85<br/>#EST:21<br/>Adj. #EST:36.74

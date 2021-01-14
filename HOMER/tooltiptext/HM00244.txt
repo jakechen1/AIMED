@@ -1,0 +1,2 @@
+rectum	HMID:HM00244<br/>GeneSymbol:AGR2<br/>P-value:4.91e-10<br/>Zscore:4.61<br/>#EST:11<br/>Adj. #EST:14.69
+stomach	HMID:HM00244<br/>GeneSymbol:AGR2<br/>P-value:0<br/>Zscore:4.67<br/>#EST:275<br/>Adj. #EST:14.87

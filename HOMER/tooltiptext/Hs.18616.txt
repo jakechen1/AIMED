@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00958<br/>GeneSymbol:NCAPG2<br/>P-value:1.97e-09<br/>Zscore:4.22<br/>#EST:19<br/>Adj. #EST:5.68

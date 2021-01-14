@@ -1,0 +1,1 @@
+mouth	HMID:HM00648<br/>GeneSymbol:DIS3<br/>P-value:1.82e-08<br/>Zscore:4.43<br/>#EST:18<br/>Adj. #EST:5.27

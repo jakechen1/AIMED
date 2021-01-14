@@ -1,0 +1,1 @@
+lymph node	HMID:HM03967<br/>GeneSymbol:RRP1B<br/>P-value:9.46e-19<br/>Zscore:5.52<br/>#EST:29<br/>Adj. #EST:8.89

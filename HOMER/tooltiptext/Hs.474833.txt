@@ -1,0 +1,1 @@
+nerve	HMID:HM04887<br/>GeneSymbol:CSNK1E<br/>P-value:2.04e-24<br/>Zscore:4.94<br/>#EST:48<br/>Adj. #EST:6.72

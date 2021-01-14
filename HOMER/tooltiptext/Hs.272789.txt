@@ -1,0 +1,1 @@
+small intestine	HMID:HM02875<br/>GeneSymbol:MS4A12<br/>P-value:1.47e-14<br/>Zscore:6.72<br/>#EST:10<br/>Adj. #EST:45.44

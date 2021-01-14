@@ -1,0 +1,1 @@
+thyroid	HMID:HM03560<br/>GeneSymbol:SF3B1<br/>P-value:5.65e-18<br/>Zscore:4.04<br/>#EST:37<br/>Adj. #EST:6.22

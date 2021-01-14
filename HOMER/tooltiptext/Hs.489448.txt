@@ -1,0 +1,2 @@
+lymph	HMID:HM01448<br/>GeneSymbol:SH2B2<br/>P-value:6.84e-11<br/>Zscore:5.1<br/>#EST:10<br/>Adj. #EST:20.51
+lymph node	HMID:HM02604<br/>GeneSymbol:SH2B2<br/>P-value:1.25e-13<br/>Zscore:4.06<br/>#EST:14<br/>Adj. #EST:16.57

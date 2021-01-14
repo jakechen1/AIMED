@@ -1,0 +1,1 @@
+bladder	HMID:HM01092<br/>GeneSymbol:CD24<br/>P-value:2.21e-62<br/>Zscore:4.83<br/>#EST:94<br/>Adj. #EST:10.61

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05967<br/>GeneSymbol:CCDC111<br/>P-value:1.76e-08<br/>Zscore:4.05<br/>#EST:12<br/>Adj. #EST:8.64

@@ -1,0 +1,1 @@
+cervix	HMID:HM05054<br/>GeneSymbol:PDE2A<br/>P-value:9.8e-12<br/>Zscore:5.42<br/>#EST:20<br/>Adj. #EST:7.37

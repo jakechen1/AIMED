@@ -1,0 +1,1 @@
+colon	HMID:HM02461<br/>GeneSymbol:COL8A2<br/>P-value:1.45e-26<br/>Zscore:4.05<br/>#EST:37<br/>Adj. #EST:10.03

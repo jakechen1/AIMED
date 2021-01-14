@@ -1,0 +1,1 @@
+lymph	HMID:HM02607<br/>GeneSymbol:FLI1<br/>P-value:1.22e-13<br/>Zscore:5.03<br/>#EST:17<br/>Adj. #EST:12.12

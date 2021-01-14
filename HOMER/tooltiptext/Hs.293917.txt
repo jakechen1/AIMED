@@ -1,0 +1,1 @@
+placenta	HMID:HM03884<br/>GeneSymbol:PVRL3<br/>P-value:2.77e-18<br/>Zscore:5.14<br/>#EST:36<br/>Adj. #EST:6.01

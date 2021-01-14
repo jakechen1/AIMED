@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04818<br/>GeneSymbol:<br/>P-value:8.9e-24<br/>Zscore:6.99<br/>#EST:17<br/>Adj. #EST:39.45

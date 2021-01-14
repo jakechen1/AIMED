@@ -1,0 +1,1 @@
+mouth	HMID:HM06917<br/>GeneSymbol:NUCKS1<br/>P-value:1.37e-89<br/>Zscore:5.52<br/>#EST:156<br/>Adj. #EST:8.48

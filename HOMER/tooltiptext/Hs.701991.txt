@@ -1,0 +1,1 @@
+lymph node	HMID:HM05581<br/>GeneSymbol:CIITA<br/>P-value:8.36e-33<br/>Zscore:6.04<br/>#EST:30<br/>Adj. #EST:23.93

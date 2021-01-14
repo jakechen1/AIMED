@@ -1,0 +1,1 @@
+thymus	HMID:HM00727<br/>GeneSymbol:DNTT<br/>P-value:1.22e-93<br/>Zscore:7.05<br/>#EST:56<br/>Adj. #EST:64.53

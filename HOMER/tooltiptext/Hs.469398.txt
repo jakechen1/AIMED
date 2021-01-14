@@ -1,0 +1,1 @@
+ovary	HMID:HM00565<br/>GeneSymbol:C2orf55<br/>P-value:3.76e-08<br/>Zscore:5.18<br/>#EST:13<br/>Adj. #EST:7.23

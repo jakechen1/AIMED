@@ -1,0 +1,1 @@
+pancreas	HMID:HM04253<br/>GeneSymbol:C22orf42<br/>P-value:1.26e-14<br/>Zscore:6.98<br/>#EST:12<br/>Adj. #EST:20.75

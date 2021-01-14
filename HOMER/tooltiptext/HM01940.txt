@@ -1,0 +1,1 @@
+muscle	HMID:HM01940<br/>GeneSymbol:CDH15<br/>P-value:2.5e-34<br/>Zscore:6.96<br/>#EST:28<br/>Adj. #EST:28.77

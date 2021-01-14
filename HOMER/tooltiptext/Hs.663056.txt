@@ -1,0 +1,1 @@
+stomach	HMID:HM02995<br/>GeneSymbol:C9orf71<br/>P-value:6.34e-15<br/>Zscore:5.86<br/>#EST:16<br/>Adj. #EST:14.09

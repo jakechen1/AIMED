@@ -1,0 +1,1 @@
+thymus	HMID:HM06100<br/>GeneSymbol:<br/>P-value:1.45e-43<br/>Zscore:5.79<br/>#EST:36<br/>Adj. #EST:31.09

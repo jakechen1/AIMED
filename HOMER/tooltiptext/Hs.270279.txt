@@ -1,0 +1,1 @@
+eye	HMID:HM06196<br/>GeneSymbol:TYRP1<br/>P-value:4.68e-46<br/>Zscore:4.44<br/>#EST:61<br/>Adj. #EST:11.03

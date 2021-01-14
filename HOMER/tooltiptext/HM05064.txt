@@ -1,0 +1,1 @@
+lymph node	HMID:HM05064<br/>GeneSymbol:HLA-DOA<br/>P-value:1.14e-11<br/>Zscore:4.23<br/>#EST:18<br/>Adj. #EST:8.25

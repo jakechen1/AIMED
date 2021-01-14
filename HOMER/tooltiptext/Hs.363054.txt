@@ -1,0 +1,1 @@
+testis	HMID:HM04441<br/>GeneSymbol:OR7E156P<br/>P-value:1.95e-21<br/>Zscore:7.07<br/>#EST:18<br/>Adj. #EST:14.14

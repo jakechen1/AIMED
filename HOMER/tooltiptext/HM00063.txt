@@ -1,0 +1,2 @@
+pancreas	HMID:HM00063<br/>GeneSymbol:TTR<br/>P-value:0<br/>Zscore:5.05<br/>#EST:1412<br/>Adj. #EST:11.48
+skin	HMID:HM00063<br/>GeneSymbol:TTR<br/>P-value:0<br/>Zscore:4.64<br/>#EST:1504<br/>Adj. #EST:10.59

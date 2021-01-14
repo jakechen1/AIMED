@@ -1,0 +1,1 @@
+bone marrow	HMID:HM07449<br/>GeneSymbol:HBB<br/>P-value:1.13e-243<br/>Zscore:5.03<br/>#EST:361<br/>Adj. #EST:10.98

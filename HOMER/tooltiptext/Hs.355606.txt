@@ -1,0 +1,1 @@
+salivary gland	HMID:HM02044<br/>GeneSymbol:TMEM167A<br/>P-value:2.42e-12<br/>Zscore:5.05<br/>#EST:20<br/>Adj. #EST:8.08

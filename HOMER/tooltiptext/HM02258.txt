@@ -1,0 +1,1 @@
+colon	HMID:HM02258<br/>GeneSymbol:DUOXA2<br/>P-value:3.37e-29<br/>Zscore:6.61<br/>#EST:23<br/>Adj. #EST:25.34

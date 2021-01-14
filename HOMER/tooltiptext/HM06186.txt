@@ -1,0 +1,1 @@
+lymph node	HMID:HM06186<br/>GeneSymbol:PARP11<br/>P-value:1.12e-07<br/>Zscore:4.24<br/>#EST:11<br/>Adj. #EST:8.24

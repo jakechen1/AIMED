@@ -1,0 +1,1 @@
+adrenal gland	HMID:HM00428<br/>GeneSymbol:CXCR4<br/>P-value:9.35e-08<br/>Zscore:4.04<br/>#EST:14<br/>Adj. #EST:6.28

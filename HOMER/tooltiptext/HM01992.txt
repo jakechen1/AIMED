@@ -1,0 +1,1 @@
+testis	HMID:HM01992<br/>GeneSymbol:ZPBP2<br/>P-value:1.43e-33<br/>Zscore:7.06<br/>#EST:34<br/>Adj. #EST:12.12

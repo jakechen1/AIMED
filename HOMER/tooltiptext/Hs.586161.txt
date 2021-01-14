@@ -1,0 +1,2 @@
+liver	HMID:HM06481<br/>GeneSymbol:ADH6<br/>P-value:1.18e-57<br/>Zscore:4.62<br/>#EST:89<br/>Adj. #EST:8.6
+spleen	HMID:HM06732<br/>GeneSymbol:ADH6<br/>P-value:1.59e-72<br/>Zscore:4.71<br/>#EST:108<br/>Adj. #EST:8.75

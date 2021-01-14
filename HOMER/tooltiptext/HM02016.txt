@@ -1,0 +1,2 @@
+lymph node	HMID:HM02016<br/>GeneSymbol:DBF4<br/>P-value:3.65e-07<br/>Zscore:4.09<br/>#EST:15<br/>Adj. #EST:5.11
+testis	HMID:HM02016<br/>GeneSymbol:DBF4<br/>P-value:3.89e-33<br/>Zscore:4.05<br/>#EST:75<br/>Adj. #EST:5.07

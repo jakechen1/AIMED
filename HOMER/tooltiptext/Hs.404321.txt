@@ -1,0 +1,1 @@
+amnion	HMID:HM00388<br/>GeneSymbol:GARS<br/>P-value:1.48e-07<br/>Zscore:5.91<br/>#EST:13<br/>Adj. #EST:6.67

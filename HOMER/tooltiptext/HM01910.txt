@@ -1,0 +1,1 @@
+eye	HMID:HM01910<br/>GeneSymbol:IMPG1<br/>P-value:5.96e-35<br/>Zscore:6.01<br/>#EST:28<br/>Adj. #EST:23.2

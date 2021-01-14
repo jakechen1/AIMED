@@ -1,0 +1,1 @@
+trachea	HMID:HM06019<br/>GeneSymbol:THSD4<br/>P-value:2.83e-08<br/>Zscore:4.51<br/>#EST:13<br/>Adj. #EST:7.56

@@ -1,0 +1,1 @@
+nerve	HMID:HM00422<br/>GeneSymbol:APBA2<br/>P-value:9.68e-08<br/>Zscore:6<br/>#EST:11<br/>Adj. #EST:8.45

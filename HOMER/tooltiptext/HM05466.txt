@@ -1,0 +1,1 @@
+lymph	HMID:HM05466<br/>GeneSymbol:STK16<br/>P-value:3.06e-10<br/>Zscore:4.92<br/>#EST:16<br/>Adj. #EST:8.04

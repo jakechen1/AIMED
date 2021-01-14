@@ -1,0 +1,1 @@
+lymph node	HMID:HM02200<br/>GeneSymbol:HERC2<br/>P-value:1.32e-12<br/>Zscore:4.93<br/>#EST:26<br/>Adj. #EST:5.82

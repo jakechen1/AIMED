@@ -1,0 +1,1 @@
+testis	HMID:HM02784<br/>GeneSymbol:ANKAR<br/>P-value:2.48e-14<br/>Zscore:5.75<br/>#EST:24<br/>Adj. #EST:6.4

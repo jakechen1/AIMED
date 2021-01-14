@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02555<br/>GeneSymbol:STXBP5<br/>P-value:1.92e-13<br/>Zscore:6.75<br/>#EST:12<br/>Adj. #EST:24.28

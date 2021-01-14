@@ -1,0 +1,1 @@
+tonsil	HMID:HM01086<br/>GeneSymbol:MYBL2<br/>P-value:8.13e-10<br/>Zscore:4.8<br/>#EST:15<br/>Adj. #EST:8.36

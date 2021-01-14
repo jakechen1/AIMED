@@ -1,0 +1,1 @@
+testis	HMID:HM00423<br/>GeneSymbol:CCT6B<br/>P-value:0<br/>Zscore:6.95<br/>#EST:162<br/>Adj. #EST:11.44

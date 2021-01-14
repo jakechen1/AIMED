@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06360<br/>GeneSymbol:POMP<br/>P-value:5.7e-07<br/>Zscore:4.54<br/>#EST:12<br/>Adj. #EST:6.48

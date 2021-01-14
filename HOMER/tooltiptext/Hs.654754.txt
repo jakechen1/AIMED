@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01068<br/>GeneSymbol:SSH2<br/>P-value:9.12e-10<br/>Zscore:5.02<br/>#EST:15<br/>Adj. #EST:8.07

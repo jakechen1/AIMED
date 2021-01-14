@@ -1,0 +1,1 @@
+mouth	HMID:HM06472<br/>GeneSymbol:B4GALNT1<br/>P-value:1.9e-06<br/>Zscore:4.48<br/>#EST:14<br/>Adj. #EST:4.83

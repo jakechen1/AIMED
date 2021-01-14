@@ -1,0 +1,1 @@
+trachea	HMID:HM04392<br/>GeneSymbol:CALCRL<br/>P-value:4.01e-14<br/>Zscore:4.82<br/>#EST:17<br/>Adj. #EST:12.95

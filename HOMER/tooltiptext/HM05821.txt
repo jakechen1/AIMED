@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05821<br/>GeneSymbol:RPS27A<br/>P-value:4.94e-09<br/>Zscore:4.36<br/>#EST:12<br/>Adj. #EST:10.11

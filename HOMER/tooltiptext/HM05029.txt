@@ -1,0 +1,1 @@
+trachea	HMID:HM05029<br/>GeneSymbol:C1orf116<br/>P-value:8.06e-12<br/>Zscore:4.54<br/>#EST:16<br/>Adj. #EST:10.26

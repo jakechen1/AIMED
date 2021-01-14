@@ -1,0 +1,1 @@
+muscle	HMID:HM00127<br/>GeneSymbol:TNNT1<br/>P-value:0<br/>Zscore:4.27<br/>#EST:547<br/>Adj. #EST:42.3

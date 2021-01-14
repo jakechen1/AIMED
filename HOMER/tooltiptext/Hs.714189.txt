@@ -1,0 +1,1 @@
+stomach	HMID:HM06140<br/>GeneSymbol:LRFN4<br/>P-value:1.28e-44<br/>Zscore:4.97<br/>#EST:41<br/>Adj. #EST:20.57

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM07185<br/>GeneSymbol:HDLBP<br/>P-value:8.06e-126<br/>Zscore:6.82<br/>#EST:144<br/>Adj. #EST:18.19

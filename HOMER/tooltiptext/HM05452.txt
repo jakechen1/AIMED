@@ -1,0 +1,1 @@
+nerve	HMID:HM05452<br/>GeneSymbol:EME1<br/>P-value:2.87e-10<br/>Zscore:5.65<br/>#EST:12<br/>Adj. #EST:12.44

@@ -1,0 +1,1 @@
+thymus	HMID:HM01739<br/>GeneSymbol:CIRBP<br/>P-value:2.13e-38<br/>Zscore:4.46<br/>#EST:112<br/>Adj. #EST:4.52

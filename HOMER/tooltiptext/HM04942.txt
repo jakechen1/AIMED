@@ -1,0 +1,1 @@
+testis	HMID:HM04942<br/>GeneSymbol:DYRK3<br/>P-value:3.93e-12<br/>Zscore:4<br/>#EST:29<br/>Adj. #EST:4.45

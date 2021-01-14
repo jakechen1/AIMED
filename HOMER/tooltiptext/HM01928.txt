@@ -1,0 +1,1 @@
+thyroid	HMID:HM01928<br/>GeneSymbol:FAM179A<br/>P-value:1.67e-34<br/>Zscore:7.05<br/>#EST:22<br/>Adj. #EST:63.63

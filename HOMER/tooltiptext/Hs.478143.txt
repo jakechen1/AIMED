@@ -1,0 +1,1 @@
+testis	HMID:HM04187<br/>GeneSymbol:ZBBX<br/>P-value:6.31e-20<br/>Zscore:4.28<br/>#EST:30<br/>Adj. #EST:7.44

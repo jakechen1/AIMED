@@ -1,0 +1,1 @@
+brain	HMID:HM01401<br/>GeneSymbol:FAM19A2<br/>P-value:2.25e-48<br/>Zscore:6.07<br/>#EST:92<br/>Adj. #EST:4.55

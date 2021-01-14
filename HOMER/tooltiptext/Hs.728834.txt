@@ -1,0 +1,1 @@
+tonsil	HMID:HM02955<br/>GeneSymbol:RPL26<br/>P-value:8.74e-15<br/>Zscore:5.02<br/>#EST:24<br/>Adj. #EST:8.33

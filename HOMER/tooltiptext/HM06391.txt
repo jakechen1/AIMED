@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06391<br/>GeneSymbol:CLVS1<br/>P-value:8.26e-07<br/>Zscore:5.22<br/>#EST:12<br/>Adj. #EST:6.1

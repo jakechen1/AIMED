@@ -1,0 +1,1 @@
+lymph node	HMID:HM00957<br/>GeneSymbol:UBE2J1<br/>P-value:5.78e-71<br/>Zscore:5.94<br/>#EST:93<br/>Adj. #EST:12.76

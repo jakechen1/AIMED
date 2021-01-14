@@ -1,0 +1,1 @@
+embryo	HMID:HM05205<br/>GeneSymbol:FGF17<br/>P-value:1.32e-27<br/>Zscore:6.99<br/>#EST:23<br/>Adj. #EST:21.02

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04837<br/>GeneSymbol:SPPL2A<br/>P-value:5.26e-24<br/>Zscore:5.29<br/>#EST:34<br/>Adj. #EST:10.45

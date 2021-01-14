@@ -1,0 +1,1 @@
+brain	HMID:HM02687<br/>GeneSymbol:CSMD3<br/>P-value:6.25e-14<br/>Zscore:6.06<br/>#EST:26<br/>Adj. #EST:4.42

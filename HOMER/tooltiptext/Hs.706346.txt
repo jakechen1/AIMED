@@ -1,0 +1,1 @@
+pharynx	HMID:HM00877<br/>GeneSymbol:ELL3<br/>P-value:3.34e-09<br/>Zscore:4.64<br/>#EST:10<br/>Adj. #EST:14.09

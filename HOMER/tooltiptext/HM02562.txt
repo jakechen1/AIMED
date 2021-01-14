@@ -1,0 +1,2 @@
+blood vessel	HMID:HM02562<br/>GeneSymbol:A2LD1<br/>P-value:4.46e-10<br/>Zscore:4.45<br/>#EST:13<br/>Adj. #EST:10.38
+kidney	HMID:HM02562<br/>GeneSymbol:A2LD1<br/>P-value:2.39e-25<br/>Zscore:4.63<br/>#EST:33<br/>Adj. #EST:10.77

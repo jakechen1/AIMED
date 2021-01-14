@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05271<br/>GeneSymbol:USP16<br/>P-value:6.04e-11<br/>Zscore:4.25<br/>#EST:28<br/>Adj. #EST:4.56

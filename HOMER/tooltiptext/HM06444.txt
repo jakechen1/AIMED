@@ -1,0 +1,1 @@
+mouth	HMID:HM06444<br/>GeneSymbol:KRIT1<br/>P-value:1.32e-06<br/>Zscore:4.04<br/>#EST:15<br/>Adj. #EST:4.65

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05464<br/>GeneSymbol:CUTA<br/>P-value:3.02e-10<br/>Zscore:5.61<br/>#EST:15<br/>Adj. #EST:8.98

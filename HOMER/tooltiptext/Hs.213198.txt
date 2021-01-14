@@ -1,0 +1,1 @@
+lymph	HMID:HM01847<br/>GeneSymbol:PSPC1<br/>P-value:7.04e-12<br/>Zscore:4.99<br/>#EST:25<br/>Adj. #EST:5.71

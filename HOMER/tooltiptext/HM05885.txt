@@ -1,0 +1,1 @@
+trachea	HMID:HM05885<br/>GeneSymbol:CANT1<br/>P-value:8.82e-09<br/>Zscore:4.24<br/>#EST:22<br/>Adj. #EST:4.53

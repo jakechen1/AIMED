@@ -1,0 +1,1 @@
+lymph	HMID:HM04676<br/>GeneSymbol:KHSRP<br/>P-value:5.34e-13<br/>Zscore:4.02<br/>#EST:27<br/>Adj. #EST:5.88

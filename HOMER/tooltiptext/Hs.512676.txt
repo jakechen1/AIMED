@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM04435<br/>GeneSymbol:RPS25<br/>P-value:2.11e-21<br/>Zscore:4.77<br/>#EST:37<br/>Adj. #EST:8.04

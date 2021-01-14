@@ -1,0 +1,1 @@
+pancreas	HMID:HM00082<br/>GeneSymbol:CPB1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:1277<br/>Adj. #EST:27.65

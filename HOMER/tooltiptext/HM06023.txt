@@ -1,0 +1,1 @@
+bone	HMID:HM06023<br/>GeneSymbol:MSR1<br/>P-value:2.88e-08<br/>Zscore:4.42<br/>#EST:13<br/>Adj. #EST:7.25

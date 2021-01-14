@@ -1,0 +1,1 @@
+brain	HMID:HM06797<br/>GeneSymbol:TRIM46<br/>P-value:4.51e-77<br/>Zscore:4.38<br/>#EST:175<br/>Adj. #EST:4.11

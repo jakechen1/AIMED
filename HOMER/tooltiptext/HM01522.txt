@@ -1,0 +1,1 @@
+bone	HMID:HM01522<br/>GeneSymbol:MARCO<br/>P-value:1.82e-44<br/>Zscore:5.05<br/>#EST:48<br/>Adj. #EST:16.46

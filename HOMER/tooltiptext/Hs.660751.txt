@@ -1,0 +1,1 @@
+stomach	HMID:HM02950<br/>GeneSymbol:RPS20P27<br/>P-value:9.01e-15<br/>Zscore:6.51<br/>#EST:11<br/>Adj. #EST:26.49

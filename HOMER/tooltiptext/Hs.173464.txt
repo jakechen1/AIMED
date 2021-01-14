@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04364<br/>GeneSymbol:FKBP8<br/>P-value:5.5e-21<br/>Zscore:5.61<br/>#EST:31<br/>Adj. #EST:10.09

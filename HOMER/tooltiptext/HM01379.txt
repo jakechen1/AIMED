@@ -1,0 +1,1 @@
+eye	HMID:HM01379<br/>GeneSymbol:TULP1<br/>P-value:4.96e-49<br/>Zscore:6.92<br/>#EST:42<br/>Adj. #EST:21.37

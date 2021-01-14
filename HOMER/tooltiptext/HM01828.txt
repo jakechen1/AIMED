@@ -1,0 +1,1 @@
+liver	HMID:HM01828<br/>GeneSymbol:SLC38A4<br/>P-value:1.02e-36<br/>Zscore:4.87<br/>#EST:44<br/>Adj. #EST:11.67

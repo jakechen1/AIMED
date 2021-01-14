@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01848<br/>GeneSymbol:FGF12<br/>P-value:3.47e-36<br/>Zscore:6.38<br/>#EST:46<br/>Adj. #EST:12.91

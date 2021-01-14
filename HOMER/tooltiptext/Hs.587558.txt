@@ -1,0 +1,1 @@
+blood	HMID:HM07346<br/>GeneSymbol:NCF2<br/>P-value:6.68e-182<br/>Zscore:6.88<br/>#EST:177<br/>Adj. #EST:20.86

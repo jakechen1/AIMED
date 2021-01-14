@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03817<br/>GeneSymbol:C2orf76<br/>P-value:1.31e-16<br/>Zscore:6.38<br/>#EST:19<br/>Adj. #EST:14.09

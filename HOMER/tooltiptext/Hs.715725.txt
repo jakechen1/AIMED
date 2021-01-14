@@ -1,0 +1,1 @@
+eye	HMID:HM05945<br/>GeneSymbol:RS1<br/>P-value:7.69e-40<br/>Zscore:7.01<br/>#EST:30<br/>Adj. #EST:26.19

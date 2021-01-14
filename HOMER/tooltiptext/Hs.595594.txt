@@ -1,0 +1,1 @@
+ovary	HMID:HM04044<br/>GeneSymbol:KRT8P12<br/>P-value:4.45e-19<br/>Zscore:6.39<br/>#EST:17<br/>Adj. #EST:23.09

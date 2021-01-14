@@ -1,0 +1,1 @@
+pancreas	HMID:HM05098<br/>GeneSymbol:DAGLA<br/>P-value:1.43e-11<br/>Zscore:6.19<br/>#EST:16<br/>Adj. #EST:8.88

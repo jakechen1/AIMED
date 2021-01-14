@@ -1,0 +1,1 @@
+liver	HMID:HM04740<br/>GeneSymbol:ZNF517<br/>P-value:2.57e-23<br/>Zscore:5.47<br/>#EST:28<br/>Adj. #EST:11.39

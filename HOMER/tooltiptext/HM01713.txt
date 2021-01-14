@@ -1,0 +1,1 @@
+bladder	HMID:HM01713<br/>GeneSymbol:REG1P<br/>P-value:4.38e-39<br/>Zscore:7.07<br/>#EST:18<br/>Adj. #EST:181.14

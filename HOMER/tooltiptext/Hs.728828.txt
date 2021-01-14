@@ -1,0 +1,1 @@
+embryo	HMID:HM06686<br/>GeneSymbol:<br/>P-value:1.05e-69<br/>Zscore:4.39<br/>#EST:115<br/>Adj. #EST:8.17

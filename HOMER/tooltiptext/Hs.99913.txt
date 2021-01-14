@@ -1,0 +1,1 @@
+spleen	HMID:HM00061<br/>GeneSymbol:ADRB1<br/>P-value:3.78e-06<br/>Zscore:4.28<br/>#EST:11<br/>Adj. #EST:5.35

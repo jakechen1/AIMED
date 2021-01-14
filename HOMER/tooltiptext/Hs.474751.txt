@@ -1,0 +1,1 @@
+amnion	HMID:HM06703<br/>GeneSymbol:MYH9<br/>P-value:1.37e-70<br/>Zscore:6.76<br/>#EST:62<br/>Adj. #EST:32.99

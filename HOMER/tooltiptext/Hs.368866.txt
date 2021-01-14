@@ -1,0 +1,2 @@
+salivary gland	HMID:HM00424<br/>GeneSymbol:CCDC90B<br/>P-value:9.63e-08<br/>Zscore:4.54<br/>#EST:10<br/>Adj. #EST:10.03
+bladder	HMID:HM01515<br/>GeneSymbol:CCDC90B<br/>P-value:4.86e-11<br/>Zscore:4.62<br/>#EST:15<br/>Adj. #EST:10.2

@@ -1,0 +1,1 @@
+trachea	HMID:HM04186<br/>GeneSymbol:CYP4X1<br/>P-value:6.47e-15<br/>Zscore:6.57<br/>#EST:17<br/>Adj. #EST:14.44

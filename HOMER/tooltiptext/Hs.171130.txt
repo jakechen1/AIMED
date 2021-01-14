@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07273<br/>GeneSymbol:SPATA17<br/>P-value:4.57e-151<br/>Zscore:7.04<br/>#EST:100<br/>Adj. #EST:52.45

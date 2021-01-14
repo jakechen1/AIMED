@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04087<br/>GeneSymbol:PVT1<br/>P-value:2.4e-15<br/>Zscore:5.68<br/>#EST:22<br/>Adj. #EST:9.63

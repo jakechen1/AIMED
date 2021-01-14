@@ -1,0 +1,1 @@
+larynx	HMID:HM01352<br/>GeneSymbol:PCYT1A<br/>P-value:1.38e-10<br/>Zscore:4.45<br/>#EST:15<br/>Adj. #EST:9.48

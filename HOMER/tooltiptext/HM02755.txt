@@ -1,0 +1,1 @@
+brain	HMID:HM02755<br/>GeneSymbol:SLITRK3<br/>P-value:1.11e-23<br/>Zscore:5.26<br/>#EST:38<br/>Adj. #EST:4.98

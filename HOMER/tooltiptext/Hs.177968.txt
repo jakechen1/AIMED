@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06661<br/>GeneSymbol:PLSCR2<br/>P-value:2.13e-68<br/>Zscore:6.99<br/>#EST:42<br/>Adj. #EST:59.56

@@ -1,0 +1,1 @@
+embryo	HMID:HM04941<br/>GeneSymbol:DKK4<br/>P-value:3.9e-12<br/>Zscore:5.16<br/>#EST:15<br/>Adj. #EST:10.28

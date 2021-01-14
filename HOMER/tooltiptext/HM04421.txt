@@ -1,0 +1,2 @@
+lymph	HMID:HM04421<br/>GeneSymbol:RNF187<br/>P-value:5.42e-14<br/>Zscore:4.04<br/>#EST:26<br/>Adj. #EST:6.79
+salivary gland	HMID:HM04421<br/>GeneSymbol:RNF187<br/>P-value:3.01e-06<br/>Zscore:4.08<br/>#EST:10<br/>Adj. #EST:6.85

@@ -1,0 +1,1 @@
+skin	HMID:HM00372<br/>GeneSymbol:CAPG<br/>P-value:0<br/>Zscore:6.09<br/>#EST:257<br/>Adj. #EST:8.96

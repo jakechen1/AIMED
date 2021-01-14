@@ -1,0 +1,1 @@
+spleen	HMID:HM00925<br/>GeneSymbol:TMPRSS9<br/>P-value:2.39e-09<br/>Zscore:5.11<br/>#EST:13<br/>Adj. #EST:7.9

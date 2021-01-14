@@ -1,0 +1,1 @@
+rectum	HMID:HM07590<br/>GeneSymbol:ACTG2<br/>P-value:0<br/>Zscore:7.02<br/>#EST:202<br/>Adj. #EST:249.49

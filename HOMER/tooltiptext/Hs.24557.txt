@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00688<br/>GeneSymbol:RAB11FIP5<br/>P-value:1.42e-08<br/>Zscore:4.58<br/>#EST:11<br/>Adj. #EST:10.49

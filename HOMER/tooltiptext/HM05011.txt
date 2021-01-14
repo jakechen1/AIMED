@@ -1,0 +1,1 @@
+trachea	HMID:HM05011<br/>GeneSymbol:EFCAB4A<br/>P-value:6.3e-12<br/>Zscore:6<br/>#EST:14<br/>Adj. #EST:13.03

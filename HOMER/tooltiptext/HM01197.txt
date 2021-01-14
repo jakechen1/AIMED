@@ -1,0 +1,1 @@
+liver	HMID:HM01197<br/>GeneSymbol:SLC2A2<br/>P-value:1.79e-57<br/>Zscore:5.94<br/>#EST:61<br/>Adj. #EST:14.14

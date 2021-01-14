@@ -1,0 +1,1 @@
+esophagus	HMID:HM02596<br/>GeneSymbol:HSPA1B<br/>P-value:6.08e-25<br/>Zscore:4.82<br/>#EST:35<br/>Adj. #EST:11.18

@@ -1,0 +1,1 @@
+testis	HMID:HM01612<br/>GeneSymbol:NUP155<br/>P-value:7.04e-42<br/>Zscore:4.31<br/>#EST:83<br/>Adj. #EST:5.83

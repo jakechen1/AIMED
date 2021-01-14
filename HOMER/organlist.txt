@@ -1,0 +1,53 @@
+ID	Organ	# of Organ-specific Genes
+1	adipose	27
+2	adrenal gland	45
+3	amnion	71
+4	bladder	71
+5	blood	110
+6	blood vessel	549
+7	bone	53
+8	bone marrow	122
+9	brain	369
+10	breast	96
+11	cervix	45
+12	colon	107
+13	ear	78
+14	embryo	70
+15	esophagus	68
+16	eye	199
+17	gallbladder	11
+18	ganglia	17
+19	heart	85
+20	kidney	191
+21	larynx	108
+22	leiomios	61
+23	liver	195
+24	lung	115
+25	lymph	189
+26	lymph node	228
+27	mouth	178
+28	muscle	112
+29	nerve	181
+30	ovary	96
+31	pancreas	161
+32	parathyroid gland	114
+33	peritoneum	2
+34	pharynx	137
+35	pituitary	27
+36	placenta	232
+37	prostate	144
+38	rectum	27
+39	salivary gland	115
+40	skin	108
+41	small intestine	41
+42	spinal cord	6
+43	spleen	156
+44	stomach	123
+45	testis	773
+46	thymus	206
+47	thyroid	78
+48	tonsil	109
+49	trachea	214
+50	umbilical cord	85
+51	ureter	2
+52	uterus	30

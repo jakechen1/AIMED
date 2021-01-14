@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06160<br/>GeneSymbol:TBL1X<br/>P-value:8.48e-08<br/>Zscore:5.43<br/>#EST:12<br/>Adj. #EST:7.76

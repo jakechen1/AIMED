@@ -1,0 +1,1 @@
+larynx	HMID:HM06307<br/>GeneSymbol:KIAA0430<br/>P-value:3.47e-07<br/>Zscore:5.07<br/>#EST:11<br/>Adj. #EST:7.6

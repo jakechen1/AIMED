@@ -1,0 +1,1 @@
+lymph node	HMID:HM03445<br/>GeneSymbol:FGFBP1<br/>P-value:2.9e-16<br/>Zscore:4.91<br/>#EST:19<br/>Adj. #EST:13.58

@@ -1,0 +1,1 @@
+lymph	HMID:HM01489<br/>GeneSymbol:DOHH<br/>P-value:6.03e-11<br/>Zscore:5.7<br/>#EST:12<br/>Adj. #EST:14.45

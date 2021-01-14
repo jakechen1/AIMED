@@ -1,0 +1,1 @@
+pancreas	HMID:HM01012<br/>GeneSymbol:G6PC2<br/>P-value:8.55e-68<br/>Zscore:7.04<br/>#EST:52<br/>Adj. #EST:25.48

@@ -1,0 +1,1 @@
+bone	HMID:HM06274<br/>GeneSymbol:IGHV3-48<br/>P-value:6.5e-49<br/>Zscore:4.03<br/>#EST:64<br/>Adj. #EST:11.77

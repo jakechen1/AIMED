@@ -1,0 +1,1 @@
+placenta	HMID:HM07344<br/>GeneSymbol:PAPPA2<br/>P-value:1.89e-181<br/>Zscore:6.84<br/>#EST:201<br/>Adj. #EST:14.23

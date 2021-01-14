@@ -1,0 +1,1 @@
+leiomios	HMID:HM03315<br/>GeneSymbol:JAK1<br/>P-value:1.79e-19<br/>Zscore:6.58<br/>#EST:16<br/>Adj. #EST:33.45

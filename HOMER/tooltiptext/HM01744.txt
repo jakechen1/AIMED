@@ -1,0 +1,1 @@
+testis	HMID:HM01744<br/>GeneSymbol:TUBA3D<br/>P-value:2.97e-38<br/>Zscore:6.65<br/>#EST:41<br/>Adj. #EST:11.47

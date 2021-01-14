@@ -1,0 +1,1 @@
+trachea	HMID:HM01084<br/>GeneSymbol:IFT80<br/>P-value:8.34e-10<br/>Zscore:5.35<br/>#EST:16<br/>Adj. #EST:7.51

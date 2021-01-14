@@ -1,0 +1,1 @@
+thyroid	HMID:HM01015<br/>GeneSymbol:PITPNA<br/>P-value:1.37e-09<br/>Zscore:4.89<br/>#EST:22<br/>Adj. #EST:5.02

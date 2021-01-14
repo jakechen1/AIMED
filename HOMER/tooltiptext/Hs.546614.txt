@@ -1,0 +1,1 @@
+trachea	HMID:HM01073<br/>GeneSymbol:LOC727849<br/>P-value:8.84e-10<br/>Zscore:6.48<br/>#EST:11<br/>Adj. #EST:13.36

@@ -1,0 +1,1 @@
+mouth	HMID:HM05125<br/>GeneSymbol:MUDENG<br/>P-value:1.77e-11<br/>Zscore:4.29<br/>#EST:25<br/>Adj. #EST:5.45

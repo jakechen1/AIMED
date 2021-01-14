@@ -1,0 +1,1 @@
+placenta	HMID:HM05343<br/>GeneSymbol:IGSF5<br/>P-value:1.11e-10<br/>Zscore:6.32<br/>#EST:12<br/>Adj. #EST:11.26

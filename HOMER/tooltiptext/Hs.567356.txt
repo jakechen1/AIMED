@@ -1,0 +1,1 @@
+placenta	HMID:HM06427<br/>GeneSymbol:WNT2<br/>P-value:1.22e-55<br/>Zscore:6.08<br/>#EST:71<br/>Adj. #EST:11.24

@@ -1,0 +1,1 @@
+embryo	HMID:HM06122<br/>GeneSymbol:L1TD1<br/>P-value:3.83e-44<br/>Zscore:6.64<br/>#EST:49<br/>Adj. #EST:14

@@ -1,0 +1,1 @@
+mouth	HMID:HM01819<br/>GeneSymbol:IMMT<br/>P-value:5.29e-37<br/>Zscore:5.54<br/>#EST:81<br/>Adj. #EST:6.1

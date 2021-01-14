@@ -1,0 +1,1 @@
+muscle	HMID:HM04840<br/>GeneSymbol:FGFR4<br/>P-value:4.87e-24<br/>Zscore:5.71<br/>#EST:40<br/>Adj. #EST:8.16

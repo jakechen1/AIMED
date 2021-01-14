@@ -1,0 +1,1 @@
+lymph node	HMID:HM04181<br/>GeneSymbol:ZNF318<br/>P-value:6.3e-15<br/>Zscore:5.73<br/>#EST:22<br/>Adj. #EST:9.2

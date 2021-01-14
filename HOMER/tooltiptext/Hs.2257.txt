@@ -1,0 +1,1 @@
+liver	HMID:HM07422<br/>GeneSymbol:VTN<br/>P-value:2.76e-223<br/>Zscore:5.9<br/>#EST:309<br/>Adj. #EST:10.25

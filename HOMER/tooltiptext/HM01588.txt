@@ -1,0 +1,1 @@
+bladder	HMID:HM01588<br/>GeneSymbol:TXNDC9<br/>P-value:1.51e-42<br/>Zscore:6.76<br/>#EST:43<br/>Adj. #EST:21.83

@@ -1,0 +1,1 @@
+lymph	HMID:HM05163<br/>GeneSymbol:MAD2L2<br/>P-value:2.6e-11<br/>Zscore:4.72<br/>#EST:17<br/>Adj. #EST:8.68

@@ -1,0 +1,1 @@
+spleen	HMID:HM06982<br/>GeneSymbol:HABP2<br/>P-value:4.97e-96<br/>Zscore:5.57<br/>#EST:132<br/>Adj. #EST:9.76

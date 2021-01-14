@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00187<br/>GeneSymbol:EFTUD2<br/>P-value:8.02e-07<br/>Zscore:4.81<br/>#EST:14<br/>Adj. #EST:5.27

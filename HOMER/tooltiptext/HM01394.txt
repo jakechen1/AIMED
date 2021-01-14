@@ -1,0 +1,1 @@
+trachea	HMID:HM01394<br/>GeneSymbol:NET1<br/>P-value:1.46e-48<br/>Zscore:4.97<br/>#EST:74<br/>Adj. #EST:10.13

@@ -1,0 +1,1 @@
+lung	HMID:HM05104<br/>GeneSymbol:CSF2<br/>P-value:1.51e-11<br/>Zscore:5.84<br/>#EST:12<br/>Adj. #EST:11.74

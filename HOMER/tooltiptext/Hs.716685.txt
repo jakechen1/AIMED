@@ -1,0 +1,1 @@
+testis	HMID:HM06342<br/>GeneSymbol:SOX30<br/>P-value:1.11e-51<br/>Zscore:7.06<br/>#EST:53<br/>Adj. #EST:12.09

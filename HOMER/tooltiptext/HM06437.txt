@@ -1,0 +1,1 @@
+lymph node	HMID:HM06437<br/>GeneSymbol:PRKCE<br/>P-value:1.21e-06<br/>Zscore:4.14<br/>#EST:15<br/>Adj. #EST:4.65

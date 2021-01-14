@@ -1,0 +1,1 @@
+lymph node	HMID:HM06372<br/>GeneSymbol:KLK6<br/>P-value:4.23e-53<br/>Zscore:4.75<br/>#EST:57<br/>Adj. #EST:18.07

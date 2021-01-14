@@ -1,0 +1,1 @@
+brain	HMID:HM00234<br/>GeneSymbol:BCAS1<br/>P-value:0<br/>Zscore:4.13<br/>#EST:496<br/>Adj. #EST:4.5

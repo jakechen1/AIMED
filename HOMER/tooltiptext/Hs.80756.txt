@@ -1,0 +1,1 @@
+kidney	HMID:HM07173<br/>GeneSymbol:BHMT<br/>P-value:8.32e-124<br/>Zscore:5.07<br/>#EST:186<br/>Adj. #EST:9.52

@@ -1,0 +1,1 @@
+trachea	HMID:HM07161<br/>GeneSymbol:NCOA4<br/>P-value:1.94e-121<br/>Zscore:6.35<br/>#EST:180<br/>Adj. #EST:10.99

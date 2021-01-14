@@ -1,0 +1,1 @@
+muscle	HMID:HM02256<br/>GeneSymbol:ART3<br/>P-value:3.12e-29<br/>Zscore:5.85<br/>#EST:31<br/>Adj. #EST:16.99

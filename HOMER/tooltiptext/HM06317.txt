@@ -1,0 +1,1 @@
+pharynx	HMID:HM06317<br/>GeneSymbol:PTAFR<br/>P-value:3.74e-07<br/>Zscore:4.43<br/>#EST:10<br/>Adj. #EST:8.56

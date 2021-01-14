@@ -1,0 +1,1 @@
+embryo	HMID:HM02708<br/>GeneSymbol:IGDCC3<br/>P-value:5.09e-14<br/>Zscore:4.45<br/>#EST:20<br/>Adj. #EST:8.7

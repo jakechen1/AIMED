@@ -1,0 +1,1 @@
+cervix	HMID:HM05308<br/>GeneSymbol:ABCD1<br/>P-value:8.19e-11<br/>Zscore:5.23<br/>#EST:14<br/>Adj. #EST:10.82

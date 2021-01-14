@@ -1,0 +1,1 @@
+trachea	HMID:HM00069<br/>GeneSymbol:RANBP6<br/>P-value:3.18e-06<br/>Zscore:4.21<br/>#EST:11<br/>Adj. #EST:5.99

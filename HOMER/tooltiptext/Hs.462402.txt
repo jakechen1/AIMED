@@ -1,0 +1,1 @@
+colon	HMID:HM02589<br/>GeneSymbol:LGALS9C<br/>P-value:1.55e-13<br/>Zscore:5.51<br/>#EST:14<br/>Adj. #EST:14.55

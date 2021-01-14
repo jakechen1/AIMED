@@ -1,0 +1,1 @@
+lymph node	HMID:HM00387<br/>GeneSymbol:ERI1<br/>P-value:1.55e-07<br/>Zscore:4.5<br/>#EST:17<br/>Adj. #EST:4.8

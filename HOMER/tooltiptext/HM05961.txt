@@ -1,0 +1,1 @@
+lymph node	HMID:HM05961<br/>GeneSymbol:TMEM62<br/>P-value:1.67e-08<br/>Zscore:4.43<br/>#EST:14<br/>Adj. #EST:7.04

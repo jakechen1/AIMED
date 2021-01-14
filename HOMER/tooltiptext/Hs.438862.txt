@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02268<br/>GeneSymbol:EPS8L1<br/>P-value:8.58e-13<br/>Zscore:6.18<br/>#EST:14<br/>Adj. #EST:15.56

@@ -1,0 +1,1 @@
+mouth	HMID:HM01262<br/>GeneSymbol:KIAA1919<br/>P-value:2.54e-10<br/>Zscore:6.37<br/>#EST:11<br/>Adj. #EST:14.78

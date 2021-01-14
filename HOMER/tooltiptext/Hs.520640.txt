@@ -1,0 +1,1 @@
+rectum	HMID:HM06838<br/>GeneSymbol:ACTB<br/>P-value:5.27e-81<br/>Zscore:4.8<br/>#EST:159<br/>Adj. #EST:7.34

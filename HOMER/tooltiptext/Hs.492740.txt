@@ -1,0 +1,1 @@
+esophagus	HMID:HM00831<br/>GeneSymbol:ATF6<br/>P-value:4.45e-09<br/>Zscore:5.53<br/>#EST:13<br/>Adj. #EST:8.99

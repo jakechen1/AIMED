@@ -1,0 +1,1 @@
+lymph	HMID:HM06563<br/>GeneSymbol:ELK1<br/>P-value:9.18e-06<br/>Zscore:4.54<br/>#EST:10<br/>Adj. #EST:5.96

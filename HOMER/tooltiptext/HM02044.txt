@@ -1,0 +1,1 @@
+nerve	HMID:HM02044<br/>GeneSymbol:PHOX2A<br/>P-value:1.04e-32<br/>Zscore:7.02<br/>#EST:23<br/>Adj. #EST:44.63

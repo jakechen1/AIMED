@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00273<br/>GeneSymbol:EEF1A1<br/>P-value:0<br/>Zscore:6.3<br/>#EST:265<br/>Adj. #EST:16.07

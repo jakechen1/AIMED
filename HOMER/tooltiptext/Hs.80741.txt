@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06986<br/>GeneSymbol:PCCA<br/>P-value:2.35e-96<br/>Zscore:6.44<br/>#EST:110<br/>Adj. #EST:16.58

@@ -1,0 +1,1 @@
+trachea	HMID:HM05719<br/>GeneSymbol:RGS1<br/>P-value:4.51e-35<br/>Zscore:4.28<br/>#EST:45<br/>Adj. #EST:13.15

@@ -1,0 +1,1 @@
+eye	HMID:HM01880<br/>GeneSymbol:SNCB<br/>P-value:5.64e-12<br/>Zscore:5.58<br/>#EST:25<br/>Adj. #EST:5.45

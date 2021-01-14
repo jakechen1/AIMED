@@ -1,0 +1,1 @@
+pancreas	HMID:HM05199<br/>GeneSymbol:ADCYAP1<br/>P-value:1.54e-27<br/>Zscore:6.23<br/>#EST:32<br/>Adj. #EST:12.87

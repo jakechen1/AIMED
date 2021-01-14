@@ -1,0 +1,1 @@
+placenta	HMID:HM00705<br/>GeneSymbol:TFPI<br/>P-value:3.95e-96<br/>Zscore:5.56<br/>#EST:149<br/>Adj. #EST:8.72

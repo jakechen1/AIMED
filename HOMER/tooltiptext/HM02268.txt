@@ -1,0 +1,1 @@
+tonsil	HMID:HM02268<br/>GeneSymbol:HLA-DRB1<br/>P-value:4.72e-29<br/>Zscore:5.81<br/>#EST:41<br/>Adj. #EST:11.28

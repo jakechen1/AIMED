@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02933<br/>GeneSymbol:CLIC4<br/>P-value:9.96e-15<br/>Zscore:5.29<br/>#EST:15<br/>Adj. #EST:17.14

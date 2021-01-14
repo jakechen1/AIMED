@@ -1,0 +1,1 @@
+lymph node	HMID:HM03274<br/>GeneSymbol:CARD8<br/>P-value:6.78e-16<br/>Zscore:4.32<br/>#EST:28<br/>Adj. #EST:7.29

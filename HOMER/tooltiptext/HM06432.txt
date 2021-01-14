@@ -1,0 +1,1 @@
+blood	HMID:HM06432<br/>GeneSymbol:KIAA0748<br/>P-value:1.19e-06<br/>Zscore:4.37<br/>#EST:15<br/>Adj. #EST:4.59

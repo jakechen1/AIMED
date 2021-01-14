@@ -1,0 +1,1 @@
+tonsil	HMID:HM04556<br/>GeneSymbol:IFI30<br/>P-value:2e-13<br/>Zscore:5.19<br/>#EST:19<br/>Adj. #EST:10.05

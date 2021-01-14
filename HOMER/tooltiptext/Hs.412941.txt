@@ -1,0 +1,1 @@
+mouth	HMID:HM05333<br/>GeneSymbol:PADI1<br/>P-value:2.97e-29<br/>Zscore:6.1<br/>#EST:22<br/>Adj. #EST:38.59

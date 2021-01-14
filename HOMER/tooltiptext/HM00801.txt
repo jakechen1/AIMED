@@ -1,0 +1,1 @@
+placenta	HMID:HM00801<br/>GeneSymbol:CTSL1<br/>P-value:2.43e-85<br/>Zscore:4.42<br/>#EST:180<br/>Adj. #EST:6.03

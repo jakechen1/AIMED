@@ -1,0 +1,1 @@
+salivary gland	HMID:HM07462<br/>GeneSymbol:SMR3B<br/>P-value:2.48e-257<br/>Zscore:7.04<br/>#EST:142<br/>Adj. #EST:134.71

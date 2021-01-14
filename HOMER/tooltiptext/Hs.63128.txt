@@ -1,0 +1,1 @@
+ovary	HMID:HM01321<br/>GeneSymbol:ZDHHC8<br/>P-value:1.75e-10<br/>Zscore:4.78<br/>#EST:18<br/>Adj. #EST:6.98

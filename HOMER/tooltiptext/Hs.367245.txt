@@ -1,0 +1,1 @@
+testis	HMID:HM05624<br/>GeneSymbol:ZPBP2<br/>P-value:1.9e-33<br/>Zscore:7.05<br/>#EST:34<br/>Adj. #EST:12.02

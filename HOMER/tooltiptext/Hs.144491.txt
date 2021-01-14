@@ -1,0 +1,1 @@
+testis	HMID:HM04199<br/>GeneSymbol:IMP5<br/>P-value:5.14e-20<br/>Zscore:6.99<br/>#EST:23<br/>Adj. #EST:10.16

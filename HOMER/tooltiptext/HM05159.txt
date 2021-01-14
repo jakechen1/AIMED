@@ -1,0 +1,1 @@
+lymph node	HMID:HM05159<br/>GeneSymbol:DLG1<br/>P-value:2.44e-11<br/>Zscore:5<br/>#EST:26<br/>Adj. #EST:5.11

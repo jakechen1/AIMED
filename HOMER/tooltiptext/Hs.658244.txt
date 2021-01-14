@@ -1,0 +1,1 @@
+stomach	HMID:HM01296<br/>GeneSymbol:SLC26A1<br/>P-value:1.97e-10<br/>Zscore:6.22<br/>#EST:12<br/>Adj. #EST:11.71

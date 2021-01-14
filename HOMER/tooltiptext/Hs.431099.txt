@@ -1,0 +1,1 @@
+stomach	HMID:HM06912<br/>GeneSymbol:PDZK1IP1<br/>P-value:6.46e-89<br/>Zscore:5.88<br/>#EST:100<br/>Adj. #EST:15.11

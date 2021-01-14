@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04205<br/>GeneSymbol:CDKN2D<br/>P-value:4.66e-20<br/>Zscore:6.56<br/>#EST:23<br/>Adj. #EST:14.79

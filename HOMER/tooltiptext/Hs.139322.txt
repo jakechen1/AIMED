@@ -1,0 +1,2 @@
+tonsil	HMID:HM04907<br/>GeneSymbol:SPRR3<br/>P-value:1.37e-24<br/>Zscore:4.03<br/>#EST:17<br/>Adj. #EST:55.11
+pharynx	HMID:HM06780<br/>GeneSymbol:SPRR3<br/>P-value:8.13e-76<br/>Zscore:5.08<br/>#EST:49<br/>Adj. #EST:68.49

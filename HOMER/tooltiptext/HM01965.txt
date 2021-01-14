@@ -1,0 +1,1 @@
+stomach	HMID:HM01965<br/>GeneSymbol:STIP1<br/>P-value:5.57e-34<br/>Zscore:4.29<br/>#EST:103<br/>Adj. #EST:4.26

@@ -1,0 +1,1 @@
+small intestine	HMID:HM04700<br/>GeneSymbol:S100A14<br/>P-value:7.09e-13<br/>Zscore:4.16<br/>#EST:16<br/>Adj. #EST:12.09

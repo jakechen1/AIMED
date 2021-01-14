@@ -1,0 +1,1 @@
+blood	HMID:HM00961<br/>GeneSymbol:ZFP36L2<br/>P-value:9.88e-71<br/>Zscore:5.02<br/>#EST:121<br/>Adj. #EST:8.21

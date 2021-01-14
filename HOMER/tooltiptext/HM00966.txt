@@ -1,0 +1,1 @@
+thymus	HMID:HM00966<br/>GeneSymbol:PRSS16<br/>P-value:2.74e-70<br/>Zscore:6.87<br/>#EST:54<br/>Adj. #EST:37.34

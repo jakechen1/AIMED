@@ -1,0 +1,1 @@
+spleen	HMID:HM03296<br/>GeneSymbol:EPB42<br/>P-value:1.43e-19<br/>Zscore:4.5<br/>#EST:28<br/>Adj. #EST:9.57

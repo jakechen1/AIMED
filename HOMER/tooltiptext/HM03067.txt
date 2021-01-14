@@ -1,0 +1,1 @@
+brain	HMID:HM03067<br/>GeneSymbol:GRIK1<br/>P-value:2.81e-21<br/>Zscore:5.83<br/>#EST:43<br/>Adj. #EST:4.25

@@ -1,0 +1,1 @@
+bladder	HMID:HM03236<br/>GeneSymbol:DHRS2<br/>P-value:4.65e-20<br/>Zscore:5.54<br/>#EST:22<br/>Adj. #EST:16.8

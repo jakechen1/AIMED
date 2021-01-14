@@ -1,0 +1,1 @@
+breast	HMID:HM05319<br/>GeneSymbol:FSIP1<br/>P-value:8.96e-11<br/>Zscore:6.26<br/>#EST:11<br/>Adj. #EST:14.36

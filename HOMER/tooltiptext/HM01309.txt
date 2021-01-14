@@ -1,0 +1,1 @@
+skin	HMID:HM01309<br/>GeneSymbol:TMEM64<br/>P-value:3.75e-52<br/>Zscore:4.66<br/>#EST:80<br/>Adj. #EST:8.78

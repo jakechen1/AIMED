@@ -1,0 +1,1 @@
+lymph	HMID:HM01374<br/>GeneSymbol:FAM83D<br/>P-value:1.32e-10<br/>Zscore:5.96<br/>#EST:13<br/>Adj. #EST:11.77

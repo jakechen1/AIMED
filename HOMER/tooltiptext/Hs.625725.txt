@@ -1,0 +1,1 @@
+pharynx	HMID:HM06119<br/>GeneSymbol:BCAM<br/>P-value:4.17e-44<br/>Zscore:5.54<br/>#EST:53<br/>Adj. #EST:15.25

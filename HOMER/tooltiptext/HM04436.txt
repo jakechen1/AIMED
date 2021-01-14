@@ -1,0 +1,1 @@
+tonsil	HMID:HM04436<br/>GeneSymbol:SFT2D1<br/>P-value:6.81e-14<br/>Zscore:6.26<br/>#EST:14<br/>Adj. #EST:18.8

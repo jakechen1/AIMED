@@ -1,0 +1,1 @@
+thymus	HMID:HM02477<br/>GeneSymbol:LMBR1L<br/>P-value:2.25e-26<br/>Zscore:5.88<br/>#EST:50<br/>Adj. #EST:7.04

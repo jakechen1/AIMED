@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03638<br/>GeneSymbol:C3orf67<br/>P-value:1.41e-17<br/>Zscore:6.25<br/>#EST:18<br/>Adj. #EST:17.44

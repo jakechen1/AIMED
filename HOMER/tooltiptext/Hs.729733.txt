@@ -1,0 +1,1 @@
+esophagus	HMID:HM05391<br/>GeneSymbol:PRCD<br/>P-value:6.11e-30<br/>Zscore:6.96<br/>#EST:18<br/>Adj. #EST:87

@@ -1,0 +1,1 @@
+thyroid	HMID:HM06194<br/>GeneSymbol:EMILIN2<br/>P-value:1.2e-07<br/>Zscore:4.44<br/>#EST:10<br/>Adj. #EST:9.64

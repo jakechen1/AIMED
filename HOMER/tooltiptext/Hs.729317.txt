@@ -1,0 +1,1 @@
+mouth	HMID:HM02891<br/>GeneSymbol:ZNF480<br/>P-value:1.34e-14<br/>Zscore:6.79<br/>#EST:14<br/>Adj. #EST:19.84

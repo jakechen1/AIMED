@@ -1,0 +1,1 @@
+testis	HMID:HM01915<br/>GeneSymbol:CCDC155<br/>P-value:8.12e-35<br/>Zscore:6.7<br/>#EST:40<br/>Adj. #EST:10.57

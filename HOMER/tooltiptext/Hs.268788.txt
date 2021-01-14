@@ -1,0 +1,1 @@
+muscle	HMID:HM07221<br/>GeneSymbol:NRAP<br/>P-value:6.34e-137<br/>Zscore:4.53<br/>#EST:104<br/>Adj. #EST:36.23

@@ -1,0 +1,1 @@
+kidney	HMID:HM05351<br/>GeneSymbol:SLC28A1<br/>P-value:1.95e-29<br/>Zscore:4.73<br/>#EST:38<br/>Adj. #EST:11.07

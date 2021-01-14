@@ -1,0 +1,1 @@
+cervix	HMID:HM00123<br/>GeneSymbol:NAGPA<br/>P-value:1.49e-06<br/>Zscore:4.28<br/>#EST:11<br/>Adj. #EST:6.49

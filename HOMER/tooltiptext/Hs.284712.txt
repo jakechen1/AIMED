@@ -1,0 +1,1 @@
+liver	HMID:HM06254<br/>GeneSymbol:BAAT<br/>P-value:3.27e-48<br/>Zscore:6.1<br/>#EST:55<br/>Adj. #EST:12.88

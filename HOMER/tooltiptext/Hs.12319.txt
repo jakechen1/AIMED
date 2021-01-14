@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01677<br/>GeneSymbol:ALS2CR4<br/>P-value:1.72e-11<br/>Zscore:4.19<br/>#EST:20<br/>Adj. #EST:7.02

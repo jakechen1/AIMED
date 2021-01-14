@@ -1,0 +1,1 @@
+spleen	HMID:HM00009<br/>GeneSymbol:TTLL11<br/>P-value:9.16e-06<br/>Zscore:4.54<br/>#EST:13<br/>Adj. #EST:4.21

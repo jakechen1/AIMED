@@ -1,0 +1,1 @@
+colon	HMID:HM05288<br/>GeneSymbol:EPHB3<br/>P-value:1.17e-28<br/>Zscore:4.33<br/>#EST:39<br/>Adj. #EST:10.45

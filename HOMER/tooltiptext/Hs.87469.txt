@@ -1,0 +1,1 @@
+brain	HMID:HM03208<br/>GeneSymbol:ACCN4<br/>P-value:1.3e-15<br/>Zscore:4.23<br/>#EST:31<br/>Adj. #EST:4.27

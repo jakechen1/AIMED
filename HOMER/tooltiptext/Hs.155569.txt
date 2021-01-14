@@ -1,0 +1,1 @@
+nerve	HMID:HM02058<br/>GeneSymbol:CHAC1<br/>P-value:2.14e-12<br/>Zscore:4.57<br/>#EST:16<br/>Adj. #EST:11.06

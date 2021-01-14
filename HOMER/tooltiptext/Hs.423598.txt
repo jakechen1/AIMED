@@ -1,0 +1,1 @@
+pancreas	HMID:HM07439<br/>GeneSymbol:PNLIPRP2<br/>P-value:7.1e-236<br/>Zscore:5.91<br/>#EST:181<br/>Adj. #EST:26.15

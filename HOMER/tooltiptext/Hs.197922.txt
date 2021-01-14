@@ -1,0 +1,1 @@
+bladder	HMID:HM02306<br/>GeneSymbol:CAMK2N1<br/>P-value:5.64e-13<br/>Zscore:5.86<br/>#EST:16<br/>Adj. #EST:12.44

@@ -1,0 +1,1 @@
+kidney	HMID:HM01114<br/>GeneSymbol:SLC6A13<br/>P-value:2.63e-61<br/>Zscore:6.73<br/>#EST:71<br/>Adj. #EST:13.61

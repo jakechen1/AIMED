@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01164<br/>GeneSymbol:TTC29<br/>P-value:4.3e-59<br/>Zscore:6.87<br/>#EST:52<br/>Adj. #EST:27

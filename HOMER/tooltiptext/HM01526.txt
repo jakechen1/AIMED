@@ -1,0 +1,1 @@
+tonsil	HMID:HM01526<br/>GeneSymbol:RPS6<br/>P-value:2.05e-44<br/>Zscore:4.29<br/>#EST:101<br/>Adj. #EST:6

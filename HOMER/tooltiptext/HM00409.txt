@@ -1,0 +1,1 @@
+ear	HMID:HM00409<br/>GeneSymbol:IBSP<br/>P-value:0<br/>Zscore:7.07<br/>#EST:67<br/>Adj. #EST:283

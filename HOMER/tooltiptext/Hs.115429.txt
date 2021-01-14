@@ -1,0 +1,1 @@
+testis	HMID:HM03715<br/>GeneSymbol:RIMBP3<br/>P-value:1.61e-17<br/>Zscore:6.77<br/>#EST:19<br/>Adj. #EST:10.74

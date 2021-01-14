@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03099<br/>GeneSymbol:ACSM3<br/>P-value:2.97e-15<br/>Zscore:4.92<br/>#EST:22<br/>Adj. #EST:9.67

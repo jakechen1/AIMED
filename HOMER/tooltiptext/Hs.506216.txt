@@ -1,0 +1,1 @@
+brain	HMID:HM06251<br/>GeneSymbol:PPFIA2<br/>P-value:4.05e-48<br/>Zscore:4.37<br/>#EST:108<br/>Adj. #EST:4.11

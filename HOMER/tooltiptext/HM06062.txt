@@ -1,0 +1,1 @@
+pharynx	HMID:HM06062<br/>GeneSymbol:WDR54<br/>P-value:3.82e-08<br/>Zscore:4.46<br/>#EST:12<br/>Adj. #EST:8.27

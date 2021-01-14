@@ -1,0 +1,2 @@
+lymph	HMID:HM04179<br/>GeneSymbol:XRCC3<br/>P-value:1.89e-10<br/>Zscore:4.19<br/>#EST:16<br/>Adj. #EST:8.31
+nerve	HMID:HM04179<br/>GeneSymbol:XRCC3<br/>P-value:6.11e-15<br/>Zscore:4.44<br/>#EST:23<br/>Adj. #EST:8.74

@@ -1,0 +1,1 @@
+trachea	HMID:HM02283<br/>GeneSymbol:PELI1<br/>P-value:6.81e-13<br/>Zscore:5.18<br/>#EST:21<br/>Adj. #EST:7.96

@@ -1,0 +1,1 @@
+prostate	HMID:HM04340<br/>GeneSymbol:ATP9B<br/>P-value:2.33e-14<br/>Zscore:5.02<br/>#EST:30<br/>Adj. #EST:5.64

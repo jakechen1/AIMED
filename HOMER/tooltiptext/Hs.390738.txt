@@ -1,0 +1,1 @@
+brain	HMID:HM07193<br/>GeneSymbol:SYBU<br/>P-value:1.67e-127<br/>Zscore:5.85<br/>#EST:302<br/>Adj. #EST:4.02

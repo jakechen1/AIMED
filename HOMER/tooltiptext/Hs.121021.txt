@@ -1,0 +1,1 @@
+testis	HMID:HM04662<br/>GeneSymbol:SPATA3<br/>P-value:9.48e-23<br/>Zscore:6.9<br/>#EST:24<br/>Adj. #EST:11.31

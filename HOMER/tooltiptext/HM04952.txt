@@ -1,0 +1,1 @@
+kidney	HMID:HM04952<br/>GeneSymbol:CLDN16<br/>P-value:4.51e-12<br/>Zscore:5.75<br/>#EST:14<br/>Adj. #EST:11.55

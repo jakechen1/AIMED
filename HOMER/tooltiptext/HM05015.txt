@@ -1,0 +1,1 @@
+larynx	HMID:HM05015<br/>GeneSymbol:BMP2<br/>P-value:6.58e-12<br/>Zscore:5.52<br/>#EST:10<br/>Adj. #EST:26.8

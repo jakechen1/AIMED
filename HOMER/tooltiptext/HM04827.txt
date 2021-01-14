@@ -1,0 +1,1 @@
+kidney	HMID:HM04827<br/>GeneSymbol:CLEC18A<br/>P-value:1.83e-12<br/>Zscore:5.46<br/>#EST:17<br/>Adj. #EST:9.18

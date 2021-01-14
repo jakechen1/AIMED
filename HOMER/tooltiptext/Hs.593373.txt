@@ -1,0 +1,1 @@
+lymph node	HMID:HM02626<br/>GeneSymbol:ACAP2<br/>P-value:1.06e-13<br/>Zscore:4.68<br/>#EST:27<br/>Adj. #EST:6.21

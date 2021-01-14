@@ -1,0 +1,1 @@
+lymph	HMID:HM00223<br/>GeneSymbol:BOP1<br/>P-value:5.46e-07<br/>Zscore:4.84<br/>#EST:11<br/>Adj. #EST:7.18

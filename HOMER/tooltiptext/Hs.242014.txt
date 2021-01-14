@@ -1,0 +1,1 @@
+colon	HMID:HM01703<br/>GeneSymbol:CLRN3<br/>P-value:1.51e-11<br/>Zscore:4.39<br/>#EST:15<br/>Adj. #EST:9.89

@@ -1,0 +1,1 @@
+blood	HMID:HM00850<br/>GeneSymbol:LIPA<br/>P-value:5.84e-80<br/>Zscore:4.95<br/>#EST:165<br/>Adj. #EST:6.52

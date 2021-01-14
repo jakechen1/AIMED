@@ -1,0 +1,1 @@
+skin	HMID:HM05557<br/>GeneSymbol:CNIH3<br/>P-value:6.42e-10<br/>Zscore:4.97<br/>#EST:24<br/>Adj. #EST:4.52

@@ -1,0 +1,2 @@
+salivary gland	HMID:HM00397<br/>GeneSymbol:PRPF31<br/>P-value:1.33e-07<br/>Zscore:4.41<br/>#EST:12<br/>Adj. #EST:7.44
+ovary	HMID:HM05775<br/>GeneSymbol:PRPF31<br/>P-value:3.34e-36<br/>Zscore:4.66<br/>#EST:64<br/>Adj. #EST:7.83

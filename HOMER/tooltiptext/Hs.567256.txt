@@ -1,0 +1,2 @@
+esophagus	HMID:HM03589<br/>GeneSymbol:AKR1C2<br/>P-value:6.07e-17<br/>Zscore:4.24<br/>#EST:19<br/>Adj. #EST:15.78
+mouth	HMID:HM06639<br/>GeneSymbol:AKR1C2<br/>P-value:7.12e-67<br/>Zscore:4.98<br/>#EST:73<br/>Adj. #EST:18.29

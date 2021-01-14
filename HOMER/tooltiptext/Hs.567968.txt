@@ -1,0 +1,1 @@
+trachea	HMID:HM06424<br/>GeneSymbol:CANX<br/>P-value:1.93e-55<br/>Zscore:6.02<br/>#EST:113<br/>Adj. #EST:6.82

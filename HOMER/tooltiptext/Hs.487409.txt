@@ -1,0 +1,1 @@
+testis	HMID:HM06205<br/>GeneSymbol:PAPOLB<br/>P-value:2.7e-46<br/>Zscore:6.98<br/>#EST:50<br/>Adj. #EST:11.4

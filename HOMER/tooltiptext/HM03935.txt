@@ -1,0 +1,1 @@
+trachea	HMID:HM03935<br/>GeneSymbol:POLR2B<br/>P-value:5.7e-16<br/>Zscore:4.8<br/>#EST:37<br/>Adj. #EST:5.36

@@ -1,0 +1,1 @@
+breast	HMID:HM01223<br/>GeneSymbol:SCGB2A2<br/>P-value:2.41e-56<br/>Zscore:6.99<br/>#EST:40<br/>Adj. #EST:31.79

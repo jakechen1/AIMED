@@ -1,0 +1,1 @@
+brain	HMID:HM01911<br/>GeneSymbol:SNX32<br/>P-value:6.4e-35<br/>Zscore:4.81<br/>#EST:63<br/>Adj. #EST:4.67

@@ -1,0 +1,1 @@
+kidney	HMID:HM02602<br/>GeneSymbol:NPHS2<br/>P-value:6.6e-25<br/>Zscore:6.82<br/>#EST:20<br/>Adj. #EST:22.85

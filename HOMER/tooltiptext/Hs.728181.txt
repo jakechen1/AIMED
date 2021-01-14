@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00291<br/>GeneSymbol:METTL7A<br/>P-value:3.14e-07<br/>Zscore:5.19<br/>#EST:10<br/>Adj. #EST:8.82

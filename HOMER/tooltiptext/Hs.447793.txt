@@ -1,0 +1,1 @@
+spleen	HMID:HM04103<br/>GeneSymbol:CYP8B1<br/>P-value:1.64e-19<br/>Zscore:6.37<br/>#EST:21<br/>Adj. #EST:12.38

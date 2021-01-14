@@ -1,0 +1,1 @@
+amnion	HMID:HM04315<br/>GeneSymbol:SMYD5<br/>P-value:1.81e-14<br/>Zscore:6.97<br/>#EST:12<br/>Adj. #EST:30.27

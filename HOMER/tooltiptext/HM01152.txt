@@ -1,0 +1,1 @@
+esophagus	HMID:HM01152<br/>GeneSymbol:NOP56<br/>P-value:1.88e-59<br/>Zscore:6.6<br/>#EST:79<br/>Adj. #EST:13.18

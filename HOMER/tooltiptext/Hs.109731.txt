@@ -1,0 +1,1 @@
+nerve	HMID:HM05315<br/>GeneSymbol:GLG1<br/>P-value:5.15e-29<br/>Zscore:5.09<br/>#EST:63<br/>Adj. #EST:6.05

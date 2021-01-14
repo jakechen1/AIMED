@@ -1,0 +1,1 @@
+leiomios	HMID:HM01722<br/>GeneSymbol:MLLT6<br/>P-value:1.35e-11<br/>Zscore:6.6<br/>#EST:11<br/>Adj. #EST:20.68

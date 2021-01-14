@@ -1,0 +1,1 @@
+brain	HMID:HM04702<br/>GeneSymbol:EPHA5<br/>P-value:4.18e-23<br/>Zscore:4.72<br/>#EST:49<br/>Adj. #EST:4.17

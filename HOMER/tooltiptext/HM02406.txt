@@ -1,0 +1,1 @@
+trachea	HMID:HM02406<br/>GeneSymbol:ADIPOQ<br/>P-value:3.11e-27<br/>Zscore:4.79<br/>#EST:19<br/>Adj. #EST:47.76

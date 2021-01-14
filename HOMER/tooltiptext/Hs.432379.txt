@@ -1,0 +1,1 @@
+uterus	HMID:HM00862<br/>GeneSymbol:CHRDL2<br/>P-value:3.66e-09<br/>Zscore:5.25<br/>#EST:10<br/>Adj. #EST:11.56

@@ -1,0 +1,1 @@
+colon	HMID:HM06207<br/>GeneSymbol:C2CD3<br/>P-value:1.34e-07<br/>Zscore:4.58<br/>#EST:14<br/>Adj. #EST:5.76

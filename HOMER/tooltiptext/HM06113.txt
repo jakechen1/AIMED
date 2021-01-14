@@ -1,0 +1,1 @@
+spleen	HMID:HM06113<br/>GeneSymbol:CSMD1<br/>P-value:5.97e-08<br/>Zscore:5.23<br/>#EST:14<br/>Adj. #EST:6.21

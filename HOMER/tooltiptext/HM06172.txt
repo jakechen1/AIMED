@@ -1,0 +1,1 @@
+lymph node	HMID:HM06172<br/>GeneSymbol:STIM2<br/>P-value:9.77e-08<br/>Zscore:4.4<br/>#EST:16<br/>Adj. #EST:5.28

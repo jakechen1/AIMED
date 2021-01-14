@@ -1,0 +1,1 @@
+lymph	HMID:HM02950<br/>GeneSymbol:USP5<br/>P-value:3.68e-22<br/>Zscore:5.52<br/>#EST:35<br/>Adj. #EST:8.99

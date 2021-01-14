@@ -1,0 +1,1 @@
+bone	HMID:HM07557<br/>GeneSymbol:MMP3<br/>P-value:0<br/>Zscore:7.07<br/>#EST:1483<br/>Adj. #EST:38.27

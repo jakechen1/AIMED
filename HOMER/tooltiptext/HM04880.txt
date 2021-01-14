@@ -1,0 +1,1 @@
+small intestine	HMID:HM04880<br/>GeneSymbol:RPL22<br/>P-value:2.67e-12<br/>Zscore:4<br/>#EST:37<br/>Adj. #EST:4.05

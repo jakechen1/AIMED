@@ -1,0 +1,1 @@
+lymph	HMID:HM00242<br/>GeneSymbol:FAM189B<br/>P-value:4.84e-07<br/>Zscore:4.19<br/>#EST:12<br/>Adj. #EST:6.51

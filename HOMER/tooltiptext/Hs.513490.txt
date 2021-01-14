@@ -1,0 +1,1 @@
+pharynx	HMID:HM07588<br/>GeneSymbol:ALDOA<br/>P-value:0<br/>Zscore:4.34<br/>#EST:768<br/>Adj. #EST:20.47

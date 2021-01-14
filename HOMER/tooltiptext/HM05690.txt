@@ -1,0 +1,1 @@
+pharynx	HMID:HM05690<br/>GeneSymbol:F10<br/>P-value:1.93e-09<br/>Zscore:4.13<br/>#EST:10<br/>Adj. #EST:14.88

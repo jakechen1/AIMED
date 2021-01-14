@@ -1,0 +1,1 @@
+lymph node	HMID:HM05781<br/>GeneSymbol:SPRED2<br/>P-value:2.81e-36<br/>Zscore:6<br/>#EST:55<br/>Adj. #EST:9.78

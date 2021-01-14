@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00078<br/>GeneSymbol:MPO<br/>P-value:0<br/>Zscore:7.06<br/>#EST:303<br/>Adj. #EST:63.06

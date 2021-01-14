@@ -1,0 +1,1 @@
+bone	HMID:HM01409<br/>GeneSymbol:CYTL1<br/>P-value:3.71e-48<br/>Zscore:6.81<br/>#EST:45<br/>Adj. #EST:21.47

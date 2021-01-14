@@ -1,0 +1,1 @@
+lymph node	HMID:HM05679<br/>GeneSymbol:GRLF1<br/>P-value:2.13e-34<br/>Zscore:5.94<br/>#EST:56<br/>Adj. #EST:8.78

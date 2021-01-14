@@ -1,0 +1,1 @@
+testis	HMID:HM06764<br/>GeneSymbol:LDHC<br/>P-value:2.54e-74<br/>Zscore:6.09<br/>#EST:84<br/>Adj. #EST:11

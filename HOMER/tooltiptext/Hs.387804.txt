@@ -1,0 +1,1 @@
+ureter	HMID:HM05334<br/>GeneSymbol:PABPC1<br/>P-value:2.88e-29<br/>Zscore:6.32<br/>#EST:39<br/>Adj. #EST:12.55

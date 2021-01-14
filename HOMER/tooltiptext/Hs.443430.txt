@@ -1,0 +1,2 @@
+cervix	HMID:HM01338<br/>GeneSymbol:TXNRD2<br/>P-value:1.53e-10<br/>Zscore:4.41<br/>#EST:18<br/>Adj. #EST:7.2
+nerve	HMID:HM02774<br/>GeneSymbol:TXNRD2<br/>P-value:2.81e-14<br/>Zscore:4.22<br/>#EST:26<br/>Adj. #EST:6.93

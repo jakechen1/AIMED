@@ -1,0 +1,1 @@
+leiomios	HMID:HM02276<br/>GeneSymbol:SYTL2<br/>P-value:7.53e-13<br/>Zscore:6.97<br/>#EST:10<br/>Adj. #EST:34.57

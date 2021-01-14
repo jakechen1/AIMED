@@ -1,0 +1,1 @@
+lymph node	HMID:HM05641<br/>GeneSymbol:ZNF800<br/>P-value:1.19e-09<br/>Zscore:5.35<br/>#EST:16<br/>Adj. #EST:7.19

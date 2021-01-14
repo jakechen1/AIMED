@@ -1,0 +1,1 @@
+trachea	HMID:HM02517<br/>GeneSymbol:LGALS8<br/>P-value:2.35e-13<br/>Zscore:4.04<br/>#EST:33<br/>Adj. #EST:4.91

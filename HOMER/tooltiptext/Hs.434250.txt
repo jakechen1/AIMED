@@ -1,0 +1,1 @@
+lymph node	HMID:HM00791<br/>GeneSymbol:CKAP2L<br/>P-value:5.7e-09<br/>Zscore:5.17<br/>#EST:13<br/>Adj. #EST:8.49

@@ -1,0 +1,2 @@
+stomach	HMID:HM01388<br/>GeneSymbol:C2CD4A<br/>P-value:1.17e-10<br/>Zscore:4.05<br/>#EST:15<br/>Adj. #EST:8.73
+pancreas	HMID:HM03905<br/>GeneSymbol:C2CD4A<br/>P-value:2.12e-18<br/>Zscore:5.18<br/>#EST:23<br/>Adj. #EST:11.04

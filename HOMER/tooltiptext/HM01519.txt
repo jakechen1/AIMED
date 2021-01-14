@@ -1,0 +1,1 @@
+testis	HMID:HM01519<br/>GeneSymbol:C17orf104<br/>P-value:1.69e-44<br/>Zscore:7.01<br/>#EST:44<br/>Adj. #EST:12.55

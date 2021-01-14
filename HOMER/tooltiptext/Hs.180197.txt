@@ -1,0 +1,2 @@
+eye	HMID:HM00284<br/>GeneSymbol:TDRG1<br/>P-value:3.39e-07<br/>Zscore:4.45<br/>#EST:11<br/>Adj. #EST:7
+testis	HMID:HM03780<br/>GeneSymbol:TDRG1<br/>P-value:7.08e-18<br/>Zscore:4.9<br/>#EST:26<br/>Adj. #EST:7.66

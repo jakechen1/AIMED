@@ -1,0 +1,1 @@
+tonsil	HMID:HM02484<br/>GeneSymbol:LTB<br/>P-value:2.89e-26<br/>Zscore:6.69<br/>#EST:19<br/>Adj. #EST:48.72

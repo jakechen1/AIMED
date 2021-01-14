@@ -1,0 +1,1 @@
+lymph node	HMID:HM06621<br/>GeneSymbol:DENND3<br/>P-value:1.66e-65<br/>Zscore:6.63<br/>#EST:72<br/>Adj. #EST:17.48

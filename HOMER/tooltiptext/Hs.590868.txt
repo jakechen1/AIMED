@@ -1,0 +1,1 @@
+thymus	HMID:HM00747<br/>GeneSymbol:ZGPAT<br/>P-value:8.83e-09<br/>Zscore:4.15<br/>#EST:22<br/>Adj. #EST:4.49

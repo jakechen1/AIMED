@@ -1,0 +1,1 @@
+liver	HMID:HM02184<br/>GeneSymbol:PIPOX<br/>P-value:2.7e-30<br/>Zscore:4.63<br/>#EST:57<br/>Adj. #EST:6.5

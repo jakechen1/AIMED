@@ -1,0 +1,1 @@
+spleen	HMID:HM00498<br/>GeneSymbol:CCNT1<br/>P-value:5.61e-08<br/>Zscore:4.11<br/>#EST:13<br/>Adj. #EST:6.32

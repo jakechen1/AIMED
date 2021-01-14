@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02228<br/>GeneSymbol:PSMA6<br/>P-value:1.55e-29<br/>Zscore:6.16<br/>#EST:38<br/>Adj. #EST:13.22

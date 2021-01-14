@@ -1,0 +1,1 @@
+blood	HMID:HM03674<br/>GeneSymbol:TNFRSF4<br/>P-value:2.12e-17<br/>Zscore:5.87<br/>#EST:17<br/>Adj. #EST:17.57

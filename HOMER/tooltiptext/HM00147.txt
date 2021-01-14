@@ -1,0 +1,2 @@
+esophagus	HMID:HM00147<br/>GeneSymbol:KRT4<br/>P-value:0<br/>Zscore:4.87<br/>#EST:182<br/>Adj. #EST:57.93
+mouth	HMID:HM00147<br/>GeneSymbol:KRT4<br/>P-value:0<br/>Zscore:4.89<br/>#EST:607<br/>Adj. #EST:58.23

@@ -1,0 +1,1 @@
+embryo	HMID:HM00935<br/>GeneSymbol:RPS28<br/>P-value:1.63e-72<br/>Zscore:4.32<br/>#EST:156<br/>Adj. #EST:5.95

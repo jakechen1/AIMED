@@ -1,0 +1,1 @@
+skin	HMID:HM03005<br/>GeneSymbol:SNAR-C3<br/>P-value:5.92e-15<br/>Zscore:6.38<br/>#EST:13<br/>Adj. #EST:18.34

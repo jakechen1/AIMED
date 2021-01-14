@@ -1,0 +1,1 @@
+leiomios	HMID:HM02830<br/>GeneSymbol:STAB1<br/>P-value:1.78e-14<br/>Zscore:6.82<br/>#EST:10<br/>Adj. #EST:50.34

@@ -1,0 +1,1 @@
+lymph node	HMID:HM06592<br/>GeneSymbol:POU2F2<br/>P-value:1.14e-63<br/>Zscore:6.11<br/>#EST:58<br/>Adj. #EST:25.4

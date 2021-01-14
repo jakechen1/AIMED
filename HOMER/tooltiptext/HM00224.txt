@@ -1,0 +1,1 @@
+ovary	HMID:HM00224<br/>GeneSymbol:EIF3K<br/>P-value:0<br/>Zscore:6.03<br/>#EST:310<br/>Adj. #EST:15.76

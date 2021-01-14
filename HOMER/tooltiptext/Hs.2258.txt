@@ -1,0 +1,1 @@
+esophagus	HMID:HM06313<br/>GeneSymbol:MMP10<br/>P-value:2.5e-50<br/>Zscore:7.03<br/>#EST:28<br/>Adj. #EST:120.11

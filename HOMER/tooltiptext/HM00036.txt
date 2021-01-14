@@ -1,0 +1,1 @@
+pancreas	HMID:HM00036<br/>GeneSymbol:IGF2<br/>P-value:0<br/>Zscore:6.71<br/>#EST:3454<br/>Adj. #EST:17.07

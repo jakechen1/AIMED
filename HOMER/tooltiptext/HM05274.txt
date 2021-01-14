@@ -1,0 +1,1 @@
+testis	HMID:HM05274<br/>GeneSymbol:CCT8L2<br/>P-value:6.24e-11<br/>Zscore:6.91<br/>#EST:12<br/>Adj. #EST:10.07

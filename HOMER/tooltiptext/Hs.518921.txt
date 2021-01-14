@@ -1,0 +1,2 @@
+thyroid	HMID:HM04822<br/>GeneSymbol:NPNT<br/>P-value:7.57e-24<br/>Zscore:4.16<br/>#EST:26<br/>Adj. #EST:17.13
+ear	HMID:HM01819<br/>GeneSymbol:NPNT<br/>P-value:9.2e-12<br/>Zscore:5.24<br/>#EST:11<br/>Adj. #EST:21.17

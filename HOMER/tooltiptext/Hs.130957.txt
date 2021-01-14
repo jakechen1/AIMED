@@ -1,0 +1,1 @@
+embryo	HMID:HM06265<br/>GeneSymbol:PRTG<br/>P-value:1.3e-48<br/>Zscore:4.67<br/>#EST:58<br/>Adj. #EST:12.62

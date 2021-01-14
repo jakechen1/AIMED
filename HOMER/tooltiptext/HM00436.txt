@@ -1,0 +1,1 @@
+colon	HMID:HM00436<br/>GeneSymbol:CLDN3<br/>P-value:0<br/>Zscore:5.4<br/>#EST:174<br/>Adj. #EST:13.3

@@ -1,0 +1,1 @@
+mouth	HMID:HM04090<br/>GeneSymbol:NLRX1<br/>P-value:2.47e-15<br/>Zscore:6.25<br/>#EST:19<br/>Adj. #EST:12.36

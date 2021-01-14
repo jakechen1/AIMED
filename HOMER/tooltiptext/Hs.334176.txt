@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04477<br/>GeneSymbol:SMC1B<br/>P-value:1.26e-21<br/>Zscore:6.69<br/>#EST:16<br/>Adj. #EST:36.04

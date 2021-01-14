@@ -1,0 +1,1 @@
+larynx	HMID:HM00297<br/>GeneSymbol:RPL19<br/>P-value:0<br/>Zscore:6.22<br/>#EST:211<br/>Adj. #EST:21.9

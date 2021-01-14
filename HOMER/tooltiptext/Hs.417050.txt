@@ -1,0 +1,1 @@
+testis	HMID:HM05745<br/>GeneSymbol:CCNA1<br/>P-value:1.31e-35<br/>Zscore:4.15<br/>#EST:60<br/>Adj. #EST:6.84

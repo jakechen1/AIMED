@@ -1,0 +1,1 @@
+thymus	HMID:HM05534<br/>GeneSymbol:C21orf58<br/>P-value:5.32e-10<br/>Zscore:5.12<br/>#EST:14<br/>Adj. #EST:9.2

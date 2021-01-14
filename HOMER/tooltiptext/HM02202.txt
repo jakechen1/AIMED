@@ -1,0 +1,1 @@
+lymph node	HMID:HM02202<br/>GeneSymbol:RAPGEF1<br/>P-value:5.55e-30<br/>Zscore:5.7<br/>#EST:50<br/>Adj. #EST:8.38

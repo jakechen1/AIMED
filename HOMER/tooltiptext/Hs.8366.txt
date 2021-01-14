@@ -1,0 +1,1 @@
+spleen	HMID:HM06385<br/>GeneSymbol:OIT3<br/>P-value:1.14e-53<br/>Zscore:5.69<br/>#EST:67<br/>Adj. #EST:10.86

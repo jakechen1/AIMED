@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00523<br/>GeneSymbol:FAM177A1<br/>P-value:4.64e-08<br/>Zscore:4.03<br/>#EST:17<br/>Adj. #EST:5.22

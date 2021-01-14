@@ -1,0 +1,1 @@
+testis	HMID:HM00121<br/>GeneSymbol:SYN3<br/>P-value:1.51e-06<br/>Zscore:5.04<br/>#EST:15<br/>Adj. #EST:4.15

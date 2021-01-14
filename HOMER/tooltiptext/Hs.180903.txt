@@ -1,0 +1,1 @@
+nerve	HMID:HM05740<br/>GeneSymbol:NCAPH2<br/>P-value:1.53e-35<br/>Zscore:5.82<br/>#EST:58<br/>Adj. #EST:8.87

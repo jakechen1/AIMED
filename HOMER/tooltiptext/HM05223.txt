@@ -1,0 +1,1 @@
+trachea	HMID:HM05223<br/>GeneSymbol:FRMD4B<br/>P-value:4.25e-11<br/>Zscore:4.24<br/>#EST:18<br/>Adj. #EST:7.77

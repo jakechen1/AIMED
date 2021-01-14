@@ -1,0 +1,1 @@
+muscle	HMID:HM05905<br/>GeneSymbol:MYBPC2<br/>P-value:6.86e-39<br/>Zscore:6.14<br/>#EST:32<br/>Adj. #EST:28.95

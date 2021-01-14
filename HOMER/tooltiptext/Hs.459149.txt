@@ -1,0 +1,1 @@
+larynx	HMID:HM02232<br/>GeneSymbol:BTBD1<br/>P-value:1.05e-12<br/>Zscore:5.56<br/>#EST:17<br/>Adj. #EST:10.82

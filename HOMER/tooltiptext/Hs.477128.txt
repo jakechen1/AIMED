@@ -1,0 +1,1 @@
+adipose	HMID:HM00626<br/>GeneSymbol:CCDC80<br/>P-value:2.15e-08<br/>Zscore:4.62<br/>#EST:12<br/>Adj. #EST:8.84

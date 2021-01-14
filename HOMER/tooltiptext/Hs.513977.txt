@@ -1,0 +1,1 @@
+spleen	HMID:HM00888<br/>GeneSymbol:NT5M<br/>P-value:2.99e-09<br/>Zscore:4.25<br/>#EST:18<br/>Adj. #EST:5.39

@@ -1,0 +1,1 @@
+thyroid	HMID:HM04443<br/>GeneSymbol:EMB<br/>P-value:7.19e-14<br/>Zscore:4.67<br/>#EST:17<br/>Adj. #EST:12.55

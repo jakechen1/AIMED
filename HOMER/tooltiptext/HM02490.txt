@@ -1,0 +1,1 @@
+colon	HMID:HM02490<br/>GeneSymbol:MYH14<br/>P-value:3.65e-26<br/>Zscore:4.14<br/>#EST:45<br/>Adj. #EST:7.54

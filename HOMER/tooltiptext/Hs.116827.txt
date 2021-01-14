@@ -1,0 +1,1 @@
+brain	HMID:HM05895<br/>GeneSymbol:C1orf95<br/>P-value:9.64e-39<br/>Zscore:5.77<br/>#EST:80<br/>Adj. #EST:4.32

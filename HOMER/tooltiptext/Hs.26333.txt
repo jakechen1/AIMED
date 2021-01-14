@@ -1,0 +1,1 @@
+lymph	HMID:HM00222<br/>GeneSymbol:CCDC22<br/>P-value:5.46e-07<br/>Zscore:4.09<br/>#EST:11<br/>Adj. #EST:7.18

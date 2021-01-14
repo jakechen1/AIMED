@@ -1,0 +1,1 @@
+testis	HMID:HM04454<br/>GeneSymbol:ASXL3<br/>P-value:7.98e-14<br/>Zscore:5.18<br/>#EST:23<br/>Adj. #EST:6.43

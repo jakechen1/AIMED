@@ -1,0 +1,1 @@
+lymph	HMID:HM02685<br/>GeneSymbol:SNRNP40<br/>P-value:6.36e-14<br/>Zscore:5.65<br/>#EST:20<br/>Adj. #EST:9.68

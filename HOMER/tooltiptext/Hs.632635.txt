@@ -1,0 +1,1 @@
+testis	HMID:HM03869<br/>GeneSymbol:CLK2P<br/>P-value:3.2e-18<br/>Zscore:5.96<br/>#EST:23<br/>Adj. #EST:9.03

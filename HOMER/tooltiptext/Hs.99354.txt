@@ -1,0 +1,1 @@
+testis	HMID:HM02560<br/>GeneSymbol:RNF151<br/>P-value:1.9e-13<br/>Zscore:7.07<br/>#EST:12<br/>Adj. #EST:13.05

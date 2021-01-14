@@ -1,0 +1,1 @@
+testis	HMID:HM03293<br/>GeneSymbol:NXF2<br/>P-value:1.31e-19<br/>Zscore:5.23<br/>#EST:23<br/>Adj. #EST:9.94

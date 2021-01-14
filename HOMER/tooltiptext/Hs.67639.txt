@@ -1,0 +1,1 @@
+testis	HMID:HM05149<br/>GeneSymbol:NUP210L<br/>P-value:5.25e-27<br/>Zscore:6.9<br/>#EST:25<br/>Adj. #EST:13.09

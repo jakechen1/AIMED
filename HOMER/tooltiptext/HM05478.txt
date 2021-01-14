@@ -1,0 +1,1 @@
+trachea	HMID:HM05478<br/>GeneSymbol:BCKDHB<br/>P-value:3.41e-10<br/>Zscore:5.24<br/>#EST:16<br/>Adj. #EST:7.98

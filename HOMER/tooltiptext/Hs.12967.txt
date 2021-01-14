@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06105<br/>GeneSymbol:SYNE1<br/>P-value:1.12e-43<br/>Zscore:4.37<br/>#EST:64<br/>Adj. #EST:10.57

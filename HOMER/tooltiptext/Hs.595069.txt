@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04719<br/>GeneSymbol:SNTG2<br/>P-value:3.38e-23<br/>Zscore:6.99<br/>#EST:17<br/>Adj. #EST:37.2

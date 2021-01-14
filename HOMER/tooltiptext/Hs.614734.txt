@@ -1,0 +1,1 @@
+trachea	HMID:HM07164<br/>GeneSymbol:PROM1<br/>P-value:6.28e-122<br/>Zscore:7.02<br/>#EST:96<br/>Adj. #EST:39.98

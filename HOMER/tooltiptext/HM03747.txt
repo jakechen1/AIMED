@@ -1,0 +1,1 @@
+brain	HMID:HM03747<br/>GeneSymbol:NR2E1<br/>P-value:6.32e-17<br/>Zscore:6.5<br/>#EST:26<br/>Adj. #EST:5.05

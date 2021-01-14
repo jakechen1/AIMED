@@ -1,0 +1,1 @@
+stomach	HMID:HM04816<br/>GeneSymbol:MAFK<br/>P-value:9.27e-24<br/>Zscore:4.43<br/>#EST:41<br/>Adj. #EST:7.48

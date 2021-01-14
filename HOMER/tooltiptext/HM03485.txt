@@ -1,0 +1,1 @@
+testis	HMID:HM03485<br/>GeneSymbol:SPZ1<br/>P-value:1.81e-18<br/>Zscore:7.06<br/>#EST:18<br/>Adj. #EST:12.23

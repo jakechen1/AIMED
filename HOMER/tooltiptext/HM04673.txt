@@ -1,0 +1,1 @@
+testis	HMID:HM04673<br/>GeneSymbol:GLIPR1L1<br/>P-value:5.15e-13<br/>Zscore:4.07<br/>#EST:15<br/>Adj. #EST:9.73

@@ -1,0 +1,1 @@
+testis	HMID:HM03194<br/>GeneSymbol:TSPAN16<br/>P-value:1.43e-15<br/>Zscore:6.91<br/>#EST:16<br/>Adj. #EST:11.31

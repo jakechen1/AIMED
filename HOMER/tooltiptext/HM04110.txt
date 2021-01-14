@@ -1,0 +1,1 @@
+leiomios	HMID:HM04110<br/>GeneSymbol:PTPRM<br/>P-value:3.06e-15<br/>Zscore:6.5<br/>#EST:12<br/>Adj. #EST:35.25

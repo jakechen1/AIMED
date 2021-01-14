@@ -1,0 +1,1 @@
+lung	HMID:HM03420<br/>GeneSymbol:C19orf59<br/>P-value:7.29e-19<br/>Zscore:5.6<br/>#EST:24<br/>Adj. #EST:9.6

@@ -1,0 +1,1 @@
+stomach	HMID:HM00313<br/>GeneSymbol:GRIP2<br/>P-value:2.77e-07<br/>Zscore:5.71<br/>#EST:10<br/>Adj. #EST:8.2

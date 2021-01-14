@@ -1,0 +1,1 @@
+testis	HMID:HM01280<br/>GeneSymbol:GJA9<br/>P-value:2.3e-10<br/>Zscore:5.52<br/>#EST:11<br/>Adj. #EST:10.37

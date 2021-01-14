@@ -1,0 +1,1 @@
+kidney	HMID:HM06546<br/>GeneSymbol:AGXT2<br/>P-value:5.81e-61<br/>Zscore:5.91<br/>#EST:74<br/>Adj. #EST:12.69

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03343<br/>GeneSymbol:CAMLG<br/>P-value:2.47e-19<br/>Zscore:5.99<br/>#EST:31<br/>Adj. #EST:8.47

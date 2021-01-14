@@ -1,0 +1,1 @@
+liver	HMID:HM04679<br/>GeneSymbol:APOF<br/>P-value:5.44e-13<br/>Zscore:6.68<br/>#EST:11<br/>Adj. #EST:17.3

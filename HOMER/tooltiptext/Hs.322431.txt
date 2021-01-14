@@ -1,0 +1,1 @@
+brain	HMID:HM04397<br/>GeneSymbol:NEUROD2<br/>P-value:3.09e-21<br/>Zscore:6.38<br/>#EST:36<br/>Adj. #EST:4.84

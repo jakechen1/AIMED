@@ -1,0 +1,1 @@
+pancreas	HMID:HM02767<br/>GeneSymbol:FBXL16<br/>P-value:3.16e-14<br/>Zscore:5.06<br/>#EST:31<br/>Adj. #EST:5.33

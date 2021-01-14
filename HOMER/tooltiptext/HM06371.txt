@@ -1,0 +1,1 @@
+spleen	HMID:HM06371<br/>GeneSymbol:EMID1<br/>P-value:6.16e-07<br/>Zscore:4.65<br/>#EST:13<br/>Adj. #EST:5.59

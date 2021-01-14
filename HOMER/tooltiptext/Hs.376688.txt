@@ -1,0 +1,1 @@
+mouth	HMID:HM05274<br/>GeneSymbol:USH1G<br/>P-value:1.54e-28<br/>Zscore:7.06<br/>#EST:19<br/>Adj. #EST:51.75

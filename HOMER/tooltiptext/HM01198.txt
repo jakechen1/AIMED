@@ -1,0 +1,1 @@
+pharynx	HMID:HM01198<br/>GeneSymbol:CCR7<br/>P-value:2.06e-57<br/>Zscore:6.67<br/>#EST:44<br/>Adj. #EST:42.2

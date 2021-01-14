@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04052<br/>GeneSymbol:ANAPC16<br/>P-value:1.82e-15<br/>Zscore:5.19<br/>#EST:21<br/>Adj. #EST:11.02

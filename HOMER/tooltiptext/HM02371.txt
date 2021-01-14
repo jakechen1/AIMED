@@ -1,0 +1,1 @@
+brain	HMID:HM02371<br/>GeneSymbol:FAM5C<br/>P-value:1.26e-27<br/>Zscore:5.97<br/>#EST:52<br/>Adj. #EST:4.51

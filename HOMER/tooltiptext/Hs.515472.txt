@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02622<br/>GeneSymbol:SNRPD2<br/>P-value:1.09e-13<br/>Zscore:5.28<br/>#EST:22<br/>Adj. #EST:8.33

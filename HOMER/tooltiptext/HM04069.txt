@@ -1,0 +1,1 @@
+lymph	HMID:HM04069<br/>GeneSymbol:SPNS3<br/>P-value:2.08e-15<br/>Zscore:6.17<br/>#EST:13<br/>Adj. #EST:27

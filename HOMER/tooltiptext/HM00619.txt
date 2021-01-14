@@ -1,0 +1,1 @@
+pharynx	HMID:HM00619<br/>GeneSymbol:LYZ<br/>P-value:0<br/>Zscore:4.51<br/>#EST:117<br/>Adj. #EST:18.48

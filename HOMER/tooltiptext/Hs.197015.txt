@@ -1,0 +1,1 @@
+amnion	HMID:HM05877<br/>GeneSymbol:SNX7<br/>P-value:2.22e-38<br/>Zscore:7.05<br/>#EST:22<br/>Adj. #EST:116.63

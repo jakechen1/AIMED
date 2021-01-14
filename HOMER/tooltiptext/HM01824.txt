@@ -1,0 +1,1 @@
+esophagus	HMID:HM01824<br/>GeneSymbol:KRT78<br/>P-value:7.38e-37<br/>Zscore:6.92<br/>#EST:19<br/>Adj. #EST:147.45

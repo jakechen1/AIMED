@@ -1,0 +1,1 @@
+brain	HMID:HM02667<br/>GeneSymbol:GPR22<br/>P-value:2.66e-24<br/>Zscore:4.21<br/>#EST:46<br/>Adj. #EST:4.47

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06222<br/>GeneSymbol:PIBF1<br/>P-value:4.3e-47<br/>Zscore:6.82<br/>#EST:46<br/>Adj. #EST:21.61

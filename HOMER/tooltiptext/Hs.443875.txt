@@ -1,0 +1,1 @@
+lymph node	HMID:HM03495<br/>GeneSymbol:DCP2<br/>P-value:1.57e-16<br/>Zscore:5.36<br/>#EST:28<br/>Adj. #EST:7.71

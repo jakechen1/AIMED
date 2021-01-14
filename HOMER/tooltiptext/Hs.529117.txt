@@ -1,0 +1,1 @@
+lung	HMID:HM04268<br/>GeneSymbol:CYP2B7P1<br/>P-value:1.79e-20<br/>Zscore:4.59<br/>#EST:28<br/>Adj. #EST:8.95

@@ -1,0 +1,1 @@
+trachea	HMID:HM02504<br/>GeneSymbol:SH3BGRL2<br/>P-value:4.99e-26<br/>Zscore:5.53<br/>#EST:32<br/>Adj. #EST:13.73

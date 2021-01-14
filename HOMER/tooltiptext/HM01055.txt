@@ -1,0 +1,2 @@
+lymph	HMID:HM01055<br/>GeneSymbol:PRDM15<br/>P-value:4.27e-31<br/>Zscore:4.6<br/>#EST:29<br/>Adj. #EST:24.25
+lymph node	HMID:HM01055<br/>GeneSymbol:PRDM15<br/>P-value:3.02e-65<br/>Zscore:5.25<br/>#EST:57<br/>Adj. #EST:27.51

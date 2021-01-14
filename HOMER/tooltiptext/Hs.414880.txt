@@ -1,0 +1,1 @@
+thyroid	HMID:HM02290<br/>GeneSymbol:USF1<br/>P-value:6.43e-13<br/>Zscore:6.66<br/>#EST:12<br/>Adj. #EST:21.14

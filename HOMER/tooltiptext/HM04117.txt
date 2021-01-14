@@ -1,0 +1,1 @@
+testis	HMID:HM04117<br/>GeneSymbol:TCP10<br/>P-value:3.23e-15<br/>Zscore:6.66<br/>#EST:15<br/>Adj. #EST:11.89

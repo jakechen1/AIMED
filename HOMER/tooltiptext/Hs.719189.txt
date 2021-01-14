@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01545<br/>GeneSymbol:HMGXB3<br/>P-value:4.19e-11<br/>Zscore:5.89<br/>#EST:12<br/>Adj. #EST:15.36

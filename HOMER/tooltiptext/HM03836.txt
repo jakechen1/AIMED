@@ -1,0 +1,1 @@
+ear	HMID:HM03836<br/>GeneSymbol:ATP1A2<br/>P-value:1.75e-16<br/>Zscore:5.35<br/>#EST:22<br/>Adj. #EST:11.5

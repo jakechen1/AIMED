@@ -1,0 +1,1 @@
+brain	HMID:HM05685<br/>GeneSymbol:CDH20<br/>P-value:1.82e-09<br/>Zscore:4.92<br/>#EST:17<br/>Adj. #EST:4.35

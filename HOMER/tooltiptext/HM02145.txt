@@ -1,0 +1,1 @@
+trachea	HMID:HM02145<br/>GeneSymbol:CDK14<br/>P-value:7.47e-31<br/>Zscore:6.32<br/>#EST:45<br/>Adj. #EST:10.49

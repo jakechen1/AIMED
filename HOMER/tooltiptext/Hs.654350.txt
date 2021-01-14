@@ -1,0 +1,1 @@
+lymph node	HMID:HM00064<br/>GeneSymbol:GABPB1<br/>P-value:3.47e-06<br/>Zscore:4.36<br/>#EST:13<br/>Adj. #EST:4.9

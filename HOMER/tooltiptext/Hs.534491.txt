@@ -1,0 +1,1 @@
+lymph	HMID:HM00467<br/>GeneSymbol:C16orf59<br/>P-value:7.06e-08<br/>Zscore:4.4<br/>#EST:11<br/>Adj. #EST:8.8

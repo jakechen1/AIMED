@@ -1,0 +1,1 @@
+brain	HMID:HM05308<br/>GeneSymbol:DGKB<br/>P-value:5.92e-29<br/>Zscore:5.99<br/>#EST:54<br/>Adj. #EST:4.59

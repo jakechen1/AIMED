@@ -1,0 +1,2 @@
+pharynx	HMID:HM01246<br/>GeneSymbol:<br/>P-value:1.46e-11<br/>Zscore:4.9<br/>#EST:10<br/>Adj. #EST:24.12
+prostate	HMID:HM01246<br/>GeneSymbol:<br/>P-value:3.61e-55<br/>Zscore:4.9<br/>#EST:46<br/>Adj. #EST:24.12

@@ -1,0 +1,1 @@
+stomach	HMID:HM01391<br/>GeneSymbol:KRT8<br/>P-value:1.18e-48<br/>Zscore:4.21<br/>#EST:81<br/>Adj. #EST:8.37

@@ -1,0 +1,1 @@
+larynx	HMID:HM00320<br/>GeneSymbol:YLPM1<br/>P-value:0<br/>Zscore:7.05<br/>#EST:136<br/>Adj. #EST:58.43

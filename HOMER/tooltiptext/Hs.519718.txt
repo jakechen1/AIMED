@@ -1,0 +1,1 @@
+pharynx	HMID:HM00188<br/>GeneSymbol:TTC1<br/>P-value:7.97e-07<br/>Zscore:4.03<br/>#EST:15<br/>Adj. #EST:4.87

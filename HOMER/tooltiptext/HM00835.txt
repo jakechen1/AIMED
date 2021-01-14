@@ -1,0 +1,2 @@
+colon	HMID:HM00835<br/>GeneSymbol:CDH17<br/>P-value:3.66e-81<br/>Zscore:4.02<br/>#EST:76<br/>Adj. #EST:20.12
+small intestine	HMID:HM00835<br/>GeneSymbol:CDH17<br/>P-value:3.29e-21<br/>Zscore:4.58<br/>#EST:20<br/>Adj. #EST:22.73

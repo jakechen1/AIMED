@@ -1,0 +1,1 @@
+eye	HMID:HM07255<br/>GeneSymbol:FTSJD2<br/>P-value:6.58e-146<br/>Zscore:6.27<br/>#EST:220<br/>Adj. #EST:9.53

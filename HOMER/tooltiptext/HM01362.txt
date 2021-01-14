@@ -1,0 +1,2 @@
+liver	HMID:HM01362<br/>GeneSymbol:APOM<br/>P-value:1.3e-49<br/>Zscore:4.94<br/>#EST:72<br/>Adj. #EST:9.16
+spleen	HMID:HM01362<br/>GeneSymbol:APOM<br/>P-value:3.85e-19<br/>Zscore:4.1<br/>#EST:32<br/>Adj. #EST:7.71

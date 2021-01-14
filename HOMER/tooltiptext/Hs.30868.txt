@@ -1,0 +1,1 @@
+cervix	HMID:HM01268<br/>GeneSymbol:RTN4R<br/>P-value:2.4e-10<br/>Zscore:5.69<br/>#EST:12<br/>Adj. #EST:12.9

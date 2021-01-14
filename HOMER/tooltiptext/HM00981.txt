@@ -1,0 +1,1 @@
+mouth	HMID:HM00981<br/>GeneSymbol:LAMA3<br/>P-value:1.07e-69<br/>Zscore:6.18<br/>#EST:63<br/>Adj. #EST:27.02

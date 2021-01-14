@@ -1,0 +1,1 @@
+heart	HMID:HM04829<br/>GeneSymbol:ACTN3<br/>P-value:6.48e-24<br/>Zscore:5.85<br/>#EST:22<br/>Adj. #EST:21.44

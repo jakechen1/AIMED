@@ -1,0 +1,1 @@
+mouth	HMID:HM06020<br/>GeneSymbol:METT10D<br/>P-value:2.85e-08<br/>Zscore:4.15<br/>#EST:17<br/>Adj. #EST:5.44

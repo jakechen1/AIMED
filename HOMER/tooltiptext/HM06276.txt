@@ -1,0 +1,1 @@
+lymph node	HMID:HM06276<br/>GeneSymbol:KIF2A<br/>P-value:2.83e-07<br/>Zscore:4.47<br/>#EST:19<br/>Adj. #EST:4.15

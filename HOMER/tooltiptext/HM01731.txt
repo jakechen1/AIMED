@@ -1,0 +1,1 @@
+tonsil	HMID:HM01731<br/>GeneSymbol:HLA-DPB1<br/>P-value:1.19e-38<br/>Zscore:6.28<br/>#EST:40<br/>Adj. #EST:20.92

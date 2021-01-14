@@ -1,0 +1,1 @@
+trachea	HMID:HM00517<br/>GeneSymbol:LARS2<br/>P-value:4.69e-08<br/>Zscore:4.12<br/>#EST:15<br/>Adj. #EST:6.07

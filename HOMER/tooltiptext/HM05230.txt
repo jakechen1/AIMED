@@ -1,0 +1,1 @@
+mouth	HMID:HM05230<br/>GeneSymbol:ANKRD35<br/>P-value:4.57e-11<br/>Zscore:5.77<br/>#EST:12<br/>Adj. #EST:14.55

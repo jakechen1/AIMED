@@ -1,0 +1,1 @@
+nerve	HMID:HM05827<br/>GeneSymbol:TTC7B<br/>P-value:5.15e-09<br/>Zscore:4.6<br/>#EST:14<br/>Adj. #EST:7.78

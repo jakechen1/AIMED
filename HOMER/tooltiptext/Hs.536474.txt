@@ -1,0 +1,1 @@
+thymus	HMID:HM00803<br/>GeneSymbol:TMEM106A<br/>P-value:5.09e-09<br/>Zscore:5.17<br/>#EST:14<br/>Adj. #EST:7.76

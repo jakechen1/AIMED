@@ -1,0 +1,1 @@
+trachea	HMID:HM06308<br/>GeneSymbol:API5<br/>P-value:3.69e-50<br/>Zscore:6.37<br/>#EST:79<br/>Adj. #EST:9.66

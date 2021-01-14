@@ -1,0 +1,1 @@
+skin	HMID:HM05190<br/>GeneSymbol:FAM46B<br/>P-value:3.15e-11<br/>Zscore:5.61<br/>#EST:18<br/>Adj. #EST:7.16

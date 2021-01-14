@@ -1,0 +1,1 @@
+testis	HMID:HM04119<br/>GeneSymbol:PWRN2<br/>P-value:3.23e-15<br/>Zscore:5.47<br/>#EST:15<br/>Adj. #EST:11.89

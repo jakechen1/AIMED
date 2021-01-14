@@ -1,0 +1,1 @@
+brain	HMID:HM06572<br/>GeneSymbol:NCAN<br/>P-value:2.39e-62<br/>Zscore:5.89<br/>#EST:109<br/>Adj. #EST:4.89

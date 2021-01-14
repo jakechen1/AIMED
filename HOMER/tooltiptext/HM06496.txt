@@ -1,0 +1,1 @@
+skin	HMID:HM06496<br/>GeneSymbol:EREG<br/>P-value:2.51e-06<br/>Zscore:4.84<br/>#EST:10<br/>Adj. #EST:6.36

@@ -1,0 +1,1 @@
+spleen	HMID:HM05307<br/>GeneSymbol:LOC340544<br/>P-value:8.19e-11<br/>Zscore:6.24<br/>#EST:11<br/>Adj. #EST:14.8

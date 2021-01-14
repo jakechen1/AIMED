@@ -1,0 +1,1 @@
+pancreas	HMID:HM01680<br/>GeneSymbol:RGS9<br/>P-value:1.67e-11<br/>Zscore:4.26<br/>#EST:18<br/>Adj. #EST:7.54

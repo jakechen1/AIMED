@@ -1,0 +1,1 @@
+trachea	HMID:HM04617<br/>GeneSymbol:SLC33A1<br/>P-value:2.02e-22<br/>Zscore:5.23<br/>#EST:34<br/>Adj. #EST:9.58

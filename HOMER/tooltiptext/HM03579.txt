@@ -1,0 +1,1 @@
+muscle	HMID:HM03579<br/>GeneSymbol:SMTNL1<br/>P-value:7.32e-18<br/>Zscore:6.72<br/>#EST:14<br/>Adj. #EST:28.77

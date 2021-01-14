@@ -1,0 +1,1 @@
+testis	HMID:HM00531<br/>GeneSymbol:MS4A14<br/>P-value:0<br/>Zscore:6.95<br/>#EST:121<br/>Adj. #EST:12.42

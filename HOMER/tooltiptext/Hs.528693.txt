@@ -1,0 +1,1 @@
+lymph	HMID:HM03716<br/>GeneSymbol:RASAL1<br/>P-value:1.61e-17<br/>Zscore:6.12<br/>#EST:15<br/>Adj. #EST:26.97

@@ -1,0 +1,1 @@
+thymus	HMID:HM02089<br/>GeneSymbol:ARPP21<br/>P-value:5.58e-32<br/>Zscore:6.2<br/>#EST:48<br/>Adj. #EST:9.86

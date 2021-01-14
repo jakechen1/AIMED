@@ -1,0 +1,2 @@
+thymus	HMID:HM02777<br/>GeneSymbol:CD3E<br/>P-value:2.63e-14<br/>Zscore:5.02<br/>#EST:18<br/>Adj. #EST:11.78
+blood	HMID:HM03989<br/>GeneSymbol:CD3E<br/>P-value:6.48e-19<br/>Zscore:4.04<br/>#EST:27<br/>Adj. #EST:9.64

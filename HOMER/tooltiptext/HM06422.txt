@@ -1,0 +1,1 @@
+pancreas	HMID:HM06422<br/>GeneSymbol:MAP3K9<br/>P-value:1.06e-06<br/>Zscore:4.44<br/>#EST:12<br/>Adj. #EST:5.69

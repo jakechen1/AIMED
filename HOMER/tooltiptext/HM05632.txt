@@ -1,0 +1,1 @@
+lymph node	HMID:HM05632<br/>GeneSymbol:ADCY7<br/>P-value:1.1e-09<br/>Zscore:4.06<br/>#EST:18<br/>Adj. #EST:6.25

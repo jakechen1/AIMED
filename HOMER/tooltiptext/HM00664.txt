@@ -1,0 +1,1 @@
+eye	HMID:HM00664<br/>GeneSymbol:LCN1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:224<br/>Adj. #EST:28.49

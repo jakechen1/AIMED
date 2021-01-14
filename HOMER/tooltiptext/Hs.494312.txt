@@ -1,0 +1,1 @@
+mouth	HMID:HM06439<br/>GeneSymbol:NTRK2<br/>P-value:3.01e-56<br/>Zscore:6.16<br/>#EST:80<br/>Adj. #EST:11.29

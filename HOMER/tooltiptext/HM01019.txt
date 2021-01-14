@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01019<br/>GeneSymbol:PLAT<br/>P-value:1.32e-67<br/>Zscore:4.84<br/>#EST:120<br/>Adj. #EST:8.07

@@ -1,0 +1,1 @@
+nerve	HMID:HM00787<br/>GeneSymbol:PTCD2<br/>P-value:6.02e-09<br/>Zscore:5.87<br/>#EST:12<br/>Adj. #EST:9.6

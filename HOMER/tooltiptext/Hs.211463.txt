@@ -1,0 +1,1 @@
+larynx	HMID:HM00253<br/>GeneSymbol:DNM2<br/>P-value:4.46e-07<br/>Zscore:4.41<br/>#EST:13<br/>Adj. #EST:6.01

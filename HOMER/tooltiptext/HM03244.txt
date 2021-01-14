@@ -1,0 +1,1 @@
+blood	HMID:HM03244<br/>GeneSymbol:<br/>P-value:5.16e-20<br/>Zscore:6.63<br/>#EST:13<br/>Adj. #EST:37.63

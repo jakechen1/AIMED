@@ -1,0 +1,1 @@
+muscle	HMID:HM07214<br/>GeneSymbol:HSPB6<br/>P-value:2.94e-134<br/>Zscore:5.69<br/>#EST:132<br/>Adj. #EST:21.56

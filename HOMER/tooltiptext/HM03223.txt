@@ -1,0 +1,1 @@
+lymph	HMID:HM03223<br/>GeneSymbol:PLIN3<br/>P-value:3.75e-20<br/>Zscore:4.23<br/>#EST:43<br/>Adj. #EST:6.03

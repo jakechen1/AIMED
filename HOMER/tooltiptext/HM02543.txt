@@ -1,0 +1,1 @@
+mouth	HMID:HM02543<br/>GeneSymbol:MGAT1<br/>P-value:1.29e-25<br/>Zscore:4.24<br/>#EST:66<br/>Adj. #EST:5

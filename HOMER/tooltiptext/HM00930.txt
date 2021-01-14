@@ -1,0 +1,1 @@
+testis	HMID:HM00930<br/>GeneSymbol:ROPN1<br/>P-value:6.23e-73<br/>Zscore:6.63<br/>#EST:76<br/>Adj. #EST:12.05

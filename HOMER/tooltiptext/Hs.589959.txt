@@ -1,0 +1,1 @@
+testis	HMID:HM04901<br/>GeneSymbol:ATMIN<br/>P-value:1.45e-24<br/>Zscore:6.66<br/>#EST:29<br/>Adj. #EST:10

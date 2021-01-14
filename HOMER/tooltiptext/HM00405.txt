@@ -1,0 +1,1 @@
+nerve	HMID:HM00405<br/>GeneSymbol:DLK1<br/>P-value:0<br/>Zscore:4.15<br/>#EST:195<br/>Adj. #EST:13.85

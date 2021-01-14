@@ -1,0 +1,1 @@
+larynx	HMID:HM00262<br/>GeneSymbol:KRT5<br/>P-value:0<br/>Zscore:4.65<br/>#EST:222<br/>Adj. #EST:24.47

@@ -1,0 +1,1 @@
+leiomios	HMID:HM00100<br/>GeneSymbol:EIF4A2<br/>P-value:0<br/>Zscore:7.03<br/>#EST:238<br/>Adj. #EST:49.71

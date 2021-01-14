@@ -1,0 +1,1 @@
+muscle	HMID:HM03464<br/>GeneSymbol:PREX1<br/>P-value:2.11e-16<br/>Zscore:4.32<br/>#EST:38<br/>Adj. #EST:5.28

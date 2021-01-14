@@ -1,0 +1,1 @@
+kidney	HMID:HM03645<br/>GeneSymbol:PAX2<br/>P-value:1.54e-17<br/>Zscore:5.27<br/>#EST:17<br/>Adj. #EST:16.29

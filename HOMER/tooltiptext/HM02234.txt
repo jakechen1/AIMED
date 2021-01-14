@@ -1,0 +1,1 @@
+lymph	HMID:HM02234<br/>GeneSymbol:TK1<br/>P-value:1.73e-29<br/>Zscore:4.68<br/>#EST:46<br/>Adj. #EST:9.43

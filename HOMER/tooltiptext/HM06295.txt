@@ -1,0 +1,1 @@
+trachea	HMID:HM06295<br/>GeneSymbol:TMEM67<br/>P-value:3.16e-07<br/>Zscore:4.79<br/>#EST:10<br/>Adj. #EST:8.67

@@ -1,0 +1,1 @@
+rectum	HMID:HM06208<br/>GeneSymbol:CTSA<br/>P-value:1.34e-07<br/>Zscore:5.3<br/>#EST:12<br/>Adj. #EST:7.48

@@ -1,0 +1,1 @@
+thyroid	HMID:HM06338<br/>GeneSymbol:SLC25A23<br/>P-value:4.72e-07<br/>Zscore:4.68<br/>#EST:13<br/>Adj. #EST:5.94

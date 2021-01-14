@@ -1,0 +1,2 @@
+testis	HMID:HM01000<br/>GeneSymbol:GAPDHS<br/>P-value:1.55e-09<br/>Zscore:4.04<br/>#EST:19<br/>Adj. #EST:5.07
+skin	HMID:HM00500<br/>GeneSymbol:GAPDHS<br/>P-value:5.57e-08<br/>Zscore:5.32<br/>#EST:13<br/>Adj. #EST:6.57

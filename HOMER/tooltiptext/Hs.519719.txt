@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05592<br/>GeneSymbol:FABP6<br/>P-value:4.98e-33<br/>Zscore:4.91<br/>#EST:25<br/>Adj. #EST:36.12

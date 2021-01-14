@@ -1,0 +1,1 @@
+tonsil	HMID:HM03134<br/>GeneSymbol:RPL34<br/>P-value:9.47e-21<br/>Zscore:4.41<br/>#EST:35<br/>Adj. #EST:8.28

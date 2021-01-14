@@ -1,0 +1,1 @@
+thymus	HMID:HM05219<br/>GeneSymbol:AHSA2<br/>P-value:4.08e-11<br/>Zscore:4.31<br/>#EST:22<br/>Adj. #EST:5.99

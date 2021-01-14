@@ -1,0 +1,1 @@
+trachea	HMID:HM04300<br/>GeneSymbol:IRF6<br/>P-value:1.15e-20<br/>Zscore:5.31<br/>#EST:23<br/>Adj. #EST:16.03

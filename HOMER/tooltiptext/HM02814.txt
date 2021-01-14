@@ -1,0 +1,2 @@
+heart	HMID:HM02814<br/>GeneSymbol:SMPX<br/>P-value:1.23e-20<br/>Zscore:4.46<br/>#EST:21<br/>Adj. #EST:17.24
+muscle	HMID:HM02814<br/>GeneSymbol:SMPX<br/>P-value:3.35e-23<br/>Zscore:5.33<br/>#EST:22<br/>Adj. #EST:20.42

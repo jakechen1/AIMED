@@ -1,0 +1,1 @@
+nerve	HMID:HM04248<br/>GeneSymbol:MFSD10<br/>P-value:1.2e-14<br/>Zscore:4.2<br/>#EST:29<br/>Adj. #EST:6.28

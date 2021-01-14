@@ -1,0 +1,1 @@
+placenta	HMID:HM03809<br/>GeneSymbol:CYTH3<br/>P-value:5.58e-18<br/>Zscore:4.51<br/>#EST:49<br/>Adj. #EST:4.35

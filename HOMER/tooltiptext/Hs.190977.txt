@@ -1,0 +1,1 @@
+tonsil	HMID:HM06145<br/>GeneSymbol:ENPP2<br/>P-value:7.08e-45<br/>Zscore:6.96<br/>#EST:41<br/>Adj. #EST:28.28

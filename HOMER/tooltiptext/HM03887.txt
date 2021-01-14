@@ -1,0 +1,1 @@
+salivary gland	HMID:HM03887<br/>GeneSymbol:TUBB2C<br/>P-value:3.4e-16<br/>Zscore:4.23<br/>#EST:44<br/>Adj. #EST:4.61

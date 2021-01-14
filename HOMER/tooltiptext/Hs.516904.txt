@@ -1,0 +1,1 @@
+brain	HMID:HM07489<br/>GeneSymbol:BCAN<br/>P-value:1.8e-295<br/>Zscore:6.3<br/>#EST:464<br/>Adj. #EST:5.29

@@ -1,0 +1,1 @@
+placenta	HMID:HM02678<br/>GeneSymbol:GCM1<br/>P-value:2.99e-24<br/>Zscore:6.65<br/>#EST:22<br/>Adj. #EST:17.2

@@ -1,0 +1,2 @@
+eye	HMID:HM02711<br/>GeneSymbol:LOC100130155<br/>P-value:5.42e-24<br/>Zscore:5.1<br/>#EST:33<br/>Adj. #EST:9.87
+muscle	HMID:HM02711<br/>GeneSymbol:LOC100130155<br/>P-value:1.61e-10<br/>Zscore:4.58<br/>#EST:15<br/>Adj. #EST:8.9

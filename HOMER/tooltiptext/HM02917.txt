@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02917<br/>GeneSymbol:PRLR<br/>P-value:1.86e-22<br/>Zscore:6.61<br/>#EST:20<br/>Adj. #EST:27.3

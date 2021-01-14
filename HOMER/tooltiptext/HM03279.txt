@@ -1,0 +1,1 @@
+spleen	HMID:HM03279<br/>GeneSymbol:PFKFB1<br/>P-value:9.32e-20<br/>Zscore:5.78<br/>#EST:20<br/>Adj. #EST:16.68

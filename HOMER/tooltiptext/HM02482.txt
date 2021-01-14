@@ -1,0 +1,1 @@
+nerve	HMID:HM02482<br/>GeneSymbol:MAPK12<br/>P-value:2.49e-26<br/>Zscore:5.29<br/>#EST:32<br/>Adj. #EST:13.76

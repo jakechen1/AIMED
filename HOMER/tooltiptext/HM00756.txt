@@ -1,0 +1,1 @@
+larynx	HMID:HM00756<br/>GeneSymbol:MFSD11<br/>P-value:2.99e-90<br/>Zscore:7.03<br/>#EST:67<br/>Adj. #EST:50.04

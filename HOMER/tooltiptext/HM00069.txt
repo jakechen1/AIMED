@@ -1,0 +1,1 @@
+liver	HMID:HM00069<br/>GeneSymbol:AMBP<br/>P-value:0<br/>Zscore:5.96<br/>#EST:386<br/>Adj. #EST:18.12

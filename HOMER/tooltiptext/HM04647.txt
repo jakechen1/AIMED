@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04647<br/>GeneSymbol:TMEM37<br/>P-value:4.42e-13<br/>Zscore:6.41<br/>#EST:10<br/>Adj. #EST:35.25

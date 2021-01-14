@@ -1,0 +1,3 @@
+"unigeneid"	"organ"	"pvalue"	"rzscore"	"source"
+"Hs.334347"	"peritoneum"	9.2e-25	6.923550538	"dbEST"
+"Hs.1288"	"peritoneum"	2.7e-40	7.021082542	"dbEST"

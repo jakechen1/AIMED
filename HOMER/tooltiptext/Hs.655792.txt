@@ -1,0 +1,2 @@
+spleen	HMID:HM04788<br/>GeneSymbol:ART4<br/>P-value:1.34e-23<br/>Zscore:4<br/>#EST:33<br/>Adj. #EST:8.92
+blood vessel	HMID:HM00904<br/>GeneSymbol:ART4<br/>P-value:2.73e-09<br/>Zscore:5.34<br/>#EST:11<br/>Adj. #EST:11.7

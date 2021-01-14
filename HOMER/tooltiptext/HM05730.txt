@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05730<br/>GeneSymbol:ERCC1<br/>P-value:2.57e-09<br/>Zscore:4.36<br/>#EST:21<br/>Adj. #EST:5.05

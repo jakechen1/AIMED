@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05498<br/>GeneSymbol:NUDT6<br/>P-value:1.93e-31<br/>Zscore:6.87<br/>#EST:31<br/>Adj. #EST:20.46

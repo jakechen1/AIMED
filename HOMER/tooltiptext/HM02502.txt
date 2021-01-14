@@ -1,0 +1,2 @@
+larynx	HMID:HM02502<br/>GeneSymbol:IVL<br/>P-value:4.68e-13<br/>Zscore:5.05<br/>#EST:10<br/>Adj. #EST:34.66
+mouth	HMID:HM02502<br/>GeneSymbol:IVL<br/>P-value:4.54e-26<br/>Zscore:4.14<br/>#EST:22<br/>Adj. #EST:28.81

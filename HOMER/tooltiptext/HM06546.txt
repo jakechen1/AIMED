@@ -1,0 +1,1 @@
+skin	HMID:HM06546<br/>GeneSymbol:FBXO6<br/>P-value:6.87e-06<br/>Zscore:4.1<br/>#EST:11<br/>Adj. #EST:5.18

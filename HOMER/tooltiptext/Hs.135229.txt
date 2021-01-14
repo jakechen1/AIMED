@@ -1,0 +1,1 @@
+prostate	HMID:HM04100<br/>GeneSymbol:RBFOX3<br/>P-value:1.76e-19<br/>Zscore:6.08<br/>#EST:26<br/>Adj. #EST:10.41

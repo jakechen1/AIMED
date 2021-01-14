@@ -1,0 +1,1 @@
+liver	HMID:HM06030<br/>GeneSymbol:HPR<br/>P-value:6.54e-42<br/>Zscore:6.38<br/>#EST:49<br/>Adj. #EST:12.35

@@ -1,0 +1,1 @@
+nerve	HMID:HM05196<br/>GeneSymbol:KHK<br/>P-value:3.31e-11<br/>Zscore:4.4<br/>#EST:18<br/>Adj. #EST:7.82

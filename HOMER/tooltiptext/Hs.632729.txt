@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03544<br/>GeneSymbol:ESYT1<br/>P-value:9.78e-17<br/>Zscore:5.95<br/>#EST:22<br/>Adj. #EST:11.85

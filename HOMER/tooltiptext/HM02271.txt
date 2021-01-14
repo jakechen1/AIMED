@@ -1,0 +1,1 @@
+placenta	HMID:HM02271<br/>GeneSymbol:FOXO4<br/>P-value:5.28e-29<br/>Zscore:6.02<br/>#EST:35<br/>Adj. #EST:11.56

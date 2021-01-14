@@ -1,0 +1,1 @@
+eye	HMID:HM05653<br/>GeneSymbol:CNGB1<br/>P-value:4.81e-34<br/>Zscore:6.43<br/>#EST:32<br/>Adj. #EST:18.45

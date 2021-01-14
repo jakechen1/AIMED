@@ -1,0 +1,1 @@
+prostate	HMID:HM05173<br/>GeneSymbol:GAGE12I<br/>P-value:2.95e-11<br/>Zscore:6.69<br/>#EST:10<br/>Adj. #EST:18.21

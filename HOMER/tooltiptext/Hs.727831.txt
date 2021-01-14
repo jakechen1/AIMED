@@ -1,0 +1,2 @@
+skin	HMID:HM05070<br/>GeneSymbol:<br/>P-value:4.14e-26<br/>Zscore:4.01<br/>#EST:45<br/>Adj. #EST:7.31
+heart	HMID:HM03523<br/>GeneSymbol:<br/>P-value:1.24e-16<br/>Zscore:4.7<br/>#EST:26<br/>Adj. #EST:8.44

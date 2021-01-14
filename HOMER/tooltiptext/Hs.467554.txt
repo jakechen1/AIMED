@@ -1,0 +1,1 @@
+thyroid	HMID:HM06283<br/>GeneSymbol:TPO<br/>P-value:2.17e-49<br/>Zscore:7<br/>#EST:29<br/>Adj. #EST:83.17

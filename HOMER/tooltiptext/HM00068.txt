@@ -1,0 +1,2 @@
+rectum	HMID:HM00068<br/>GeneSymbol:CD74<br/>P-value:0<br/>Zscore:4.18<br/>#EST:224<br/>Adj. #EST:30.43
+tonsil	HMID:HM00068<br/>GeneSymbol:CD74<br/>P-value:0<br/>Zscore:5.45<br/>#EST:819<br/>Adj. #EST:38.9

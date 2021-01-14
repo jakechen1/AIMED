@@ -1,0 +1,1 @@
+muscle	HMID:HM06079<br/>GeneSymbol:PLXNA2<br/>P-value:4.75e-08<br/>Zscore:4.48<br/>#EST:19<br/>Adj. #EST:4.63

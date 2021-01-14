@@ -1,0 +1,1 @@
+trachea	HMID:HM05502<br/>GeneSymbol:CSNK1A1<br/>P-value:1.68e-31<br/>Zscore:5.28<br/>#EST:69<br/>Adj. #EST:6.07

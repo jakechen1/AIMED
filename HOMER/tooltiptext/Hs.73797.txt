@@ -1,0 +1,1 @@
+thymus	HMID:HM04404<br/>GeneSymbol:GNA15<br/>P-value:2.73e-21<br/>Zscore:5.89<br/>#EST:25<br/>Adj. #EST:14.15

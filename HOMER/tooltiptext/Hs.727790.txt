@@ -1,0 +1,1 @@
+eye	HMID:HM04183<br/>GeneSymbol:CPAMD8<br/>P-value:6.74e-20<br/>Zscore:5.35<br/>#EST:27<br/>Adj. #EST:9.94

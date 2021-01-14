@@ -1,0 +1,1 @@
+bladder	HMID:HM00097<br/>GeneSymbol:SP100<br/>P-value:2.17e-06<br/>Zscore:4.82<br/>#EST:12<br/>Adj. #EST:5.67

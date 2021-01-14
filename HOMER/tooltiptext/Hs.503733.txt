@@ -1,0 +1,2 @@
+pancreas	HMID:HM06165<br/>GeneSymbol:CFC1B<br/>P-value:2.21e-45<br/>Zscore:4.96<br/>#EST:64<br/>Adj. #EST:10.02
+lung	HMID:HM06771<br/>GeneSymbol:CFC1B<br/>P-value:3.65e-75<br/>Zscore:4.88<br/>#EST:101<br/>Adj. #EST:9.86

@@ -1,0 +1,1 @@
+testis	HMID:HM03358<br/>GeneSymbol:TSSK1B<br/>P-value:2.86e-19<br/>Zscore:6.91<br/>#EST:24<br/>Adj. #EST:9.25

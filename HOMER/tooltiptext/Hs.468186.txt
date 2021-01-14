@@ -1,0 +1,1 @@
+larynx	HMID:HM00579<br/>GeneSymbol:HEATR5B<br/>P-value:3.31e-08<br/>Zscore:5.96<br/>#EST:10<br/>Adj. #EST:11.22

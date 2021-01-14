@@ -1,0 +1,1 @@
+nerve	HMID:HM04706<br/>GeneSymbol:GCDH<br/>P-value:7.33e-13<br/>Zscore:5.34<br/>#EST:24<br/>Adj. #EST:6.61

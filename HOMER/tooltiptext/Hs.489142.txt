@@ -1,0 +1,2 @@
+leiomios	HMID:HM06728<br/>GeneSymbol:COL1A2<br/>P-value:3.15e-72<br/>Zscore:4.56<br/>#EST:70<br/>Adj. #EST:25.9
+ear	HMID:HM07387<br/>GeneSymbol:COL1A2<br/>P-value:1.22e-200<br/>Zscore:4.89<br/>#EST:191<br/>Adj. #EST:27.64

@@ -1,0 +1,2 @@
+colon	HMID:HM04486<br/>GeneSymbol:AKR7A3<br/>P-value:1e-13<br/>Zscore:4.56<br/>#EST:17<br/>Adj. #EST:10.96
+stomach	HMID:HM04486<br/>GeneSymbol:AKR7A3<br/>P-value:2.19e-10<br/>Zscore:4.35<br/>#EST:13<br/>Adj. #EST:10.49

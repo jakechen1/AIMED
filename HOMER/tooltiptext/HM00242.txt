@@ -1,0 +1,1 @@
+placenta	HMID:HM00242<br/>GeneSymbol:HSD3B1<br/>P-value:0<br/>Zscore:6.95<br/>#EST:218<br/>Adj. #EST:18.13

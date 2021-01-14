@@ -1,0 +1,1 @@
+trachea	HMID:HM07086<br/>GeneSymbol:CFH<br/>P-value:6.17e-108<br/>Zscore:6.66<br/>#EST:112<br/>Adj. #EST:21.12

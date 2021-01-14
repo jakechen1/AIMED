@@ -1,0 +1,1 @@
+kidney	HMID:HM00918<br/>GeneSymbol:MIOX<br/>P-value:1.53e-73<br/>Zscore:6.82<br/>#EST:66<br/>Adj. #EST:20.42

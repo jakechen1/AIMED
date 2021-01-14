@@ -1,0 +1,1 @@
+amnion	HMID:HM02485<br/>GeneSymbol:HSPA5<br/>P-value:2.84e-13<br/>Zscore:4.82<br/>#EST:19<br/>Adj. #EST:9.91

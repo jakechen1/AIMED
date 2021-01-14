@@ -1,0 +1,1 @@
+lymph node	HMID:HM00967<br/>GeneSymbol:CR2<br/>P-value:3.14e-70<br/>Zscore:6.6<br/>#EST:56<br/>Adj. #EST:33.56

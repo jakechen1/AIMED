@@ -1,0 +1,1 @@
+bone	HMID:HM06638<br/>GeneSymbol:CHAD<br/>P-value:8.14e-67<br/>Zscore:7.02<br/>#EST:52<br/>Adj. #EST:28.96

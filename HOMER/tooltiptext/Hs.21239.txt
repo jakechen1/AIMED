@@ -1,0 +1,1 @@
+brain	HMID:HM07451<br/>GeneSymbol:RPH3A<br/>P-value:1.68e-245<br/>Zscore:6.96<br/>#EST:380<br/>Adj. #EST:5.34

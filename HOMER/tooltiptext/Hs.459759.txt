@@ -1,0 +1,1 @@
+larynx	HMID:HM01290<br/>GeneSymbol:CREBBP<br/>P-value:2.13e-10<br/>Zscore:4.86<br/>#EST:15<br/>Adj. #EST:9.19

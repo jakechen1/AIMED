@@ -1,0 +1,1 @@
+testis	HMID:HM05176<br/>GeneSymbol:C8orf74<br/>P-value:2.95e-11<br/>Zscore:7.07<br/>#EST:10<br/>Adj. #EST:12.97

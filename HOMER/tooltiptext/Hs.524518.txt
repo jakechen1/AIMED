@@ -1,0 +1,1 @@
+mouth	HMID:HM05856<br/>GeneSymbol:STAT6<br/>P-value:5.3e-38<br/>Zscore:4.46<br/>#EST:71<br/>Adj. #EST:7.43

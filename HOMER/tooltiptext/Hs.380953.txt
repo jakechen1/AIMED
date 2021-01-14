@@ -1,0 +1,1 @@
+bone marrow	HMID:HM07247<br/>GeneSymbol:RPL38<br/>P-value:1.82e-144<br/>Zscore:4.04<br/>#EST:229<br/>Adj. #EST:9.81

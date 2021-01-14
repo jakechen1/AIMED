@@ -1,0 +1,1 @@
+muscle	HMID:HM02943<br/>GeneSymbol:TMEM38A<br/>P-value:9.48e-15<br/>Zscore:4.59<br/>#EST:17<br/>Adj. #EST:13.38

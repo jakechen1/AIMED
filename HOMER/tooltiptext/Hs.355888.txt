@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04640<br/>GeneSymbol:PLCB2<br/>P-value:1.4e-22<br/>Zscore:5.34<br/>#EST:28<br/>Adj. #EST:13.08

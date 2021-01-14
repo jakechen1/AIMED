@@ -1,0 +1,1 @@
+esophagus	HMID:HM05188<br/>GeneSymbol:DUSP11<br/>P-value:3.13e-11<br/>Zscore:5.05<br/>#EST:13<br/>Adj. #EST:13.54

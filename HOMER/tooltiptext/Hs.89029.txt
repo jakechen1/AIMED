@@ -1,0 +1,1 @@
+testis	HMID:HM06643<br/>GeneSymbol:ANUBL1<br/>P-value:4.76e-67<br/>Zscore:4.29<br/>#EST:101<br/>Adj. #EST:7.93

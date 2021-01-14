@@ -1,0 +1,1 @@
+blood	HMID:HM01407<br/>GeneSymbol:UBASH3A<br/>P-value:9.72e-11<br/>Zscore:4.7<br/>#EST:12<br/>Adj. #EST:12.76

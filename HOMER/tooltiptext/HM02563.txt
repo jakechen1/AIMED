@@ -1,0 +1,1 @@
+lymph node	HMID:HM02563<br/>GeneSymbol:FOXN3<br/>P-value:2.44e-25<br/>Zscore:4.97<br/>#EST:51<br/>Adj. #EST:6.49

@@ -1,0 +1,1 @@
+prostate	HMID:HM00517<br/>GeneSymbol:TMPRSS2<br/>P-value:0<br/>Zscore:5.39<br/>#EST:127<br/>Adj. #EST:16.84

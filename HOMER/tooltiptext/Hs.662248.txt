@@ -1,0 +1,1 @@
+uterus	HMID:HM00733<br/>GeneSymbol:C1orf186<br/>P-value:1.03e-08<br/>Zscore:6.11<br/>#EST:10<br/>Adj. #EST:10.6

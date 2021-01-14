@@ -1,0 +1,1 @@
+nerve	HMID:HM03680<br/>GeneSymbol:GRIK2<br/>P-value:2.15e-17<br/>Zscore:5.54<br/>#EST:16<br/>Adj. #EST:22.28

@@ -1,0 +1,1 @@
+lymph node	HMID:HM04883<br/>GeneSymbol:CNR2<br/>P-value:2.48e-24<br/>Zscore:6.97<br/>#EST:17<br/>Adj. #EST:41.55

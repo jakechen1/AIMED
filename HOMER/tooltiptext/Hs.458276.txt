@@ -1,0 +1,1 @@
+nerve	HMID:HM00692<br/>GeneSymbol:NFKBIE<br/>P-value:1.4e-08<br/>Zscore:4.31<br/>#EST:15<br/>Adj. #EST:6.61

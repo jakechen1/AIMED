@@ -1,0 +1,1 @@
+spleen	HMID:HM02459<br/>GeneSymbol:GPR55<br/>P-value:4e-13<br/>Zscore:5.86<br/>#EST:18<br/>Adj. #EST:8.54

@@ -1,0 +1,1 @@
+brain	HMID:HM01924<br/>GeneSymbol:PCDHB10<br/>P-value:1.32e-34<br/>Zscore:4.18<br/>#EST:74<br/>Adj. #EST:4.17

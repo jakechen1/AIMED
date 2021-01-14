@@ -1,0 +1,1 @@
+placenta	HMID:HM03553<br/>GeneSymbol:KMO<br/>P-value:9.26e-17<br/>Zscore:4.57<br/>#EST:31<br/>Adj. #EST:6.38

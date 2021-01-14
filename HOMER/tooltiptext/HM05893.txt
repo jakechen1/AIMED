@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05893<br/>GeneSymbol:EXOSC1<br/>P-value:9.25e-09<br/>Zscore:6.44<br/>#EST:10<br/>Adj. #EST:12.88

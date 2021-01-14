@@ -1,0 +1,1 @@
+thymus	HMID:HM07302<br/>GeneSymbol:GRAP2<br/>P-value:4.53e-163<br/>Zscore:7.04<br/>#EST:112<br/>Adj. #EST:50.17

@@ -1,0 +1,1 @@
+mouth	HMID:HM04459<br/>GeneSymbol:RIPK4<br/>P-value:1.68e-21<br/>Zscore:5.67<br/>#EST:23<br/>Adj. #EST:17.12

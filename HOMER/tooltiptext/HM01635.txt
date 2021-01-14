@@ -1,0 +1,1 @@
+lymph node	HMID:HM01635<br/>GeneSymbol:PPP1R16B<br/>P-value:2.12e-41<br/>Zscore:5.24<br/>#EST:53<br/>Adj. #EST:12.88

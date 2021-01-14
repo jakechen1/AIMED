@@ -1,0 +1,1 @@
+kidney	HMID:HM01941<br/>GeneSymbol:PTGER3<br/>P-value:2.51e-34<br/>Zscore:5.54<br/>#EST:46<br/>Adj. #EST:10.59

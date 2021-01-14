@@ -1,0 +1,1 @@
+stomach	HMID:HM01002<br/>GeneSymbol:MFI2<br/>P-value:1.81e-68<br/>Zscore:4.13<br/>#EST:74<br/>Adj. #EST:16.57

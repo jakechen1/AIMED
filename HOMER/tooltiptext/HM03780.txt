@@ -1,0 +1,1 @@
+liver	HMID:HM03780<br/>GeneSymbol:G6PC<br/>P-value:7.88e-17<br/>Zscore:5.64<br/>#EST:18<br/>Adj. #EST:12.78

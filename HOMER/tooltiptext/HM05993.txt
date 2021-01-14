@@ -1,0 +1,1 @@
+nerve	HMID:HM05993<br/>GeneSymbol:THOC3<br/>P-value:2.18e-08<br/>Zscore:4.49<br/>#EST:19<br/>Adj. #EST:4.92

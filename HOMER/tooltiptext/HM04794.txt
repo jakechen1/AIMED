@@ -1,0 +1,1 @@
+thymus	HMID:HM04794<br/>GeneSymbol:PRMT7<br/>P-value:1.45e-12<br/>Zscore:5.56<br/>#EST:25<br/>Adj. #EST:6.08

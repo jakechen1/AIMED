@@ -1,0 +1,1 @@
+lymph	HMID:HM00448<br/>GeneSymbol:POC1A<br/>P-value:7.99e-08<br/>Zscore:5.26<br/>#EST:11<br/>Adj. #EST:8.69

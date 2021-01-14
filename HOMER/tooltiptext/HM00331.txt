@@ -1,0 +1,1 @@
+liver	HMID:HM00331<br/>GeneSymbol:SERPINC1<br/>P-value:0<br/>Zscore:6.86<br/>#EST:167<br/>Adj. #EST:18.2

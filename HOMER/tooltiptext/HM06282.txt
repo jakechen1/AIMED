@@ -1,0 +1,1 @@
+eye	HMID:HM06282<br/>GeneSymbol:HPCA<br/>P-value:2.94e-07<br/>Zscore:4.76<br/>#EST:18<br/>Adj. #EST:4.21

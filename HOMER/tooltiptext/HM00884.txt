@@ -1,0 +1,1 @@
+liver	HMID:HM00884<br/>GeneSymbol:ANGPTL3<br/>P-value:1.94e-76<br/>Zscore:6.4<br/>#EST:80<br/>Adj. #EST:14.56

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04776<br/>GeneSymbol:TMEM232<br/>P-value:1.77e-23<br/>Zscore:6.23<br/>#EST:23<br/>Adj. #EST:20.01

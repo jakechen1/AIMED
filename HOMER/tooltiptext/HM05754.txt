@@ -1,0 +1,1 @@
+pancreas	HMID:HM05754<br/>GeneSymbol:TMEM201<br/>P-value:3.08e-09<br/>Zscore:4.29<br/>#EST:21<br/>Adj. #EST:4.79

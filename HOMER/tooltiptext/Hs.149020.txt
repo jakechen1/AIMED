@@ -1,0 +1,1 @@
+embryo	HMID:HM00718<br/>GeneSymbol:GREB1L<br/>P-value:1.17e-08<br/>Zscore:4.69<br/>#EST:13<br/>Adj. #EST:7.42

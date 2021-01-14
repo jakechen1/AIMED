@@ -1,0 +1,1 @@
+testis	HMID:HM02728<br/>GeneSymbol:C22orf43<br/>P-value:4.32e-14<br/>Zscore:5.18<br/>#EST:14<br/>Adj. #EST:11.64

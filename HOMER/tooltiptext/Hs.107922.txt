@@ -1,0 +1,1 @@
+spleen	HMID:HM05150<br/>GeneSymbol:FAM178B<br/>P-value:5.11e-27<br/>Zscore:6.35<br/>#EST:34<br/>Adj. #EST:10.34

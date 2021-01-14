@@ -1,0 +1,1 @@
+lymph	HMID:HM02545<br/>GeneSymbol:GCET2<br/>P-value:1.35e-25<br/>Zscore:6.74<br/>#EST:20<br/>Adj. #EST:35.6

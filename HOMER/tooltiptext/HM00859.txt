@@ -1,0 +1,1 @@
+muscle	HMID:HM00859<br/>GeneSymbol:SLN<br/>P-value:4.36e-79<br/>Zscore:5.67<br/>#EST:72<br/>Adj. #EST:24.37

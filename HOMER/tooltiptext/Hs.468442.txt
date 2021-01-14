@@ -1,0 +1,2 @@
+spinal cord	HMID:HM01706<br/>GeneSymbol:CALM2<br/>P-value:1.5e-11<br/>Zscore:4.67<br/>#EST:15<br/>Adj. #EST:11.27
+bladder	HMID:HM07236<br/>GeneSymbol:CALM2<br/>P-value:1.57e-140<br/>Zscore:4.41<br/>#EST:214<br/>Adj. #EST:10.72

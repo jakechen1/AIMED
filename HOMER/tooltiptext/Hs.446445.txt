@@ -1,0 +1,1 @@
+mouth	HMID:HM00673<br/>GeneSymbol:YIF1A<br/>P-value:1.56e-08<br/>Zscore:4.18<br/>#EST:22<br/>Adj. #EST:4.37

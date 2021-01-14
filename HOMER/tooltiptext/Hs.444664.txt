@@ -1,0 +1,1 @@
+lymph node	HMID:HM00409<br/>GeneSymbol:PALB2<br/>P-value:1.13e-07<br/>Zscore:5.5<br/>#EST:12<br/>Adj. #EST:7.33

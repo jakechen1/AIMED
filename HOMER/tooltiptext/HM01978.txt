@@ -1,0 +1,1 @@
+ganglia	HMID:HM01978<br/>GeneSymbol:HSPA1A<br/>P-value:8.42e-34<br/>Zscore:5.86<br/>#EST:30<br/>Adj. #EST:29.95

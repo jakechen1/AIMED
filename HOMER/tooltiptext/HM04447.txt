@@ -1,0 +1,1 @@
+nerve	HMID:HM04447<br/>GeneSymbol:SELO<br/>P-value:7.37e-14<br/>Zscore:4.99<br/>#EST:19<br/>Adj. #EST:10.25

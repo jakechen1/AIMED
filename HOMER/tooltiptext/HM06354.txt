@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06354<br/>GeneSymbol:GNA12<br/>P-value:5.48e-07<br/>Zscore:6.23<br/>#EST:10<br/>Adj. #EST:8.3

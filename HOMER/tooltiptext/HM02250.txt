@@ -1,0 +1,1 @@
+thymus	HMID:HM02250<br/>GeneSymbol:NARF<br/>P-value:2.66e-29<br/>Zscore:5.63<br/>#EST:59<br/>Adj. #EST:6.59

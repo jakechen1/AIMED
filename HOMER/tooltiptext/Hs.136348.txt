@@ -1,0 +1,1 @@
+leiomios	HMID:HM05237<br/>GeneSymbol:POSTN<br/>P-value:5.63e-28<br/>Zscore:6.26<br/>#EST:23<br/>Adj. #EST:35.74

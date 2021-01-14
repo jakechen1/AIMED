@@ -1,0 +1,1 @@
+larynx	HMID:HM01221<br/>GeneSymbol:KRT6C<br/>P-value:2.16e-56<br/>Zscore:6.54<br/>#EST:37<br/>Adj. #EST:69.19

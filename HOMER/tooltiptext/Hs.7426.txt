@@ -1,0 +1,1 @@
+nerve	HMID:HM00367<br/>GeneSymbol:HAUS5<br/>P-value:1.83e-07<br/>Zscore:4.99<br/>#EST:11<br/>Adj. #EST:7.94

@@ -1,0 +1,1 @@
+bladder	HMID:HM06596<br/>GeneSymbol:CD24<br/>P-value:3.88e-64<br/>Zscore:4.84<br/>#EST:94<br/>Adj. #EST:11.12

@@ -1,0 +1,1 @@
+lymph node	HMID:HM06364<br/>GeneSymbol:SMC6<br/>P-value:5.86e-07<br/>Zscore:4.27<br/>#EST:15<br/>Adj. #EST:4.93

@@ -1,0 +1,1 @@
+muscle	HMID:HM03963<br/>GeneSymbol:NCRNA00116<br/>P-value:7.64e-16<br/>Zscore:6.24<br/>#EST:17<br/>Adj. #EST:15.28

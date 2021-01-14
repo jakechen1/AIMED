@@ -1,0 +1,1 @@
+brain	HMID:HM07459<br/>GeneSymbol:BCAS1<br/>P-value:2.57e-255<br/>Zscore:4.07<br/>#EST:496<br/>Adj. #EST:4.62

@@ -1,0 +1,1 @@
+heart	HMID:HM04341<br/>GeneSymbol:FSD2<br/>P-value:2.41e-14<br/>Zscore:6.44<br/>#EST:11<br/>Adj. #EST:27.99

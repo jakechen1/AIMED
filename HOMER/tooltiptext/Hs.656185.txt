@@ -1,0 +1,1 @@
+thymus	HMID:HM04466<br/>GeneSymbol:ZNF266<br/>P-value:1.42e-21<br/>Zscore:5.26<br/>#EST:36<br/>Adj. #EST:8.17

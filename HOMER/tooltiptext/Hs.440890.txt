@@ -1,0 +1,1 @@
+blood	HMID:HM02654<br/>GeneSymbol:RGS18<br/>P-value:9.09e-14<br/>Zscore:5.5<br/>#EST:16<br/>Adj. #EST:12.61

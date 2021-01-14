@@ -1,0 +1,1 @@
+nerve	HMID:HM05030<br/>GeneSymbol:TH<br/>P-value:1.04e-25<br/>Zscore:6.93<br/>#EST:18<br/>Adj. #EST:44.34

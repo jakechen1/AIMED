@@ -1,0 +1,1 @@
+blood	HMID:HM04063<br/>GeneSymbol:LILRA6<br/>P-value:3.34e-19<br/>Zscore:5.79<br/>#EST:23<br/>Adj. #EST:12.67

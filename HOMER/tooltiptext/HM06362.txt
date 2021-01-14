@@ -1,0 +1,1 @@
+lung	HMID:HM06362<br/>GeneSymbol:HSPB9<br/>P-value:5.79e-07<br/>Zscore:4.05<br/>#EST:11<br/>Adj. #EST:6.25

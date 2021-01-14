@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01259<br/>GeneSymbol:VDR<br/>P-value:1.28e-54<br/>Zscore:7.02<br/>#EST:40<br/>Adj. #EST:51.12

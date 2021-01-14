@@ -1,0 +1,1 @@
+thyroid	HMID:HM02082<br/>GeneSymbol:KCNJ15<br/>P-value:1.82e-12<br/>Zscore:5.49<br/>#EST:13<br/>Adj. #EST:16.53

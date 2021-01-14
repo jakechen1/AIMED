@@ -1,0 +1,1 @@
+trachea	HMID:HM05604<br/>GeneSymbol:IL2RB<br/>P-value:8.66e-10<br/>Zscore:4.45<br/>#EST:14<br/>Adj. #EST:9.02

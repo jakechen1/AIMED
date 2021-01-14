@@ -1,0 +1,1 @@
+spleen	HMID:HM00484<br/>GeneSymbol:TMED6<br/>P-value:6.39e-08<br/>Zscore:4.47<br/>#EST:12<br/>Adj. #EST:6.86

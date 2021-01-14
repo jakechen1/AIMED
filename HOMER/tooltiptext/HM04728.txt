@@ -1,0 +1,1 @@
+lymph node	HMID:HM04728<br/>GeneSymbol:SUSD3<br/>P-value:8.69e-13<br/>Zscore:5.01<br/>#EST:16<br/>Adj. #EST:11.51

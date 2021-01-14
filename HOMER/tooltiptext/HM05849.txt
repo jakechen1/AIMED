@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05849<br/>GeneSymbol:UQCRH<br/>P-value:6.17e-09<br/>Zscore:5.5<br/>#EST:16<br/>Adj. #EST:6.61

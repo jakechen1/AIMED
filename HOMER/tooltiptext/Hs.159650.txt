@@ -1,0 +1,1 @@
+testis	HMID:HM06507<br/>GeneSymbol:IQUB<br/>P-value:7.77e-59<br/>Zscore:6.72<br/>#EST:58<br/>Adj. #EST:12.62

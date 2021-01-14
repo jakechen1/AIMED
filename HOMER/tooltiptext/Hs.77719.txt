@@ -1,0 +1,1 @@
+mouth	HMID:HM01057<br/>GeneSymbol:GGCX<br/>P-value:9.78e-10<br/>Zscore:5.37<br/>#EST:19<br/>Adj. #EST:5.97

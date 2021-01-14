@@ -1,0 +1,1 @@
+colon	HMID:HM06326<br/>GeneSymbol:PYGB<br/>P-value:4.99e-51<br/>Zscore:4.61<br/>#EST:118<br/>Adj. #EST:5.56

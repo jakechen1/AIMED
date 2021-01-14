@@ -1,0 +1,1 @@
+stomach	HMID:HM04764<br/>GeneSymbol:DHDPSL<br/>P-value:2.11e-23<br/>Zscore:5.22<br/>#EST:30<br/>Adj. #EST:11.28

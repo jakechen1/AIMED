@@ -1,0 +1,1 @@
+trachea	HMID:HM02071<br/>GeneSymbol:CNST<br/>P-value:1.99e-12<br/>Zscore:5.05<br/>#EST:22<br/>Adj. #EST:7.08

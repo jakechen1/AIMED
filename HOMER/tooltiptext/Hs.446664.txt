@@ -1,0 +1,1 @@
+nerve	HMID:HM01078<br/>GeneSymbol:TMEM198<br/>P-value:8.69e-10<br/>Zscore:6.46<br/>#EST:13<br/>Adj. #EST:9.99

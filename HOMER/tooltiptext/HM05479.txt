@@ -1,0 +1,1 @@
+placenta	HMID:HM05479<br/>GeneSymbol:NRK<br/>P-value:3.48e-10<br/>Zscore:4.34<br/>#EST:23<br/>Adj. #EST:4.82

@@ -1,0 +1,2 @@
+bone marrow	HMID:HM02841<br/>GeneSymbol:TFEB<br/>P-value:1.59e-14<br/>Zscore:4.13<br/>#EST:19<br/>Adj. #EST:11.16
+lymph	HMID:HM01530<br/>GeneSymbol:TFEB<br/>P-value:4.62e-11<br/>Zscore:4.18<br/>#EST:14<br/>Adj. #EST:11.27

@@ -1,0 +1,1 @@
+pharynx	HMID:HM05633<br/>GeneSymbol:SPOP<br/>P-value:1.11e-09<br/>Zscore:4.07<br/>#EST:26<br/>Adj. #EST:4.33

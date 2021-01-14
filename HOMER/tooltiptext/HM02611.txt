@@ -1,0 +1,1 @@
+eye	HMID:HM02611<br/>GeneSymbol:CRYBB3<br/>P-value:8.42e-25<br/>Zscore:7.05<br/>#EST:18<br/>Adj. #EST:26.1

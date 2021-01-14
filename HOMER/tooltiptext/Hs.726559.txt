@@ -1,0 +1,1 @@
+blood	HMID:HM04492<br/>GeneSymbol:UNC93B1<br/>P-value:9.87e-22<br/>Zscore:4.06<br/>#EST:52<br/>Adj. #EST:5.19

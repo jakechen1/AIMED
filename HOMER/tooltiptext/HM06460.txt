@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06460<br/>GeneSymbol:KDM1B<br/>P-value:1.53e-06<br/>Zscore:4.16<br/>#EST:11<br/>Adj. #EST:6.41

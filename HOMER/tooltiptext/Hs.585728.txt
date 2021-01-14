@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02013<br/>GeneSymbol:NIP7<br/>P-value:3.02e-12<br/>Zscore:4.65<br/>#EST:20<br/>Adj. #EST:7.79

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04817<br/>GeneSymbol:NDFIP1<br/>P-value:1.73e-12<br/>Zscore:6.08<br/>#EST:23<br/>Adj. #EST:6.83

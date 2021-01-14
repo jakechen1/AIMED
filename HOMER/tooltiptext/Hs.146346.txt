@@ -1,0 +1,1 @@
+placenta	HMID:HM06376<br/>GeneSymbol:CCBP2<br/>P-value:2.93e-53<br/>Zscore:5.58<br/>#EST:51<br/>Adj. #EST:17.03

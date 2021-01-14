@@ -1,0 +1,1 @@
+testis	HMID:HM02779<br/>GeneSymbol:LOC100289379<br/>P-value:1.66e-23<br/>Zscore:6.68<br/>#EST:24<br/>Adj. #EST:11.81

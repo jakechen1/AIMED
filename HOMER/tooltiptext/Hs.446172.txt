@@ -1,0 +1,1 @@
+placenta	HMID:HM06368<br/>GeneSymbol:ZFAT<br/>P-value:6.04e-53<br/>Zscore:4.16<br/>#EST:77<br/>Adj. #EST:9.37

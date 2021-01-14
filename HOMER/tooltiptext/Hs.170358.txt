@@ -1,0 +1,1 @@
+lung	HMID:HM01966<br/>GeneSymbol:FLJ16341<br/>P-value:3.49e-12<br/>Zscore:6.92<br/>#EST:11<br/>Adj. #EST:14.57

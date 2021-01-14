@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM07015<br/>GeneSymbol:ITGA5<br/>P-value:4.46e-99<br/>Zscore:6.88<br/>#EST:81<br/>Adj. #EST:40.11

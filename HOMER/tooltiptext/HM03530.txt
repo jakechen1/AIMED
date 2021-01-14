@@ -1,0 +1,1 @@
+testis	HMID:HM03530<br/>GeneSymbol:ATP6V1E2<br/>P-value:3.64e-18<br/>Zscore:6.18<br/>#EST:22<br/>Adj. #EST:9.51

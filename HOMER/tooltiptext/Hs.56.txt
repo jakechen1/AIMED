@@ -1,0 +1,1 @@
+thymus	HMID:HM03652<br/>GeneSymbol:PRPS1<br/>P-value:3.01e-17<br/>Zscore:4.57<br/>#EST:47<br/>Adj. #EST:4.56

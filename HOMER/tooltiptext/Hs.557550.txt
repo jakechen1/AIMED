@@ -1,0 +1,1 @@
+bone marrow	HMID:HM07426<br/>GeneSymbol:NPM1<br/>P-value:4.82e-226<br/>Zscore:4.19<br/>#EST:410<br/>Adj. #EST:8.14

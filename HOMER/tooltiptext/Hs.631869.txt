@@ -1,0 +1,1 @@
+pancreas	HMID:HM07144<br/>GeneSymbol:CTRC<br/>P-value:8.98e-118<br/>Zscore:6.93<br/>#EST:99<br/>Adj. #EST:22.84

@@ -1,0 +1,1 @@
+placenta	HMID:HM03575<br/>GeneSymbol:DEPDC1B<br/>P-value:7.14e-17<br/>Zscore:4.77<br/>#EST:31<br/>Adj. #EST:6.43

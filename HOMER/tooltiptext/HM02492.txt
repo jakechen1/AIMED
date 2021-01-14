@@ -1,0 +1,1 @@
+trachea	HMID:HM02492<br/>GeneSymbol:AMD1<br/>P-value:3.73e-26<br/>Zscore:5.56<br/>#EST:56<br/>Adj. #EST:6.15

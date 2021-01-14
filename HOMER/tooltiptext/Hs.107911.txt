@@ -1,0 +1,1 @@
+ovary	HMID:HM05591<br/>GeneSymbol:ABCB6<br/>P-value:5.12e-33<br/>Zscore:5.55<br/>#EST:51<br/>Adj. #EST:9.38

@@ -1,0 +1,1 @@
+testis	HMID:HM05569<br/>GeneSymbol:HOXA1<br/>P-value:1.18e-32<br/>Zscore:6.16<br/>#EST:40<br/>Adj. #EST:9.75

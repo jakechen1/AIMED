@@ -1,0 +1,1 @@
+trachea	HMID:HM03403<br/>GeneSymbol:TMEM30A<br/>P-value:4.56e-16<br/>Zscore:4.44<br/>#EST:42<br/>Adj. #EST:4.75

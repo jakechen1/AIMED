@@ -1,0 +1,1 @@
+tonsil	HMID:HM00437<br/>GeneSymbol:PRR13<br/>P-value:9.01e-08<br/>Zscore:4.7<br/>#EST:12<br/>Adj. #EST:7.73

@@ -1,0 +1,1 @@
+thymus	HMID:HM03232<br/>GeneSymbol:BCL2L12<br/>P-value:4.08e-20<br/>Zscore:4.38<br/>#EST:34<br/>Adj. #EST:7.95

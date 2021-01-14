@@ -1,0 +1,1 @@
+liver	HMID:HM02932<br/>GeneSymbol:PON3<br/>P-value:2.7e-22<br/>Zscore:5.42<br/>#EST:35<br/>Adj. #EST:7.86

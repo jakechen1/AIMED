@@ -1,0 +1,1 @@
+pancreas	HMID:HM01858<br/>GeneSymbol:SYCN<br/>P-value:5.32e-36<br/>Zscore:6.36<br/>#EST:33<br/>Adj. #EST:19.02

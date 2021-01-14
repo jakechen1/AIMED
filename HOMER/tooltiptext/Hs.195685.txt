@@ -1,0 +1,1 @@
+testis	HMID:HM05033<br/>GeneSymbol:CMTM2<br/>P-value:9.2e-26<br/>Zscore:4.67<br/>#EST:35<br/>Adj. #EST:8.53

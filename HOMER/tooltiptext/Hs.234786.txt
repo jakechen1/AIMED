@@ -1,0 +1,1 @@
+kidney	HMID:HM06129<br/>GeneSymbol:FAM151A<br/>P-value:2.63e-44<br/>Zscore:5.59<br/>#EST:51<br/>Adj. #EST:13.54

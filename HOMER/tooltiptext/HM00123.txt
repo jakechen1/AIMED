@@ -1,0 +1,2 @@
+bone	HMID:HM00123<br/>GeneSymbol:SKAP2<br/>P-value:0<br/>Zscore:4.01<br/>#EST:613<br/>Adj. #EST:18.34
+lymph	HMID:HM00123<br/>GeneSymbol:SKAP2<br/>P-value:0<br/>Zscore:5.23<br/>#EST:291<br/>Adj. #EST:23.44

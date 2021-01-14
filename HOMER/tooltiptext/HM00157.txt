@@ -1,0 +1,2 @@
+small intestine	HMID:HM00157<br/>GeneSymbol:<br/>P-value:0<br/>Zscore:4.26<br/>#EST:182<br/>Adj. #EST:16.83
+stomach	HMID:HM00157<br/>GeneSymbol:<br/>P-value:0<br/>Zscore:5.12<br/>#EST:741<br/>Adj. #EST:19.98

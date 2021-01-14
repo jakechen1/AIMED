@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02337<br/>GeneSymbol:S100A12<br/>P-value:3.63e-28<br/>Zscore:6.67<br/>#EST:21<br/>Adj. #EST:38.2

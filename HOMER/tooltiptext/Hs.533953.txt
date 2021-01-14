@@ -1,0 +1,1 @@
+thyroid	HMID:HM00315<br/>GeneSymbol:KIAA1462<br/>P-value:2.73e-07<br/>Zscore:4.28<br/>#EST:12<br/>Adj. #EST:6.88

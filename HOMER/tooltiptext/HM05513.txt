@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05513<br/>GeneSymbol:LYRM5<br/>P-value:4.6e-10<br/>Zscore:5.29<br/>#EST:12<br/>Adj. #EST:12.45

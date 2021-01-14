@@ -1,0 +1,2 @@
+esophagus	HMID:HM04607<br/>GeneSymbol:TGM3<br/>P-value:2.28e-22<br/>Zscore:4.44<br/>#EST:16<br/>Adj. #EST:48.59
+mouth	HMID:HM06837<br/>GeneSymbol:TGM3<br/>P-value:6.39e-81<br/>Zscore:4.71<br/>#EST:56<br/>Adj. #EST:51.29

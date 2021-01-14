@@ -1,0 +1,1 @@
+brain	HMID:HM04062<br/>GeneSymbol:NKX6-2<br/>P-value:1.92e-15<br/>Zscore:6.49<br/>#EST:25<br/>Adj. #EST:4.86

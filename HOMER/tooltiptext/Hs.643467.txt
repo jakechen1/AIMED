@@ -1,0 +1,1 @@
+kidney	HMID:HM06480<br/>GeneSymbol:SLC23A1<br/>P-value:1.29e-57<br/>Zscore:5.1<br/>#EST:61<br/>Adj. #EST:15.64

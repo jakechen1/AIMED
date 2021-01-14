@@ -1,0 +1,1 @@
+pharynx	HMID:HM00864<br/>GeneSymbol:MYOF<br/>P-value:8.18e-79<br/>Zscore:6.55<br/>#EST:78<br/>Adj. #EST:23.39

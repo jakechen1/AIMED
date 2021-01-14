@@ -1,0 +1,1 @@
+spleen	HMID:HM06021<br/>GeneSymbol:UBE2T<br/>P-value:1.13e-41<br/>Zscore:4.73<br/>#EST:84<br/>Adj. #EST:6.03

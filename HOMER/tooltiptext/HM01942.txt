@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01942<br/>GeneSymbol:PLCE1<br/>P-value:2.54e-34<br/>Zscore:6.68<br/>#EST:36<br/>Adj. #EST:18.17

@@ -1,0 +1,1 @@
+leiomios	HMID:HM01701<br/>GeneSymbol:GAPDH<br/>P-value:1.51e-11<br/>Zscore:4.47<br/>#EST:16<br/>Adj. #EST:10.13

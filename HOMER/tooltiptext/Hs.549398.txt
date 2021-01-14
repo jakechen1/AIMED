@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03843<br/>GeneSymbol:C4orf47<br/>P-value:4.55e-18<br/>Zscore:6.97<br/>#EST:14<br/>Adj. #EST:31.53

@@ -1,0 +1,1 @@
+nerve	HMID:HM06030<br/>GeneSymbol:KLHL22<br/>P-value:3.06e-08<br/>Zscore:4.06<br/>#EST:20<br/>Adj. #EST:4.58

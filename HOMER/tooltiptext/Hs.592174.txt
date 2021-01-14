@@ -1,0 +1,1 @@
+trachea	HMID:HM00774<br/>GeneSymbol:TMEM184A<br/>P-value:7.13e-09<br/>Zscore:4.79<br/>#EST:12<br/>Adj. #EST:9.57

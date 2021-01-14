@@ -1,0 +1,1 @@
+heart	HMID:HM03824<br/>GeneSymbol:KRT25<br/>P-value:5.1e-18<br/>Zscore:7.07<br/>#EST:10<br/>Adj. #EST:53.61

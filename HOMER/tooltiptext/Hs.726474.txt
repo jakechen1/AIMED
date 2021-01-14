@@ -1,0 +1,1 @@
+spleen	HMID:HM03618<br/>GeneSymbol:CYP4A11<br/>P-value:4.96e-17<br/>Zscore:5.87<br/>#EST:18<br/>Adj. #EST:12.51

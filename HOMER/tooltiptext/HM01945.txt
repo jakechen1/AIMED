@@ -1,0 +1,1 @@
+testis	HMID:HM01945<br/>GeneSymbol:OXCT2<br/>P-value:2.81e-34<br/>Zscore:6.99<br/>#EST:36<br/>Adj. #EST:11.67

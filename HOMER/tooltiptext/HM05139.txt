@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05139<br/>GeneSymbol:RARRES2<br/>P-value:1.97e-11<br/>Zscore:4.53<br/>#EST:12<br/>Adj. #EST:16.38

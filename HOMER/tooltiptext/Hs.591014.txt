@@ -1,0 +1,1 @@
+blood	HMID:HM05981<br/>GeneSymbol:SELPLG<br/>P-value:1.31e-40<br/>Zscore:4.45<br/>#EST:71<br/>Adj. #EST:7.8

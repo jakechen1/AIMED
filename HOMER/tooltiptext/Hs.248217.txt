@@ -1,0 +1,1 @@
+pancreas	HMID:HM05863<br/>GeneSymbol:RBPJL<br/>P-value:4.3e-38<br/>Zscore:6.8<br/>#EST:29<br/>Adj. #EST:25.39

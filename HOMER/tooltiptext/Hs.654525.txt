@@ -1,0 +1,1 @@
+lymph	HMID:HM05421<br/>GeneSymbol:POU2AF1<br/>P-value:2.45e-30<br/>Zscore:5.28<br/>#EST:26<br/>Adj. #EST:29.42

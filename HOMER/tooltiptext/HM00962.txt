@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00962<br/>GeneSymbol:KHDRBS3<br/>P-value:1.08e-70<br/>Zscore:6.8<br/>#EST:66<br/>Adj. #EST:24.11

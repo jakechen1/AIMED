@@ -1,0 +1,1 @@
+stomach	HMID:HM05642<br/>GeneSymbol:STK40<br/>P-value:8.98e-34<br/>Zscore:4.19<br/>#EST:85<br/>Adj. #EST:5.02

@@ -1,0 +1,1 @@
+muscle	HMID:HM00018<br/>GeneSymbol:WSCD1<br/>P-value:7.71e-06<br/>Zscore:4.33<br/>#EST:13<br/>Adj. #EST:4.52

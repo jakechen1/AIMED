@@ -1,0 +1,1 @@
+heart	HMID:HM03360<br/>GeneSymbol:KRT74<br/>P-value:2.91e-19<br/>Zscore:7.07<br/>#EST:12<br/>Adj. #EST:43.62

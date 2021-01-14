@@ -1,0 +1,1 @@
+tonsil	HMID:HM06524<br/>GeneSymbol:GNPAT<br/>P-value:4.44e-06<br/>Zscore:5.09<br/>#EST:12<br/>Adj. #EST:5.31

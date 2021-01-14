@@ -1,0 +1,1 @@
+breast	HMID:HM02538<br/>GeneSymbol:UGCG<br/>P-value:1.26e-25<br/>Zscore:4.92<br/>#EST:44<br/>Adj. #EST:7.59

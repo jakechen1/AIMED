@@ -1,0 +1,1 @@
+skin	HMID:HM06834<br/>GeneSymbol:ADRM1<br/>P-value:8.64e-81<br/>Zscore:5.35<br/>#EST:192<br/>Adj. #EST:5.38

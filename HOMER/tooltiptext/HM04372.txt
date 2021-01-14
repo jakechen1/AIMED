@@ -1,0 +1,1 @@
+eye	HMID:HM04372<br/>GeneSymbol:SLC38A3<br/>P-value:3.31e-14<br/>Zscore:4.93<br/>#EST:27<br/>Adj. #EST:6.17

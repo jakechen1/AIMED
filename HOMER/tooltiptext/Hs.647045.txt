@@ -1,0 +1,1 @@
+stomach	HMID:HM02504<br/>GeneSymbol:ABHD11<br/>P-value:2.52e-13<br/>Zscore:4.06<br/>#EST:25<br/>Adj. #EST:6.31

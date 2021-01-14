@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/homer.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+    <meta name="keywords" content="organ-specific" />
+    <meta name="description" content="Homer£º Human Organ-specific Molecular Electrical Repository" />
+    <meta name="author" content="Jake Y. Chen, Fan Zhang" />
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Homer: Human Organ-specific Molecular Electrical Repository</title>
+    <!-- InstanceEndEditable -->
+    
+    <!-- InstanceBeginEditable name="head" -->
+<style type="text/css" media="screen">
+        @import "site_jui.css";
+    </style>
+    <!-- InstanceEndEditable -->
+</head>
+<body id="index" class="grid_2_3">
+    <div id="fw_container">
+        <div id="fw_header">
+            <h1>
+                <a href="index">
+                    <img src="homer.jpg" alt="Homer logo" width="77px" height="75px">Homer</a>
+            </h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="browse.html">Browse</a></li>
+                <li><a href="advsearch.html">Advanced Search</a></li>
+                <li><a href="download.html">Download</a></li>
+                <li><a href="help.html">Help</a></li>
+                <li><a href="statistics.html">Statistics</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+            <div class="css_clear">
+            </div>
+        </div>
+        <div id="fw_content">
+          <!-- InstanceBeginEditable name="EditRegion1" -->
+		<div  style="width:100%;border:1px solid #c3d1ec; -moz-border-radius:1em;">
+        <p>&nbsp;</p>
+        <table width="100%" height="97">
+          <tr>
+            <td width="72">&nbsp;</td>
+            <td width="744"><h1>Advanced Search</h1>
+              <p>Enter a Unigene ID such as Hs.73849, a Entrenz Gene ID such as 345, or Gene Name
+              APOC3 of a gene , or a Uniprot ID such as APOC3_HUMAN or IPI ID such as IPI00021857
+            of a protein. </p>
+            <p>To enter multiple values delimit them by comma,semi-colon or space. <br />
+              Examples: 1) TNF 2) BRCA1_HUMAN, FOXA1_HUMAN, STK6_HUMAN 3) brca1,tnf,atm,pcna            </p></td>
+            <td width="148">&nbsp;</td>
+          </tr>
+          <tr>
+          
+          
+          <td></td>
+            
+            <td>
+
+			</td>
+            <td valign="top"><p><a href="browse.html">Browse</a></p>
+            <p><a href="advsearch.html">Advanced Search</a></p></td>
+          </tr>
+        </table>
+                    <form action="AdvSearch.php" method="post">
+                <table>
+          		<tr>
+	                <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Gene/Protein:&nbsp;&nbsp;</td>
+       			  <td width="544"><input name="term0" type="text" value="IPI00021857" style="font-family:Calibri; font-size:2em; width:16em" /></td>
+          		</tr>
+                <tr>
+                <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Organ:&nbsp;&nbsp;</td>
+          			<td width="544"><input name="term1" type="text" value="IPI00021857" style="font-family:Calibri; font-size:2em; width:16em" /></td>
+          		</tr>
+                <tr>
+                <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Disease:&nbsp;&nbsp;</td>
+          			<td width="544"><input name="term2" type="text" value="IPI00021857" style="font-family:Calibri; font-size:2em; width:16em" /></td>
+          		</tr>
+                
+                <tr>
+                <td width="72">&nbsp;</td>
+          			<td width="200" align="right">dbEST Library Name:&nbsp;&nbsp;</td>
+          			<td width="544"><input name="term3" type="text" value="IPI00021857" style="font-family:Calibri; font-size:2em; width:16em" /></td>
+          		</tr>
+                
+                 <tr>
+                 <td width="72">&nbsp;</td>
+          			<td width="200" align="right">P-value:&nbsp;&nbsp;</td>
+          			<td width="544" ><input name="term4" type="text" value="min" style="font-family:Calibri; font-size:2em; width:6em" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input name="term5" type="text" value="max" style="font-family:Calibri; font-size:2em; width:6em" />                     
+                    </td>           
+           		</tr>
+                
+                  <tr>
+                  <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Zscore:&nbsp;&nbsp;</td>
+          			<td width="544" ><input name="term6" type="text" value="min" style="font-family:Calibri; font-size:2em; width:6em" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input name="term7" type="text" value="max" style="font-family:Calibri; font-size:2em; width:6em" />                     
+                    </td>           
+           		</tr>
+                
+                 <tr>
+                 <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Absolute Expression:&nbsp;&nbsp;</td>
+          			<td width="544" ><input name="term8" type="text" value="min" style="font-family:Calibri; font-size:2em; width:6em" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input name="term9" type="text" value="max" style="font-family:Calibri; font-size:2em; width:6em" />                     
+                    </td>           
+           		</tr>
+                
+                                  <tr>
+                                  <td width="72">&nbsp;</td>
+          			<td width="200" align="right">Relative Expression:&nbsp;&nbsp;</td>
+          			<td width="544" ><input name="term10" type="text" value="min" style="font-family:Calibri; font-size:2em; width:6em" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input name="term11" type="text" value="max" style="font-family:Calibri; font-size:2em; width:6em" />                     
+                    </td>           
+           		</tr>      
+                
+                
+                <tr>
+                <td width="72">&nbsp;</td>
+          			<td width="200"><input type="submit" value="Search" style="font-size:1.4em; width:4em" /></td>
+          			<td width="544"></td>
+          		</tr>
+                
+          		</table>              
+			</form>
+        <p>&nbsp;</p>
+		</div>
+		<!-- InstanceEndEditable -->
+        
+        </div>
+        
+        <div class="css_clear">
+        </div>       
+        
+        <div class="css_spacing">
+        </div>
+        <div class="css_clear">
+        </div>
+        <div id="fw_footer">
+            <div class="css_center">
+                Copyright 2011 - <a href="http://bio.informatics.iupui.edu/index.stm">Discovery Informatics
+                    and Computing Group</a>
+            </div>
+        </div>
+    </div>
+</body>
+<!-- InstanceEnd --></html>

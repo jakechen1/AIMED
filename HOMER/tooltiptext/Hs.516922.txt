@@ -1,0 +1,1 @@
+pancreas	HMID:HM06392<br/>GeneSymbol:NKX2-2<br/>P-value:5.92e-54<br/>Zscore:6.99<br/>#EST:43<br/>Adj. #EST:24.15

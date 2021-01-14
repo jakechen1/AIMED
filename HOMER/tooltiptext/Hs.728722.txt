@@ -1,0 +1,1 @@
+pharynx	HMID:HM06670<br/>GeneSymbol:CKAP2<br/>P-value:6.11e-69<br/>Zscore:6.23<br/>#EST:48<br/>Adj. #EST:55.53

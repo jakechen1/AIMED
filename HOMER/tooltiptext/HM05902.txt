@@ -1,0 +1,1 @@
+nerve	HMID:HM05902<br/>GeneSymbol:ZNRF3<br/>P-value:9.97e-09<br/>Zscore:5.6<br/>#EST:13<br/>Adj. #EST:8.18

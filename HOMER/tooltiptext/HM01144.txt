@@ -1,0 +1,1 @@
+spleen	HMID:HM01144<br/>GeneSymbol:FETUB<br/>P-value:7.67e-60<br/>Zscore:5.69<br/>#EST:64<br/>Adj. #EST:16.68

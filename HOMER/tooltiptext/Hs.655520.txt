@@ -1,0 +1,1 @@
+testis	HMID:HM02815<br/>GeneSymbol:LEMD1<br/>P-value:1.94e-14<br/>Zscore:5.41<br/>#EST:19<br/>Adj. #EST:8.39

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07224<br/>GeneSymbol:MDM1<br/>P-value:6.41e-138<br/>Zscore:6.96<br/>#EST:117<br/>Adj. #EST:30.58

@@ -1,0 +1,1 @@
+leiomios	HMID:HM02432<br/>GeneSymbol:NGRN<br/>P-value:4.44e-13<br/>Zscore:6.69<br/>#EST:15<br/>Adj. #EST:14.48

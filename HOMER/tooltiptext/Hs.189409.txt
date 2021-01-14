@@ -1,0 +1,1 @@
+lymph node	HMID:HM05974<br/>GeneSymbol:FNBP1<br/>P-value:1.85e-40<br/>Zscore:5.96<br/>#EST:65<br/>Adj. #EST:9.05

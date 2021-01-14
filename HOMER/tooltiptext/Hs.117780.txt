@@ -1,0 +1,1 @@
+brain	HMID:HM02102<br/>GeneSymbol:KCNS1<br/>P-value:1.71e-12<br/>Zscore:5.15<br/>#EST:26<br/>Adj. #EST:4.06

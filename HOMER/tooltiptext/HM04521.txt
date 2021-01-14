@@ -1,0 +1,1 @@
+uterus	HMID:HM04521<br/>GeneSymbol:TRPC4<br/>P-value:1.61e-13<br/>Zscore:5.65<br/>#EST:19<br/>Adj. #EST:8.66

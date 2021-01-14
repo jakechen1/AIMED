@@ -1,0 +1,1 @@
+muscle	HMID:HM03977<br/>GeneSymbol:RTN2<br/>P-value:8.89e-16<br/>Zscore:4.91<br/>#EST:25<br/>Adj. #EST:8.27

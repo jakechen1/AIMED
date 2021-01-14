@@ -1,0 +1,1 @@
+colon	HMID:HM04072<br/>GeneSymbol:MST1R<br/>P-value:2.11e-15<br/>Zscore:4.64<br/>#EST:21<br/>Adj. #EST:9.69

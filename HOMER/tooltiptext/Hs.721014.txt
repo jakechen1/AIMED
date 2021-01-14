@@ -1,0 +1,1 @@
+tonsil	HMID:HM03060<br/>GeneSymbol:<br/>P-value:3.96e-15<br/>Zscore:4.12<br/>#EST:29<br/>Adj. #EST:6.7

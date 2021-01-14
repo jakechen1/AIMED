@@ -1,0 +1,1 @@
+trachea	HMID:HM01935<br/>GeneSymbol:CTNNB1<br/>P-value:1.94e-34<br/>Zscore:4.46<br/>#EST:66<br/>Adj. #EST:7.18

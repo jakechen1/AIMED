@@ -1,0 +1,1 @@
+thyroid	HMID:HM03967<br/>GeneSymbol:IGFN1<br/>P-value:8.07e-16<br/>Zscore:5.47<br/>#EST:12<br/>Adj. #EST:35.44

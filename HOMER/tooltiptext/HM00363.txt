@@ -1,0 +1,1 @@
+liver	HMID:HM00363<br/>GeneSymbol:CYP2C8<br/>P-value:0<br/>Zscore:6.81<br/>#EST:162<br/>Adj. #EST:16.98

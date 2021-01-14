@@ -1,0 +1,1 @@
+mouth	HMID:HM01866<br/>GeneSymbol:MYO1B<br/>P-value:8.38e-36<br/>Zscore:6.01<br/>#EST:50<br/>Adj. #EST:11.26

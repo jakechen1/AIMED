@@ -1,0 +1,2 @@
+amnion	HMID:HM01939<br/>GeneSymbol:LRRC49<br/>P-value:4.42e-12<br/>Zscore:4.61<br/>#EST:11<br/>Adj. #EST:22.94
+blood vessel	HMID:HM07279<br/>GeneSymbol:LRRC49<br/>P-value:1.86e-153<br/>Zscore:4.92<br/>#EST:145<br/>Adj. #EST:24.4

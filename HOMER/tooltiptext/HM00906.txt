@@ -1,0 +1,1 @@
+lymph	HMID:HM00906<br/>GeneSymbol:PVRIG<br/>P-value:1.32e-74<br/>Zscore:6.91<br/>#EST:53<br/>Adj. #EST:50.03

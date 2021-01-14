@@ -1,0 +1,2 @@
+amnion	HMID:HM00952<br/>GeneSymbol:PSMD8<br/>P-value:2.08e-09<br/>Zscore:5.1<br/>#EST:12<br/>Adj. #EST:10.98
+bone marrow	HMID:HM06503<br/>GeneSymbol:PSMD8<br/>P-value:1.18e-58<br/>Zscore:4.04<br/>#EST:97<br/>Adj. #EST:8.96

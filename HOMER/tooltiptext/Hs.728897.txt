@@ -1,0 +1,1 @@
+placenta	HMID:HM07380<br/>GeneSymbol:CGB5<br/>P-value:4.41e-199<br/>Zscore:7.06<br/>#EST:161<br/>Adj. #EST:21.98

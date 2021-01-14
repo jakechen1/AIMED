@@ -1,0 +1,1 @@
+lung	HMID:HM06197<br/>GeneSymbol:ZNF467<br/>P-value:3.77e-46<br/>Zscore:5.51<br/>#EST:72<br/>Adj. #EST:8.04

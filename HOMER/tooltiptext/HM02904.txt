@@ -1,0 +1,1 @@
+amnion	HMID:HM02904<br/>GeneSymbol:RPL37<br/>P-value:1.42e-22<br/>Zscore:5.89<br/>#EST:28<br/>Adj. #EST:13.83

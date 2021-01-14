@@ -1,0 +1,1 @@
+testis	HMID:HM00674<br/>GeneSymbol:TKTL2<br/>P-value:1.85e-99<br/>Zscore:7.05<br/>#EST:97<br/>Adj. #EST:12.93

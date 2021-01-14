@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05207<br/>GeneSymbol:COMMD1<br/>P-value:1.3e-27<br/>Zscore:4.61<br/>#EST:35<br/>Adj. #EST:12.7

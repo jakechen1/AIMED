@@ -1,0 +1,1 @@
+tonsil	HMID:HM06358<br/>GeneSymbol:SLC25A3<br/>P-value:2.03e-52<br/>Zscore:5.94<br/>#EST:83<br/>Adj. #EST:9.81

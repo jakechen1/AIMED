@@ -1,0 +1,1 @@
+lymph	HMID:HM03621<br/>GeneSymbol:C3orf37<br/>P-value:4.76e-17<br/>Zscore:4.65<br/>#EST:29<br/>Adj. #EST:7.85

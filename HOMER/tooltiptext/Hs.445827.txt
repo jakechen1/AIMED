@@ -1,0 +1,1 @@
+leiomios	HMID:HM05291<br/>GeneSymbol:COL5A2<br/>P-value:1.01e-28<br/>Zscore:6.93<br/>#EST:23<br/>Adj. #EST:38.53

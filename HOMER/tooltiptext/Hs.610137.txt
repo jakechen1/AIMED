@@ -1,0 +1,1 @@
+lymph	HMID:HM07492<br/>GeneSymbol:SKAP2<br/>P-value:1.11e-297<br/>Zscore:5.57<br/>#EST:291<br/>Adj. #EST:24.56

@@ -1,0 +1,1 @@
+lymph node	HMID:HM00190<br/>GeneSymbol:RPTOR<br/>P-value:7.77e-07<br/>Zscore:4.63<br/>#EST:14<br/>Adj. #EST:5.17

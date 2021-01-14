@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04334<br/>GeneSymbol:TRIM55<br/>P-value:7.89e-21<br/>Zscore:6.54<br/>#EST:19<br/>Adj. #EST:22.73

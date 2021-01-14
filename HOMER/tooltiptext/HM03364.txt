@@ -1,0 +1,1 @@
+testis	HMID:HM03364<br/>GeneSymbol:CLEC12B<br/>P-value:3.09e-19<br/>Zscore:6.99<br/>#EST:20<br/>Adj. #EST:11.41

@@ -1,0 +1,1 @@
+eye	HMID:HM04945<br/>GeneSymbol:BRSK2<br/>P-value:4.15e-12<br/>Zscore:5.78<br/>#EST:21<br/>Adj. #EST:6.69

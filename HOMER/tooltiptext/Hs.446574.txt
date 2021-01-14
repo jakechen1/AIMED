@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03584<br/>GeneSymbol:TMSB10<br/>P-value:6.43e-17<br/>Zscore:4.83<br/>#EST:29<br/>Adj. #EST:7.9

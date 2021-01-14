@@ -1,0 +1,1 @@
+amnion	HMID:HM03640<br/>GeneSymbol:CAPZA1<br/>P-value:3.87e-17<br/>Zscore:6.69<br/>#EST:17<br/>Adj. #EST:20.68

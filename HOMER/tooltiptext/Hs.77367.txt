@@ -1,0 +1,1 @@
+thymus	HMID:HM02785<br/>GeneSymbol:CXCL9<br/>P-value:2.45e-14<br/>Zscore:4.86<br/>#EST:23<br/>Adj. #EST:8.16

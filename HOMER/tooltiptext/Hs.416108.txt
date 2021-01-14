@@ -1,0 +1,1 @@
+lymph node	HMID:HM00999<br/>GeneSymbol:CDK12<br/>P-value:1.58e-09<br/>Zscore:4.51<br/>#EST:19<br/>Adj. #EST:5.75

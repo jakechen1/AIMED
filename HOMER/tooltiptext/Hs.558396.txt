@@ -1,0 +1,1 @@
+adipose	HMID:HM06905<br/>GeneSymbol:SCD<br/>P-value:3.1e-88<br/>Zscore:6.71<br/>#EST:103<br/>Adj. #EST:17.27

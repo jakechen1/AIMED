@@ -1,0 +1,1 @@
+brain	HMID:HM04413<br/>GeneSymbol:KCNQ2<br/>P-value:4.96e-14<br/>Zscore:4.39<br/>#EST:29<br/>Adj. #EST:4.08

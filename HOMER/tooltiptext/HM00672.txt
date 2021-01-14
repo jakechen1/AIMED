@@ -1,0 +1,1 @@
+muscle	HMID:HM00672<br/>GeneSymbol:SHMT2<br/>P-value:0<br/>Zscore:6.36<br/>#EST:440<br/>Adj. #EST:11.71

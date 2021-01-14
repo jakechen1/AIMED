@@ -1,0 +1,1 @@
+embryo	HMID:HM00685<br/>GeneSymbol:MDK<br/>P-value:2.98e-98<br/>Zscore:5.46<br/>#EST:169<br/>Adj. #EST:7.77

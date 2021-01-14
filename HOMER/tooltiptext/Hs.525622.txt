@@ -1,0 +1,1 @@
+salivary gland	HMID:HM02619<br/>GeneSymbol:AKT1<br/>P-value:1.12e-13<br/>Zscore:5.09<br/>#EST:22<br/>Adj. #EST:8.32

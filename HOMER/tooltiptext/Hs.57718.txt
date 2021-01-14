@@ -1,0 +1,1 @@
+brain	HMID:HM06890<br/>GeneSymbol:CHRNA2<br/>P-value:3.15e-86<br/>Zscore:6.56<br/>#EST:142<br/>Adj. #EST:5.1

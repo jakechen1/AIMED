@@ -1,0 +1,1 @@
+spleen	HMID:HM04095<br/>GeneSymbol:FLJ30064<br/>P-value:1.91e-19<br/>Zscore:4.8<br/>#EST:22<br/>Adj. #EST:11.57

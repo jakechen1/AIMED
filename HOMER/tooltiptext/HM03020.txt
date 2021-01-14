@@ -1,0 +1,1 @@
+stomach	HMID:HM03020<br/>GeneSymbol:CR1L<br/>P-value:1.16e-21<br/>Zscore:6.15<br/>#EST:21<br/>Adj. #EST:18.33

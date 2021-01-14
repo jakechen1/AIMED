@@ -1,0 +1,2 @@
+parathyroid gland	HMID:HM00013<br/>GeneSymbol:SUMO1<br/>P-value:8.81e-06<br/>Zscore:4.04<br/>#EST:10<br/>Adj. #EST:6.05
+salivary gland	HMID:HM00019<br/>GeneSymbol:SUMO1<br/>P-value:7.51e-06<br/>Zscore:4.13<br/>#EST:10<br/>Adj. #EST:6.17

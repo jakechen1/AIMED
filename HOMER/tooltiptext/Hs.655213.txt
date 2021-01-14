@@ -1,0 +1,1 @@
+brain	HMID:HM07222<br/>GeneSymbol:PPP2R2B<br/>P-value:3.28e-137<br/>Zscore:5.42<br/>#EST:295<br/>Adj. #EST:4.3

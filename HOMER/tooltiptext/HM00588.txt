@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00588<br/>GeneSymbol:ZP3<br/>P-value:0<br/>Zscore:6.99<br/>#EST:80<br/>Adj. #EST:41.24

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM07394<br/>GeneSymbol:TGM2<br/>P-value:1.2e-206<br/>Zscore:6.75<br/>#EST:194<br/>Adj. #EST:28.72

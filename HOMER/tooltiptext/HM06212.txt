@@ -1,0 +1,1 @@
+cervix	HMID:HM06212<br/>GeneSymbol:ZNF622<br/>P-value:1.45e-07<br/>Zscore:4.39<br/>#EST:12<br/>Adj. #EST:7.3

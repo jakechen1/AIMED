@@ -1,0 +1,1 @@
+thymus	HMID:HM01786<br/>GeneSymbol:MDM4<br/>P-value:9.28e-38<br/>Zscore:5.3<br/>#EST:54<br/>Adj. #EST:10.76

@@ -1,0 +1,1 @@
+muscle	HMID:HM02192<br/>GeneSymbol:CAP2<br/>P-value:1.39e-12<br/>Zscore:4.15<br/>#EST:33<br/>Adj. #EST:4.52

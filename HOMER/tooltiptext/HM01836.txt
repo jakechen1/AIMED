@@ -1,0 +1,1 @@
+liver	HMID:HM01836<br/>GeneSymbol:HAL<br/>P-value:1.83e-36<br/>Zscore:5.32<br/>#EST:42<br/>Adj. #EST:12.33

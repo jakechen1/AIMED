@@ -1,0 +1,1 @@
+testis	HMID:HM03319<br/>GeneSymbol:TP53TG3B<br/>P-value:1.97e-19<br/>Zscore:5.64<br/>#EST:25<br/>Adj. #EST:8.92

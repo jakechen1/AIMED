@@ -1,0 +1,1 @@
+muscle	HMID:HM04923<br/>GeneSymbol:SRPK3<br/>P-value:3.39e-12<br/>Zscore:5.18<br/>#EST:13<br/>Adj. #EST:14.67

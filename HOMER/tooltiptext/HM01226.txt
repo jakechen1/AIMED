@@ -1,0 +1,1 @@
+testis	HMID:HM01226<br/>GeneSymbol:RGS22<br/>P-value:3.43e-56<br/>Zscore:6.6<br/>#EST:64<br/>Adj. #EST:10.87

@@ -1,0 +1,1 @@
+nerve	HMID:HM01599<br/>GeneSymbol:THAP7<br/>P-value:2.9e-11<br/>Zscore:4.4<br/>#EST:24<br/>Adj. #EST:5.55

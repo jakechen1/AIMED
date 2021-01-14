@@ -1,0 +1,2 @@
+placenta	HMID:HM01849<br/>GeneSymbol:FLJ43390<br/>P-value:6.98e-12<br/>Zscore:4.07<br/>#EST:24<br/>Adj. #EST:5.54
+pancreas	HMID:HM02840<br/>GeneSymbol:FLJ43390<br/>P-value:1.62e-14<br/>Zscore:5.18<br/>#EST:25<br/>Adj. #EST:6.95

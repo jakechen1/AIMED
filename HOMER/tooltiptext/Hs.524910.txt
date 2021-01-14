@@ -1,0 +1,1 @@
+salivary gland	HMID:HM07244<br/>GeneSymbol:FTH1<br/>P-value:5.71e-144<br/>Zscore:5.16<br/>#EST:251<br/>Adj. #EST:8.76

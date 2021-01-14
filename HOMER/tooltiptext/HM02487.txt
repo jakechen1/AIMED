@@ -1,0 +1,2 @@
+mouth	HMID:HM02487<br/>GeneSymbol:CDH3<br/>P-value:8.47e-21<br/>Zscore:4.28<br/>#EST:31<br/>Adj. #EST:9.64
+thymus	HMID:HM02487<br/>GeneSymbol:CDH3<br/>P-value:3.26e-26<br/>Zscore:4.37<br/>#EST:39<br/>Adj. #EST:9.81

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05454<br/>GeneSymbol:C20orf196<br/>P-value:2.9e-10<br/>Zscore:5.23<br/>#EST:13<br/>Adj. #EST:10.74

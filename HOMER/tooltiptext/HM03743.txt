@@ -1,0 +1,1 @@
+liver	HMID:HM03743<br/>GeneSymbol:RDH16<br/>P-value:6.16e-17<br/>Zscore:5.85<br/>#EST:19<br/>Adj. #EST:11.95

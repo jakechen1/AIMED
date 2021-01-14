@@ -1,0 +1,1 @@
+pancreas	HMID:HM05257<br/>GeneSymbol:PDIA2<br/>P-value:5.51e-11<br/>Zscore:4.05<br/>#EST:18<br/>Adj. #EST:7.06

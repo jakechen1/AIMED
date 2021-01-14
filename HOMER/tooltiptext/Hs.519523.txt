@@ -1,0 +1,2 @@
+blood vessel	HMID:HM06711<br/>GeneSymbol:SERPINB6<br/>P-value:3.48e-71<br/>Zscore:4.17<br/>#EST:119<br/>Adj. #EST:8.8
+mouth	HMID:HM06693<br/>GeneSymbol:SERPINB6<br/>P-value:4.79e-70<br/>Zscore:5.09<br/>#EST:105<br/>Adj. #EST:10.5

@@ -1,0 +1,1 @@
+lymph	HMID:HM04187<br/>GeneSymbol:AP1B1<br/>P-value:6.64e-15<br/>Zscore:6.33<br/>#EST:17<br/>Adj. #EST:14.41

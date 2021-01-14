@@ -1,0 +1,1 @@
+skin	HMID:HM02164<br/>GeneSymbol:C6orf218<br/>P-value:1.53e-30<br/>Zscore:6.42<br/>#EST:28<br/>Adj. #EST:17.82

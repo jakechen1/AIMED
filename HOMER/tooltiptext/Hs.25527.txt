@@ -1,0 +1,1 @@
+trachea	HMID:HM00805<br/>GeneSymbol:TJP3<br/>P-value:5.05e-09<br/>Zscore:4.04<br/>#EST:12<br/>Adj. #EST:9.87

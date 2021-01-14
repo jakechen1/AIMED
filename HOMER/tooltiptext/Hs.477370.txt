@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06191<br/>GeneSymbol:DAB1<br/>P-value:5.95e-46<br/>Zscore:7<br/>#EST:44<br/>Adj. #EST:22.46

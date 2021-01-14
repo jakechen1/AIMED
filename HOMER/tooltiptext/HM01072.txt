@@ -1,0 +1,1 @@
+kidney	HMID:HM01072<br/>GeneSymbol:TINAG<br/>P-value:1.24e-63<br/>Zscore:6.89<br/>#EST:52<br/>Adj. #EST:23.41

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00511<br/>GeneSymbol:MGC27345<br/>P-value:5.07e-08<br/>Zscore:5.66<br/>#EST:10<br/>Adj. #EST:10.41

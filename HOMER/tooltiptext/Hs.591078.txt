@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01437<br/>GeneSymbol:ERMP1<br/>P-value:7.17e-11<br/>Zscore:5.82<br/>#EST:13<br/>Adj. #EST:12.66

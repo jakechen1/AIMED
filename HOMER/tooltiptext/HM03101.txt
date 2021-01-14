@@ -1,0 +1,1 @@
+trachea	HMID:HM03101<br/>GeneSymbol:ERN2<br/>P-value:4.73e-21<br/>Zscore:6.32<br/>#EST:17<br/>Adj. #EST:31.89

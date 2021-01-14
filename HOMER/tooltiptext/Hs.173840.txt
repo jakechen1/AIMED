@@ -1,0 +1,1 @@
+placenta	HMID:HM06994<br/>GeneSymbol:ESAM<br/>P-value:6.57e-97<br/>Zscore:4.31<br/>#EST:183<br/>Adj. #EST:6.89

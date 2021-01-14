@@ -1,0 +1,1 @@
+testis	HMID:HM02381<br/>GeneSymbol:RGSL1<br/>P-value:1.63e-27<br/>Zscore:6.63<br/>#EST:27<br/>Adj. #EST:12.42

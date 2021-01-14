@@ -1,0 +1,1 @@
+pharynx	HMID:HM05003<br/>GeneSymbol:GIMAP5<br/>P-value:6.12e-12<br/>Zscore:4.24<br/>#EST:14<br/>Adj. #EST:13.19

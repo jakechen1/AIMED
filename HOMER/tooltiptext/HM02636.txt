@@ -1,0 +1,1 @@
+trachea	HMID:HM02636<br/>GeneSymbol:DDX3X<br/>P-value:1.23e-24<br/>Zscore:5.32<br/>#EST:57<br/>Adj. #EST:5.61

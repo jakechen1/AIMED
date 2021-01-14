@@ -1,0 +1,1 @@
+liver	HMID:HM02863<br/>GeneSymbol:NR1I3<br/>P-value:7.65e-23<br/>Zscore:6.26<br/>#EST:24<br/>Adj. #EST:13.55

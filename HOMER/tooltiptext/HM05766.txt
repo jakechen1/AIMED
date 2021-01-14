@@ -1,0 +1,1 @@
+amnion	HMID:HM05766<br/>GeneSymbol:BSCL2<br/>P-value:3.42e-09<br/>Zscore:5.43<br/>#EST:13<br/>Adj. #EST:9.26

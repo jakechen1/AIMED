@@ -1,0 +1,1 @@
+colon	HMID:HM00523<br/>GeneSymbol:SNX22<br/>P-value:0<br/>Zscore:4.76<br/>#EST:151<br/>Adj. #EST:12.64

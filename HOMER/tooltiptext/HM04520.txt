@@ -1,0 +1,1 @@
+muscle	HMID:HM04520<br/>GeneSymbol:CUTC<br/>P-value:1.55e-13<br/>Zscore:5.18<br/>#EST:24<br/>Adj. #EST:6.97

@@ -1,0 +1,1 @@
+testis	HMID:HM07133<br/>GeneSymbol:AKAP3<br/>P-value:7.3e-116<br/>Zscore:7.03<br/>#EST:113<br/>Adj. #EST:12.88

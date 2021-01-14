@@ -1,0 +1,1 @@
+spleen	HMID:HM02248<br/>GeneSymbol:SHISA7<br/>P-value:9.51e-13<br/>Zscore:6.09<br/>#EST:21<br/>Adj. #EST:6.81

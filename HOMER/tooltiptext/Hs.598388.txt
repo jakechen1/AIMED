@@ -1,0 +1,1 @@
+colon	HMID:HM05094<br/>GeneSymbol:MACC1<br/>P-value:2.46e-26<br/>Zscore:5.72<br/>#EST:34<br/>Adj. #EST:11.21

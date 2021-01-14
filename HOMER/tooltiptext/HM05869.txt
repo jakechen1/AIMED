@@ -1,0 +1,1 @@
+lung	HMID:HM05869<br/>GeneSymbol:TMEM179<br/>P-value:7.78e-09<br/>Zscore:6.72<br/>#EST:11<br/>Adj. #EST:8.8

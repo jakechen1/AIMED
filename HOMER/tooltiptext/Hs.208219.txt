@@ -1,0 +1,1 @@
+skin	HMID:HM04184<br/>GeneSymbol:TSPAN10<br/>P-value:6.71e-20<br/>Zscore:5.65<br/>#EST:22<br/>Adj. #EST:13.11

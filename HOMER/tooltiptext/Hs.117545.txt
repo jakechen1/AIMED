@@ -1,0 +1,1 @@
+trachea	HMID:HM01839<br/>GeneSymbol:PDE4D<br/>P-value:7.98e-12<br/>Zscore:4.94<br/>#EST:15<br/>Adj. #EST:11.41

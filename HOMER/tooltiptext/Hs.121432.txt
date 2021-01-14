@@ -1,0 +1,1 @@
+esophagus	HMID:HM00667<br/>GeneSymbol:PPWD1<br/>P-value:1.63e-08<br/>Zscore:4.18<br/>#EST:14<br/>Adj. #EST:7.27

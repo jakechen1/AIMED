@@ -1,0 +1,1 @@
+liver	HMID:HM01051<br/>GeneSymbol:ZRANB2<br/>P-value:1.81e-65<br/>Zscore:4.41<br/>#EST:185<br/>Adj. #EST:4.47

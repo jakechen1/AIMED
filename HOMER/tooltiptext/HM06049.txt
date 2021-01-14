@@ -1,0 +1,1 @@
+lymph	HMID:HM06049<br/>GeneSymbol:LRWD1<br/>P-value:3.48e-08<br/>Zscore:4.74<br/>#EST:16<br/>Adj. #EST:5.76

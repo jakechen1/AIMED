@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06005<br/>GeneSymbol:EIF2A<br/>P-value:3.95e-41<br/>Zscore:4.5<br/>#EST:76<br/>Adj. #EST:7.49

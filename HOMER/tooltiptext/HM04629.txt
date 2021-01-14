@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04629<br/>GeneSymbol:EIF2C4<br/>P-value:3.76e-13<br/>Zscore:5.5<br/>#EST:19<br/>Adj. #EST:9.27

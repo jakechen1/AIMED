@@ -1,0 +1,2 @@
+parathyroid gland	HMID:HM05945<br/>GeneSymbol:GSTO1<br/>P-value:1.47e-08<br/>Zscore:4<br/>#EST:14<br/>Adj. #EST:7.34
+umbilical cord	HMID:HM05945<br/>GeneSymbol:GSTO1<br/>P-value:9.1e-07<br/>Zscore:4.34<br/>#EST:10<br/>Adj. #EST:7.86

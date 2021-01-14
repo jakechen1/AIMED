@@ -1,0 +1,1 @@
+trachea	HMID:HM02174<br/>GeneSymbol:CSNK1A1<br/>P-value:1.94e-30<br/>Zscore:5.29<br/>#EST:69<br/>Adj. #EST:5.82

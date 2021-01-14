@@ -1,0 +1,1 @@
+placenta	HMID:HM06767<br/>GeneSymbol:FLT1<br/>P-value:1.07e-74<br/>Zscore:5.58<br/>#EST:131<br/>Adj. #EST:7.47

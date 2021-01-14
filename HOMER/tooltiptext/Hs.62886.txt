@@ -1,0 +1,1 @@
+tonsil	HMID:HM06487<br/>GeneSymbol:SPARCL1<br/>P-value:7.59e-58<br/>Zscore:5.27<br/>#EST:90<br/>Adj. #EST:10.13

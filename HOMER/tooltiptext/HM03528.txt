@@ -1,0 +1,1 @@
+esophagus	HMID:HM03528<br/>GeneSymbol:UGT1A1<br/>P-value:3.63e-18<br/>Zscore:5.16<br/>#EST:19<br/>Adj. #EST:18.38

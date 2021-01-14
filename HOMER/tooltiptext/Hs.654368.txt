@@ -1,0 +1,1 @@
+spleen	HMID:HM06924<br/>GeneSymbol:GYPB<br/>P-value:1.85e-90<br/>Zscore:6.1<br/>#EST:105<br/>Adj. #EST:12.16

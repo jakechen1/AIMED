@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05621<br/>GeneSymbol:CBX1<br/>P-value:1.01e-09<br/>Zscore:5.3<br/>#EST:15<br/>Adj. #EST:8.21

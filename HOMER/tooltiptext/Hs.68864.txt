@@ -1,0 +1,1 @@
+colon	HMID:HM04819<br/>GeneSymbol:LIPH<br/>P-value:8.45e-24<br/>Zscore:5.25<br/>#EST:28<br/>Adj. #EST:12.8

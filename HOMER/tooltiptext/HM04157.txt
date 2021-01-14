@@ -1,0 +1,1 @@
+tonsil	HMID:HM04157<br/>GeneSymbol:<br/>P-value:4.93e-15<br/>Zscore:4.11<br/>#EST:29<br/>Adj. #EST:6.65

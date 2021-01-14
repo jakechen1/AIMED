@@ -1,0 +1,1 @@
+muscle	HMID:HM02511<br/>GeneSymbol:C10orf71<br/>P-value:6.28e-26<br/>Zscore:7.06<br/>#EST:15<br/>Adj. #EST:53.94

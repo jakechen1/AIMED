@@ -1,0 +1,1 @@
+placenta	HMID:HM04382<br/>GeneSymbol:IDO2<br/>P-value:3.71e-14<br/>Zscore:6.5<br/>#EST:14<br/>Adj. #EST:14.28

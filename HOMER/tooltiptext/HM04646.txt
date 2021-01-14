@@ -1,0 +1,1 @@
+trachea	HMID:HM04646<br/>GeneSymbol:MECOM<br/>P-value:4.3e-13<br/>Zscore:5.28<br/>#EST:16<br/>Adj. #EST:12.41

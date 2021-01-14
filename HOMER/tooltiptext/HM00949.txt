@@ -1,0 +1,2 @@
+mouth	HMID:HM00949<br/>GeneSymbol:CDC42EP4<br/>P-value:1.2e-26<br/>Zscore:4.59<br/>#EST:62<br/>Adj. #EST:5.58
+pancreas	HMID:HM00949<br/>GeneSymbol:CDC42EP4<br/>P-value:1.12e-71<br/>Zscore:4.03<br/>#EST:185<br/>Adj. #EST:4.98

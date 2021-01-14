@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04940<br/>GeneSymbol:UTP18<br/>P-value:8.25e-25<br/>Zscore:5.49<br/>#EST:38<br/>Adj. #EST:9.32

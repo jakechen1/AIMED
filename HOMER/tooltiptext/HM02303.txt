@@ -1,0 +1,1 @@
+thymus	HMID:HM02303<br/>GeneSymbol:IL21R<br/>P-value:1.41e-28<br/>Zscore:5.6<br/>#EST:24<br/>Adj. #EST:28.48

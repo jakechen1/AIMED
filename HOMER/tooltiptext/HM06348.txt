@@ -1,0 +1,1 @@
+trachea	HMID:HM06348<br/>GeneSymbol:NARG2<br/>P-value:5.33e-07<br/>Zscore:4.25<br/>#EST:14<br/>Adj. #EST:5.4

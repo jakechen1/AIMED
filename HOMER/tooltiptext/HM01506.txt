@@ -1,0 +1,1 @@
+spleen	HMID:HM01506<br/>GeneSymbol:HBE1<br/>P-value:9.5e-45<br/>Zscore:5.13<br/>#EST:53<br/>Adj. #EST:13.81

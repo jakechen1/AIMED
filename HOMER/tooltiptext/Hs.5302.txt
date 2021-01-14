@@ -1,0 +1,1 @@
+rectum	HMID:HM06106<br/>GeneSymbol:LGALS4<br/>P-value:1.08e-43<br/>Zscore:6.81<br/>#EST:29<br/>Adj. #EST:71.87

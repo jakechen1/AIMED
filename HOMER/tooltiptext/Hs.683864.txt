@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02973<br/>GeneSymbol:LOC400960<br/>P-value:7.92e-15<br/>Zscore:7.02<br/>#EST:10<br/>Adj. #EST:51.99

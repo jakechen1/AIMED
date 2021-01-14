@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00725<br/>GeneSymbol:ITGAM<br/>P-value:8.51e-94<br/>Zscore:7.05<br/>#EST:62<br/>Adj. #EST:55.28

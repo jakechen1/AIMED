@@ -1,0 +1,1 @@
+testis	HMID:HM06566<br/>GeneSymbol:GMCL1L<br/>P-value:5.29e-62<br/>Zscore:7.06<br/>#EST:56<br/>Adj. #EST:13.65

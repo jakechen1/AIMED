@@ -1,0 +1,1 @@
+testis	HMID:HM00118<br/>GeneSymbol:LTC4S<br/>P-value:1.59e-06<br/>Zscore:4.97<br/>#EST:14<br/>Adj. #EST:4.4

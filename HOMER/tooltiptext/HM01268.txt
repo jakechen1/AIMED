@@ -1,0 +1,2 @@
+tonsil	HMID:HM01268<br/>GeneSymbol:SELE<br/>P-value:4.38e-13<br/>Zscore:4.14<br/>#EST:10<br/>Adj. #EST:35.51
+trachea	HMID:HM01268<br/>GeneSymbol:SELE<br/>P-value:4.88e-54<br/>Zscore:5.58<br/>#EST:39<br/>Adj. #EST:47.13

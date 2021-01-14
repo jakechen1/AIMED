@@ -1,0 +1,1 @@
+trachea	HMID:HM05261<br/>GeneSymbol:SEC31A<br/>P-value:2.29e-28<br/>Zscore:5.55<br/>#EST:56<br/>Adj. #EST:6.82

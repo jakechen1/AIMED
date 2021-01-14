@@ -1,0 +1,1 @@
+brain	HMID:HM06835<br/>GeneSymbol:BAI3<br/>P-value:8.44e-81<br/>Zscore:4.27<br/>#EST:150<br/>Adj. #EST:4.72

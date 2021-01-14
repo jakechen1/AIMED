@@ -1,0 +1,1 @@
+blood	HMID:HM02280<br/>GeneSymbol:S1PR4<br/>P-value:7.29e-29<br/>Zscore:4.04<br/>#EST:26<br/>Adj. #EST:21.71

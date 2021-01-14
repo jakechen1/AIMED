@@ -1,0 +1,1 @@
+liver	HMID:HM01498<br/>GeneSymbol:SPANXA1<br/>P-value:5.45e-11<br/>Zscore:6.37<br/>#EST:10<br/>Adj. #EST:15.46

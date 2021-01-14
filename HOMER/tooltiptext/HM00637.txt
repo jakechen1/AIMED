@@ -1,0 +1,2 @@
+bladder	HMID:HM00637<br/>GeneSymbol:UBE2V2<br/>P-value:0<br/>Zscore:4.82<br/>#EST:115<br/>Adj. #EST:18.83
+salivary gland	HMID:HM00637<br/>GeneSymbol:UBE2V2<br/>P-value:6.65e-59<br/>Zscore:4.23<br/>#EST:69<br/>Adj. #EST:16.68

@@ -1,0 +1,1 @@
+testis	HMID:HM05138<br/>GeneSymbol:CTAGE15P<br/>P-value:1.96e-11<br/>Zscore:6.55<br/>#EST:12<br/>Adj. #EST:10.7

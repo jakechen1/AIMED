@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05008<br/>GeneSymbol:TINF2<br/>P-value:6.26e-12<br/>Zscore:5.58<br/>#EST:17<br/>Adj. #EST:9.69

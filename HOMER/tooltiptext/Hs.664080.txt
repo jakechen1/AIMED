@@ -1,0 +1,1 @@
+placenta	HMID:HM07412<br/>GeneSymbol:RASA1<br/>P-value:8.93e-218<br/>Zscore:6.78<br/>#EST:285<br/>Adj. #EST:11.23

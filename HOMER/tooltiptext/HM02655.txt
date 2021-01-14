@@ -1,0 +1,1 @@
+placenta	HMID:HM02655<br/>GeneSymbol:PHACTR2<br/>P-value:1.9e-24<br/>Zscore:4.56<br/>#EST:55<br/>Adj. #EST:5.33

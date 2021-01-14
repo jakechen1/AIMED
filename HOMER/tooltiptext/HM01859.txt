@@ -1,0 +1,1 @@
+liver	HMID:HM01859<br/>GeneSymbol:SLC22A1<br/>P-value:5.45e-36<br/>Zscore:6.25<br/>#EST:40<br/>Adj. #EST:12.95

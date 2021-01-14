@@ -1,0 +1,1 @@
+pharynx	HMID:HM00926<br/>GeneSymbol:DAZAP2<br/>P-value:3.44e-73<br/>Zscore:5.49<br/>#EST:126<br/>Adj. #EST:8.68

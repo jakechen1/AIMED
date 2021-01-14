@@ -1,0 +1,2 @@
+bone	HMID:HM00446<br/>GeneSymbol:<br/>P-value:0<br/>Zscore:4.28<br/>#EST:154<br/>Adj. #EST:16.46
+small intestine	HMID:HM00446<br/>GeneSymbol:<br/>P-value:2.18e-45<br/>Zscore:4.51<br/>#EST:51<br/>Adj. #EST:17.27

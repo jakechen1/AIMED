@@ -1,0 +1,1 @@
+kidney	HMID:HM05227<br/>GeneSymbol:CYP27B1<br/>P-value:8.93e-28<br/>Zscore:6.02<br/>#EST:35<br/>Adj. #EST:11.41

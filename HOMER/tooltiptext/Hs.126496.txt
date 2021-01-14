@@ -1,0 +1,1 @@
+testis	HMID:HM03203<br/>GeneSymbol:ZNRF4<br/>P-value:1.38e-15<br/>Zscore:6.91<br/>#EST:19<br/>Adj. #EST:9.26

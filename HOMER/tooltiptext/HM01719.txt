@@ -1,0 +1,1 @@
+testis	HMID:HM01719<br/>GeneSymbol:PCDHB2<br/>P-value:6.85e-39<br/>Zscore:5.24<br/>#EST:63<br/>Adj. #EST:7.19

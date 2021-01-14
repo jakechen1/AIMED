@@ -1,0 +1,1 @@
+colon	HMID:HM00544<br/>GeneSymbol:NOS2<br/>P-value:4.17e-08<br/>Zscore:4.56<br/>#EST:10<br/>Adj. #EST:9.79

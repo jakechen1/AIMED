@@ -1,0 +1,1 @@
+testis	HMID:HM01683<br/>GeneSymbol:PRSS54<br/>P-value:7.34e-40<br/>Zscore:7.01<br/>#EST:39<br/>Adj. #EST:12.64

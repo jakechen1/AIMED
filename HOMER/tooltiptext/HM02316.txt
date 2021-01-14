@@ -1,0 +1,1 @@
+liver	HMID:HM02316<br/>GeneSymbol:DUSP9<br/>P-value:2.23e-28<br/>Zscore:5.18<br/>#EST:42<br/>Adj. #EST:8.64

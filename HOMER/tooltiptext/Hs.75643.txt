@@ -1,0 +1,1 @@
+spleen	HMID:HM06812<br/>GeneSymbol:NFE2<br/>P-value:4.33e-79<br/>Zscore:5.7<br/>#EST:112<br/>Adj. #EST:9.35

@@ -1,0 +1,1 @@
+leiomios	HMID:HM00116<br/>GeneSymbol:YY1AP1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:277<br/>Adj. #EST:273.27

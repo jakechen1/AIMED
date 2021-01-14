@@ -1,0 +1,1 @@
+brain	HMID:HM06534<br/>GeneSymbol:SLC35F4<br/>P-value:5.26e-06<br/>Zscore:4.06<br/>#EST:10<br/>Adj. #EST:4.33

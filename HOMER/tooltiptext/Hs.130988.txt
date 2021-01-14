@@ -1,0 +1,1 @@
+nerve	HMID:HM04079<br/>GeneSymbol:DYRK1B<br/>P-value:2.66e-19<br/>Zscore:5.85<br/>#EST:23<br/>Adj. #EST:13.72

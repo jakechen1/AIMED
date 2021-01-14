@@ -1,0 +1,1 @@
+kidney	HMID:HM05662<br/>GeneSymbol:NOX4<br/>P-value:3.69e-34<br/>Zscore:5.72<br/>#EST:43<br/>Adj. #EST:11.62

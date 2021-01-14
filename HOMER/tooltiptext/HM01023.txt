@@ -1,0 +1,1 @@
+stomach	HMID:HM01023<br/>GeneSymbol:GMPR<br/>P-value:1.97e-67<br/>Zscore:5.97<br/>#EST:80<br/>Adj. #EST:14.14

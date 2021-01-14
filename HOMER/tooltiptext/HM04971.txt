@@ -1,0 +1,1 @@
+liver	HMID:HM04971<br/>GeneSymbol:CLEC4M<br/>P-value:5.23e-12<br/>Zscore:4.27<br/>#EST:19<br/>Adj. #EST:7.21

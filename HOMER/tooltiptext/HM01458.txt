@@ -1,0 +1,1 @@
+testis	HMID:HM01458<br/>GeneSymbol:C1orf182<br/>P-value:1.92e-46<br/>Zscore:6.33<br/>#EST:54<br/>Adj. #EST:10.55

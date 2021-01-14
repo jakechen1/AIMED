@@ -1,0 +1,1 @@
+tonsil	HMID:HM03381<br/>GeneSymbol:RPL28<br/>P-value:5.27e-16<br/>Zscore:4.2<br/>#EST:38<br/>Adj. #EST:5.28

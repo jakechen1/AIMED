@@ -1,0 +1,1 @@
+lymph	HMID:HM07098<br/>GeneSymbol:CPNE5<br/>P-value:1.86e-109<br/>Zscore:6.95<br/>#EST:74<br/>Adj. #EST:58.52

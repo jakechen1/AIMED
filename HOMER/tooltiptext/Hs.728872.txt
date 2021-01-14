@@ -1,0 +1,1 @@
+bone marrow	HMID:HM07413<br/>GeneSymbol:IGLV3-21<br/>P-value:5.05e-218<br/>Zscore:6.45<br/>#EST:147<br/>Adj. #EST:55.02

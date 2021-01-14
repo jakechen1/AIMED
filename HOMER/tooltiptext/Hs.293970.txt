@@ -1,0 +1,1 @@
+kidney	HMID:HM04820<br/>GeneSymbol:ALDH6A1<br/>P-value:8.21e-24<br/>Zscore:4.78<br/>#EST:69<br/>Adj. #EST:4.27

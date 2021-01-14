@@ -1,0 +1,1 @@
+muscle	HMID:HM06414<br/>GeneSymbol:PDLIM5<br/>P-value:9.32e-55<br/>Zscore:5.6<br/>#EST:106<br/>Adj. #EST:7.08

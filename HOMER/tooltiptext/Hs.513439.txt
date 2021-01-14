@@ -1,0 +1,1 @@
+trachea	HMID:HM05730<br/>GeneSymbol:GALC<br/>P-value:2.83e-35<br/>Zscore:4.93<br/>#EST:48<br/>Adj. #EST:11.9

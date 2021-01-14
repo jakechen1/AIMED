@@ -1,0 +1,1 @@
+placenta	HMID:HM00240<br/>GeneSymbol:STARD8<br/>P-value:4.85e-07<br/>Zscore:4.1<br/>#EST:11<br/>Adj. #EST:6.63

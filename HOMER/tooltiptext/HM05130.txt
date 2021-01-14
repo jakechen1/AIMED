@@ -1,0 +1,1 @@
+colon	HMID:HM05130<br/>GeneSymbol:CCNK<br/>P-value:1.85e-11<br/>Zscore:4.02<br/>#EST:30<br/>Adj. #EST:4.38

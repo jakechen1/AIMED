@@ -1,0 +1,1 @@
+testis	HMID:HM00589<br/>GeneSymbol:TTC23L<br/>P-value:2.78e-08<br/>Zscore:4.32<br/>#EST:14<br/>Adj. #EST:5.82

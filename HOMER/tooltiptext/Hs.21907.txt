@@ -1,0 +1,1 @@
+trachea	HMID:HM02425<br/>GeneSymbol:MYST2<br/>P-value:4.73e-13<br/>Zscore:4.34<br/>#EST:35<br/>Adj. #EST:4.52

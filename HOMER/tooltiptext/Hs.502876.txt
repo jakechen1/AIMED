@@ -1,0 +1,1 @@
+kidney	HMID:HM06874<br/>GeneSymbol:RHOB<br/>P-value:9.41e-85<br/>Zscore:4.5<br/>#EST:211<br/>Adj. #EST:5.19

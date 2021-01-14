@@ -1,0 +1,1 @@
+placenta	HMID:HM07618<br/>GeneSymbol:PSG6<br/>P-value:0<br/>Zscore:6.66<br/>#EST:468<br/>Adj. #EST:19.6

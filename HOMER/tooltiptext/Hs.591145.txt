@@ -1,0 +1,1 @@
+trachea	HMID:HM02993<br/>GeneSymbol:MANSC1<br/>P-value:6.46e-15<br/>Zscore:5.25<br/>#EST:23<br/>Adj. #EST:8.82

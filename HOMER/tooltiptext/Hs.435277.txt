@@ -1,0 +1,1 @@
+nerve	HMID:HM00023<br/>GeneSymbol:SYNGR3<br/>P-value:6.57e-06<br/>Zscore:4.58<br/>#EST:10<br/>Adj. #EST:6.15

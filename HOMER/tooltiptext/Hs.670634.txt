@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04166<br/>GeneSymbol:TMEM195<br/>P-value:8.6e-20<br/>Zscore:4.11<br/>#EST:16<br/>Adj. #EST:29.17

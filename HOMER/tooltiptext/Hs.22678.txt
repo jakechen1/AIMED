@@ -1,0 +1,1 @@
+lymph	HMID:HM04916<br/>GeneSymbol:C10orf2<br/>P-value:1.16e-24<br/>Zscore:6.52<br/>#EST:29<br/>Adj. #EST:14.81

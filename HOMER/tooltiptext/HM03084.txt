@@ -1,0 +1,1 @@
+spleen	HMID:HM03084<br/>GeneSymbol:NR5A1<br/>P-value:3.52e-21<br/>Zscore:4.16<br/>#EST:22<br/>Adj. #EST:16.09

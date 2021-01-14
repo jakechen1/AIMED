@@ -1,0 +1,1 @@
+larynx	HMID:HM01056<br/>GeneSymbol:RNPS1<br/>P-value:9.9e-10<br/>Zscore:5.46<br/>#EST:19<br/>Adj. #EST:6.05

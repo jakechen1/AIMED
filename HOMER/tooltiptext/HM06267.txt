@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06267<br/>GeneSymbol:IL17RA<br/>P-value:2.66e-07<br/>Zscore:4.07<br/>#EST:13<br/>Adj. #EST:6.19

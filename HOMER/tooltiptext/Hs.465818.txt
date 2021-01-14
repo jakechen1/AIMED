@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04652<br/>GeneSymbol:MYO1F<br/>P-value:1.14e-22<br/>Zscore:5.32<br/>#EST:25<br/>Adj. #EST:16.18

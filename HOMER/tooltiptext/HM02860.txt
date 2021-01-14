@@ -1,0 +1,1 @@
+trachea	HMID:HM02860<br/>GeneSymbol:OXR1<br/>P-value:7.41e-23<br/>Zscore:6.53<br/>#EST:34<br/>Adj. #EST:9.87

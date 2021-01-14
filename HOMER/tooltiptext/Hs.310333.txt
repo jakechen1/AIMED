@@ -1,0 +1,1 @@
+blood	HMID:HM04083<br/>GeneSymbol:SIGLEC5<br/>P-value:2.47e-19<br/>Zscore:5.31<br/>#EST:23<br/>Adj. #EST:12.83

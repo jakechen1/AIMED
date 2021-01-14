@@ -1,0 +1,1 @@
+adipose	HMID:HM02350<br/>GeneSymbol:PLIN4<br/>P-value:5.64e-28<br/>Zscore:7<br/>#EST:17<br/>Adj. #EST:86.29

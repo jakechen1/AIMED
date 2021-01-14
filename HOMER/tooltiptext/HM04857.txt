@@ -1,0 +1,1 @@
+pharynx	HMID:HM04857<br/>GeneSymbol:UBE2L6<br/>P-value:2.31e-12<br/>Zscore:4.06<br/>#EST:22<br/>Adj. #EST:7.06

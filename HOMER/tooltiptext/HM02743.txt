@@ -1,0 +1,1 @@
+liver	HMID:HM02743<br/>GeneSymbol:ACSM5<br/>P-value:9.32e-24<br/>Zscore:4.95<br/>#EST:37<br/>Adj. #EST:7.99

@@ -1,0 +1,1 @@
+muscle	HMID:HM07424<br/>GeneSymbol:TRDN<br/>P-value:1.89e-224<br/>Zscore:6.95<br/>#EST:163<br/>Adj. #EST:40

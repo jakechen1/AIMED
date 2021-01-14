@@ -1,0 +1,1 @@
+small intestine	HMID:HM03400<br/>GeneSymbol:NKX2-3<br/>P-value:4.71e-19<br/>Zscore:6.97<br/>#EST:12<br/>Adj. #EST:60.67

@@ -1,0 +1,1 @@
+lymph	HMID:HM05564<br/>GeneSymbol:AARS<br/>P-value:1.31e-32<br/>Zscore:5.04<br/>#EST:57<br/>Adj. #EST:8.09

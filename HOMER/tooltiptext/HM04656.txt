@@ -1,0 +1,1 @@
+testis	HMID:HM04656<br/>GeneSymbol:DNAJC5G<br/>P-value:4.52e-13<br/>Zscore:6.99<br/>#EST:13<br/>Adj. #EST:11.59

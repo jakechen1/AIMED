@@ -1,0 +1,1 @@
+thymus	HMID:HM04163<br/>GeneSymbol:PTK7<br/>P-value:8.87e-20<br/>Zscore:4.95<br/>#EST:36<br/>Adj. #EST:7.21

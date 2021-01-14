@@ -1,0 +1,1 @@
+skin	HMID:HM01501<br/>GeneSymbol:RORA<br/>P-value:5.6e-45<br/>Zscore:5.65<br/>#EST:82<br/>Adj. #EST:7.03

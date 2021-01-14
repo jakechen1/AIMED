@@ -1,0 +1,1 @@
+lymph	HMID:HM01258<br/>GeneSymbol:LRRC59<br/>P-value:1.09e-54<br/>Zscore:6.43<br/>#EST:83<br/>Adj. #EST:10.26

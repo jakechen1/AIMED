@@ -1,0 +1,1 @@
+brain	HMID:HM00093<br/>GeneSymbol:GFAP<br/>P-value:0<br/>Zscore:4.85<br/>#EST:3261<br/>Adj. #EST:5.16

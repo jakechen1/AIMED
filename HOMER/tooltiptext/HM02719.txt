@@ -1,0 +1,1 @@
+lymph node	HMID:HM02719<br/>GeneSymbol:FAM102A<br/>P-value:5.99e-24<br/>Zscore:5.69<br/>#EST:41<br/>Adj. #EST:7.93

@@ -1,0 +1,1 @@
+stomach	HMID:HM06018<br/>GeneSymbol:ZBTB45<br/>P-value:1.24e-41<br/>Zscore:6.43<br/>#EST:59<br/>Adj. #EST:10.19

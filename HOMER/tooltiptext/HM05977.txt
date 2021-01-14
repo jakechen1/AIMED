@@ -1,0 +1,1 @@
+cervix	HMID:HM05977<br/>GeneSymbol:COBL<br/>P-value:1.9e-08<br/>Zscore:5.18<br/>#EST:12<br/>Adj. #EST:8.78

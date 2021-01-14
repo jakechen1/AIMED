@@ -1,0 +1,1 @@
+nerve	HMID:HM05443<br/>GeneSymbol:NUPL2<br/>P-value:2.53e-10<br/>Zscore:5.16<br/>#EST:20<br/>Adj. #EST:6.08

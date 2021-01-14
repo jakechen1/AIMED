@@ -1,0 +1,1 @@
+testis	HMID:HM06095<br/>GeneSymbol:ABHD1<br/>P-value:5.35e-08<br/>Zscore:5.86<br/>#EST:12<br/>Adj. #EST:6.58

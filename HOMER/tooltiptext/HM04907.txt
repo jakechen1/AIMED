@@ -1,0 +1,1 @@
+leiomios	HMID:HM04907<br/>GeneSymbol:ESD<br/>P-value:2.93e-12<br/>Zscore:6.12<br/>#EST:12<br/>Adj. #EST:19.62

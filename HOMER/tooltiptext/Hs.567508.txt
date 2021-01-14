@@ -1,0 +1,1 @@
+stomach	HMID:HM00940<br/>GeneSymbol:UNC93A<br/>P-value:2.14e-09<br/>Zscore:4.56<br/>#EST:13<br/>Adj. #EST:8.69

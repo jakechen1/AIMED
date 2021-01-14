@@ -1,0 +1,1 @@
+blood	HMID:HM02861<br/>GeneSymbol:RLTPR<br/>P-value:7.48e-23<br/>Zscore:5.37<br/>#EST:28<br/>Adj. #EST:12.4

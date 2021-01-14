@@ -1,0 +1,1 @@
+trachea	HMID:HM03924<br/>GeneSymbol:RAB10<br/>P-value:5.07e-16<br/>Zscore:4.98<br/>#EST:39<br/>Adj. #EST:5.1

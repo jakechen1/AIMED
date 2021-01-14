@@ -1,0 +1,1 @@
+lung	HMID:HM06317<br/>GeneSymbol:UBE2R2<br/>P-value:1.87e-50<br/>Zscore:4.52<br/>#EST:139<br/>Adj. #EST:4.46

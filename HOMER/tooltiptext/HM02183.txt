@@ -1,0 +1,1 @@
+trachea	HMID:HM02183<br/>GeneSymbol:ABCD3<br/>P-value:2.68e-30<br/>Zscore:6.01<br/>#EST:43<br/>Adj. #EST:10.94

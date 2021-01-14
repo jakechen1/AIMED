@@ -1,0 +1,1 @@
+leiomios	HMID:HM06020<br/>GeneSymbol:DPP4<br/>P-value:1.15e-41<br/>Zscore:6.92<br/>#EST:28<br/>Adj. #EST:68.58

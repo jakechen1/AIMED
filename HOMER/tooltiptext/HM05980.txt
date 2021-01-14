@@ -1,0 +1,1 @@
+stomach	HMID:HM05980<br/>GeneSymbol:PARD6G<br/>P-value:1.94e-08<br/>Zscore:4.21<br/>#EST:16<br/>Adj. #EST:5.8

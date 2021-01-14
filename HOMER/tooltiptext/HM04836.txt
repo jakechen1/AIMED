@@ -1,0 +1,1 @@
+blood	HMID:HM04836<br/>GeneSymbol:SLA2<br/>P-value:1.97e-12<br/>Zscore:4.85<br/>#EST:14<br/>Adj. #EST:12.93

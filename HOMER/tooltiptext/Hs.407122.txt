@@ -1,0 +1,1 @@
+esophagus	HMID:HM05210<br/>GeneSymbol:TMPRSS11B<br/>P-value:1.21e-27<br/>Zscore:6.98<br/>#EST:13<br/>Adj. #EST:193.98

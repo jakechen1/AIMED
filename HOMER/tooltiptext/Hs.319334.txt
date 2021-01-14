@@ -1,0 +1,1 @@
+lymph	HMID:HM02976<br/>GeneSymbol:NASP<br/>P-value:7.83e-15<br/>Zscore:4.09<br/>#EST:42<br/>Adj. #EST:4.36

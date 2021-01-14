@@ -1,0 +1,1 @@
+bladder	HMID:HM05292<br/>GeneSymbol:MYL12B<br/>P-value:9.8e-29<br/>Zscore:4.88<br/>#EST:46<br/>Adj. #EST:9.18

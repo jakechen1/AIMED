@@ -1,0 +1,1 @@
+nerve	HMID:HM02064<br/>GeneSymbol:TTLL12<br/>P-value:2.84e-32<br/>Zscore:4.98<br/>#EST:44<br/>Adj. #EST:11.56

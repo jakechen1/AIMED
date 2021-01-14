@@ -1,0 +1,1 @@
+rectum	HMID:HM06256<br/>GeneSymbol:NDUFV1<br/>P-value:2.42e-07<br/>Zscore:5.62<br/>#EST:12<br/>Adj. #EST:7.07

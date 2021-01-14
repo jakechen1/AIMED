@@ -1,0 +1,1 @@
+spleen	HMID:HM04594<br/>GeneSymbol:GFI1B<br/>P-value:2.69e-22<br/>Zscore:6.11<br/>#EST:25<br/>Adj. #EST:11.86

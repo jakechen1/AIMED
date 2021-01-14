@@ -1,0 +1,2 @@
+small intestine	HMID:HM04610<br/>GeneSymbol:DAK<br/>P-value:2.16e-22<br/>Zscore:4.74<br/>#EST:35<br/>Adj. #EST:9.19
+lymph	HMID:HM04566<br/>GeneSymbol:DAK<br/>P-value:4.66e-22<br/>Zscore:4.19<br/>#EST:37<br/>Adj. #EST:8.26

@@ -1,0 +1,1 @@
+testis	HMID:HM01909<br/>GeneSymbol:HIPK4<br/>P-value:5.49e-35<br/>Zscore:6.57<br/>#EST:36<br/>Adj. #EST:11.94

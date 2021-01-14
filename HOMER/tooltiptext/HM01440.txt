@@ -1,0 +1,1 @@
+brain	HMID:HM01440<br/>GeneSymbol:GLRA2<br/>P-value:4.64e-47<br/>Zscore:6.28<br/>#EST:90<br/>Adj. #EST:4.53

@@ -1,0 +1,1 @@
+mouth	HMID:HM06518<br/>GeneSymbol:HIRA<br/>P-value:3.82e-06<br/>Zscore:4.58<br/>#EST:12<br/>Adj. #EST:5.31

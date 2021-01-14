@@ -1,0 +1,1 @@
+testis	HMID:HM05567<br/>GeneSymbol:POM121L10P<br/>P-value:1.24e-32<br/>Zscore:6.87<br/>#EST:38<br/>Adj. #EST:10.33

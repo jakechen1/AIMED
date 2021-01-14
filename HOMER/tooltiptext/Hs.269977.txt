@@ -1,0 +1,1 @@
+testis	HMID:HM06526<br/>GeneSymbol:VWA3B<br/>P-value:5.84e-60<br/>Zscore:6.01<br/>#EST:69<br/>Adj. #EST:10.72

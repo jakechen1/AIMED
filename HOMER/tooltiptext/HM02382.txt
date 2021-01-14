@@ -1,0 +1,1 @@
+testis	HMID:HM02382<br/>GeneSymbol:SMCP<br/>P-value:1.72e-27<br/>Zscore:6.83<br/>#EST:29<br/>Adj. #EST:11.49

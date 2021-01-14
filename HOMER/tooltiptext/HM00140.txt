@@ -1,0 +1,1 @@
+placenta	HMID:HM00140<br/>GeneSymbol:PSG5<br/>P-value:0<br/>Zscore:6.99<br/>#EST:301<br/>Adj. #EST:20.41

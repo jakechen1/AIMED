@@ -1,0 +1,1 @@
+uterus	HMID:HM04271<br/>GeneSymbol:SYTL4<br/>P-value:1.74e-20<br/>Zscore:4.44<br/>#EST:35<br/>Adj. #EST:7.18

@@ -1,0 +1,1 @@
+testis	HMID:HM05998<br/>GeneSymbol:FKBP6<br/>P-value:5.02e-41<br/>Zscore:6.93<br/>#EST:45<br/>Adj. #EST:11.16

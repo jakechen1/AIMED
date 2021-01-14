@@ -1,0 +1,1 @@
+brain	HMID:HM00676<br/>GeneSymbol:PHYHIP<br/>P-value:4.16e-99<br/>Zscore:6.24<br/>#EST:182<br/>Adj. #EST:4.7

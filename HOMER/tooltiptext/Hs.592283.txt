@@ -1,0 +1,1 @@
+testis	HMID:HM07291<br/>GeneSymbol:STAG3<br/>P-value:1.61e-158<br/>Zscore:6.3<br/>#EST:186<br/>Adj. #EST:10.69

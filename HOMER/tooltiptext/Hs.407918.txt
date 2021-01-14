@@ -1,0 +1,1 @@
+lymph node	HMID:HM04414<br/>GeneSymbol:LRRK1<br/>P-value:2.48e-21<br/>Zscore:5.59<br/>#EST:24<br/>Adj. #EST:15.15

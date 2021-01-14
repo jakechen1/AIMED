@@ -1,0 +1,1 @@
+skin	HMID:HM07087<br/>GeneSymbol:SOX10<br/>P-value:6.15e-108<br/>Zscore:5.35<br/>#EST:120<br/>Adj. #EST:14.36

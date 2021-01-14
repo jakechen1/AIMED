@@ -1,0 +1,1 @@
+esophagus	HMID:HM03600<br/>GeneSymbol:TRIM16<br/>P-value:9.03e-18<br/>Zscore:6.11<br/>#EST:19<br/>Adj. #EST:17.49

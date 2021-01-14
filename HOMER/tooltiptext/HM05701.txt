@@ -1,0 +1,1 @@
+lymph node	HMID:HM05701<br/>GeneSymbol:PTPLAD2<br/>P-value:2.05e-09<br/>Zscore:5.09<br/>#EST:10<br/>Adj. #EST:14.1

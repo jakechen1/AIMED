@@ -1,0 +1,1 @@
+adipose	HMID:HM03276<br/>GeneSymbol:CIDEC<br/>P-value:8.62e-20<br/>Zscore:7.06<br/>#EST:10<br/>Adj. #EST:152.27

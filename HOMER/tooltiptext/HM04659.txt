@@ -1,0 +1,1 @@
+testis	HMID:HM04659<br/>GeneSymbol:TMCO5B<br/>P-value:4.52e-13<br/>Zscore:6.65<br/>#EST:13<br/>Adj. #EST:11.59

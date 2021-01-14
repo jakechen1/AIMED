@@ -1,0 +1,1 @@
+blood	HMID:HM03295<br/>GeneSymbol:CCDC88B<br/>P-value:1.35e-19<br/>Zscore:4.18<br/>#EST:26<br/>Adj. #EST:10.75

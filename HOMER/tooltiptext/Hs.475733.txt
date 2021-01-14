@@ -1,0 +1,1 @@
+amnion	HMID:HM00584<br/>GeneSymbol:TOP2B<br/>P-value:2.97e-08<br/>Zscore:6.43<br/>#EST:10<br/>Adj. #EST:11.48

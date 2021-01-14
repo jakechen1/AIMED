@@ -1,0 +1,1 @@
+skin	HMID:HM05420<br/>GeneSymbol:MAGEA6<br/>P-value:2.48e-30<br/>Zscore:4.83<br/>#EST:43<br/>Adj. #EST:9.52

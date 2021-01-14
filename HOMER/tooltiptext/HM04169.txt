@@ -1,0 +1,1 @@
+heart	HMID:HM04169<br/>GeneSymbol:GPATCH8<br/>P-value:5.71e-15<br/>Zscore:4.96<br/>#EST:33<br/>Adj. #EST:5.47

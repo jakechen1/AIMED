@@ -1,0 +1,1 @@
+kidney	HMID:HM03151<br/>GeneSymbol:WDR72<br/>P-value:1.21e-20<br/>Zscore:4.22<br/>#EST:29<br/>Adj. #EST:9.47

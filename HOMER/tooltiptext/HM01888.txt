@@ -1,0 +1,1 @@
+mouth	HMID:HM01888<br/>GeneSymbol:SCEL<br/>P-value:2.56e-35<br/>Zscore:5.57<br/>#EST:34<br/>Adj. #EST:22.41

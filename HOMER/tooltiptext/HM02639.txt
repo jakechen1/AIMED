@@ -1,0 +1,1 @@
+colon	HMID:HM02639<br/>GeneSymbol:PKP2<br/>P-value:1.28e-24<br/>Zscore:4.86<br/>#EST:46<br/>Adj. #EST:6.77

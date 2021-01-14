@@ -1,0 +1,1 @@
+skin	HMID:HM02239<br/>GeneSymbol:MAGEA6<br/>P-value:2e-29<br/>Zscore:4.82<br/>#EST:43<br/>Adj. #EST:9.04

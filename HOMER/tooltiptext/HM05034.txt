@@ -1,0 +1,1 @@
+mouth	HMID:HM05034<br/>GeneSymbol:TSHZ2<br/>P-value:8.66e-12<br/>Zscore:4.88<br/>#EST:17<br/>Adj. #EST:9.23

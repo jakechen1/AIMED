@@ -1,0 +1,1 @@
+skin	HMID:HM06966<br/>GeneSymbol:KRT2<br/>P-value:1.46e-94<br/>Zscore:7.06<br/>#EST:69<br/>Adj. #EST:25.69

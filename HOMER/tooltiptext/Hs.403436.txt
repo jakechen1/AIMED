@@ -1,0 +1,1 @@
+pancreas	HMID:HM04443<br/>GeneSymbol:DCI<br/>P-value:1.95e-21<br/>Zscore:4.72<br/>#EST:52<br/>Adj. #EST:4.99

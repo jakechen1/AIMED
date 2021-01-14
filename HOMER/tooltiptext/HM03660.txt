@@ -1,0 +1,1 @@
+esophagus	HMID:HM03660<br/>GeneSymbol:ALDH3A1<br/>P-value:1.77e-17<br/>Zscore:4.99<br/>#EST:22<br/>Adj. #EST:12.8

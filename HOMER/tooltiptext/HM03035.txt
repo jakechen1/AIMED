@@ -1,0 +1,1 @@
+placenta	HMID:HM03035<br/>GeneSymbol:MAGEA8<br/>P-value:1.51e-21<br/>Zscore:6.42<br/>#EST:22<br/>Adj. #EST:14.34

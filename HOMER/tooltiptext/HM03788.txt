@@ -1,0 +1,1 @@
+bladder	HMID:HM03788<br/>GeneSymbol:SRSF3<br/>P-value:8.75e-17<br/>Zscore:5.33<br/>#EST:42<br/>Adj. #EST:5.01

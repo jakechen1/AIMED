@@ -1,0 +1,1 @@
+cervix	HMID:HM06461<br/>GeneSymbol:C8orf33<br/>P-value:1.58e-06<br/>Zscore:5.06<br/>#EST:13<br/>Adj. #EST:5.32

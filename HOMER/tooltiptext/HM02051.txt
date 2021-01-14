@@ -1,0 +1,1 @@
+kidney	HMID:HM02051<br/>GeneSymbol:SLC47A2<br/>P-value:1.46e-32<br/>Zscore:4.34<br/>#EST:39<br/>Adj. #EST:12.46

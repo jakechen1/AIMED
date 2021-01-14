@@ -1,0 +1,1 @@
+breast	HMID:HM06163<br/>GeneSymbol:LOC100499193<br/>P-value:8.78e-08<br/>Zscore:4.83<br/>#EST:12<br/>Adj. #EST:7.19

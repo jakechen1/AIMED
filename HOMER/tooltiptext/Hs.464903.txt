@@ -1,0 +1,1 @@
+stomach	HMID:HM01527<br/>GeneSymbol:INO80C<br/>P-value:4.65e-11<br/>Zscore:4.61<br/>#EST:19<br/>Adj. #EST:6.79

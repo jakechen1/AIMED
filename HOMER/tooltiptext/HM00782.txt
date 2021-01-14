@@ -1,0 +1,1 @@
+testis	HMID:HM00782<br/>GeneSymbol:SUGP2<br/>P-value:2.2e-87<br/>Zscore:4.91<br/>#EST:268<br/>Adj. #EST:4.02

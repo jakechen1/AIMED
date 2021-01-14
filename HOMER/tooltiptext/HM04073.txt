@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04073<br/>GeneSymbol:ATP8B4<br/>P-value:2.13e-15<br/>Zscore:6.31<br/>#EST:16<br/>Adj. #EST:16.92

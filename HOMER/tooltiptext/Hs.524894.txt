@@ -1,0 +1,2 @@
+ear	HMID:HM01550<br/>GeneSymbol:GJB2<br/>P-value:4.01e-11<br/>Zscore:4.21<br/>#EST:10<br/>Adj. #EST:22.72
+pharynx	HMID:HM05598<br/>GeneSymbol:GJB2<br/>P-value:3.96e-33<br/>Zscore:5.02<br/>#EST:30<br/>Adj. #EST:26.76

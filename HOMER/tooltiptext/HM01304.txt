@@ -1,0 +1,1 @@
+testis	HMID:HM01304<br/>GeneSymbol:FAM186B<br/>P-value:1.42e-52<br/>Zscore:6.8<br/>#EST:57<br/>Adj. #EST:11.45

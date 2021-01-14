@@ -1,0 +1,1 @@
+lymph node	HMID:HM07204<br/>GeneSymbol:SEL1L3<br/>P-value:1.08e-130<br/>Zscore:6.87<br/>#EST:135<br/>Adj. #EST:20.25

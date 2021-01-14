@@ -1,0 +1,1 @@
+placenta	HMID:HM06647<br/>GeneSymbol:VGLL1<br/>P-value:2.06e-67<br/>Zscore:6.47<br/>#EST:82<br/>Adj. #EST:12.13

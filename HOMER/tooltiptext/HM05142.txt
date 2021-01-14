@@ -1,0 +1,1 @@
+bladder	HMID:HM05142<br/>GeneSymbol:UCA1<br/>P-value:2.03e-11<br/>Zscore:6.48<br/>#EST:10<br/>Adj. #EST:23.81

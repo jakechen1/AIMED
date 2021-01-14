@@ -1,0 +1,1 @@
+trachea	HMID:HM00049<br/>GeneSymbol:SLC9A9<br/>P-value:4.5e-06<br/>Zscore:4.31<br/>#EST:11<br/>Adj. #EST:5.78

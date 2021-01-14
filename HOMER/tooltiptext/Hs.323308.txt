@@ -1,0 +1,1 @@
+embryo	HMID:HM01325<br/>GeneSymbol:SPRY4<br/>P-value:1.7e-10<br/>Zscore:4.24<br/>#EST:24<br/>Adj. #EST:4.84

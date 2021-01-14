@@ -1,0 +1,1 @@
+muscle	HMID:HM06125<br/>GeneSymbol:RPL3L<br/>P-value:3.24e-44<br/>Zscore:6.76<br/>#EST:33<br/>Adj. #EST:35.72

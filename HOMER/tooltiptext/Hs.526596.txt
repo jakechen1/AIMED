@@ -1,0 +1,1 @@
+spleen	HMID:HM07092<br/>GeneSymbol:C2orf72<br/>P-value:1.22e-108<br/>Zscore:6.2<br/>#EST:160<br/>Adj. #EST:8.97

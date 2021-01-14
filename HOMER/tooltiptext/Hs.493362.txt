@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00767<br/>GeneSymbol:AK3<br/>P-value:7.41e-09<br/>Zscore:5.55<br/>#EST:14<br/>Adj. #EST:7.75

@@ -1,0 +1,1 @@
+trachea	HMID:HM04040<br/>GeneSymbol:VNN3<br/>P-value:1.47e-15<br/>Zscore:6.36<br/>#EST:13<br/>Adj. #EST:27.69

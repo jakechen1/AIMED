@@ -1,0 +1,1 @@
+esophagus	HMID:HM00177<br/>GeneSymbol:IFIT1<br/>P-value:8.53e-07<br/>Zscore:4.78<br/>#EST:11<br/>Adj. #EST:6.95

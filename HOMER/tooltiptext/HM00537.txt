@@ -1,0 +1,1 @@
+bone	HMID:HM00537<br/>GeneSymbol:HLA-B<br/>P-value:0<br/>Zscore:4.06<br/>#EST:159<br/>Adj. #EST:11.79

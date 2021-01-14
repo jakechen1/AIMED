@@ -1,0 +1,1 @@
+brain	HMID:HM06400<br/>GeneSymbol:HCRTR1<br/>P-value:8.74e-07<br/>Zscore:4.71<br/>#EST:12<br/>Adj. #EST:4.22

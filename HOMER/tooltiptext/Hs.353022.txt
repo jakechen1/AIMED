@@ -1,0 +1,1 @@
+breast	HMID:HM07170<br/>GeneSymbol:ETAA1<br/>P-value:5.85e-123<br/>Zscore:6.73<br/>#EST:116<br/>Adj. #EST:20.87

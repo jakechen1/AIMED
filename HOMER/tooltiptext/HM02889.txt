@@ -1,0 +1,1 @@
+testis	HMID:HM02889<br/>GeneSymbol:CT62<br/>P-value:1.15e-22<br/>Zscore:5.58<br/>#EST:27<br/>Adj. #EST:9.88

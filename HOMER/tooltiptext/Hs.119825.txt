@@ -1,0 +1,1 @@
+spleen	HMID:HM06989<br/>GeneSymbol:SPTA1<br/>P-value:1.37e-96<br/>Zscore:5.95<br/>#EST:111<br/>Adj. #EST:12.34

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM07085<br/>GeneSymbol:VIM<br/>P-value:9.94e-108<br/>Zscore:4.48<br/>#EST:188<br/>Adj. #EST:8.71

@@ -1,0 +1,1 @@
+testis	HMID:HM05234<br/>GeneSymbol:KPNA5<br/>P-value:6.11e-28<br/>Zscore:5.26<br/>#EST:52<br/>Adj. #EST:6.07

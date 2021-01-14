@@ -1,0 +1,1 @@
+larynx	HMID:HM02105<br/>GeneSymbol:MRPS6<br/>P-value:1.7e-12<br/>Zscore:4.54<br/>#EST:20<br/>Adj. #EST:8.22

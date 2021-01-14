@@ -1,0 +1,1 @@
+eye	HMID:HM05857<br/>GeneSymbol:HAUS1<br/>P-value:5.26e-38<br/>Zscore:4.32<br/>#EST:65<br/>Adj. #EST:7.69

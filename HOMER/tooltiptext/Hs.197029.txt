@@ -1,0 +1,1 @@
+thymus	HMID:HM04555<br/>GeneSymbol:ADORA2A<br/>P-value:5.34e-22<br/>Zscore:5.81<br/>#EST:26<br/>Adj. #EST:14.05

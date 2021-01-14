@@ -1,0 +1,1 @@
+trachea	HMID:HM03675<br/>GeneSymbol:ALCAM<br/>P-value:2.13e-17<br/>Zscore:4.58<br/>#EST:37<br/>Adj. #EST:5.95

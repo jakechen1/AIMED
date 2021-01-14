@@ -1,0 +1,1 @@
+spleen	HMID:HM05976<br/>GeneSymbol:ALS2CR12<br/>P-value:1.89e-08<br/>Zscore:5.27<br/>#EST:11<br/>Adj. #EST:9.36

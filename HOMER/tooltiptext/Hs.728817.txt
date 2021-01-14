@@ -1,0 +1,1 @@
+trachea	HMID:HM07278<br/>GeneSymbol:TXNRD1<br/>P-value:4.71e-153<br/>Zscore:6.67<br/>#EST:184<br/>Adj. #EST:15.92

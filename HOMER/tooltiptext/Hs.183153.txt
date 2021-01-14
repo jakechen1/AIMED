@@ -1,0 +1,1 @@
+eye	HMID:HM05511<br/>GeneSymbol:ARL4D<br/>P-value:1.15e-31<br/>Zscore:5.09<br/>#EST:62<br/>Adj. #EST:6.46

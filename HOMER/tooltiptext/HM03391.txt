@@ -1,0 +1,2 @@
+embryo	HMID:HM03391<br/>GeneSymbol:EMID2<br/>P-value:4.28e-19<br/>Zscore:4.59<br/>#EST:28<br/>Adj. #EST:8.68
+ovary	HMID:HM03391<br/>GeneSymbol:EMID2<br/>P-value:7.79e-09<br/>Zscore:4.89<br/>#EST:12<br/>Adj. #EST:9.21

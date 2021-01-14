@@ -1,0 +1,1 @@
+spleen	HMID:HM03750<br/>GeneSymbol:EXOC3L<br/>P-value:1.07e-17<br/>Zscore:4.8<br/>#EST:29<br/>Adj. #EST:7.14

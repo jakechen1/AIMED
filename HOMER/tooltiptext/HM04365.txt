@@ -1,0 +1,1 @@
+liver	HMID:HM04365<br/>GeneSymbol:RNU12<br/>P-value:3.08e-14<br/>Zscore:6.47<br/>#EST:12<br/>Adj. #EST:17.61

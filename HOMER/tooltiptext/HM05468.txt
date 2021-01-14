@@ -1,0 +1,1 @@
+blood	HMID:HM05468<br/>GeneSymbol:CISH<br/>P-value:3.21e-10<br/>Zscore:4.04<br/>#EST:20<br/>Adj. #EST:5.83

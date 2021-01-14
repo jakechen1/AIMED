@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00203<br/>GeneSymbol:STATH<br/>P-value:0<br/>Zscore:7.01<br/>#EST:171<br/>Adj. #EST:102.54

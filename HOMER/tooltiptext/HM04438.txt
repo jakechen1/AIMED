@@ -1,0 +1,1 @@
+ear	HMID:HM04438<br/>GeneSymbol:UGT8<br/>P-value:6.96e-14<br/>Zscore:6.95<br/>#EST:12<br/>Adj. #EST:26.59

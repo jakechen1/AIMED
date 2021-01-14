@@ -1,0 +1,1 @@
+rectum	HMID:HM00976<br/>GeneSymbol:CSRP1<br/>P-value:4.5e-70<br/>Zscore:5.83<br/>#EST:64<br/>Adj. #EST:29.88

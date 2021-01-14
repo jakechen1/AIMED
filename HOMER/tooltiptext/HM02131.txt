@@ -1,0 +1,2 @@
+ear	HMID:HM02131<br/>GeneSymbol:PMP22<br/>P-value:3.91e-31<br/>Zscore:4.24<br/>#EST:32<br/>Adj. #EST:20.79
+ganglia	HMID:HM02131<br/>GeneSymbol:PMP22<br/>P-value:6.36e-23<br/>Zscore:5.43<br/>#EST:21<br/>Adj. #EST:26.18

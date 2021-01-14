@@ -1,0 +1,2 @@
+blood	HMID:HM03807<br/>GeneSymbol:TNF<br/>P-value:5.66e-18<br/>Zscore:4.94<br/>#EST:22<br/>Adj. #EST:12.12
+lymph node	HMID:HM00687<br/>GeneSymbol:TNF<br/>P-value:1.42e-08<br/>Zscore:4.03<br/>#EST:11<br/>Adj. #EST:10.04

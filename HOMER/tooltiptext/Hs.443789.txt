@@ -1,0 +1,1 @@
+lymph node	HMID:HM01024<br/>GeneSymbol:FAM184A<br/>P-value:1.21e-09<br/>Zscore:5.41<br/>#EST:15<br/>Adj. #EST:7.83

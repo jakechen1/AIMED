@@ -1,0 +1,1 @@
+stomach	HMID:HM00804<br/>GeneSymbol:TRIM21<br/>P-value:5.06e-09<br/>Zscore:4.5<br/>#EST:18<br/>Adj. #EST:5.51

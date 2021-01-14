@@ -1,0 +1,1 @@
+nerve	HMID:HM05157<br/>GeneSymbol:SLC22A17<br/>P-value:2.44e-11<br/>Zscore:4.27<br/>#EST:20<br/>Adj. #EST:6.93

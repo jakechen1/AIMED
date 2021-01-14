@@ -1,0 +1,1 @@
+testis	HMID:HM05317<br/>GeneSymbol:L3MBTL4<br/>P-value:8.7e-11<br/>Zscore:5.23<br/>#EST:22<br/>Adj. #EST:5.06

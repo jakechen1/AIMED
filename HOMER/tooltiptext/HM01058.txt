@@ -1,0 +1,1 @@
+thymus	HMID:HM01058<br/>GeneSymbol:NCKAP1L<br/>P-value:5.33e-65<br/>Zscore:6<br/>#EST:73<br/>Adj. #EST:16.87

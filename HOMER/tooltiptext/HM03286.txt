@@ -1,0 +1,1 @@
+amnion	HMID:HM03286<br/>GeneSymbol:LOC400960<br/>P-value:1.05e-19<br/>Zscore:6.98<br/>#EST:14<br/>Adj. #EST:50.23

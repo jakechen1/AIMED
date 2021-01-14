@@ -1,0 +1,1 @@
+lymph node	HMID:HM02140<br/>GeneSymbol:IKZF1<br/>P-value:5.7e-31<br/>Zscore:4.83<br/>#EST:37<br/>Adj. #EST:14.16

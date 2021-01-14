@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM00260<br/>GeneSymbol:LSM4<br/>P-value:4.17e-07<br/>Zscore:4.84<br/>#EST:13<br/>Adj. #EST:6.06

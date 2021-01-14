@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04754<br/>GeneSymbol:LYG1<br/>P-value:1.05e-12<br/>Zscore:6.88<br/>#EST:10<br/>Adj. #EST:27.96

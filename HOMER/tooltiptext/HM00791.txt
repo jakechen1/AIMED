@@ -1,0 +1,1 @@
+trachea	HMID:HM00791<br/>GeneSymbol:SCARA5<br/>P-value:1.83e-86<br/>Zscore:6.06<br/>#EST:77<br/>Adj. #EST:29.15

@@ -1,0 +1,1 @@
+placenta	HMID:HM06600<br/>GeneSymbol:SPINT1<br/>P-value:3.41e-64<br/>Zscore:4.94<br/>#EST:128<br/>Adj. #EST:6.4

@@ -1,0 +1,1 @@
+pharynx	HMID:HM05839<br/>GeneSymbol:RSU1<br/>P-value:5.73e-09<br/>Zscore:4.25<br/>#EST:19<br/>Adj. #EST:5.4

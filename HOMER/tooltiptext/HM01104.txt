@@ -1,0 +1,2 @@
+bone marrow	HMID:HM01104<br/>GeneSymbol:S100A9<br/>P-value:5.66e-62<br/>Zscore:4.15<br/>#EST:69<br/>Adj. #EST:17.33
+larynx	HMID:HM01104<br/>GeneSymbol:S100A9<br/>P-value:3.1e-23<br/>Zscore:4.32<br/>#EST:25<br/>Adj. #EST:17.95

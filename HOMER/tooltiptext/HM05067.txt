@@ -1,0 +1,1 @@
+trachea	HMID:HM05067<br/>GeneSymbol:BBS1<br/>P-value:1.16e-11<br/>Zscore:4.22<br/>#EST:27<br/>Adj. #EST:5.14

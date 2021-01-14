@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05255<br/>GeneSymbol:RPS20<br/>P-value:3.27e-28<br/>Zscore:4.23<br/>#EST:53<br/>Adj. #EST:7.38

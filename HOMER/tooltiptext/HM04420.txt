@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04420<br/>GeneSymbol:SLC40A1<br/>P-value:5.38e-14<br/>Zscore:4.77<br/>#EST:20<br/>Adj. #EST:9.96

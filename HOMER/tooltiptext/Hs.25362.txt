@@ -1,0 +1,1 @@
+embryo	HMID:HM00295<br/>GeneSymbol:ARL5B<br/>P-value:3.11e-07<br/>Zscore:4.3<br/>#EST:13<br/>Adj. #EST:5.75

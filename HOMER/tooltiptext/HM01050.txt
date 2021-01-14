@@ -1,0 +1,1 @@
+prostate	HMID:HM01050<br/>GeneSymbol:EDC3<br/>P-value:1.52e-65<br/>Zscore:5.02<br/>#EST:105<br/>Adj. #EST:8.73

@@ -1,0 +1,1 @@
+ganglia	HMID:HM00002<br/>GeneSymbol:CD59<br/>P-value:1e-05<br/>Zscore:4.27<br/>#EST:11<br/>Adj. #EST:5.37

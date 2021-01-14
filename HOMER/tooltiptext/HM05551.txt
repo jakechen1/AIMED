@@ -1,0 +1,1 @@
+nerve	HMID:HM05551<br/>GeneSymbol:DOK4<br/>P-value:6.14e-10<br/>Zscore:5.05<br/>#EST:22<br/>Adj. #EST:5.21

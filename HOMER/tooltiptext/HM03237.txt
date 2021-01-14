@@ -1,0 +1,1 @@
+testis	HMID:HM03237<br/>GeneSymbol:MDH1B<br/>P-value:4.67e-20<br/>Zscore:4.31<br/>#EST:31<br/>Adj. #EST:7.25

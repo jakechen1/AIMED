@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04359<br/>GeneSymbol:BDH2<br/>P-value:2.92e-14<br/>Zscore:5.51<br/>#EST:20<br/>Adj. #EST:10.3

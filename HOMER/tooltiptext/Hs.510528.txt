@@ -1,0 +1,1 @@
+lymph node	HMID:HM00014<br/>GeneSymbol:TRAF3<br/>P-value:8.51e-06<br/>Zscore:4.51<br/>#EST:11<br/>Adj. #EST:5.34

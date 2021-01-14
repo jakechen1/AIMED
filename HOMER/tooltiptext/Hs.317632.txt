@@ -1,0 +1,1 @@
+brain	HMID:HM04294<br/>GeneSymbol:CDH18<br/>P-value:1.27e-20<br/>Zscore:5.11<br/>#EST:42<br/>Adj. #EST:4.26

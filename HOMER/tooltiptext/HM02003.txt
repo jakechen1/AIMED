@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02003<br/>GeneSymbol:MLL2<br/>P-value:2.41e-33<br/>Zscore:6.13<br/>#EST:44<br/>Adj. #EST:12.24

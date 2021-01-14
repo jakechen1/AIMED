@@ -1,0 +1,1 @@
+testis	HMID:HM01219<br/>GeneSymbol:ALS2CR11<br/>P-value:1.89e-56<br/>Zscore:6.92<br/>#EST:60<br/>Adj. #EST:11.72

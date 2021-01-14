@@ -1,0 +1,1 @@
+ear	HMID:HM06346<br/>GeneSymbol:GNAQ<br/>P-value:5.1e-07<br/>Zscore:5.86<br/>#EST:10<br/>Adj. #EST:8.38

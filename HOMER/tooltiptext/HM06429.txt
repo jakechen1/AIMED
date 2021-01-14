@@ -1,0 +1,1 @@
+thyroid	HMID:HM06429<br/>GeneSymbol:EPHA4<br/>P-value:1.12e-06<br/>Zscore:4.47<br/>#EST:15<br/>Adj. #EST:4.73

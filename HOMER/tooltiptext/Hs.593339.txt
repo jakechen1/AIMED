@@ -1,0 +1,1 @@
+tonsil	HMID:HM00371<br/>GeneSymbol:HMGB1<br/>P-value:1.75e-07<br/>Zscore:4.81<br/>#EST:12<br/>Adj. #EST:7.26

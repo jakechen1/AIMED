@@ -1,0 +1,1 @@
+kidney	HMID:HM00708<br/>GeneSymbol:CEBPD<br/>P-value:1.22e-95<br/>Zscore:4.86<br/>#EST:180<br/>Adj. #EST:7.07

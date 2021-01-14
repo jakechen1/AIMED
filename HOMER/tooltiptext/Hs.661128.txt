@@ -1,0 +1,1 @@
+nerve	HMID:HM00957<br/>GeneSymbol:KREMEN2<br/>P-value:1.99e-09<br/>Zscore:4.42<br/>#EST:12<br/>Adj. #EST:10.57

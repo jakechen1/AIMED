@@ -1,0 +1,1 @@
+embryo	HMID:HM06477<br/>GeneSymbol:PODXL<br/>P-value:1.46e-57<br/>Zscore:4.38<br/>#EST:122<br/>Adj. #EST:6.02

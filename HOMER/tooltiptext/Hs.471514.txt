@@ -1,0 +1,1 @@
+lymph node	HMID:HM02616<br/>GeneSymbol:RHBDD1<br/>P-value:1.14e-13<br/>Zscore:4.77<br/>#EST:24<br/>Adj. #EST:7.16

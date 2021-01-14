@@ -1,0 +1,1 @@
+eye	HMID:HM05811<br/>GeneSymbol:KRT3<br/>P-value:8.61e-37<br/>Zscore:6.65<br/>#EST:26<br/>Adj. #EST:28.37

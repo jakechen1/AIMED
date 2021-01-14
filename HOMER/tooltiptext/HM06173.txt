@@ -1,0 +1,1 @@
+pancreas	HMID:HM06173<br/>GeneSymbol:HSBP1L1<br/>P-value:9.78e-08<br/>Zscore:4.03<br/>#EST:18<br/>Adj. #EST:4.52

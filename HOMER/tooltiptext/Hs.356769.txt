@@ -1,0 +1,1 @@
+thymus	HMID:HM06569<br/>GeneSymbol:MAN2B1<br/>P-value:3.79e-62<br/>Zscore:4.89<br/>#EST:113<br/>Adj. #EST:7.83

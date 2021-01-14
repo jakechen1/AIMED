@@ -1,0 +1,1 @@
+mouth	HMID:HM06055<br/>GeneSymbol:GABRP<br/>P-value:2.98e-42<br/>Zscore:5.5<br/>#EST:43<br/>Adj. #EST:20.41

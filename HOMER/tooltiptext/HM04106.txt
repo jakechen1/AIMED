@@ -1,0 +1,1 @@
+trachea	HMID:HM04106<br/>GeneSymbol:STOML3<br/>P-value:2.98e-15<br/>Zscore:6.95<br/>#EST:10<br/>Adj. #EST:50.28

@@ -1,0 +1,1 @@
+lymph	HMID:HM05832<br/>GeneSymbol:VARS2<br/>P-value:1.91e-37<br/>Zscore:6.81<br/>#EST:41<br/>Adj. #EST:17.76

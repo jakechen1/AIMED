@@ -1,0 +1,1 @@
+ear	HMID:HM06506<br/>GeneSymbol:COL9A2<br/>P-value:9.09e-59<br/>Zscore:7.04<br/>#EST:35<br/>Adj. #EST:100.36

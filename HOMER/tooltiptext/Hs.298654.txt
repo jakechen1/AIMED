@@ -1,0 +1,1 @@
+trachea	HMID:HM03452<br/>GeneSymbol:DUSP6<br/>P-value:2.64e-16<br/>Zscore:4.22<br/>#EST:40<br/>Adj. #EST:5.06

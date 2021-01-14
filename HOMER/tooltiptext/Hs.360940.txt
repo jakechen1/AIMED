@@ -1,0 +1,1 @@
+lymph	HMID:HM04291<br/>GeneSymbol:RRP7A<br/>P-value:1.3e-20<br/>Zscore:4.96<br/>#EST:35<br/>Adj. #EST:8.06

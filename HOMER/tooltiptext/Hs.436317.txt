@@ -1,0 +1,1 @@
+pharynx	HMID:HM02808<br/>GeneSymbol:CYP4B1<br/>P-value:2.04e-14<br/>Zscore:5.06<br/>#EST:17<br/>Adj. #EST:13.64

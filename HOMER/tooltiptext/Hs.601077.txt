@@ -1,0 +1,1 @@
+skin	HMID:HM07357<br/>GeneSymbol:C1orf68<br/>P-value:3.73e-185<br/>Zscore:7.06<br/>#EST:133<br/>Adj. #EST:26.22

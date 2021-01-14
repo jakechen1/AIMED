@@ -1,0 +1,1 @@
+kidney	HMID:HM07203<br/>GeneSymbol:AMN<br/>P-value:1.1e-130<br/>Zscore:6.42<br/>#EST:134<br/>Adj. #EST:16.89

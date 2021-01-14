@@ -1,0 +1,1 @@
+liver	HMID:HM01504<br/>GeneSymbol:C3P1<br/>P-value:7.41e-45<br/>Zscore:7.07<br/>#EST:34<br/>Adj. #EST:21.39

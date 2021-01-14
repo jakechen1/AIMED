@@ -1,0 +1,1 @@
+brain	HMID:HM04986<br/>GeneSymbol:HTR1A<br/>P-value:3.91e-25<br/>Zscore:7.07<br/>#EST:32<br/>Adj. #EST:5.79

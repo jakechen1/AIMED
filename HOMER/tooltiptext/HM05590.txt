@@ -1,0 +1,1 @@
+stomach	HMID:HM05590<br/>GeneSymbol:ZGLP1<br/>P-value:7.68e-10<br/>Zscore:6.23<br/>#EST:11<br/>Adj. #EST:12.38

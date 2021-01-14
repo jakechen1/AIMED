@@ -1,0 +1,1 @@
+lymph node	HMID:HM00382<br/>GeneSymbol:FAM72B<br/>P-value:1.62e-07<br/>Zscore:4.96<br/>#EST:10<br/>Adj. #EST:9.13

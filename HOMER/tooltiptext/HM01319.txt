@@ -1,0 +1,1 @@
+spleen	HMID:HM01319<br/>GeneSymbol:GDPD2<br/>P-value:1.2e-51<br/>Zscore:7<br/>#EST:49<br/>Adj. #EST:20.43

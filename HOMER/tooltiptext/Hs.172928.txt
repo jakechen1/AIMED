@@ -1,0 +1,1 @@
+leiomios	HMID:HM07108<br/>GeneSymbol:COL1A1<br/>P-value:2.57e-111<br/>Zscore:6.22<br/>#EST:103<br/>Adj. #EST:29.58

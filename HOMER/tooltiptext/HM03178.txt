@@ -1,0 +1,1 @@
+blood	HMID:HM03178<br/>GeneSymbol:CSRNP1<br/>P-value:2.12e-20<br/>Zscore:5.43<br/>#EST:33<br/>Adj. #EST:8.14

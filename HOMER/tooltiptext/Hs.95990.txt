@@ -1,0 +1,1 @@
+spleen	HMID:HM04246<br/>GeneSymbol:PKLR<br/>P-value:2.57e-20<br/>Zscore:4.66<br/>#EST:32<br/>Adj. #EST:7.59

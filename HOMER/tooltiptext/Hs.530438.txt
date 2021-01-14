@@ -1,0 +1,1 @@
+spleen	HMID:HM02907<br/>GeneSymbol:DCDC5<br/>P-value:1.21e-14<br/>Zscore:6.19<br/>#EST:18<br/>Adj. #EST:10.01

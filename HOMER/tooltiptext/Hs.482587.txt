@@ -1,0 +1,1 @@
+bladder	HMID:HM00252<br/>GeneSymbol:SCAMP1<br/>P-value:4.57e-07<br/>Zscore:4.66<br/>#EST:13<br/>Adj. #EST:5.99

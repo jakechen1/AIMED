@@ -1,0 +1,1 @@
+pharynx	HMID:HM05136<br/>GeneSymbol:SLC24A3<br/>P-value:7.63e-27<br/>Zscore:6.97<br/>#EST:21<br/>Adj. #EST:37.08

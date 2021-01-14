@@ -1,0 +1,1 @@
+spleen	HMID:HM04270<br/>GeneSymbol:SOX6<br/>P-value:1.75e-20<br/>Zscore:4.01<br/>#EST:51<br/>Adj. #EST:4.68

@@ -1,0 +1,1 @@
+lymph	HMID:HM04235<br/>GeneSymbol:PSAT1<br/>P-value:1.04e-14<br/>Zscore:4.61<br/>#EST:34<br/>Adj. #EST:5.32

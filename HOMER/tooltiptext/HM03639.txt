@@ -1,0 +1,1 @@
+pancreas	HMID:HM03639<br/>GeneSymbol:CRB3<br/>P-value:1.42e-17<br/>Zscore:4.76<br/>#EST:23<br/>Adj. #EST:10.25

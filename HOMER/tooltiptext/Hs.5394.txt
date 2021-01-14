@@ -1,0 +1,1 @@
+colon	HMID:HM04678<br/>GeneSymbol:MYO1A<br/>P-value:7.44e-23<br/>Zscore:4.66<br/>#EST:23<br/>Adj. #EST:16.43

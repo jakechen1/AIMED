@@ -1,0 +1,1 @@
+brain	HMID:HM01849<br/>GeneSymbol:STX1B<br/>P-value:3.5e-36<br/>Zscore:6.84<br/>#EST:57<br/>Adj. #EST:5.1

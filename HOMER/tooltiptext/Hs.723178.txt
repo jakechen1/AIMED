@@ -1,0 +1,1 @@
+trachea	HMID:HM02073<br/>GeneSymbol:LEPR<br/>P-value:1.97e-12<br/>Zscore:5.65<br/>#EST:15<br/>Adj. #EST:12.57

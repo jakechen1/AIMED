@@ -1,0 +1,1 @@
+spleen	HMID:HM04087<br/>GeneSymbol:LST1<br/>P-value:2.13e-19<br/>Zscore:4.18<br/>#EST:33<br/>Adj. #EST:6.9

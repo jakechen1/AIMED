@@ -1,0 +1,1 @@
+mouth	HMID:HM00386<br/>GeneSymbol:RPS10<br/>P-value:0<br/>Zscore:6.22<br/>#EST:198<br/>Adj. #EST:15.07

@@ -1,0 +1,1 @@
+prostate	HMID:HM00747<br/>GeneSymbol:FOXA1<br/>P-value:3.06e-91<br/>Zscore:6.37<br/>#EST:94<br/>Adj. #EST:17.3

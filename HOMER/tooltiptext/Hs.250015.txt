@@ -1,0 +1,1 @@
+brain	HMID:HM04572<br/>GeneSymbol:LRFN2<br/>P-value:4.12e-22<br/>Zscore:6.42<br/>#EST:34<br/>Adj. #EST:5.18

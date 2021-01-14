@@ -1,0 +1,1 @@
+trachea	HMID:HM04614<br/>GeneSymbol:GALNT3<br/>P-value:3.11e-13<br/>Zscore:4.44<br/>#EST:19<br/>Adj. #EST:9.59

@@ -1,0 +1,1 @@
+embryo	HMID:HM00770<br/>GeneSymbol:LOC400043<br/>P-value:7.23e-09<br/>Zscore:4.58<br/>#EST:17<br/>Adj. #EST:5.61

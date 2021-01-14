@@ -1,0 +1,1 @@
+kidney	HMID:HM04369<br/>GeneSymbol:NPR3<br/>P-value:3.17e-14<br/>Zscore:4.98<br/>#EST:20<br/>Adj. #EST:9

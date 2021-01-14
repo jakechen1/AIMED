@@ -1,0 +1,1 @@
+tonsil	HMID:HM01916<br/>GeneSymbol:RPS3<br/>P-value:8.47e-35<br/>Zscore:4.08<br/>#EST:89<br/>Adj. #EST:5.21

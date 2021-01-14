@@ -1,0 +1,1 @@
+thyroid	HMID:HM05483<br/>GeneSymbol:C8orf79<br/>P-value:3.62e-10<br/>Zscore:6.38<br/>#EST:11<br/>Adj. #EST:14.54

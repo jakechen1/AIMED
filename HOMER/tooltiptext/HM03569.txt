@@ -1,0 +1,1 @@
+placenta	HMID:HM03569<br/>GeneSymbol:GRAMD2<br/>P-value:6.31e-18<br/>Zscore:4.01<br/>#EST:26<br/>Adj. #EST:8.59

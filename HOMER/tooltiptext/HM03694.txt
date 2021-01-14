@@ -1,0 +1,1 @@
+lymph	HMID:HM03694<br/>GeneSymbol:TUBA4A<br/>P-value:2.75e-17<br/>Zscore:4.54<br/>#EST:36<br/>Adj. #EST:6.09

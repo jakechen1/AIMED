@@ -1,0 +1,1 @@
+pancreas	HMID:HM04484<br/>GeneSymbol:RFX6<br/>P-value:9.65e-14<br/>Zscore:5.76<br/>#EST:12<br/>Adj. #EST:18.57

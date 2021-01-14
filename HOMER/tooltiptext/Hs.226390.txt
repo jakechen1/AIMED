@@ -1,0 +1,2 @@
+esophagus	HMID:HM05571<br/>GeneSymbol:RRM2<br/>P-value:1.11e-32<br/>Zscore:5.13<br/>#EST:46<br/>Adj. #EST:11.44
+thymus	HMID:HM06972<br/>GeneSymbol:RRM2<br/>P-value:3.88e-95<br/>Zscore:4.09<br/>#EST:154<br/>Adj. #EST:9.35

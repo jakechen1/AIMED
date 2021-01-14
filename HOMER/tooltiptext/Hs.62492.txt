@@ -1,0 +1,1 @@
+testis	HMID:HM05644<br/>GeneSymbol:SCGB3A1<br/>P-value:8.05e-34<br/>Zscore:5.47<br/>#EST:74<br/>Adj. #EST:5.23

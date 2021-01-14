@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01914<br/>GeneSymbol:C12orf26<br/>P-value:7.32e-35<br/>Zscore:6.54<br/>#EST:32<br/>Adj. #EST:23.73

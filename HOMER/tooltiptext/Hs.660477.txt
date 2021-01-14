@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01890<br/>GeneSymbol:LOC100129858<br/>P-value:4.97e-12<br/>Zscore:6.54<br/>#EST:10<br/>Adj. #EST:24.7

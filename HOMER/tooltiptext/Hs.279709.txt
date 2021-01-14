@@ -1,0 +1,2 @@
+muscle	HMID:HM04934<br/>GeneSymbol:TRIM63<br/>P-value:8.91e-25<br/>Zscore:4.33<br/>#EST:24<br/>Adj. #EST:19.93
+heart	HMID:HM05909<br/>GeneSymbol:TRIM63<br/>P-value:5.81e-39<br/>Zscore:5.48<br/>#EST:34<br/>Adj. #EST:24.97

@@ -1,0 +1,1 @@
+trachea	HMID:HM06520<br/>GeneSymbol:SND1<br/>P-value:1.69e-59<br/>Zscore:5.43<br/>#EST:119<br/>Adj. #EST:7.01

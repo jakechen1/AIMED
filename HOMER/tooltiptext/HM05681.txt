@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05681<br/>GeneSymbol:GUK1<br/>P-value:1.75e-09<br/>Zscore:5.41<br/>#EST:18<br/>Adj. #EST:6.24

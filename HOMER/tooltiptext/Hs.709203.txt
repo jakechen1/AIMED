@@ -1,0 +1,1 @@
+placenta	HMID:HM06245<br/>GeneSymbol:PSG7<br/>P-value:6.56e-48<br/>Zscore:6.99<br/>#EST:41<br/>Adj. #EST:19.87

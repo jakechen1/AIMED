@@ -1,0 +1,1 @@
+nerve	HMID:HM05796<br/>GeneSymbol:FAM188B<br/>P-value:4.09e-09<br/>Zscore:6.02<br/>#EST:10<br/>Adj. #EST:13.41

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03450<br/>GeneSymbol:EIF4E<br/>P-value:2.7e-16<br/>Zscore:4.19<br/>#EST:40<br/>Adj. #EST:5.03

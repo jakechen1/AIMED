@@ -1,0 +1,1 @@
+lung	HMID:HM00927<br/>GeneSymbol:DNASE2B<br/>P-value:2.37e-09<br/>Zscore:4.82<br/>#EST:11<br/>Adj. #EST:9.71

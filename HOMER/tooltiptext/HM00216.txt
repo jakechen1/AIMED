@@ -1,0 +1,1 @@
+embryo	HMID:HM00216<br/>GeneSymbol:RPL39<br/>P-value:0<br/>Zscore:5.57<br/>#EST:425<br/>Adj. #EST:8.92

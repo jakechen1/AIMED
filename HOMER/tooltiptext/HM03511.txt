@@ -1,0 +1,2 @@
+lymph node	HMID:HM03511<br/>GeneSymbol:FCRL5<br/>P-value:2.7e-18<br/>Zscore:4.95<br/>#EST:19<br/>Adj. #EST:17.08
+mouth	HMID:HM03511<br/>GeneSymbol:FCRL5<br/>P-value:3.93e-11<br/>Zscore:4.22<br/>#EST:12<br/>Adj. #EST:14.73

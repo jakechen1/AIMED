@@ -1,0 +1,1 @@
+spleen	HMID:HM00748<br/>GeneSymbol:CBLN3<br/>P-value:8.38e-09<br/>Zscore:5.82<br/>#EST:14<br/>Adj. #EST:6.64

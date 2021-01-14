@@ -1,0 +1,2 @@
+liver	HMID:HM03363<br/>GeneSymbol:<br/>P-value:3.03e-19<br/>Zscore:4.22<br/>#EST:22<br/>Adj. #EST:11.81
+spleen	HMID:HM03363<br/>GeneSymbol:<br/>P-value:1.75e-14<br/>Zscore:5.51<br/>#EST:15<br/>Adj. #EST:15.26

@@ -1,0 +1,1 @@
+heart	HMID:HM07005<br/>GeneSymbol:TNNI3<br/>P-value:2.78e-98<br/>Zscore:7.04<br/>#EST:75<br/>Adj. #EST:34.07

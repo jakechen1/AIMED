@@ -1,0 +1,1 @@
+skin	HMID:HM06509<br/>GeneSymbol:4-Mar<br/>P-value:3.2e-06<br/>Zscore:5.6<br/>#EST:10<br/>Adj. #EST:6.21

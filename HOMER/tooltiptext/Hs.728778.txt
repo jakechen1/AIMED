@@ -1,0 +1,1 @@
+esophagus	HMID:HM00666<br/>GeneSymbol:STRAP<br/>P-value:1.63e-08<br/>Zscore:4.57<br/>#EST:22<br/>Adj. #EST:4.4

@@ -1,0 +1,2 @@
+nerve	HMID:HM02398<br/>GeneSymbol:IGFBP2<br/>P-value:3.03e-22<br/>Zscore:4.76<br/>#EST:39<br/>Adj. #EST:7.7
+ovary	HMID:HM02398<br/>GeneSymbol:IGFBP2<br/>P-value:2.82e-27<br/>Zscore:4.36<br/>#EST:51<br/>Adj. #EST:7.12

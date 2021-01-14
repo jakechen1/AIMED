@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04347<br/>GeneSymbol:SLC17A5<br/>P-value:6.84e-21<br/>Zscore:6.93<br/>#EST:18<br/>Adj. #EST:29.24

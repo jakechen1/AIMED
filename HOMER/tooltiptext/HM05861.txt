@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05861<br/>GeneSymbol:COX7A2L<br/>P-value:6.76e-09<br/>Zscore:4.64<br/>#EST:14<br/>Adj. #EST:7.81

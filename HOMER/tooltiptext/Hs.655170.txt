@@ -1,0 +1,1 @@
+testis	HMID:HM07091<br/>GeneSymbol:SPAG6<br/>P-value:1.77e-108<br/>Zscore:5.58<br/>#EST:144<br/>Adj. #EST:9.25

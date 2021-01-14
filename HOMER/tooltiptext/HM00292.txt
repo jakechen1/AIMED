@@ -1,0 +1,1 @@
+mouth	HMID:HM00292<br/>GeneSymbol:AKR1C1<br/>P-value:0<br/>Zscore:6.2<br/>#EST:206<br/>Adj. #EST:22.51

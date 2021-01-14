@@ -1,0 +1,1 @@
+spleen	HMID:HM05364<br/>GeneSymbol:BCL2L11<br/>P-value:1.23e-29<br/>Zscore:4.15<br/>#EST:70<br/>Adj. #EST:5.04

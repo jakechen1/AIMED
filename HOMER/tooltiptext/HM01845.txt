@@ -1,0 +1,1 @@
+kidney	HMID:HM01845<br/>GeneSymbol:ENPEP<br/>P-value:3e-36<br/>Zscore:5.53<br/>#EST:54<br/>Adj. #EST:9.17

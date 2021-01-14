@@ -1,0 +1,1 @@
+blood	HMID:HM05019<br/>GeneSymbol:GPR65<br/>P-value:7.05e-12<br/>Zscore:4.79<br/>#EST:15<br/>Adj. #EST:10.68

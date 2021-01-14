@@ -1,0 +1,1 @@
+lymph node	HMID:HM00493<br/>GeneSymbol:ATP2A3<br/>P-value:0<br/>Zscore:6.52<br/>#EST:119<br/>Adj. #EST:24.25

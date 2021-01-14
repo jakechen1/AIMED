@@ -1,0 +1,1 @@
+lymph	HMID:HM05962<br/>GeneSymbol:PAQR4<br/>P-value:1.69e-08<br/>Zscore:4.55<br/>#EST:15<br/>Adj. #EST:6.56

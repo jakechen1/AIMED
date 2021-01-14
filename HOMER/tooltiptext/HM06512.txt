@@ -1,0 +1,1 @@
+larynx	HMID:HM06512<br/>GeneSymbol:NOC2L<br/>P-value:3.31e-06<br/>Zscore:4.4<br/>#EST:13<br/>Adj. #EST:5.01

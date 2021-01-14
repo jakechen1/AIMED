@@ -1,0 +1,1 @@
+esophagus	HMID:HM04067<br/>GeneSymbol:IL1RN<br/>P-value:2.02e-15<br/>Zscore:5.55<br/>#EST:15<br/>Adj. #EST:20.72

@@ -1,0 +1,1 @@
+thyroid	HMID:HM06500<br/>GeneSymbol:<br/>P-value:1.5e-58<br/>Zscore:6.8<br/>#EST:53<br/>Adj. #EST:27.88

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01632<br/>GeneSymbol:CACNA2D4<br/>P-value:2.47e-11<br/>Zscore:5.77<br/>#EST:15<br/>Adj. #EST:10.41

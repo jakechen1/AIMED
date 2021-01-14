@@ -1,0 +1,1 @@
+liver	HMID:HM07318<br/>GeneSymbol:CYP2A6<br/>P-value:3.05e-167<br/>Zscore:6.45<br/>#EST:160<br/>Adj. #EST:17.1

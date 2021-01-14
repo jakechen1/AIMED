@@ -1,0 +1,1 @@
+esophagus	HMID:HM00950<br/>GeneSymbol:HSP90AA1<br/>P-value:1.16e-71<br/>Zscore:6.12<br/>#EST:144<br/>Adj. #EST:7.1

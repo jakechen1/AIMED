@@ -1,0 +1,1 @@
+testis	HMID:HM04097<br/>GeneSymbol:PROCA1<br/>P-value:2.65e-15<br/>Zscore:5.8<br/>#EST:22<br/>Adj. #EST:7.65

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06425<br/>GeneSymbol:CYP2J2<br/>P-value:1.1e-06<br/>Zscore:4.27<br/>#EST:13<br/>Adj. #EST:5.43

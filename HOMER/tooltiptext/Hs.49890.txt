@@ -1,0 +1,1 @@
+muscle	HMID:HM05921<br/>GeneSymbol:C8orf22<br/>P-value:2.73e-39<br/>Zscore:7.03<br/>#EST:26<br/>Adj. #EST:45.03

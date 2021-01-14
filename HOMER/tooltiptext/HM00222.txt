@@ -1,0 +1,1 @@
+prostate	HMID:HM00222<br/>GeneSymbol:TMEM214<br/>P-value:0<br/>Zscore:6.86<br/>#EST:318<br/>Adj. #EST:13.84

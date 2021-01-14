@@ -1,0 +1,1 @@
+prostate	HMID:HM06651<br/>GeneSymbol:SORD<br/>P-value:8.14e-68<br/>Zscore:4.83<br/>#EST:138<br/>Adj. #EST:6.5

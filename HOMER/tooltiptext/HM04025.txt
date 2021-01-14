@@ -1,0 +1,1 @@
+pancreas	HMID:HM04025<br/>GeneSymbol:CELF3<br/>P-value:1.22e-15<br/>Zscore:5.1<br/>#EST:22<br/>Adj. #EST:9.11

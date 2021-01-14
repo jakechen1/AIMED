@@ -1,0 +1,1 @@
+brain	HMID:HM07496<br/>GeneSymbol:SPOCK3<br/>P-value:4.46e-301<br/>Zscore:6.41<br/>#EST:495<br/>Adj. #EST:5.15

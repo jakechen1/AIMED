@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00166<br/>GeneSymbol:AKR7A2<br/>P-value:9.48e-07<br/>Zscore:4.79<br/>#EST:10<br/>Adj. #EST:7.8

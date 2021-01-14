@@ -1,0 +1,1 @@
+stomach	HMID:HM05345<br/>GeneSymbol:SMPD2<br/>P-value:1.12e-10<br/>Zscore:5.23<br/>#EST:18<br/>Adj. #EST:7

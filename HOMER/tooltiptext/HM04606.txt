@@ -1,0 +1,1 @@
+prostate	HMID:HM04606<br/>GeneSymbol:KIAA2013<br/>P-value:2.77e-13<br/>Zscore:4.03<br/>#EST:37<br/>Adj. #EST:4.23

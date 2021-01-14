@@ -1,0 +1,2 @@
+bladder	HMID:HM01203<br/>GeneSymbol:LOC401397<br/>P-value:4.42e-57<br/>Zscore:5.03<br/>#EST:55<br/>Adj. #EST:24.85
+salivary gland	HMID:HM01203<br/>GeneSymbol:LOC401397<br/>P-value:1e-35<br/>Zscore:4.7<br/>#EST:35<br/>Adj. #EST:23.34

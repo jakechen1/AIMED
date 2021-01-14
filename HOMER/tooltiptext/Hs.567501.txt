@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03503<br/>GeneSymbol:AIG1<br/>P-value:1.45e-16<br/>Zscore:4.59<br/>#EST:36<br/>Adj. #EST:5.7

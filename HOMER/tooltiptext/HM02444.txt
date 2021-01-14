@@ -1,0 +1,1 @@
+spinal cord	HMID:HM02444<br/>GeneSymbol:TTN<br/>P-value:8.97e-27<br/>Zscore:5.98<br/>#EST:19<br/>Adj. #EST:54.66

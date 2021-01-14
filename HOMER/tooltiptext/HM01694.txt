@@ -1,0 +1,1 @@
+stomach	HMID:HM01694<br/>GeneSymbol:SLC5A6<br/>P-value:9.23e-40<br/>Zscore:5.42<br/>#EST:75<br/>Adj. #EST:7.05

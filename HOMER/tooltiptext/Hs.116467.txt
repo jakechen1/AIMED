@@ -1,0 +1,1 @@
+prostate	HMID:HM05923<br/>GeneSymbol:PRAC<br/>P-value:2.53e-39<br/>Zscore:7.03<br/>#EST:27<br/>Adj. #EST:32.81

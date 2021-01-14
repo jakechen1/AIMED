@@ -1,0 +1,1 @@
+muscle	HMID:HM00400<br/>GeneSymbol:MYOT<br/>P-value:0<br/>Zscore:6.39<br/>#EST:127<br/>Adj. #EST:30.96

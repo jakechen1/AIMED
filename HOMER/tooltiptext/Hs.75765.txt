@@ -1,0 +1,1 @@
+liver	HMID:HM05471<br/>GeneSymbol:CXCL2<br/>P-value:5.83e-31<br/>Zscore:4.67<br/>#EST:52<br/>Adj. #EST:7.49

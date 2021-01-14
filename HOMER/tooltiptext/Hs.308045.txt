@@ -1,0 +1,1 @@
+pancreas	HMID:HM04113<br/>GeneSymbol:NCAPH<br/>P-value:1.52e-19<br/>Zscore:4.36<br/>#EST:52<br/>Adj. #EST:4.53

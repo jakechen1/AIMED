@@ -1,0 +1,1 @@
+brain	HMID:HM06892<br/>GeneSymbol:CACNG3<br/>P-value:2.47e-86<br/>Zscore:6.69<br/>#EST:150<br/>Adj. #EST:4.93

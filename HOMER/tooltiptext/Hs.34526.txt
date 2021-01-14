@@ -1,0 +1,1 @@
+spleen	HMID:HM02623<br/>GeneSymbol:CXCR6<br/>P-value:1.09e-13<br/>Zscore:5.52<br/>#EST:20<br/>Adj. #EST:7.94

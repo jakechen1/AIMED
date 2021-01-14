@@ -1,0 +1,1 @@
+lymph node	HMID:HM05049<br/>GeneSymbol:BCL11A<br/>P-value:6.59e-26<br/>Zscore:6.08<br/>#EST:33<br/>Adj. #EST:12.5

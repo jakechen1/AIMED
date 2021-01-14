@@ -1,0 +1,1 @@
+brain	HMID:HM00083<br/>GeneSymbol:SLC1A3<br/>P-value:0<br/>Zscore:5.89<br/>#EST:1268<br/>Adj. #EST:4.92

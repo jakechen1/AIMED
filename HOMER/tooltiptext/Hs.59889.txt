@@ -1,0 +1,1 @@
+liver	HMID:HM06880<br/>GeneSymbol:HMGCS2<br/>P-value:2.49e-85<br/>Zscore:5.39<br/>#EST:136<br/>Adj. #EST:8.36

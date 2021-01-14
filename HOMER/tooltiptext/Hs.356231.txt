@@ -1,0 +1,1 @@
+thyroid	HMID:HM00231<br/>GeneSymbol:SLC25A23<br/>P-value:5.23e-07<br/>Zscore:4.66<br/>#EST:13<br/>Adj. #EST:5.88

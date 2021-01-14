@@ -1,0 +1,1 @@
+pancreas	HMID:HM00824<br/>GeneSymbol:CMTM1<br/>P-value:4.58e-09<br/>Zscore:5.09<br/>#EST:14<br/>Adj. #EST:7.31

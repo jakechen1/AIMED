@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03101<br/>GeneSymbol:LRRIQ3<br/>P-value:2.89e-15<br/>Zscore:6.19<br/>#EST:17<br/>Adj. #EST:14.62

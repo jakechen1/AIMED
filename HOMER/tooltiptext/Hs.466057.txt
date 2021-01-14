@@ -1,0 +1,2 @@
+skin	HMID:HM06363<br/>GeneSymbol:CASP14<br/>P-value:9.67e-53<br/>Zscore:4.99<br/>#EST:62<br/>Adj. #EST:12.88
+uterus	HMID:HM06094<br/>GeneSymbol:CASP14<br/>P-value:1.67e-43<br/>Zscore:4.24<br/>#EST:56<br/>Adj. #EST:11.04

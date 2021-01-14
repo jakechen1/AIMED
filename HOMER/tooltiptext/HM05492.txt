@@ -1,0 +1,1 @@
+lymph	HMID:HM05492<br/>GeneSymbol:A4GALT<br/>P-value:3.92e-10<br/>Zscore:5.26<br/>#EST:14<br/>Adj. #EST:9.58

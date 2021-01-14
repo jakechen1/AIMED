@@ -1,0 +1,1 @@
+pancreas	HMID:HM07209<br/>GeneSymbol:CLPS<br/>P-value:1.52e-132<br/>Zscore:6.86<br/>#EST:113<br/>Adj. #EST:22.42

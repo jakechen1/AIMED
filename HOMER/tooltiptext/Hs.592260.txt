@@ -1,0 +1,1 @@
+muscle	HMID:HM05320<br/>GeneSymbol:LMOD2<br/>P-value:4.48e-29<br/>Zscore:5.42<br/>#EST:24<br/>Adj. #EST:27.97

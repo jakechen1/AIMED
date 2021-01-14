@@ -1,0 +1,1 @@
+testis	HMID:HM01119<br/>GeneSymbol:CATSPER3<br/>P-value:6.41e-10<br/>Zscore:5.56<br/>#EST:13<br/>Adj. #EST:7.99

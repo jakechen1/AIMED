@@ -1,0 +1,1 @@
+stomach	HMID:HM00428<br/>GeneSymbol:EPS8L3<br/>P-value:0<br/>Zscore:4.26<br/>#EST:129<br/>Adj. #EST:24.09

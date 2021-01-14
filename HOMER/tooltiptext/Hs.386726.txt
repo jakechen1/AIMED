@@ -1,0 +1,2 @@
+blood vessel	HMID:HM06951<br/>GeneSymbol:RGS4<br/>P-value:3.86e-93<br/>Zscore:4.18<br/>#EST:160<br/>Adj. #EST:8.55
+kidney	HMID:HM07559<br/>GeneSymbol:RGS4<br/>P-value:0<br/>Zscore:5.4<br/>#EST:519<br/>Adj. #EST:10.87

@@ -1,0 +1,1 @@
+testis	HMID:HM01025<br/>GeneSymbol:NCRNA00277<br/>P-value:1.21e-09<br/>Zscore:5.56<br/>#EST:14<br/>Adj. #EST:7.07

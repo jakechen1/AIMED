@@ -1,0 +1,2 @@
+kidney	HMID:HM04623<br/>GeneSymbol:SLC34A3<br/>P-value:1.83e-22<br/>Zscore:5.47<br/>#EST:24<br/>Adj. #EST:14.4
+stomach	HMID:HM01955<br/>GeneSymbol:SLC34A3<br/>P-value:3.86e-12<br/>Zscore:4.06<br/>#EST:15<br/>Adj. #EST:10.83

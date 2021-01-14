@@ -1,0 +1,1 @@
+muscle	HMID:HM00352<br/>GeneSymbol:TPM3<br/>P-value:0<br/>Zscore:6.07<br/>#EST:260<br/>Adj. #EST:10.62

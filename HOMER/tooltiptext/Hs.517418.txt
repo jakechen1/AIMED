@@ -1,0 +1,1 @@
+nerve	HMID:HM03497<br/>GeneSymbol:ZNF74<br/>P-value:1.53e-16<br/>Zscore:6.27<br/>#EST:21<br/>Adj. #EST:12.01

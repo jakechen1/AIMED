@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06325<br/>GeneSymbol:ESM1<br/>P-value:7.46e-51<br/>Zscore:6.94<br/>#EST:43<br/>Adj. #EST:29.4

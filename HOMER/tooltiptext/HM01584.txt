@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01584<br/>GeneSymbol:GMPPA<br/>P-value:1.04e-42<br/>Zscore:6.16<br/>#EST:61<br/>Adj. #EST:10.96

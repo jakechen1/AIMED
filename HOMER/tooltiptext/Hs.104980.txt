@@ -1,0 +1,1 @@
+mouth	HMID:HM01499<br/>GeneSymbol:DHTKD1<br/>P-value:5.41e-11<br/>Zscore:4.13<br/>#EST:19<br/>Adj. #EST:7.09

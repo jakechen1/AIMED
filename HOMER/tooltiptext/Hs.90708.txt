@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07159<br/>GeneSymbol:GZMA<br/>P-value:1.16e-120<br/>Zscore:6.92<br/>#EST:91<br/>Adj. #EST:39.37

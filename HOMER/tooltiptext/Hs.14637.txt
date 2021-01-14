@@ -1,0 +1,1 @@
+stomach	HMID:HM06039<br/>GeneSymbol:NAT8<br/>P-value:5.48e-42<br/>Zscore:5.16<br/>#EST:60<br/>Adj. #EST:10.08

@@ -1,0 +1,1 @@
+muscle	HMID:HM00041<br/>GeneSymbol:FNDC5<br/>P-value:5.27e-06<br/>Zscore:4.21<br/>#EST:13<br/>Adj. #EST:4.69

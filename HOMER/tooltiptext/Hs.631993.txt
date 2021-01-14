@@ -1,0 +1,1 @@
+stomach	HMID:HM03828<br/>GeneSymbol:DPCR1<br/>P-value:4.9e-18<br/>Zscore:5.48<br/>#EST:17<br/>Adj. #EST:18.06

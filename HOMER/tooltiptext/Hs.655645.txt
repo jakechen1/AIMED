@@ -1,0 +1,1 @@
+liver	HMID:HM03608<br/>GeneSymbol:MASP2<br/>P-value:5.14e-17<br/>Zscore:4.91<br/>#EST:21<br/>Adj. #EST:10.59

@@ -1,0 +1,1 @@
+cervix	HMID:HM00456<br/>GeneSymbol:LGTN<br/>P-value:7.65e-08<br/>Zscore:4.05<br/>#EST:15<br/>Adj. #EST:5.85

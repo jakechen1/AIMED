@@ -1,0 +1,1 @@
+spleen	HMID:HM04284<br/>GeneSymbol:IL34<br/>P-value:1.51e-20<br/>Zscore:4.53<br/>#EST:41<br/>Adj. #EST:5.82

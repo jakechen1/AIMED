@@ -1,0 +1,1 @@
+spleen	HMID:HM03903<br/>GeneSymbol:FHDC1<br/>P-value:2.17e-18<br/>Zscore:4.89<br/>#EST:37<br/>Adj. #EST:5.71

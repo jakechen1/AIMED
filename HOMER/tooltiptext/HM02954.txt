@@ -1,0 +1,1 @@
+stomach	HMID:HM02954<br/>GeneSymbol:UHMK1<br/>P-value:3.96e-22<br/>Zscore:4.02<br/>#EST:60<br/>Adj. #EST:4.59

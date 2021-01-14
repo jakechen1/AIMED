@@ -1,0 +1,1 @@
+mouth	HMID:HM05649<br/>GeneSymbol:RNF26<br/>P-value:1.34e-09<br/>Zscore:4.19<br/>#EST:26<br/>Adj. #EST:4.26

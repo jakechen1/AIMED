@@ -1,0 +1,1 @@
+muscle	HMID:HM03562<br/>GeneSymbol:ASB12<br/>P-value:5.67e-18<br/>Zscore:6.68<br/>#EST:13<br/>Adj. #EST:34

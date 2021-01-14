@@ -1,0 +1,1 @@
+embryo	HMID:HM06468<br/>GeneSymbol:HMGA2<br/>P-value:2.81e-57<br/>Zscore:5.92<br/>#EST:86<br/>Adj. #EST:9.17

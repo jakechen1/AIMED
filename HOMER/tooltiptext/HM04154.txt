@@ -1,0 +1,1 @@
+bladder	HMID:HM04154<br/>GeneSymbol:KIAA0101<br/>P-value:4.79e-15<br/>Zscore:4.36<br/>#EST:24<br/>Adj. #EST:8.52

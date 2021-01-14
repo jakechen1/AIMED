@@ -1,0 +1,1 @@
+bladder	HMID:HM03568<br/>GeneSymbol:FAM18B1<br/>P-value:6.29e-18<br/>Zscore:6.03<br/>#EST:22<br/>Adj. #EST:13.34

@@ -1,0 +1,2 @@
+blood vessel	HMID:HM00494<br/>GeneSymbol:CYP2C9<br/>P-value:9.37e-37<br/>Zscore:5.08<br/>#EST:41<br/>Adj. #EST:16.28
+liver	HMID:HM00494<br/>GeneSymbol:CYP2C9<br/>P-value:0<br/>Zscore:4.8<br/>#EST:128<br/>Adj. #EST:15.4

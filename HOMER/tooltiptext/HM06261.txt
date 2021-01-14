@@ -1,0 +1,1 @@
+placenta	HMID:HM06261<br/>GeneSymbol:STARD8<br/>P-value:2.57e-07<br/>Zscore:4.28<br/>#EST:11<br/>Adj. #EST:6.97

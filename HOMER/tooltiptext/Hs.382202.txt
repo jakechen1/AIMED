@@ -1,0 +1,1 @@
+bone	HMID:HM06884<br/>GeneSymbol:CHI3L1<br/>P-value:1.22e-85<br/>Zscore:4.8<br/>#EST:133<br/>Adj. #EST:9.35

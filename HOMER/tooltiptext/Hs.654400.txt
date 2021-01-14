@@ -1,0 +1,1 @@
+tonsil	HMID:HM03462<br/>GeneSymbol:IMPDH2<br/>P-value:2.14e-16<br/>Zscore:4.99<br/>#EST:32<br/>Adj. #EST:6.63

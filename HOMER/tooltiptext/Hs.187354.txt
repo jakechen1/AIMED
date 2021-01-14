@@ -1,0 +1,1 @@
+eye	HMID:HM02660<br/>GeneSymbol:NR2E3<br/>P-value:8.76e-14<br/>Zscore:4.65<br/>#EST:13<br/>Adj. #EST:16.55

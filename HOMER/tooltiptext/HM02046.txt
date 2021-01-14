@@ -1,0 +1,1 @@
+lymph	HMID:HM02046<br/>GeneSymbol:ADCK4<br/>P-value:1.25e-32<br/>Zscore:6.81<br/>#EST:27<br/>Adj. #EST:32.04

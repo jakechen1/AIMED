@@ -1,0 +1,1 @@
+kidney	HMID:HM01420<br/>GeneSymbol:SFXN2<br/>P-value:1.07e-47<br/>Zscore:5.26<br/>#EST:65<br/>Adj. #EST:10.55

@@ -1,0 +1,1 @@
+nerve	HMID:HM06044<br/>GeneSymbol:CDC45<br/>P-value:4.11e-42<br/>Zscore:6.65<br/>#EST:44<br/>Adj. #EST:19.21

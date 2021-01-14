@@ -1,0 +1,1 @@
+lymph node	HMID:HM03542<br/>GeneSymbol:NBEAL2<br/>P-value:4.54e-18<br/>Zscore:4.27<br/>#EST:35<br/>Adj. #EST:6.57

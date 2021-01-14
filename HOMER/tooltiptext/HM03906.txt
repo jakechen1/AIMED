@@ -1,0 +1,1 @@
+breast	HMID:HM03906<br/>GeneSymbol:MUCL1<br/>P-value:4.27e-16<br/>Zscore:4.71<br/>#EST:16<br/>Adj. #EST:16.25

@@ -1,0 +1,1 @@
+spleen	HMID:HM04795<br/>GeneSymbol:DPM2<br/>P-value:1.46e-12<br/>Zscore:4.04<br/>#EST:35<br/>Adj. #EST:4.23

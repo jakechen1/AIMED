@@ -1,0 +1,1 @@
+spleen	HMID:HM01975<br/>GeneSymbol:LRRC31<br/>P-value:3.4e-12<br/>Zscore:4.93<br/>#EST:15<br/>Adj. #EST:9.73

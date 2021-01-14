@@ -1,0 +1,1 @@
+pancreas	HMID:HM01883<br/>GeneSymbol:SPINK1<br/>P-value:1.8e-35<br/>Zscore:4.47<br/>#EST:44<br/>Adj. #EST:11.87

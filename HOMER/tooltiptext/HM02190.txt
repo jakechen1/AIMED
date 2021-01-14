@@ -1,0 +1,1 @@
+tonsil	HMID:HM02190<br/>GeneSymbol:RPL17<br/>P-value:3.78e-30<br/>Zscore:5.72<br/>#EST:44<br/>Adj. #EST:10.72

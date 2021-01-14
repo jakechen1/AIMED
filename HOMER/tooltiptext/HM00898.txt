@@ -1,0 +1,1 @@
+thymus	HMID:HM00898<br/>GeneSymbol:CD6<br/>P-value:3.07e-75<br/>Zscore:6.56<br/>#EST:64<br/>Adj. #EST:29.93

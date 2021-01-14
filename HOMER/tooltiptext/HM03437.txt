@@ -1,0 +1,2 @@
+bladder	HMID:HM03437<br/>GeneSymbol:PDCD10<br/>P-value:9.08e-19<br/>Zscore:4.16<br/>#EST:24<br/>Adj. #EST:12.5
+salivary gland	HMID:HM03437<br/>GeneSymbol:PDCD10<br/>P-value:5.41e-14<br/>Zscore:4.37<br/>#EST:17<br/>Adj. #EST:13.07

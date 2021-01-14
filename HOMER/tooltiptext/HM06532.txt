@@ -1,0 +1,1 @@
+lymph	HMID:HM06532<br/>GeneSymbol:SURF6<br/>P-value:5.01e-06<br/>Zscore:4.66<br/>#EST:11<br/>Adj. #EST:5.71

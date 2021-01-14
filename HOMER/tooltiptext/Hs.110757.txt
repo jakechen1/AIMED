@@ -1,0 +1,1 @@
+nerve	HMID:HM02208<br/>GeneSymbol:RRP1<br/>P-value:1.24e-12<br/>Zscore:5<br/>#EST:24<br/>Adj. #EST:6.45

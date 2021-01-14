@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00846<br/>GeneSymbol:PTPRC<br/>P-value:2.57e-80<br/>Zscore:4.39<br/>#EST:103<br/>Adj. #EST:13.32

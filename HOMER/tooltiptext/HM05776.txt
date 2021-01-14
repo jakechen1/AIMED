@@ -1,0 +1,1 @@
+lymph node	HMID:HM05776<br/>GeneSymbol:MAP2K7<br/>P-value:3.55e-09<br/>Zscore:4.12<br/>#EST:15<br/>Adj. #EST:7.24

@@ -1,0 +1,1 @@
+amnion	HMID:HM00507<br/>GeneSymbol:DYNC1H1<br/>P-value:5.23e-08<br/>Zscore:5.96<br/>#EST:12<br/>Adj. #EST:8.16

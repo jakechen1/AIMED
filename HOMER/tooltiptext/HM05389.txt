@@ -1,0 +1,1 @@
+eye	HMID:HM05389<br/>GeneSymbol:ARVCF<br/>P-value:1.66e-10<br/>Zscore:4.12<br/>#EST:25<br/>Adj. #EST:4.68

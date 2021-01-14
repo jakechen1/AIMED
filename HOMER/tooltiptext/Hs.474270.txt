@@ -1,0 +1,1 @@
+liver	HMID:HM07132<br/>GeneSymbol:SERPIND1<br/>P-value:8.5e-116<br/>Zscore:6<br/>#EST:145<br/>Adj. #EST:11.63

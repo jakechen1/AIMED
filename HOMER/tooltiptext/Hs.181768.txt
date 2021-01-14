@@ -1,0 +1,1 @@
+muscle	HMID:HM07196<br/>GeneSymbol:MYOD1<br/>P-value:1.02e-127<br/>Zscore:7.07<br/>#EST:76<br/>Adj. #EST:56.18

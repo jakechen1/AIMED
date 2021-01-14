@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01115<br/>GeneSymbol:CSF3R<br/>P-value:3.01e-61<br/>Zscore:5.67<br/>#EST:67<br/>Adj. #EST:17.92

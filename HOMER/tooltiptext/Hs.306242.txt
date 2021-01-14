@@ -1,0 +1,1 @@
+blood	HMID:HM05475<br/>GeneSymbol:NOL7<br/>P-value:4.73e-31<br/>Zscore:4.39<br/>#EST:58<br/>Adj. #EST:7.05

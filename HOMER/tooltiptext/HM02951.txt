@@ -1,0 +1,1 @@
+lymph	HMID:HM02951<br/>GeneSymbol:WDTC1<br/>P-value:3.7e-22<br/>Zscore:5.62<br/>#EST:33<br/>Adj. #EST:9.81

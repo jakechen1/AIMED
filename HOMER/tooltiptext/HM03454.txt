@@ -1,0 +1,1 @@
+pharynx	HMID:HM03454<br/>GeneSymbol:RNASE6<br/>P-value:1.12e-18<br/>Zscore:6.74<br/>#EST:17<br/>Adj. #EST:24.17

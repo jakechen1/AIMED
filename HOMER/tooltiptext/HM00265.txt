@@ -1,0 +1,1 @@
+eye	HMID:HM00265<br/>GeneSymbol:CRYGS<br/>P-value:0<br/>Zscore:7.03<br/>#EST:184<br/>Adj. #EST:23.1

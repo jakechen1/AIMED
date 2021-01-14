@@ -1,0 +1,1 @@
+rectum	HMID:HM01561<br/>GeneSymbol:GRN<br/>P-value:3.73e-11<br/>Zscore:4.1<br/>#EST:27<br/>Adj. #EST:4.93

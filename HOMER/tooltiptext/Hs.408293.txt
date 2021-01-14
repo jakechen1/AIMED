@@ -1,0 +1,1 @@
+testis	HMID:HM00901<br/>GeneSymbol:CEP170P1<br/>P-value:2.79e-09<br/>Zscore:6.03<br/>#EST:15<br/>Adj. #EST:6.23

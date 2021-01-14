@@ -1,0 +1,1 @@
+cervix	HMID:HM02430<br/>GeneSymbol:BAG1<br/>P-value:4.57e-13<br/>Zscore:4.96<br/>#EST:24<br/>Adj. #EST:6.83

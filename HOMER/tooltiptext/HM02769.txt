@@ -1,0 +1,1 @@
+eye	HMID:HM02769<br/>GeneSymbol:RGR<br/>P-value:1.48e-23<br/>Zscore:6.46<br/>#EST:24<br/>Adj. #EST:15.47

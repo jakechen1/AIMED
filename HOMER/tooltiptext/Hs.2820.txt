@@ -1,0 +1,2 @@
+skin	HMID:HM03466<br/>GeneSymbol:OXTR<br/>P-value:2.06e-16<br/>Zscore:4.66<br/>#EST:27<br/>Adj. #EST:7.38
+kidney	HMID:HM02599<br/>GeneSymbol:OXTR<br/>P-value:1.36e-13<br/>Zscore:4.43<br/>#EST:23<br/>Adj. #EST:7.04

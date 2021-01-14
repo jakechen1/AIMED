@@ -1,0 +1,1 @@
+kidney	HMID:HM05369<br/>GeneSymbol:<br/>P-value:1.09e-29<br/>Zscore:6.25<br/>#EST:29<br/>Adj. #EST:17.06

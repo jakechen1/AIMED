@@ -1,0 +1,1 @@
+trachea	HMID:HM03227<br/>GeneSymbol:TEKT1<br/>P-value:3.92e-20<br/>Zscore:6.38<br/>#EST:17<br/>Adj. #EST:28.49

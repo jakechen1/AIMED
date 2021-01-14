@@ -1,0 +1,1 @@
+ovary	HMID:HM06944<br/>GeneSymbol:ATP6V0E1<br/>P-value:2.16e-92<br/>Zscore:5.54<br/>#EST:145<br/>Adj. #EST:9.66

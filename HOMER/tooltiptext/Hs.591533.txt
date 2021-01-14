@@ -1,0 +1,1 @@
+kidney	HMID:HM04164<br/>GeneSymbol:CLCNKA<br/>P-value:8.81e-20<br/>Zscore:4.21<br/>#EST:28<br/>Adj. #EST:9.33

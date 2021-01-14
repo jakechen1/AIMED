@@ -1,0 +1,1 @@
+ganglia	HMID:HM05929<br/>GeneSymbol:TIMP3<br/>P-value:1.25e-08<br/>Zscore:4.28<br/>#EST:14<br/>Adj. #EST:7.47

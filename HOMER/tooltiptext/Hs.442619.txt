@@ -1,0 +1,1 @@
+skin	HMID:HM02477<br/>GeneSymbol:MSC<br/>P-value:3.23e-13<br/>Zscore:4.15<br/>#EST:34<br/>Adj. #EST:4.46

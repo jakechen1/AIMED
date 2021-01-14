@@ -1,0 +1,1 @@
+spleen	HMID:HM00771<br/>GeneSymbol:PHOSPHO1<br/>P-value:7.14e-09<br/>Zscore:4.91<br/>#EST:15<br/>Adj. #EST:6.21

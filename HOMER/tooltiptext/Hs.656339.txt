@@ -1,0 +1,1 @@
+amnion	HMID:HM03201<br/>GeneSymbol:RHOJ<br/>P-value:1.4e-15<br/>Zscore:6.74<br/>#EST:12<br/>Adj. #EST:37.58

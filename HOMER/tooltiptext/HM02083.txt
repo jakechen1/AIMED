@@ -1,0 +1,1 @@
+lymph	HMID:HM02083<br/>GeneSymbol:FDPS<br/>P-value:4.02e-32<br/>Zscore:4.37<br/>#EST:71<br/>Adj. #EST:6.01

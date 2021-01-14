@@ -1,0 +1,1 @@
+ganglia	HMID:HM05060<br/>GeneSymbol:HLA-B<br/>P-value:5.43e-26<br/>Zscore:5.18<br/>#EST:44<br/>Adj. #EST:8.47

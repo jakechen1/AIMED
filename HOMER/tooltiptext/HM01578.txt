@@ -1,0 +1,1 @@
+skin	HMID:HM01578<br/>GeneSymbol:BIRC7<br/>P-value:6.6e-43<br/>Zscore:6.63<br/>#EST:41<br/>Adj. #EST:17.11

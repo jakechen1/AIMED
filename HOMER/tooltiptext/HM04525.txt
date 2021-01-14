@@ -1,0 +1,1 @@
+amnion	HMID:HM04525<br/>GeneSymbol:TLN1<br/>P-value:1.64e-13<br/>Zscore:5.89<br/>#EST:16<br/>Adj. #EST:13.74

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04236<br/>GeneSymbol:UBE4B<br/>P-value:2.82e-20<br/>Zscore:6.68<br/>#EST:23<br/>Adj. #EST:15.93

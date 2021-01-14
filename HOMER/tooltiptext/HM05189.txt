@@ -1,0 +1,1 @@
+kidney	HMID:HM05189<br/>GeneSymbol:DHDPSL<br/>P-value:3.13e-11<br/>Zscore:4.02<br/>#EST:16<br/>Adj. #EST:8.49

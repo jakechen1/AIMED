@@ -1,0 +1,1 @@
+larynx	HMID:HM03709<br/>GeneSymbol:HUWE1<br/>P-value:1.77e-17<br/>Zscore:4.38<br/>#EST:33<br/>Adj. #EST:6.95

@@ -1,0 +1,1 @@
+tonsil	HMID:HM00553<br/>GeneSymbol:UCP2<br/>P-value:4.07e-08<br/>Zscore:4.08<br/>#EST:13<br/>Adj. #EST:7.44

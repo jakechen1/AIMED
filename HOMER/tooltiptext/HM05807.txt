@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05807<br/>GeneSymbol:ALAS2<br/>P-value:4.47e-09<br/>Zscore:4.99<br/>#EST:10<br/>Adj. #EST:13.99

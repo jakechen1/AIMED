@@ -1,0 +1,1 @@
+kidney	HMID:HM02802<br/>GeneSymbol:AGPAT9<br/>P-value:2.66e-23<br/>Zscore:5.18<br/>#EST:34<br/>Adj. #EST:9.1

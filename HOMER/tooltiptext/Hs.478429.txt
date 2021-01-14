@@ -1,0 +1,1 @@
+amnion	HMID:HM04692<br/>GeneSymbol:ATP11B<br/>P-value:5.24e-23<br/>Zscore:6.84<br/>#EST:17<br/>Adj. #EST:46.35

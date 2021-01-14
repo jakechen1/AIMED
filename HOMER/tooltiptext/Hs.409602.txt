@@ -1,0 +1,1 @@
+mouth	HMID:HM03761<br/>GeneSymbol:SULF1<br/>P-value:9.03e-18<br/>Zscore:4.03<br/>#EST:30<br/>Adj. #EST:7.92

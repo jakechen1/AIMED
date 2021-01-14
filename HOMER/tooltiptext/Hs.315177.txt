@@ -1,0 +1,1 @@
+cervix	HMID:HM00247<br/>GeneSymbol:IFRD2<br/>P-value:4.75e-07<br/>Zscore:4.05<br/>#EST:18<br/>Adj. #EST:4.25

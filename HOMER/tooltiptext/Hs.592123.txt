@@ -1,0 +1,1 @@
+mouth	HMID:HM05335<br/>GeneSymbol:SREBF1<br/>P-value:2.79e-29<br/>Zscore:4.68<br/>#EST:62<br/>Adj. #EST:6.25

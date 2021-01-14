@@ -1,0 +1,1 @@
+kidney	HMID:HM02638<br/>GeneSymbol:SLC34A3<br/>P-value:1.25e-24<br/>Zscore:6.82<br/>#EST:21<br/>Adj. #EST:20.8

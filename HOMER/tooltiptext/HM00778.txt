@@ -1,0 +1,1 @@
+embryo	HMID:HM00778<br/>GeneSymbol:DNMT3B<br/>P-value:7.02e-88<br/>Zscore:6.76<br/>#EST:101<br/>Adj. #EST:13.48

@@ -1,0 +1,1 @@
+salivary gland	HMID:HM07376<br/>GeneSymbol:AMY1A<br/>P-value:1.45e-196<br/>Zscore:7.01<br/>#EST:126<br/>Adj. #EST:82.33

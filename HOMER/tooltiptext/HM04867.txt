@@ -1,0 +1,1 @@
+tonsil	HMID:HM04867<br/>GeneSymbol:LSP1<br/>P-value:2.56e-12<br/>Zscore:4.05<br/>#EST:15<br/>Adj. #EST:12.67

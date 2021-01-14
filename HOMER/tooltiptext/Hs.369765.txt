@@ -1,0 +1,1 @@
+testis	HMID:HM05128<br/>GeneSymbol:ADAM5P<br/>P-value:9.43e-27<br/>Zscore:4.23<br/>#EST:29<br/>Adj. #EST:11.08

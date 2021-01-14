@@ -1,0 +1,1 @@
+spleen	HMID:HM05856<br/>GeneSymbol:PARS2<br/>P-value:6.66e-09<br/>Zscore:4.98<br/>#EST:15<br/>Adj. #EST:6.73

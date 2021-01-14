@@ -1,0 +1,1 @@
+uterus	HMID:HM01591<br/>GeneSymbol:HOXA10<br/>P-value:1.81e-42<br/>Zscore:4.4<br/>#EST:60<br/>Adj. #EST:9.6

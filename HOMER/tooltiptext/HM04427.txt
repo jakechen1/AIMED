@@ -1,0 +1,1 @@
+nerve	HMID:HM04427<br/>GeneSymbol:R3HCC1<br/>P-value:6.17e-14<br/>Zscore:4.41<br/>#EST:21<br/>Adj. #EST:8.91

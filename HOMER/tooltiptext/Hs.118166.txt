@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00220<br/>GeneSymbol:DENND5B<br/>P-value:5.5e-07<br/>Zscore:4.97<br/>#EST:11<br/>Adj. #EST:7.12

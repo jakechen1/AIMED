@@ -1,0 +1,1 @@
+prostate	HMID:HM01126<br/>GeneSymbol:SLC45A3<br/>P-value:1.24e-60<br/>Zscore:6.88<br/>#EST:60<br/>Adj. #EST:18.21

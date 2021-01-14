@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03524<br/>GeneSymbol:MNDA<br/>P-value:1.23e-16<br/>Zscore:5.56<br/>#EST:19<br/>Adj. #EST:14.44

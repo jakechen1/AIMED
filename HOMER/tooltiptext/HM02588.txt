@@ -1,0 +1,1 @@
+embryo	HMID:HM02588<br/>GeneSymbol:IGF2BP1<br/>P-value:5.41e-25<br/>Zscore:4.3<br/>#EST:54<br/>Adj. #EST:5.62

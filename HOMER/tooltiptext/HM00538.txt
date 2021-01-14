@@ -1,0 +1,1 @@
+kidney	HMID:HM00538<br/>GeneSymbol:ACSM2A<br/>P-value:0<br/>Zscore:5.24<br/>#EST:127<br/>Adj. #EST:15.46

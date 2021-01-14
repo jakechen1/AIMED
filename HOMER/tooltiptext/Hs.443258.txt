@@ -1,0 +1,1 @@
+pharynx	HMID:HM05982<br/>GeneSymbol:SREBF2<br/>P-value:1.29e-40<br/>Zscore:5.94<br/>#EST:59<br/>Adj. #EST:10.9

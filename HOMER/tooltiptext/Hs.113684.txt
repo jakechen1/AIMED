@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01950<br/>GeneSymbol:CDH12<br/>P-value:4.21e-12<br/>Zscore:6.47<br/>#EST:13<br/>Adj. #EST:14.86

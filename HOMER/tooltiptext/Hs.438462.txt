@@ -1,0 +1,1 @@
+spleen	HMID:HM04410<br/>GeneSymbol:MT1H<br/>P-value:2.57e-21<br/>Zscore:5.39<br/>#EST:32<br/>Adj. #EST:8.08

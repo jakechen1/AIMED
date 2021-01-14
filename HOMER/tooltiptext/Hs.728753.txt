@@ -1,0 +1,1 @@
+spleen	HMID:HM05457<br/>GeneSymbol:GYPE<br/>P-value:8.97e-31<br/>Zscore:6.65<br/>#EST:31<br/>Adj. #EST:14.03

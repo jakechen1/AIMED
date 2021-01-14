@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01740<br/>GeneSymbol:IFITM1<br/>P-value:1.24e-11<br/>Zscore:4<br/>#EST:17<br/>Adj. #EST:9.27

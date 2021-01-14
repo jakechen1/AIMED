@@ -1,0 +1,1 @@
+bone	HMID:HM07121<br/>GeneSymbol:FMOD<br/>P-value:4.2e-114<br/>Zscore:5.34<br/>#EST:186<br/>Adj. #EST:8.81

@@ -1,0 +1,1 @@
+liver	HMID:HM03497<br/>GeneSymbol:LST-3TM12<br/>P-value:2.28e-18<br/>Zscore:7.01<br/>#EST:14<br/>Adj. #EST:20.55

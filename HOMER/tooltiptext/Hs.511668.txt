@@ -1,0 +1,1 @@
+leiomios	HMID:HM03645<br/>GeneSymbol:VPS13C<br/>P-value:3.43e-17<br/>Zscore:6.29<br/>#EST:13<br/>Adj. #EST:40.69

@@ -1,0 +1,1 @@
+pharynx	HMID:HM00087<br/>GeneSymbol:RNF7<br/>P-value:2.45e-06<br/>Zscore:4.7<br/>#EST:12<br/>Adj. #EST:5.59

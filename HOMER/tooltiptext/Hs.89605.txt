@@ -1,0 +1,1 @@
+nerve	HMID:HM02792<br/>GeneSymbol:CHRNA3<br/>P-value:2.36e-14<br/>Zscore:5.88<br/>#EST:15<br/>Adj. #EST:16.56

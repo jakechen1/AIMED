@@ -1,0 +1,2 @@
+breast	HMID:HM00472<br/>GeneSymbol:CYB561<br/>P-value:0<br/>Zscore:4.24<br/>#EST:218<br/>Adj. #EST:8.67
+ovary	HMID:HM00472<br/>GeneSymbol:CYB561<br/>P-value:4.19e-83<br/>Zscore:4.6<br/>#EST:133<br/>Adj. #EST:9.33

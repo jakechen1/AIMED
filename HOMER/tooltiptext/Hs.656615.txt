@@ -1,0 +1,1 @@
+testis	HMID:HM03842<br/>GeneSymbol:ANKMY1<br/>P-value:4.56e-18<br/>Zscore:4.1<br/>#EST:40<br/>Adj. #EST:4.96

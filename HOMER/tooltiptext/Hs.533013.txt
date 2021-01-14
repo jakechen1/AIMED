@@ -1,0 +1,1 @@
+lymph	HMID:HM03477<br/>GeneSymbol:CBS<br/>P-value:1.79e-16<br/>Zscore:4.96<br/>#EST:28<br/>Adj. #EST:7.82

@@ -1,0 +1,1 @@
+trachea	HMID:HM02973<br/>GeneSymbol:GNS<br/>P-value:5.78e-22<br/>Zscore:5<br/>#EST:42<br/>Adj. #EST:6.94

@@ -1,0 +1,1 @@
+bladder	HMID:HM00366<br/>GeneSymbol:CACYBP<br/>P-value:1.83e-07<br/>Zscore:4.84<br/>#EST:14<br/>Adj. #EST:5.94

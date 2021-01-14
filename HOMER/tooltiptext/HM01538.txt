@@ -1,0 +1,1 @@
+testis	HMID:HM01538<br/>GeneSymbol:C6orf201<br/>P-value:5.04e-44<br/>Zscore:7.07<br/>#EST:40<br/>Adj. #EST:13.59

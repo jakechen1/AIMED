@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06555<br/>GeneSymbol:DYNLT1<br/>P-value:8.28e-06<br/>Zscore:4.02<br/>#EST:10<br/>Adj. #EST:6.1

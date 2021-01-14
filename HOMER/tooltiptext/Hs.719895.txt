@@ -1,0 +1,1 @@
+small intestine	HMID:HM06682<br/>GeneSymbol:NTN3<br/>P-value:1.41e-69<br/>Zscore:4.39<br/>#EST:89<br/>Adj. #EST:13.93

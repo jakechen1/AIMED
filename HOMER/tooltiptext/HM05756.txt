@@ -1,0 +1,1 @@
+trachea	HMID:HM05756<br/>GeneSymbol:USP33<br/>P-value:3.14e-09<br/>Zscore:5.37<br/>#EST:18<br/>Adj. #EST:5.94

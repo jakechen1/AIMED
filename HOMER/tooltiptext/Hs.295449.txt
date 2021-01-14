@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06182<br/>GeneSymbol:PVALB<br/>P-value:9.5e-46<br/>Zscore:7.03<br/>#EST:29<br/>Adj. #EST:77.79

@@ -1,0 +1,1 @@
+bone	HMID:HM05729<br/>GeneSymbol:VSIG4<br/>P-value:2.85e-35<br/>Zscore:4.11<br/>#EST:68<br/>Adj. #EST:6.78

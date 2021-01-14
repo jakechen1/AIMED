@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06914<br/>GeneSymbol:TFG<br/>P-value:5.45e-89<br/>Zscore:6.27<br/>#EST:149<br/>Adj. #EST:8.85

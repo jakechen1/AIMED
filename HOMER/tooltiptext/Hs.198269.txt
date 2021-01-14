@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02810<br/>GeneSymbol:NDUFA3<br/>P-value:2e-14<br/>Zscore:5.25<br/>#EST:23<br/>Adj. #EST:8.28

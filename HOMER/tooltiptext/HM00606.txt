@@ -1,0 +1,2 @@
+blood vessel	HMID:HM00606<br/>GeneSymbol:CRYBB1<br/>P-value:9.64e-28<br/>Zscore:4.32<br/>#EST:32<br/>Adj. #EST:14.91
+eye	HMID:HM00606<br/>GeneSymbol:CRYBB1<br/>P-value:0<br/>Zscore:5.5<br/>#EST:101<br/>Adj. #EST:18.78

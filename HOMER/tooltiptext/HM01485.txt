@@ -1,0 +1,1 @@
+kidney	HMID:HM01485<br/>GeneSymbol:CPA4<br/>P-value:1.47e-45<br/>Zscore:5.42<br/>#EST:68<br/>Adj. #EST:9.27

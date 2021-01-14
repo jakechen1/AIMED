@@ -1,0 +1,1 @@
+colon	HMID:HM03300<br/>GeneSymbol:REN<br/>P-value:1.48e-19<br/>Zscore:5.61<br/>#EST:24<br/>Adj. #EST:11.71

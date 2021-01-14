@@ -1,0 +1,2 @@
+eye	HMID:HM01956<br/>GeneSymbol:PCBP4<br/>P-value:3.82e-34<br/>Zscore:4.35<br/>#EST:100<br/>Adj. #EST:4.31
+nerve	HMID:HM01956<br/>GeneSymbol:PCBP4<br/>P-value:2.32e-10<br/>Zscore:4.07<br/>#EST:30<br/>Adj. #EST:4.06

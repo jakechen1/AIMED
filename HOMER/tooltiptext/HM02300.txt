@@ -1,0 +1,1 @@
+trachea	HMID:HM02300<br/>GeneSymbol:MAGT1<br/>P-value:1.33e-28<br/>Zscore:6.22<br/>#EST:42<br/>Adj. #EST:10.31

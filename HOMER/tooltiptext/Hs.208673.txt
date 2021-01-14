@@ -1,0 +1,1 @@
+spleen	HMID:HM03270<br/>GeneSymbol:NMNAT3<br/>P-value:7.12e-16<br/>Zscore:4.9<br/>#EST:33<br/>Adj. #EST:5.44

@@ -1,0 +1,1 @@
+esophagus	HMID:HM01585<br/>GeneSymbol:THBS1<br/>P-value:1.06e-42<br/>Zscore:5.93<br/>#EST:52<br/>Adj. #EST:15.13

@@ -1,0 +1,1 @@
+lymph	HMID:HM02675<br/>GeneSymbol:ACAA2<br/>P-value:8.03e-14<br/>Zscore:4.38<br/>#EST:31<br/>Adj. #EST:5.45

@@ -1,0 +1,1 @@
+testis	HMID:HM05520<br/>GeneSymbol:SPAG8<br/>P-value:4.87e-10<br/>Zscore:4.67<br/>#EST:22<br/>Adj. #EST:4.68

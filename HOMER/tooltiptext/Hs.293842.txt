@@ -1,0 +1,1 @@
+blood	HMID:HM05752<br/>GeneSymbol:TMEM71<br/>P-value:1.01e-35<br/>Zscore:4.81<br/>#EST:41<br/>Adj. #EST:14.53

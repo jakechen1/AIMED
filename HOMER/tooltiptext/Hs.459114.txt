@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03072<br/>GeneSymbol:EFTUD1<br/>P-value:3.58e-15<br/>Zscore:5.16<br/>#EST:25<br/>Adj. #EST:7.91

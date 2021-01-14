@@ -1,0 +1,1 @@
+bone	HMID:HM04802<br/>GeneSymbol:LRRC15<br/>P-value:1.06e-23<br/>Zscore:5<br/>#EST:28<br/>Adj. #EST:13.05

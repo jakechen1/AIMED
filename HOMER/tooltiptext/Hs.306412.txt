@@ -1,0 +1,1 @@
+thymus	HMID:HM06829<br/>GeneSymbol:SH2D3C<br/>P-value:2.36e-80<br/>Zscore:6.77<br/>#EST:91<br/>Adj. #EST:16.86

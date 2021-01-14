@@ -1,0 +1,1 @@
+bone	HMID:HM02594<br/>GeneSymbol:FGFBP2<br/>P-value:5.83e-25<br/>Zscore:6.82<br/>#EST:22<br/>Adj. #EST:22.63

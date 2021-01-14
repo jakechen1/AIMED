@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00812<br/>GeneSymbol:CLIC1<br/>P-value:4.82e-09<br/>Zscore:4.13<br/>#EST:24<br/>Adj. #EST:4.34

@@ -1,0 +1,2 @@
+mouth	HMID:HM02645<br/>GeneSymbol:RAD50<br/>P-value:9.25e-14<br/>Zscore:4.09<br/>#EST:24<br/>Adj. #EST:7.3
+bone marrow	HMID:HM03253<br/>GeneSymbol:RAD50<br/>P-value:9.53e-16<br/>Zscore:4.29<br/>#EST:27<br/>Adj. #EST:7.6

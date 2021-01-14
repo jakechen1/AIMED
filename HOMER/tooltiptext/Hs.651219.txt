@@ -1,0 +1,1 @@
+leiomios	HMID:HM03710<br/>GeneSymbol:NDUFA5<br/>P-value:1.76e-17<br/>Zscore:5.9<br/>#EST:17<br/>Adj. #EST:21.72

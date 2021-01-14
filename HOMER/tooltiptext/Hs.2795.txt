@@ -1,0 +1,1 @@
+esophagus	HMID:HM06801<br/>GeneSymbol:LDHA<br/>P-value:1.74e-77<br/>Zscore:5.39<br/>#EST:155<br/>Adj. #EST:7.16

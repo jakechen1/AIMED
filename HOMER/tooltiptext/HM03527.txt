@@ -1,0 +1,1 @@
+testis	HMID:HM03527<br/>GeneSymbol:LYPD4<br/>P-value:3.56e-18<br/>Zscore:6.77<br/>#EST:17<br/>Adj. #EST:12.76

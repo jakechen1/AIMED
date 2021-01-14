@@ -1,0 +1,1 @@
+nerve	HMID:HM04389<br/>GeneSymbol:RABGGTA<br/>P-value:3.65e-21<br/>Zscore:4.8<br/>#EST:36<br/>Adj. #EST:7.98

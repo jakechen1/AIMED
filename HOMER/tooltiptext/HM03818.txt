@@ -1,0 +1,1 @@
+eye	HMID:HM03818<br/>GeneSymbol:SLC17A7<br/>P-value:1.36e-16<br/>Zscore:5.63<br/>#EST:35<br/>Adj. #EST:5.61

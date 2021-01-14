@@ -1,0 +1,1 @@
+bladder	HMID:HM02574<br/>GeneSymbol:<br/>P-value:3.24e-25<br/>Zscore:5.27<br/>#EST:23<br/>Adj. #EST:25.85

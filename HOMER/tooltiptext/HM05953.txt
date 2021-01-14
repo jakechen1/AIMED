@@ -1,0 +1,1 @@
+testis	HMID:HM05953<br/>GeneSymbol:TEX101<br/>P-value:1.57e-08<br/>Zscore:5.35<br/>#EST:14<br/>Adj. #EST:6.05

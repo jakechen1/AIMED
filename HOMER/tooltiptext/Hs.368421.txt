@@ -1,0 +1,1 @@
+thymus	HMID:HM03082<br/>GeneSymbol:SMPD3<br/>P-value:3.36e-15<br/>Zscore:4.46<br/>#EST:16<br/>Adj. #EST:16.34

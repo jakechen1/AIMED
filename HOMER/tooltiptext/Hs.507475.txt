@@ -1,0 +1,1 @@
+lymph node	HMID:HM01826<br/>GeneSymbol:RFC1<br/>P-value:8.54e-12<br/>Zscore:4.23<br/>#EST:28<br/>Adj. #EST:4.96

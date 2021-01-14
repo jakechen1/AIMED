@@ -1,0 +1,1 @@
+pharynx	HMID:HM00076<br/>GeneSymbol:IGKC<br/>P-value:0<br/>Zscore:6.14<br/>#EST:1019<br/>Adj. #EST:27.87

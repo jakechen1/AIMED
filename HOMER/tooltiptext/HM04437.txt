@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04437<br/>GeneSymbol:CRAT<br/>P-value:6.92e-14<br/>Zscore:4.63<br/>#EST:24<br/>Adj. #EST:7.37

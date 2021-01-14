@@ -1,0 +1,1 @@
+larynx	HMID:HM01954<br/>GeneSymbol:SPINK7<br/>P-value:3.45e-34<br/>Zscore:6.05<br/>#EST:20<br/>Adj. #EST:92.83

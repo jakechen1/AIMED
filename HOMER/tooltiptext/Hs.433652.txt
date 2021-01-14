@@ -1,0 +1,1 @@
+eye	HMID:HM05026<br/>GeneSymbol:PPP1R3F<br/>P-value:1.35e-25<br/>Zscore:6.13<br/>#EST:38<br/>Adj. #EST:9

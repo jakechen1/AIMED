@@ -1,0 +1,1 @@
+ovary	HMID:HM02222<br/>GeneSymbol:CDH6<br/>P-value:1.12e-12<br/>Zscore:5.38<br/>#EST:18<br/>Adj. #EST:9.4

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM06187<br/>GeneSymbol:SMARCA2<br/>P-value:1.12e-07<br/>Zscore:4.14<br/>#EST:12<br/>Adj. #EST:7.56

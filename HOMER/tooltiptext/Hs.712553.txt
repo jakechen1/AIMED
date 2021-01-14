@@ -1,0 +1,1 @@
+lymph node	HMID:HM06551<br/>GeneSymbol:MS4A1<br/>P-value:4.66e-61<br/>Zscore:5.29<br/>#EST:65<br/>Adj. #EST:18.51

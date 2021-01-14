@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01125<br/>GeneSymbol:SPINK6<br/>P-value:1.12e-60<br/>Zscore:6.88<br/>#EST:44<br/>Adj. #EST:41

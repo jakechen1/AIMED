@@ -1,0 +1,1 @@
+muscle	HMID:HM00306<br/>GeneSymbol:COX7A1<br/>P-value:0<br/>Zscore:6.79<br/>#EST:154<br/>Adj. #EST:34.21

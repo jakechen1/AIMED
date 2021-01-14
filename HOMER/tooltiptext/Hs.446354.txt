@@ -1,0 +1,1 @@
+muscle	HMID:HM04097<br/>GeneSymbol:TCEA3<br/>P-value:1.86e-19<br/>Zscore:5.79<br/>#EST:31<br/>Adj. #EST:8.46

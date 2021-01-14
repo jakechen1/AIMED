@@ -1,0 +1,1 @@
+nerve	HMID:HM05876<br/>GeneSymbol:PLBD2<br/>P-value:8.25e-09<br/>Zscore:5.79<br/>#EST:11<br/>Adj. #EST:10.67

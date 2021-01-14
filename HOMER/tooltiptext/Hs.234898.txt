@@ -1,0 +1,1 @@
+adipose	HMID:HM03511<br/>GeneSymbol:ACACB<br/>P-value:1.34e-16<br/>Zscore:6.72<br/>#EST:14<br/>Adj. #EST:29.76

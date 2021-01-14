@@ -1,0 +1,1 @@
+thymus	HMID:HM01966<br/>GeneSymbol:SNORD22<br/>P-value:5.76e-34<br/>Zscore:4.52<br/>#EST:69<br/>Adj. #EST:6.59

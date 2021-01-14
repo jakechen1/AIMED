@@ -1,0 +1,1 @@
+trachea	HMID:HM01372<br/>GeneSymbol:SEC23A<br/>P-value:1.34e-10<br/>Zscore:4.11<br/>#EST:25<br/>Adj. #EST:4.97

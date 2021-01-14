@@ -1,0 +1,1 @@
+colon	HMID:HM06408<br/>GeneSymbol:HOXB6<br/>P-value:1.94e-54<br/>Zscore:6.52<br/>#EST:60<br/>Adj. #EST:15.13

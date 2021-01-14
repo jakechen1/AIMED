@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07094<br/>GeneSymbol:TNNI3K<br/>P-value:5.36e-109<br/>Zscore:6.98<br/>#EST:76<br/>Adj. #EST:46.56

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM06955<br/>GeneSymbol:NPRL3<br/>P-value:2.02e-93<br/>Zscore:6.88<br/>#EST:102<br/>Adj. #EST:18.44

@@ -1,0 +1,1 @@
+spleen	HMID:HM01494<br/>GeneSymbol:RHBG<br/>P-value:5.56e-11<br/>Zscore:5.5<br/>#EST:15<br/>Adj. #EST:8.34

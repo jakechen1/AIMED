@@ -1,0 +1,1 @@
+brain	HMID:HM03119<br/>GeneSymbol:C5orf40<br/>P-value:6.7e-21<br/>Zscore:6.76<br/>#EST:34<br/>Adj. #EST:4.91

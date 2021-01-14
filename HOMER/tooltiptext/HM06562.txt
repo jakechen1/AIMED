@@ -1,0 +1,1 @@
+lymph node	HMID:HM06562<br/>GeneSymbol:LOC253039<br/>P-value:8.92e-06<br/>Zscore:4.14<br/>#EST:11<br/>Adj. #EST:5.31

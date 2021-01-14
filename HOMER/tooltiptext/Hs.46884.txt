@@ -1,0 +1,1 @@
+testis	HMID:HM04196<br/>GeneSymbol:PCSK4<br/>P-value:5.39e-20<br/>Zscore:6.05<br/>#EST:28<br/>Adj. #EST:8.08

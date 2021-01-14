@@ -1,0 +1,1 @@
+pharynx	HMID:HM00173<br/>GeneSymbol:KYNU<br/>P-value:8.8e-07<br/>Zscore:4.58<br/>#EST:12<br/>Adj. #EST:6.17

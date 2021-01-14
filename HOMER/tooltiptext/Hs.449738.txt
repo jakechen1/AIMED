@@ -1,0 +1,1 @@
+liver	HMID:HM05862<br/>GeneSymbol:SLCO1B1<br/>P-value:4.31e-38<br/>Zscore:7.02<br/>#EST:32<br/>Adj. #EST:19.53

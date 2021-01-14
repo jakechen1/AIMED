@@ -1,0 +1,1 @@
+thymus	HMID:HM03950<br/>GeneSymbol:LAT<br/>P-value:1.35e-18<br/>Zscore:4.56<br/>#EST:23<br/>Adj. #EST:12.67

@@ -1,0 +1,1 @@
+testis	HMID:HM05469<br/>GeneSymbol:MNS1<br/>P-value:3.28e-10<br/>Zscore:4.16<br/>#EST:26<br/>Adj. #EST:4.12

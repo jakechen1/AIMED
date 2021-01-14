@@ -1,0 +1,1 @@
+kidney	HMID:HM05023<br/>GeneSymbol:TMEM139<br/>P-value:7.39e-12<br/>Zscore:4.27<br/>#EST:25<br/>Adj. #EST:5.38

@@ -1,0 +1,1 @@
+uterus	HMID:HM06126<br/>GeneSymbol:ESR1<br/>P-value:3.1e-44<br/>Zscore:4.99<br/>#EST:58<br/>Adj. #EST:10.77

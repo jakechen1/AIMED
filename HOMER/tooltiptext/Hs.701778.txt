@@ -1,0 +1,1 @@
+spleen	HMID:HM03211<br/>GeneSymbol:KLHL9<br/>P-value:1.27e-15<br/>Zscore:4.42<br/>#EST:41<br/>Adj. #EST:4.36

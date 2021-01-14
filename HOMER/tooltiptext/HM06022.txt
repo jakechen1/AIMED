@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06022<br/>GeneSymbol:TAF12<br/>P-value:2.87e-08<br/>Zscore:4<br/>#EST:17<br/>Adj. #EST:5.4

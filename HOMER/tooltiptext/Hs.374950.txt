@@ -1,0 +1,1 @@
+muscle	HMID:HM05809<br/>GeneSymbol:MT1X<br/>P-value:9.39e-37<br/>Zscore:4.72<br/>#EST:60<br/>Adj. #EST:8.68

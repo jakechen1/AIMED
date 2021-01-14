@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03837<br/>GeneSymbol:UBE2E4P<br/>P-value:4.73e-18<br/>Zscore:6.59<br/>#EST:16<br/>Adj. #EST:23.56

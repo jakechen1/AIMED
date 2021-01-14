@@ -1,0 +1,1 @@
+lymph node	HMID:HM02798<br/>GeneSymbol:CD180<br/>P-value:2.56e-23<br/>Zscore:6.21<br/>#EST:22<br/>Adj. #EST:21.38

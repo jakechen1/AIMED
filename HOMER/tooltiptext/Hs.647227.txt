@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06913<br/>GeneSymbol:SDHD<br/>P-value:6.41e-89<br/>Zscore:5.04<br/>#EST:88<br/>Adj. #EST:24.43

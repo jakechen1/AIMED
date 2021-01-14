@@ -1,0 +1,1 @@
+brain	HMID:HM05620<br/>GeneSymbol:C2orf80<br/>P-value:9.88e-10<br/>Zscore:5.05<br/>#EST:19<br/>Adj. #EST:4.12

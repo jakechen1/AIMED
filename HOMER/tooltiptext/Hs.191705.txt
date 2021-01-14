@@ -1,0 +1,1 @@
+larynx	HMID:HM05366<br/>GeneSymbol:DQX1<br/>P-value:1.14e-29<br/>Zscore:7.02<br/>#EST:19<br/>Adj. #EST:69.38

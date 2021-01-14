@@ -1,0 +1,1 @@
+testis	HMID:HM00832<br/>GeneSymbol:MYCBPAP<br/>P-value:2.48e-81<br/>Zscore:5.23<br/>#EST:83<br/>Adj. #EST:12.33

@@ -1,0 +1,1 @@
+small intestine	HMID:HM07592<br/>GeneSymbol:ADAMDEC1<br/>P-value:0<br/>Zscore:7<br/>#EST:207<br/>Adj. #EST:112.61

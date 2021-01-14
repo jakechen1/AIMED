@@ -1,0 +1,1 @@
+thymus	HMID:HM06799<br/>GeneSymbol:SEPT6<br/>P-value:2.61e-77<br/>Zscore:5.89<br/>#EST:115<br/>Adj. #EST:10.55

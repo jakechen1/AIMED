@@ -1,0 +1,1 @@
+heart	HMID:HM03106<br/>GeneSymbol:SGCG<br/>P-value:5.25e-21<br/>Zscore:6.57<br/>#EST:16<br/>Adj. #EST:30.16

@@ -1,0 +1,1 @@
+pharynx	HMID:HM00653<br/>GeneSymbol:NTN3<br/>P-value:0<br/>Zscore:6.77<br/>#EST:85<br/>Adj. #EST:34.52

@@ -1,0 +1,1 @@
+pancreas	HMID:HM04920<br/>GeneSymbol:MNX1<br/>P-value:3.31e-12<br/>Zscore:4.62<br/>#EST:13<br/>Adj. #EST:13.18

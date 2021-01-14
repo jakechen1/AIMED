@@ -1,0 +1,1 @@
+thymus	HMID:HM02045<br/>GeneSymbol:TRIM22<br/>P-value:1.06e-32<br/>Zscore:4.59<br/>#EST:47<br/>Adj. #EST:10.56

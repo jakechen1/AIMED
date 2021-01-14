@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03677<br/>GeneSymbol:RAD54L2<br/>P-value:2.18e-17<br/>Zscore:6.98<br/>#EST:12<br/>Adj. #EST:52.01

@@ -1,0 +1,1 @@
+testis	HMID:HM02718<br/>GeneSymbol:KRT72<br/>P-value:5.97e-24<br/>Zscore:6.83<br/>#EST:23<br/>Adj. #EST:12.62

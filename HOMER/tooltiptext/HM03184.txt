@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03184<br/>GeneSymbol:ANGPTL1<br/>P-value:2.24e-20<br/>Zscore:5.25<br/>#EST:28<br/>Adj. #EST:10.71

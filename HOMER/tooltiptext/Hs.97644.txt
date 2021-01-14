@@ -1,0 +1,1 @@
+eye	HMID:HM01868<br/>GeneSymbol:SCGB2A1<br/>P-value:5.82e-12<br/>Zscore:4.66<br/>#EST:16<br/>Adj. #EST:9.4

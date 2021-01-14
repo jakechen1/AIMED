@@ -1,0 +1,1 @@
+stomach	HMID:HM00921<br/>GeneSymbol:CEBPA<br/>P-value:1.82e-73<br/>Zscore:6.41<br/>#EST:84<br/>Adj. #EST:15.09

@@ -1,0 +1,1 @@
+brain	HMID:HM05155<br/>GeneSymbol:ZP2<br/>P-value:2.35e-11<br/>Zscore:6.64<br/>#EST:18<br/>Adj. #EST:4.83

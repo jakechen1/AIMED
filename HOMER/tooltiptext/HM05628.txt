@@ -1,0 +1,1 @@
+prostate	HMID:HM05628<br/>GeneSymbol:PTGES<br/>P-value:1.07e-09<br/>Zscore:4<br/>#EST:21<br/>Adj. #EST:5.12

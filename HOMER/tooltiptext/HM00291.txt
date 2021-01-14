@@ -1,0 +1,1 @@
+muscle	HMID:HM00291<br/>GeneSymbol:KBTBD10<br/>P-value:0<br/>Zscore:5.24<br/>#EST:205<br/>Adj. #EST:21.37

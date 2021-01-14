@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05783<br/>GeneSymbol:RAPGEF5<br/>P-value:2.76e-36<br/>Zscore:6.99<br/>#EST:28<br/>Adj. #EST:42.43

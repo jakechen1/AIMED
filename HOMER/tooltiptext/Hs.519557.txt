@@ -1,0 +1,1 @@
+skin	HMID:HM06398<br/>GeneSymbol:TMEM14C<br/>P-value:4.25e-54<br/>Zscore:4.88<br/>#EST:126<br/>Adj. #EST:5.43

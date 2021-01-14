@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04105<br/>GeneSymbol:MID2<br/>P-value:2.94e-15<br/>Zscore:5.57<br/>#EST:19<br/>Adj. #EST:12.01

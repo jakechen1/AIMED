@@ -1,0 +1,1 @@
+tonsil	HMID:HM06873<br/>GeneSymbol:CD79A<br/>P-value:1.88e-84<br/>Zscore:6.48<br/>#EST:58<br/>Adj. #EST:64.84

@@ -1,0 +1,1 @@
+stomach	HMID:HM05628<br/>GeneSymbol:CHIA<br/>P-value:1.4e-33<br/>Zscore:6.35<br/>#EST:32<br/>Adj. #EST:18.94

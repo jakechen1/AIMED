@@ -1,0 +1,1 @@
+skin	HMID:HM01491<br/>GeneSymbol:MAGEA10<br/>P-value:5.8e-11<br/>Zscore:4.37<br/>#EST:17<br/>Adj. #EST:7.47

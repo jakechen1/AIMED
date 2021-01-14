@@ -1,0 +1,1 @@
+eye	HMID:HM01913<br/>GeneSymbol:BEST1<br/>P-value:7.02e-35<br/>Zscore:5.66<br/>#EST:50<br/>Adj. #EST:9.6

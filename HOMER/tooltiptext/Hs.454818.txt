@@ -1,0 +1,1 @@
+testis	HMID:HM00729<br/>GeneSymbol:HFM1<br/>P-value:1.08e-08<br/>Zscore:5.36<br/>#EST:14<br/>Adj. #EST:6.18

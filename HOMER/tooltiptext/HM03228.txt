@@ -1,0 +1,1 @@
+thyroid	HMID:HM03228<br/>GeneSymbol:MAPKAPK3<br/>P-value:3.94e-20<br/>Zscore:5.7<br/>#EST:28<br/>Adj. #EST:10.83

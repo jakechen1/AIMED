@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03678<br/>GeneSymbol:CLEC5A<br/>P-value:2.19e-17<br/>Zscore:6.68<br/>#EST:14<br/>Adj. #EST:29.61

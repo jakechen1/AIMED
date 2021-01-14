@@ -1,0 +1,1 @@
+liver	HMID:HM04201<br/>GeneSymbol:CYP7A1<br/>P-value:5.06e-20<br/>Zscore:7.07<br/>#EST:15<br/>Adj. #EST:21.74

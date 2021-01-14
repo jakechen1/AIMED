@@ -1,0 +1,1 @@
+lymph	HMID:HM04722<br/>GeneSymbol:FKBP4<br/>P-value:8.39e-13<br/>Zscore:4.24<br/>#EST:30<br/>Adj. #EST:5.15

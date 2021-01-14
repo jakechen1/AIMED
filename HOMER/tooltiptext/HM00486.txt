@@ -1,0 +1,1 @@
+tonsil	HMID:HM00486<br/>GeneSymbol:RPS17<br/>P-value:0<br/>Zscore:6.52<br/>#EST:153<br/>Adj. #EST:16.77

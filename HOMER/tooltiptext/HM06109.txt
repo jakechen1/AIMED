@@ -1,0 +1,1 @@
+lymph node	HMID:HM06109<br/>GeneSymbol:ARL6IP6<br/>P-value:5.83e-08<br/>Zscore:4.74<br/>#EST:16<br/>Adj. #EST:5.48

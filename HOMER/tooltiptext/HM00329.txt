@@ -1,0 +1,1 @@
+brain	HMID:HM00329<br/>GeneSymbol:C8orf46<br/>P-value:0<br/>Zscore:6.74<br/>#EST:350<br/>Adj. #EST:4.67

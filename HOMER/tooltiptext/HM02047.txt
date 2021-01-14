@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02047<br/>GeneSymbol:WDR6<br/>P-value:1.34e-32<br/>Zscore:6.18<br/>#EST:44<br/>Adj. #EST:12.34

@@ -1,0 +1,2 @@
+eye	HMID:HM05825<br/>GeneSymbol:PAX6<br/>P-value:3.08e-37<br/>Zscore:4.22<br/>#EST:65<br/>Adj. #EST:7.49
+pancreas	HMID:HM05886<br/>GeneSymbol:PAX6<br/>P-value:1.54e-38<br/>Zscore:4.24<br/>#EST:67<br/>Adj. #EST:7.52

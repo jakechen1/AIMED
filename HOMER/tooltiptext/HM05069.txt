@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05069<br/>GeneSymbol:RNLS<br/>P-value:1.19e-11<br/>Zscore:5.51<br/>#EST:13<br/>Adj. #EST:13.69

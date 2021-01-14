@@ -1,0 +1,2 @@
+lymph	HMID:HM02467<br/>GeneSymbol:P2RY8<br/>P-value:3.7e-13<br/>Zscore:4.38<br/>#EST:13<br/>Adj. #EST:18.55
+lymph node	HMID:HM04457<br/>GeneSymbol:P2RY8<br/>P-value:1.69e-21<br/>Zscore:4.27<br/>#EST:22<br/>Adj. #EST:18.12

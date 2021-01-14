@@ -1,0 +1,1 @@
+colon	HMID:HM00769<br/>GeneSymbol:CHKA<br/>P-value:7.27e-09<br/>Zscore:4.02<br/>#EST:23<br/>Adj. #EST:4.24

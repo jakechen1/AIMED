@@ -1,0 +1,1 @@
+thyroid	HMID:HM04898<br/>GeneSymbol:SLC34A2<br/>P-value:1.6e-24<br/>Zscore:5.32<br/>#EST:23<br/>Adj. #EST:23.52

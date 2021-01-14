@@ -1,0 +1,1 @@
+bladder	HMID:HM02013<br/>GeneSymbol:MGST1<br/>P-value:2.93e-33<br/>Zscore:5.11<br/>#EST:44<br/>Adj. #EST:12.63

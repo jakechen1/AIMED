@@ -1,0 +1,2 @@
+bladder	HMID:HM06489<br/>GeneSymbol:REG3A<br/>P-value:5.94e-58<br/>Zscore:4.51<br/>#EST:49<br/>Adj. #EST:34.12
+small intestine	HMID:HM07003<br/>GeneSymbol:REG3A<br/>P-value:6.75e-98<br/>Zscore:4.9<br/>#EST:80<br/>Adj. #EST:36.89

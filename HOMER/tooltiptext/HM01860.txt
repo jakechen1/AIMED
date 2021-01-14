@@ -1,0 +1,1 @@
+embryo	HMID:HM01860<br/>GeneSymbol:ZSCAN10<br/>P-value:5.76e-36<br/>Zscore:6.82<br/>#EST:34<br/>Adj. #EST:17.35

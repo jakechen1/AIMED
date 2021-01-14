@@ -1,0 +1,1 @@
+mouth	HMID:HM03048<br/>GeneSymbol:IGSF3<br/>P-value:1.85e-21<br/>Zscore:5.45<br/>#EST:30<br/>Adj. #EST:10.68

@@ -1,0 +1,1 @@
+kidney	HMID:HM03903<br/>GeneSymbol:ATP6V0D2<br/>P-value:4.25e-16<br/>Zscore:5.79<br/>#EST:17<br/>Adj. #EST:14.03

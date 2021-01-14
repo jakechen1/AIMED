@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02455<br/>GeneSymbol:SIAE<br/>P-value:1.22e-26<br/>Zscore:6.45<br/>#EST:24<br/>Adj. #EST:27.3

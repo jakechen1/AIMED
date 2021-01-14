@@ -1,0 +1,1 @@
+trachea	HMID:HM05451<br/>GeneSymbol:EPS8<br/>P-value:2.75e-10<br/>Zscore:4.14<br/>#EST:21<br/>Adj. #EST:5.76

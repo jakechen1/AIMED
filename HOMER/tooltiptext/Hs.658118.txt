@@ -1,0 +1,1 @@
+muscle	HMID:HM04910<br/>GeneSymbol:KRT81<br/>P-value:1.24e-24<br/>Zscore:4.39<br/>#EST:34<br/>Adj. #EST:10.73

@@ -1,0 +1,1 @@
+prostate	HMID:HM04871<br/>GeneSymbol:ATG10<br/>P-value:3.03e-24<br/>Zscore:4.59<br/>#EST:37<br/>Adj. #EST:8.81

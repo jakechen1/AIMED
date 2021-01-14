@@ -1,0 +1,1 @@
+tonsil	HMID:HM07048<br/>GeneSymbol:RFTN1<br/>P-value:8.44e-104<br/>Zscore:6.68<br/>#EST:75<br/>Adj. #EST:56.33

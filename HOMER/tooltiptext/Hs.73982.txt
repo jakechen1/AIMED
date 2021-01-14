@@ -1,0 +1,1 @@
+brain	HMID:HM01712<br/>GeneSymbol:ZP2<br/>P-value:1.45e-11<br/>Zscore:6.64<br/>#EST:18<br/>Adj. #EST:4.96

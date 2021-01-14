@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM07414<br/>GeneSymbol:PTH<br/>P-value:2.85e-218<br/>Zscore:7.07<br/>#EST:88<br/>Adj. #EST:326.85

@@ -1,0 +1,1 @@
+tonsil	HMID:HM07421<br/>GeneSymbol:RPL23A<br/>P-value:1.02e-222<br/>Zscore:6.81<br/>#EST:237<br/>Adj. #EST:21.39

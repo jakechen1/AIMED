@@ -1,0 +1,1 @@
+spleen	HMID:HM02916<br/>GeneSymbol:AOAH<br/>P-value:1.83e-22<br/>Zscore:4.77<br/>#EST:33<br/>Adj. #EST:9.36

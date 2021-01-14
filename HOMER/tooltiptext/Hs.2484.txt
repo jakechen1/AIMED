@@ -1,0 +1,2 @@
+tonsil	HMID:HM06742<br/>GeneSymbol:TCL1A<br/>P-value:2.98e-73<br/>Zscore:4.2<br/>#EST:51<br/>Adj. #EST:61.62
+lymph	HMID:HM07542<br/>GeneSymbol:TCL1A<br/>P-value:0<br/>Zscore:5.6<br/>#EST:199<br/>Adj. #EST:81.13

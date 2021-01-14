@@ -1,0 +1,1 @@
+tonsil	HMID:HM01788<br/>GeneSymbol:PTPRCAP<br/>P-value:1.09e-37<br/>Zscore:6.5<br/>#EST:28<br/>Adj. #EST:47.65

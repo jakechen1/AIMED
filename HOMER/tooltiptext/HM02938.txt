@@ -1,0 +1,1 @@
+pancreas	HMID:HM02938<br/>GeneSymbol:MRPS12<br/>P-value:3.05e-22<br/>Zscore:4.25<br/>#EST:53<br/>Adj. #EST:5.09

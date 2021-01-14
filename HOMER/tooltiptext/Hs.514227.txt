@@ -1,0 +1,1 @@
+brain	HMID:HM07685<br/>GeneSymbol:GFAP<br/>P-value:0<br/>Zscore:4.78<br/>#EST:3267<br/>Adj. #EST:5.29

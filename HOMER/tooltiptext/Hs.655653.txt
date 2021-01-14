@@ -1,0 +1,1 @@
+liver	HMID:HM03592<br/>GeneSymbol:DMGDH<br/>P-value:5.83e-17<br/>Zscore:4.27<br/>#EST:26<br/>Adj. #EST:7.93

@@ -1,0 +1,1 @@
+lymph	HMID:HM02983<br/>GeneSymbol:TYMS<br/>P-value:7.5e-15<br/>Zscore:5.1<br/>#EST:26<br/>Adj. #EST:7.4

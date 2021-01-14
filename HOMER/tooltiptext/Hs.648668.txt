@@ -1,0 +1,1 @@
+brain	HMID:HM07316<br/>GeneSymbol:SYNPR<br/>P-value:4.18e-167<br/>Zscore:6.34<br/>#EST:281<br/>Adj. #EST:5.06

@@ -1,0 +1,2 @@
+blood vessel	HMID:HM01687<br/>GeneSymbol:AMY2B<br/>P-value:1.58e-11<br/>Zscore:4.46<br/>#EST:20<br/>Adj. #EST:7.05
+pancreas	HMID:HM05248<br/>GeneSymbol:AMY2B<br/>P-value:4.14e-28<br/>Zscore:4.41<br/>#EST:51<br/>Adj. #EST:6.99

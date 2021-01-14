@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04743<br/>GeneSymbol:IGFBP3<br/>P-value:2.53e-23<br/>Zscore:5.71<br/>#EST:25<br/>Adj. #EST:18.24

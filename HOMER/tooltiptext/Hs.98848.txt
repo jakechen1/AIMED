@@ -1,0 +1,1 @@
+testis	HMID:HM06228<br/>GeneSymbol:ADAM3A<br/>P-value:2.67e-47<br/>Zscore:7.07<br/>#EST:45<br/>Adj. #EST:12.98

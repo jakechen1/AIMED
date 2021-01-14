@@ -1,0 +1,1 @@
+placenta	HMID:HM03449<br/>GeneSymbol:CLIC3<br/>P-value:1.09e-18<br/>Zscore:5.5<br/>#EST:27<br/>Adj. #EST:8.68

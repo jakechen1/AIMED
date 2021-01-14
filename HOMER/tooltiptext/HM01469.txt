@@ -1,0 +1,2 @@
+liver	HMID:HM01469<br/>GeneSymbol:SERPINA7<br/>P-value:4.1e-46<br/>Zscore:4.79<br/>#EST:50<br/>Adj. #EST:13.59
+spleen	HMID:HM01469<br/>GeneSymbol:SERPINA7<br/>P-value:5.56e-25<br/>Zscore:5.09<br/>#EST:28<br/>Adj. #EST:14.41

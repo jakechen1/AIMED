@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06527<br/>GeneSymbol:GPC5<br/>P-value:4.76e-60<br/>Zscore:7.05<br/>#EST:45<br/>Adj. #EST:38.72

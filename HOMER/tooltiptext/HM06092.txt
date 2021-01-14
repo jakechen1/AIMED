@@ -1,0 +1,1 @@
+pancreas	HMID:HM06092<br/>GeneSymbol:C5orf55<br/>P-value:5.31e-08<br/>Zscore:5.16<br/>#EST:12<br/>Adj. #EST:7.35

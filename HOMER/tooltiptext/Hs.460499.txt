@@ -1,0 +1,1 @@
+lymph	HMID:HM04803<br/>GeneSymbol:ATXN2L<br/>P-value:1.04e-23<br/>Zscore:5.73<br/>#EST:37<br/>Adj. #EST:9.23

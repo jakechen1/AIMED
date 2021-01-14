@@ -1,0 +1,1 @@
+mouth	HMID:HM01411<br/>GeneSymbol:RARG<br/>P-value:4.64e-48<br/>Zscore:6.54<br/>#EST:56<br/>Adj. #EST:15.76

@@ -1,0 +1,1 @@
+eye	HMID:HM00042<br/>GeneSymbol:ATP5A1<br/>P-value:0<br/>Zscore:4.96<br/>#EST:2513<br/>Adj. #EST:7.57

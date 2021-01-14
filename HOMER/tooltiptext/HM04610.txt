@@ -1,0 +1,1 @@
+rectum	HMID:HM04610<br/>GeneSymbol:MYL9<br/>P-value:2.97e-13<br/>Zscore:5.8<br/>#EST:15<br/>Adj. #EST:14.9

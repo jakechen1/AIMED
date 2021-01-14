@@ -1,0 +1,1 @@
+colon	HMID:HM00133<br/>GeneSymbol:HOXB5<br/>P-value:1.32e-06<br/>Zscore:4.32<br/>#EST:12<br/>Adj. #EST:5.63

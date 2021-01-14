@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07119<br/>GeneSymbol:AATF<br/>P-value:7.53e-114<br/>Zscore:6.9<br/>#EST:134<br/>Adj. #EST:15.76

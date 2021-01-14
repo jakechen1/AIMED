@@ -1,0 +1,1 @@
+esophagus	HMID:HM03024<br/>GeneSymbol:SYPL1<br/>P-value:1.22e-21<br/>Zscore:5.71<br/>#EST:32<br/>Adj. #EST:10.11

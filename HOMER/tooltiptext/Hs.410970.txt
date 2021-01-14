@@ -1,0 +1,1 @@
+breast	HMID:HM07230<br/>GeneSymbol:MYL5<br/>P-value:1.54e-139<br/>Zscore:5.43<br/>#EST:137<br/>Adj. #EST:19.54

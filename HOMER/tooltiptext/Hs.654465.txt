@@ -1,0 +1,1 @@
+mouth	HMID:HM04273<br/>GeneSymbol:GCLC<br/>P-value:1.66e-20<br/>Zscore:4.77<br/>#EST:37<br/>Adj. #EST:7.37

@@ -1,0 +1,1 @@
+brain	HMID:HM06738<br/>GeneSymbol:SCN3B<br/>P-value:9.13e-73<br/>Zscore:5.36<br/>#EST:159<br/>Adj. #EST:4.22

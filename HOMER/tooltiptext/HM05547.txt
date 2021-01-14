@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05547<br/>GeneSymbol:SRP14<br/>P-value:5.84e-10<br/>Zscore:4.27<br/>#EST:16<br/>Adj. #EST:7.83

@@ -1,0 +1,1 @@
+leiomios	HMID:HM04293<br/>GeneSymbol:HIP1<br/>P-value:1.27e-20<br/>Zscore:7.05<br/>#EST:14<br/>Adj. #EST:58.6

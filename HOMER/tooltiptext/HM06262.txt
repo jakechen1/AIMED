@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM06262<br/>GeneSymbol:NPC2<br/>P-value:2.58e-07<br/>Zscore:4.25<br/>#EST:13<br/>Adj. #EST:6.34

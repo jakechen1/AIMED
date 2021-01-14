@@ -1,0 +1,1 @@
+lymph	HMID:HM06372<br/>GeneSymbol:TATDN2<br/>P-value:6.18e-07<br/>Zscore:4.11<br/>#EST:13<br/>Adj. #EST:5.78

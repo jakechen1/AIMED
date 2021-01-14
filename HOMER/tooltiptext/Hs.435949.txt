@@ -1,0 +1,1 @@
+lymph node	HMID:HM05328<br/>GeneSymbol:IKZF1<br/>P-value:3.08e-29<br/>Zscore:4.85<br/>#EST:37<br/>Adj. #EST:12.8

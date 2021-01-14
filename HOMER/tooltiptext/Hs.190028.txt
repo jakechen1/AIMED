@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00144<br/>GeneSymbol:GSTO1<br/>P-value:1.23e-06<br/>Zscore:4.33<br/>#EST:10<br/>Adj. #EST:7.6

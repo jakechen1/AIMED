@@ -1,0 +1,1 @@
+testis	HMID:HM02577<br/>GeneSymbol:COX6B2<br/>P-value:1.65e-13<br/>Zscore:5.22<br/>#EST:16<br/>Adj. #EST:9.42

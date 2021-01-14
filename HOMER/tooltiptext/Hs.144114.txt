@@ -1,0 +1,1 @@
+muscle	HMID:HM06479<br/>GeneSymbol:CAMK2D<br/>P-value:1.29e-57<br/>Zscore:5.15<br/>#EST:86<br/>Adj. #EST:10.14

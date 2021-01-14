@@ -1,0 +1,1 @@
+thymus	HMID:HM03483<br/>GeneSymbol:TRAF2<br/>P-value:1.7e-16<br/>Zscore:4.99<br/>#EST:34<br/>Adj. #EST:6.07

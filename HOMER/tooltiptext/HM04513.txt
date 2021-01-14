@@ -1,0 +1,1 @@
+colon	HMID:HM04513<br/>GeneSymbol:BAIAP2L2<br/>P-value:1.43e-13<br/>Zscore:5.49<br/>#EST:17<br/>Adj. #EST:10.75

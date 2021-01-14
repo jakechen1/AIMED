@@ -1,0 +1,1 @@
+ear	HMID:HM05523<br/>GeneSymbol:ANTXR1<br/>P-value:4.95e-10<br/>Zscore:5.97<br/>#EST:15<br/>Adj. #EST:8.68

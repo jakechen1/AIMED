@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06339<br/>GeneSymbol:PLS3<br/>P-value:1.72e-51<br/>Zscore:4.05<br/>#EST:118<br/>Adj. #EST:5.84

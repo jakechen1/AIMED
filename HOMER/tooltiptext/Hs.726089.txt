@@ -1,0 +1,1 @@
+tonsil	HMID:HM02924<br/>GeneSymbol:ATPIF1<br/>P-value:1.1e-14<br/>Zscore:5.95<br/>#EST:20<br/>Adj. #EST:10.88

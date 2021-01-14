@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03099<br/>GeneSymbol:HELLS<br/>P-value:4.59e-21<br/>Zscore:5.45<br/>#EST:27<br/>Adj. #EST:12.22

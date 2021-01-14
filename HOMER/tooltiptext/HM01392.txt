@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01392<br/>GeneSymbol:FAM20C<br/>P-value:1.27e-48<br/>Zscore:6.92<br/>#EST:35<br/>Adj. #EST:53.2

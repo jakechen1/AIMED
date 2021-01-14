@@ -1,0 +1,1 @@
+placenta	HMID:HM04479<br/>GeneSymbol:TXK<br/>P-value:1.22e-21<br/>Zscore:5.22<br/>#EST:24<br/>Adj. #EST:12.89

@@ -1,0 +1,1 @@
+mouth	HMID:HM03939<br/>GeneSymbol:FAM43A<br/>P-value:5.77e-16<br/>Zscore:5.37<br/>#EST:21<br/>Adj. #EST:11.27

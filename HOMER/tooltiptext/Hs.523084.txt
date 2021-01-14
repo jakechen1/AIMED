@@ -1,0 +1,1 @@
+lung	HMID:HM07257<br/>GeneSymbol:SFTPA2<br/>P-value:9.57e-147<br/>Zscore:6.91<br/>#EST:176<br/>Adj. #EST:11.57

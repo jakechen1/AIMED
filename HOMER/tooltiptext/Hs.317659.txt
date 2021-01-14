@@ -1,0 +1,1 @@
+embryo	HMID:HM06252<br/>GeneSymbol:DPPA4<br/>P-value:3.66e-48<br/>Zscore:5.52<br/>#EST:65<br/>Adj. #EST:10.54

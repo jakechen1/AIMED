@@ -1,0 +1,1 @@
+placenta	HMID:HM06900<br/>GeneSymbol:RHOBTB3<br/>P-value:2.03e-87<br/>Zscore:4.65<br/>#EST:190<br/>Adj. #EST:5.87

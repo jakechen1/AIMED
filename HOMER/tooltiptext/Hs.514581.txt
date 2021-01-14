@@ -1,0 +1,1 @@
+tonsil	HMID:HM07444<br/>GeneSymbol:ACTG1<br/>P-value:2.09e-239<br/>Zscore:5.83<br/>#EST:399<br/>Adj. #EST:9.42

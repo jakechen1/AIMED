@@ -1,0 +1,1 @@
+spinal cord	HMID:HM02414<br/>GeneSymbol:PLP1<br/>P-value:4.71e-27<br/>Zscore:6.62<br/>#EST:32<br/>Adj. #EST:15.49

@@ -1,0 +1,1 @@
+testis	HMID:HM05296<br/>GeneSymbol:FAM71D<br/>P-value:7.52e-11<br/>Zscore:5.63<br/>#EST:15<br/>Adj. #EST:7.64

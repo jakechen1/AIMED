@@ -1,0 +1,1 @@
+tonsil	HMID:HM05613<br/>GeneSymbol:LCP1<br/>P-value:2.72e-33<br/>Zscore:4.07<br/>#EST:44<br/>Adj. #EST:12.79

@@ -1,0 +1,1 @@
+liver	HMID:HM00272<br/>GeneSymbol:PLG<br/>P-value:0<br/>Zscore:4.53<br/>#EST:254<br/>Adj. #EST:12.77

@@ -1,0 +1,1 @@
+lymph node	HMID:HM04913<br/>GeneSymbol:AFF3<br/>P-value:1.19e-24<br/>Zscore:6.55<br/>#EST:35<br/>Adj. #EST:10.44

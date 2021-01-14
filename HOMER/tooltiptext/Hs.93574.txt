@@ -1,0 +1,1 @@
+kidney	HMID:HM03470<br/>GeneSymbol:HOXD3<br/>P-value:1.94e-16<br/>Zscore:6.67<br/>#EST:14<br/>Adj. #EST:20

@@ -1,0 +1,1 @@
+thyroid	HMID:HM05354<br/>GeneSymbol:PCGF1<br/>P-value:1.21e-10<br/>Zscore:6.28<br/>#EST:11<br/>Adj. #EST:16.07

@@ -1,0 +1,1 @@
+stomach	HMID:HM00985<br/>GeneSymbol:MUC6<br/>P-value:1.89e-69<br/>Zscore:6.73<br/>#EST:59<br/>Adj. #EST:25.48

@@ -1,0 +1,1 @@
+testis	HMID:HM07075<br/>GeneSymbol:CABYR<br/>P-value:2.5e-106<br/>Zscore:6.83<br/>#EST:140<br/>Adj. #EST:9.34

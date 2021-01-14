@@ -1,0 +1,1 @@
+lung	HMID:HM00202<br/>GeneSymbol:ASCL1<br/>P-value:0<br/>Zscore:6.98<br/>#EST:309<br/>Adj. #EST:13.11

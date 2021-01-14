@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03587<br/>GeneSymbol:ATP6AP2<br/>P-value:8.16e-18<br/>Zscore:6.23<br/>#EST:29<br/>Adj. #EST:8.53

@@ -1,0 +1,1 @@
+skin	HMID:HM00217<br/>GeneSymbol:MMP17<br/>P-value:5.73e-07<br/>Zscore:4.5<br/>#EST:12<br/>Adj. #EST:5.95

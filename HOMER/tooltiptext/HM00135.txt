@@ -1,0 +1,2 @@
+placenta	HMID:HM00135<br/>GeneSymbol:ABP1<br/>P-value:0<br/>Zscore:5.26<br/>#EST:735<br/>Adj. #EST:15.37
+rectum	HMID:HM00135<br/>GeneSymbol:ABP1<br/>P-value:1.23e-10<br/>Zscore:4.13<br/>#EST:13<br/>Adj. #EST:12.24

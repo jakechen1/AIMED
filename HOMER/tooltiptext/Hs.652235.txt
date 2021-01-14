@@ -1,0 +1,1 @@
+stomach	HMID:HM05153<br/>GeneSymbol:PSCA<br/>P-value:4.87e-27<br/>Zscore:4.35<br/>#EST:41<br/>Adj. #EST:8.97

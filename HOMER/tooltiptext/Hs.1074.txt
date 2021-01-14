@@ -1,0 +1,1 @@
+lung	HMID:HM07517<br/>GeneSymbol:SFTPC<br/>P-value:0<br/>Zscore:7.05<br/>#EST:819<br/>Adj. #EST:15.69

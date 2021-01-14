@@ -1,0 +1,1 @@
+spleen	HMID:HM03926<br/>GeneSymbol:C5orf4<br/>P-value:2.04e-18<br/>Zscore:6.18<br/>#EST:24<br/>Adj. #EST:9.53

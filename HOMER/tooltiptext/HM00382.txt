@@ -1,0 +1,1 @@
+bone	HMID:HM00382<br/>GeneSymbol:PRELP<br/>P-value:0<br/>Zscore:6.19<br/>#EST:177<br/>Adj. #EST:17.21

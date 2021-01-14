@@ -1,0 +1,1 @@
+stomach	HMID:HM06125<br/>GeneSymbol:VPS33A<br/>P-value:6.65e-08<br/>Zscore:4.07<br/>#EST:19<br/>Adj. #EST:4.49

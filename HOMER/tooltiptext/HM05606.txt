@@ -1,0 +1,1 @@
+prostate	HMID:HM05606<br/>GeneSymbol:NPY<br/>P-value:8.9e-10<br/>Zscore:4.02<br/>#EST:12<br/>Adj. #EST:10.38

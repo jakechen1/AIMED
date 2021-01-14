@@ -1,0 +1,1 @@
+leiomios	HMID:HM04089<br/>GeneSymbol:ANGPTL2<br/>P-value:2.47e-15<br/>Zscore:6.84<br/>#EST:11<br/>Adj. #EST:45.8

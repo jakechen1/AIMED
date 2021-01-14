@@ -1,0 +1,1 @@
+kidney	HMID:HM00412<br/>GeneSymbol:AVPR1A<br/>P-value:1.06e-07<br/>Zscore:4.07<br/>#EST:10<br/>Adj. #EST:8.82

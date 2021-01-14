@@ -1,0 +1,1 @@
+testis	HMID:HM07128<br/>GeneSymbol:TTC21A<br/>P-value:2.08e-115<br/>Zscore:5.91<br/>#EST:146<br/>Adj. #EST:9.78

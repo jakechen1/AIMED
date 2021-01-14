@@ -1,0 +1,1 @@
+trachea	HMID:HM05593<br/>GeneSymbol:CLIC4<br/>P-value:4.75e-33<br/>Zscore:5.05<br/>#EST:68<br/>Adj. #EST:6.56

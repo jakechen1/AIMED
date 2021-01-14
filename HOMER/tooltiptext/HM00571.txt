@@ -1,0 +1,1 @@
+blood	HMID:HM00571<br/>GeneSymbol:CD69<br/>P-value:0<br/>Zscore:6.59<br/>#EST:104<br/>Adj. #EST:22.02

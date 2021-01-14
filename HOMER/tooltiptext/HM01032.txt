@@ -1,0 +1,2 @@
+pharynx	HMID:HM01032<br/>GeneSymbol:SPRR2E<br/>P-value:9.77e-15<br/>Zscore:5.48<br/>#EST:13<br/>Adj. #EST:24.64
+skin	HMID:HM01032<br/>GeneSymbol:SPRR2E<br/>P-value:1.81e-66<br/>Zscore:4.05<br/>#EST:61<br/>Adj. #EST:18.48

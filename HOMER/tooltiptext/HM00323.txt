@@ -1,0 +1,1 @@
+kidney	HMID:HM00323<br/>GeneSymbol:UGT2B7<br/>P-value:0<br/>Zscore:6.6<br/>#EST:169<br/>Adj. #EST:21.01

@@ -1,0 +1,1 @@
+stomach	HMID:HM02302<br/>GeneSymbol:AGPAT2<br/>P-value:1.37e-28<br/>Zscore:4.06<br/>#EST:58<br/>Adj. #EST:6.33

@@ -1,0 +1,1 @@
+lymph	HMID:HM02666<br/>GeneSymbol:PDCD11<br/>P-value:8.6e-14<br/>Zscore:5.23<br/>#EST:22<br/>Adj. #EST:8.29

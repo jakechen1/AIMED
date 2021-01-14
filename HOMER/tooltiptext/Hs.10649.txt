@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00465<br/>GeneSymbol:C1orf38<br/>P-value:7.18e-08<br/>Zscore:4.78<br/>#EST:16<br/>Adj. #EST:5.43

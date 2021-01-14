@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01625<br/>GeneSymbol:PSMC3<br/>P-value:2.68e-11<br/>Zscore:4.45<br/>#EST:21<br/>Adj. #EST:6.63

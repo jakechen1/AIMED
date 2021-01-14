@@ -1,0 +1,1 @@
+lymph	HMID:HM06470<br/>GeneSymbol:CEP68<br/>P-value:1.85e-06<br/>Zscore:4.24<br/>#EST:15<br/>Adj. #EST:4.54

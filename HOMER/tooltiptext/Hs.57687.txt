@@ -1,0 +1,1 @@
+muscle	HMID:HM06519<br/>GeneSymbol:FHL3<br/>P-value:2.39e-59<br/>Zscore:5.47<br/>#EST:71<br/>Adj. #EST:14.54

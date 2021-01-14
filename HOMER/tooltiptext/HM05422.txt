@@ -1,0 +1,1 @@
+testis	HMID:HM05422<br/>GeneSymbol:SLC9A11<br/>P-value:2.1e-10<br/>Zscore:6.34<br/>#EST:11<br/>Adj. #EST:10.46

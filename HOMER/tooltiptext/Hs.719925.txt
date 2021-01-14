@@ -1,0 +1,1 @@
+prostate	HMID:HM07197<br/>GeneSymbol:RDH11<br/>P-value:2.63e-129<br/>Zscore:5.57<br/>#EST:264<br/>Adj. #EST:6.58

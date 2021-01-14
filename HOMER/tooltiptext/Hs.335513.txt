@@ -1,0 +1,1 @@
+trachea	HMID:HM03864<br/>GeneSymbol:F13A1<br/>P-value:3.29e-18<br/>Zscore:4.77<br/>#EST:30<br/>Adj. #EST:8.27

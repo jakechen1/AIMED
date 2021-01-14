@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06898<br/>GeneSymbol:FLJ20444<br/>P-value:3.58e-87<br/>Zscore:7.05<br/>#EST:58<br/>Adj. #EST:51.05

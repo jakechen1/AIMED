@@ -1,0 +1,1 @@
+spleen	HMID:HM04846<br/>GeneSymbol:ZMYND8<br/>P-value:4.49e-24<br/>Zscore:5.73<br/>#EST:27<br/>Adj. #EST:11.94

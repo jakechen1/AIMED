@@ -1,0 +1,1 @@
+pharynx	HMID:HM06441<br/>GeneSymbol:COMMD2<br/>P-value:1.28e-06<br/>Zscore:4.78<br/>#EST:10<br/>Adj. #EST:7.47

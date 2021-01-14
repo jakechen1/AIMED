@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05414<br/>GeneSymbol:GCC1<br/>P-value:3.13e-30<br/>Zscore:5.65<br/>#EST:32<br/>Adj. #EST:18.14

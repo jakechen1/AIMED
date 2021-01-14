@@ -1,0 +1,1 @@
+amnion	HMID:HM05687<br/>GeneSymbol:SEC11A<br/>P-value:1.55e-34<br/>Zscore:6.41<br/>#EST:29<br/>Adj. #EST:34.74

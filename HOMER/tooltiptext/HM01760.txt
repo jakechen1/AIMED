@@ -1,0 +1,2 @@
+ear	HMID:HM01760<br/>GeneSymbol:<br/>P-value:5.03e-12<br/>Zscore:4.97<br/>#EST:14<br/>Adj. #EST:13.68
+mouth	HMID:HM01760<br/>GeneSymbol:<br/>P-value:5.51e-38<br/>Zscore:4.33<br/>#EST:51<br/>Adj. #EST:12.07

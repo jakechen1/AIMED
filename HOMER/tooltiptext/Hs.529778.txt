@@ -1,0 +1,1 @@
+bladder	HMID:HM05003<br/>GeneSymbol:CENPK<br/>P-value:2.48e-25<br/>Zscore:6.4<br/>#EST:21<br/>Adj. #EST:32.65

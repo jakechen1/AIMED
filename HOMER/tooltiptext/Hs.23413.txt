@@ -1,0 +1,1 @@
+lymph	HMID:HM02931<br/>GeneSymbol:ATAD3A<br/>P-value:1.06e-14<br/>Zscore:5.54<br/>#EST:22<br/>Adj. #EST:9.19

@@ -1,0 +1,1 @@
+spleen	HMID:HM03928<br/>GeneSymbol:NAGS<br/>P-value:2.01e-18<br/>Zscore:4.13<br/>#EST:27<br/>Adj. #EST:8.21

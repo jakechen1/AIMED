@@ -1,0 +1,1 @@
+lung	HMID:HM01740<br/>GeneSymbol:SFTPD<br/>P-value:2.21e-38<br/>Zscore:6.58<br/>#EST:44<br/>Adj. #EST:11.56

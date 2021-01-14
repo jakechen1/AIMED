@@ -1,0 +1,1 @@
+thyroid	HMID:HM01175<br/>GeneSymbol:SECISBP2<br/>P-value:4.23e-10<br/>Zscore:5.34<br/>#EST:19<br/>Adj. #EST:6.33

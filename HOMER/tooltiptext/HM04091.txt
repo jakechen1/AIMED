@@ -1,0 +1,1 @@
+muscle	HMID:HM04091<br/>GeneSymbol:BMS1<br/>P-value:2.49e-15<br/>Zscore:4.71<br/>#EST:35<br/>Adj. #EST:5.31

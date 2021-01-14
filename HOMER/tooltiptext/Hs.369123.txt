@@ -1,0 +1,1 @@
+lymph node	HMID:HM04289<br/>GeneSymbol:PLEKHA2<br/>P-value:1.33e-20<br/>Zscore:5.44<br/>#EST:32<br/>Adj. #EST:8.94

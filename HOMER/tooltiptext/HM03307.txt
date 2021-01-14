@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03307<br/>GeneSymbol:COQ3<br/>P-value:1.69e-19<br/>Zscore:5.92<br/>#EST:23<br/>Adj. #EST:13.7

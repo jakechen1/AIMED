@@ -1,0 +1,1 @@
+lung	HMID:HM02997<br/>GeneSymbol:GOLGA2B<br/>P-value:8e-22<br/>Zscore:5.8<br/>#EST:32<br/>Adj. #EST:8.17

@@ -1,0 +1,1 @@
+eye	HMID:HM05131<br/>GeneSymbol:GNGT1<br/>P-value:9.11e-27<br/>Zscore:5.5<br/>#EST:31<br/>Adj. #EST:12.97

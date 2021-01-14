@@ -1,0 +1,1 @@
+brain	HMID:HM04376<br/>GeneSymbol:CHRNB2<br/>P-value:4.4e-21<br/>Zscore:5.38<br/>#EST:45<br/>Adj. #EST:4.13

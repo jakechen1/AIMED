@@ -1,0 +1,2 @@
+liver	HMID:HM00672<br/>GeneSymbol:CPS1-IT<br/>P-value:1.6e-08<br/>Zscore:4.09<br/>#EST:11<br/>Adj. #EST:8.79
+spleen	HMID:HM03520<br/>GeneSymbol:CPS1-IT<br/>P-value:1.24e-16<br/>Zscore:5.69<br/>#EST:18<br/>Adj. #EST:12.08

@@ -1,0 +1,1 @@
+pituitary	HMID:HM02953<br/>GeneSymbol:IGSF1<br/>P-value:3.71e-22<br/>Zscore:6.25<br/>#EST:18<br/>Adj. #EST:34.53

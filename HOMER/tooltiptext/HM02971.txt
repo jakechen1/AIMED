@@ -1,0 +1,1 @@
+trachea	HMID:HM02971<br/>GeneSymbol:FMO5<br/>P-value:5.74e-22<br/>Zscore:5.88<br/>#EST:22<br/>Adj. #EST:19.89

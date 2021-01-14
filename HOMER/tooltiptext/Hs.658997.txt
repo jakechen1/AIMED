@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01282<br/>GeneSymbol:RGL4<br/>P-value:2.3e-10<br/>Zscore:6.3<br/>#EST:11<br/>Adj. #EST:14.84

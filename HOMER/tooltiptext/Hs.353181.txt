@@ -1,0 +1,1 @@
+blood	HMID:HM05559<br/>GeneSymbol:ATHL1<br/>P-value:1.56e-32<br/>Zscore:5.84<br/>#EST:48<br/>Adj. #EST:9.71

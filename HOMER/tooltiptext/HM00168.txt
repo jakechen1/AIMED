@@ -1,0 +1,1 @@
+brain	HMID:HM00168<br/>GeneSymbol:GPM6A<br/>P-value:0<br/>Zscore:5.62<br/>#EST:2399<br/>Adj. #EST:5.27

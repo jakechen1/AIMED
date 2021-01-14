@@ -1,0 +1,1 @@
+pharynx	HMID:HM02036<br/>GeneSymbol:CMTM7<br/>P-value:2.47e-12<br/>Zscore:4.62<br/>#EST:22<br/>Adj. #EST:7.04

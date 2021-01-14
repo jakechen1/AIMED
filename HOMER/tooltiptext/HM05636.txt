@@ -1,0 +1,1 @@
+larynx	HMID:HM05636<br/>GeneSymbol:EPM2AIP1<br/>P-value:1.13e-09<br/>Zscore:4.45<br/>#EST:13<br/>Adj. #EST:10.06

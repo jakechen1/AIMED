@@ -1,0 +1,1 @@
+lymph node	HMID:HM01669<br/>GeneSymbol:ZNF789<br/>P-value:1.95e-11<br/>Zscore:5.27<br/>#EST:16<br/>Adj. #EST:9.47

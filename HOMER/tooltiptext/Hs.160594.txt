@@ -1,0 +1,1 @@
+testis	HMID:HM05067<br/>GeneSymbol:PASD1<br/>P-value:4.57e-26<br/>Zscore:6.69<br/>#EST:25<br/>Adj. #EST:12.62

@@ -1,0 +1,1 @@
+nerve	HMID:HM03209<br/>GeneSymbol:GPAA1<br/>P-value:1.29e-15<br/>Zscore:4.57<br/>#EST:46<br/>Adj. #EST:4.21

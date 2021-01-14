@@ -1,0 +1,1 @@
+embryo	HMID:HM01422<br/>GeneSymbol:DPPA4<br/>P-value:1.46e-47<br/>Zscore:5.46<br/>#EST:65<br/>Adj. #EST:10.25

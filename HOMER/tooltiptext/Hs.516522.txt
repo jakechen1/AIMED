@@ -1,0 +1,1 @@
+larynx	HMID:HM03395<br/>GeneSymbol:INTS3<br/>P-value:4.76e-16<br/>Zscore:5.33<br/>#EST:21<br/>Adj. #EST:11.76

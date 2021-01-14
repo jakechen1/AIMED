@@ -1,0 +1,1 @@
+trachea	HMID:HM07552<br/>GeneSymbol:APLP2<br/>P-value:0<br/>Zscore:6.55<br/>#EST:1311<br/>Adj. #EST:11.84

@@ -1,0 +1,1 @@
+testis	HMID:HM03647<br/>GeneSymbol:C2orf73<br/>P-value:1.54e-17<br/>Zscore:6.77<br/>#EST:23<br/>Adj. #EST:8.63

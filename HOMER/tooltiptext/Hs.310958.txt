@@ -1,0 +1,1 @@
+skin	HMID:HM05858<br/>GeneSymbol:PSORS1C1<br/>P-value:5.1e-38<br/>Zscore:4.12<br/>#EST:54<br/>Adj. #EST:9.65

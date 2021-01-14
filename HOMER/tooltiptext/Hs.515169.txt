@@ -1,0 +1,1 @@
+small intestine	HMID:HM01263<br/>GeneSymbol:TRMT1<br/>P-value:2.53e-10<br/>Zscore:4.17<br/>#EST:28<br/>Adj. #EST:4.33

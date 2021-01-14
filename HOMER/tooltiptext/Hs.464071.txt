@@ -1,0 +1,1 @@
+esophagus	HMID:HM01629<br/>GeneSymbol:PGD<br/>P-value:2.58e-11<br/>Zscore:5.33<br/>#EST:23<br/>Adj. #EST:5.96

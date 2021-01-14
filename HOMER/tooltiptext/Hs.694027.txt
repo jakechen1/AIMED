@@ -1,0 +1,1 @@
+pituitary	HMID:HM04839<br/>GeneSymbol:<br/>P-value:4.99e-24<br/>Zscore:7.07<br/>#EST:11<br/>Adj. #EST:219.2

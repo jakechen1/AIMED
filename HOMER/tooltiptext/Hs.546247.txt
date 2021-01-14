@@ -1,0 +1,1 @@
+eye	HMID:HM05401<br/>GeneSymbol:CRYGD<br/>P-value:4.43e-30<br/>Zscore:6.93<br/>#EST:22<br/>Adj. #EST:26.89

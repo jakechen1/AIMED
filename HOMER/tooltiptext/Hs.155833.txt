@@ -1,0 +1,1 @@
+testis	HMID:HM03820<br/>GeneSymbol:H1FNT<br/>P-value:5.31e-18<br/>Zscore:6.8<br/>#EST:20<br/>Adj. #EST:10.47

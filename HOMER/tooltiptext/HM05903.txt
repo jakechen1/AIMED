@@ -1,0 +1,1 @@
+thyroid	HMID:HM05903<br/>GeneSymbol:LIPG<br/>P-value:1e-08<br/>Zscore:5.73<br/>#EST:10<br/>Adj. #EST:12.51

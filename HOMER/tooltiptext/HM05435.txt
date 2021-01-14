@@ -1,0 +1,1 @@
+tonsil	HMID:HM05435<br/>GeneSymbol:HMGB2<br/>P-value:2.4e-10<br/>Zscore:5.18<br/>#EST:16<br/>Adj. #EST:8.32

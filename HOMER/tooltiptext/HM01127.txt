@@ -1,0 +1,1 @@
+placenta	HMID:HM01127<br/>GeneSymbol:TRPV6<br/>P-value:1.26e-60<br/>Zscore:6.78<br/>#EST:63<br/>Adj. #EST:14.93

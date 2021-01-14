@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05934<br/>GeneSymbol:SLC25A1<br/>P-value:1.34e-08<br/>Zscore:4.77<br/>#EST:13<br/>Adj. #EST:8.19

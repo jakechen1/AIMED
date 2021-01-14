@@ -1,0 +1,1 @@
+lymph node	HMID:HM02782<br/>GeneSymbol:SETDB2<br/>P-value:2.55e-14<br/>Zscore:5.57<br/>#EST:19<br/>Adj. #EST:10.74

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04786<br/>GeneSymbol:PKIG<br/>P-value:1.37e-12<br/>Zscore:5.25<br/>#EST:15<br/>Adj. #EST:13.22

@@ -1,0 +1,1 @@
+pancreas	HMID:HM05425<br/>GeneSymbol:DRAP1<br/>P-value:2.23e-30<br/>Zscore:4.15<br/>#EST:65<br/>Adj. #EST:5.82

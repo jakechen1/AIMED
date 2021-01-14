@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02277<br/>GeneSymbol:GPR98<br/>P-value:6.42e-29<br/>Zscore:5.31<br/>#EST:32<br/>Adj. #EST:16.15

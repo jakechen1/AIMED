@@ -1,0 +1,1 @@
+testis	HMID:HM01357<br/>GeneSymbol:DPEP3<br/>P-value:8.1e-50<br/>Zscore:7<br/>#EST:55<br/>Adj. #EST:11.21

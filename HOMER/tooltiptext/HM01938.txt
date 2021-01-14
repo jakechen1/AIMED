@@ -1,0 +1,1 @@
+testis	HMID:HM01938<br/>GeneSymbol:TNP1<br/>P-value:2.16e-34<br/>Zscore:6.81<br/>#EST:46<br/>Adj. #EST:8.87

@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM04051<br/>GeneSymbol:RPAP1<br/>P-value:4e-19<br/>Zscore:6.94<br/>#EST:18<br/>Adj. #EST:23.58

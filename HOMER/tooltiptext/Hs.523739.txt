@@ -1,0 +1,1 @@
+thymus	HMID:HM05822<br/>GeneSymbol:NXF1<br/>P-value:3.76e-37<br/>Zscore:4.52<br/>#EST:92<br/>Adj. #EST:5.3

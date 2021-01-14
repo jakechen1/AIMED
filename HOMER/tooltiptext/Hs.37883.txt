@@ -1,0 +1,1 @@
+spleen	HMID:HM03476<br/>GeneSymbol:C18orf21<br/>P-value:1.81e-16<br/>Zscore:4.38<br/>#EST:38<br/>Adj. #EST:4.93

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07014<br/>GeneSymbol:ACYP2<br/>P-value:4.58e-99<br/>Zscore:6.73<br/>#EST:80<br/>Adj. #EST:33.66

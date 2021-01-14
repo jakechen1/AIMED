@@ -1,0 +1,1 @@
+trachea	HMID:HM01235<br/>GeneSymbol:ZNF500<br/>P-value:2.85e-10<br/>Zscore:6.21<br/>#EST:15<br/>Adj. #EST:8.86

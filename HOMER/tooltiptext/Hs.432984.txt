@@ -1,0 +1,1 @@
+pharynx	HMID:HM02621<br/>GeneSymbol:SAR1B<br/>P-value:1.1e-13<br/>Zscore:5.43<br/>#EST:25<br/>Adj. #EST:6.95

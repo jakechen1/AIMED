@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07399<br/>GeneSymbol:ALG14<br/>P-value:2.9e-210<br/>Zscore:7.04<br/>#EST:150<br/>Adj. #EST:45.05

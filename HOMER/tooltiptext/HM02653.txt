@@ -1,0 +1,1 @@
+spleen	HMID:HM02653<br/>GeneSymbol:XPO7<br/>P-value:1.81e-24<br/>Zscore:4.24<br/>#EST:66<br/>Adj. #EST:4.64

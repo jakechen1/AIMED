@@ -1,0 +1,1 @@
+blood	HMID:HM00780<br/>GeneSymbol:HBD<br/>P-value:1.25e-87<br/>Zscore:6.91<br/>#EST:65<br/>Adj. #EST:32.81

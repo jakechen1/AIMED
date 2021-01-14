@@ -1,0 +1,1 @@
+blood	HMID:HM04758<br/>GeneSymbol:PRAM1<br/>P-value:1.09e-12<br/>Zscore:4.12<br/>#EST:13<br/>Adj. #EST:15.25

@@ -1,0 +1,1 @@
+spleen	HMID:HM06344<br/>GeneSymbol:ZNF37BP<br/>P-value:4.92e-07<br/>Zscore:4.64<br/>#EST:14<br/>Adj. #EST:5.26

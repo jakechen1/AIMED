@@ -1,0 +1,1 @@
+kidney	HMID:HM02761<br/>GeneSymbol:UGT3A1<br/>P-value:1.25e-23<br/>Zscore:5.88<br/>#EST:26<br/>Adj. #EST:13.79

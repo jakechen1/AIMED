@@ -1,0 +1,1 @@
+prostate	HMID:HM06108<br/>GeneSymbol:LMAN1L<br/>P-value:1e-43<br/>Zscore:6.79<br/>#EST:33<br/>Adj. #EST:28.64

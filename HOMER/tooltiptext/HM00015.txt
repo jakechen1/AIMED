@@ -1,0 +1,1 @@
+pancreas	HMID:HM00015<br/>GeneSymbol:CELA3A<br/>P-value:0<br/>Zscore:6.7<br/>#EST:316<br/>Adj. #EST:26.32

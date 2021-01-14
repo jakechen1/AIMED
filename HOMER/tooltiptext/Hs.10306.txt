@@ -1,0 +1,1 @@
+blood	HMID:HM04245<br/>GeneSymbol:NKG7<br/>P-value:2.57e-20<br/>Zscore:5.31<br/>#EST:27<br/>Adj. #EST:10.83

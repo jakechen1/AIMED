@@ -1,0 +1,1 @@
+larynx	HMID:HM02479<br/>GeneSymbol:FANCI<br/>P-value:2.4e-26<br/>Zscore:6.64<br/>#EST:26<br/>Adj. #EST:21.94

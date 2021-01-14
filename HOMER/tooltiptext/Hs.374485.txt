@@ -1,0 +1,1 @@
+pharynx	HMID:HM01089<br/>GeneSymbol:ZNF706<br/>P-value:7.86e-10<br/>Zscore:5.47<br/>#EST:16<br/>Adj. #EST:7.58

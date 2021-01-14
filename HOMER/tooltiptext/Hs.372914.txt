@@ -1,0 +1,1 @@
+mouth	HMID:HM07555<br/>GeneSymbol:NDRG1<br/>P-value:0<br/>Zscore:6.82<br/>#EST:743<br/>Adj. #EST:20.58

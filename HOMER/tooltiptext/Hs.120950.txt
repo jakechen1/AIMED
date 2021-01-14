@@ -1,0 +1,1 @@
+spleen	HMID:HM06300<br/>GeneSymbol:RHAG<br/>P-value:4.72e-50<br/>Zscore:4.5<br/>#EST:69<br/>Adj. #EST:9.52

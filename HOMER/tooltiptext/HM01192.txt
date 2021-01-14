@@ -1,0 +1,1 @@
+larynx	HMID:HM01192<br/>GeneSymbol:PHF11<br/>P-value:1.32e-57<br/>Zscore:6.19<br/>#EST:50<br/>Adj. #EST:32.17

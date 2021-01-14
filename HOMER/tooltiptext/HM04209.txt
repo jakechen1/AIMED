@@ -1,0 +1,1 @@
+lymph node	HMID:HM04209<br/>GeneSymbol:SPOPL<br/>P-value:8.21e-15<br/>Zscore:5.43<br/>#EST:23<br/>Adj. #EST:8.53

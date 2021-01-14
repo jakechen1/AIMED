@@ -1,0 +1,1 @@
+testis	HMID:HM03216<br/>GeneSymbol:TTC16<br/>P-value:3.33e-20<br/>Zscore:4.05<br/>#EST:27<br/>Adj. #EST:8.56

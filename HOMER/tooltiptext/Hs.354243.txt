@@ -1,0 +1,1 @@
+eye	HMID:HM05393<br/>GeneSymbol:C2orf71<br/>P-value:5.81e-30<br/>Zscore:7.05<br/>#EST:23<br/>Adj. #EST:25.1

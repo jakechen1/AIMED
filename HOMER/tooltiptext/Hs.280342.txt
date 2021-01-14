@@ -1,0 +1,1 @@
+trachea	HMID:HM07242<br/>GeneSymbol:PRKAR1A<br/>P-value:7.66e-144<br/>Zscore:6.59<br/>#EST:207<br/>Adj. #EST:11.58

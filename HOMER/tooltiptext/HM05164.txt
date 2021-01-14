@@ -1,0 +1,1 @@
+ovary	HMID:HM05164<br/>GeneSymbol:C5orf23<br/>P-value:2.62e-11<br/>Zscore:5.28<br/>#EST:16<br/>Adj. #EST:9.21

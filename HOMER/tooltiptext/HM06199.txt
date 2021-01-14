@@ -1,0 +1,1 @@
+thyroid	HMID:HM06199<br/>GeneSymbol:RNF38<br/>P-value:1.27e-07<br/>Zscore:5.43<br/>#EST:15<br/>Adj. #EST:5.63

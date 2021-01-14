@@ -1,0 +1,1 @@
+rectum	HMID:HM05960<br/>GeneSymbol:CLDN4<br/>P-value:3.8e-40<br/>Zscore:6.69<br/>#EST:36<br/>Adj. #EST:29.91

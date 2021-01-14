@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06080<br/>GeneSymbol:ARMC4<br/>P-value:4.94e-43<br/>Zscore:6.66<br/>#EST:38<br/>Adj. #EST:26.45

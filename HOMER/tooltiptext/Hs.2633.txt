@@ -1,0 +1,1 @@
+skin	HMID:HM04773<br/>GeneSymbol:DSG1<br/>P-value:1.9e-23<br/>Zscore:4.72<br/>#EST:33<br/>Adj. #EST:9.41

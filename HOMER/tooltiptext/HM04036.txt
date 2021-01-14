@@ -1,0 +1,1 @@
+mouth	HMID:HM04036<br/>GeneSymbol:NPEPPS<br/>P-value:1.42e-15<br/>Zscore:4.89<br/>#EST:45<br/>Adj. #EST:4.29

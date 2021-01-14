@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00741<br/>GeneSymbol:ATP6V1H<br/>P-value:2.31e-92<br/>Zscore:6.15<br/>#EST:146<br/>Adj. #EST:9.6

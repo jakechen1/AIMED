@@ -1,0 +1,1 @@
+tonsil	HMID:HM07200<br/>GeneSymbol:RPS17<br/>P-value:9.05e-130<br/>Zscore:6.52<br/>#EST:153<br/>Adj. #EST:17.08

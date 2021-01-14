@@ -1,0 +1,1 @@
+pancreas	HMID:HM02178<br/>GeneSymbol:ATG4D<br/>P-value:2.25e-30<br/>Zscore:4.59<br/>#EST:51<br/>Adj. #EST:7.73

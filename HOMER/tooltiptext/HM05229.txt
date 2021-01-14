@@ -1,0 +1,1 @@
+eye	HMID:HM05229<br/>GeneSymbol:ABHD12B<br/>P-value:4.56e-11<br/>Zscore:5.4<br/>#EST:13<br/>Adj. #EST:11.09

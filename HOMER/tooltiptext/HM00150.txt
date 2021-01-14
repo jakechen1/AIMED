@@ -1,0 +1,1 @@
+pharynx	HMID:HM00150<br/>GeneSymbol:C20orf114<br/>P-value:0<br/>Zscore:7.04<br/>#EST:529<br/>Adj. #EST:117.46

@@ -1,0 +1,1 @@
+trachea	HMID:HM02568<br/>GeneSymbol:MCFD2<br/>P-value:2.65e-25<br/>Zscore:6.23<br/>#EST:45<br/>Adj. #EST:7.73

@@ -1,0 +1,1 @@
+stomach	HMID:HM02507<br/>GeneSymbol:AKR7L<br/>P-value:2.51e-13<br/>Zscore:6.25<br/>#EST:13<br/>Adj. #EST:16.19

@@ -1,0 +1,1 @@
+testis	HMID:HM04260<br/>GeneSymbol:ZNF705A<br/>P-value:1.29e-14<br/>Zscore:6.58<br/>#EST:13<br/>Adj. #EST:13.25

@@ -1,0 +1,1 @@
+testis	HMID:HM06036<br/>GeneSymbol:ZMYND12<br/>P-value:5.9e-42<br/>Zscore:5.98<br/>#EST:62<br/>Adj. #EST:7.97

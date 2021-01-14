@@ -1,0 +1,1 @@
+skin	HMID:HM00476<br/>GeneSymbol:DUOX2<br/>P-value:0<br/>Zscore:5.05<br/>#EST:125<br/>Adj. #EST:17.97

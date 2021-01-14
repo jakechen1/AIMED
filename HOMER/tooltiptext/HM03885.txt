@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03885<br/>GeneSymbol:CEACAM3<br/>P-value:3.4e-16<br/>Zscore:6.91<br/>#EST:11<br/>Adj. #EST:43.49

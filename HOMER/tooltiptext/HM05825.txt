@@ -1,0 +1,1 @@
+heart	HMID:HM05825<br/>GeneSymbol:C14orf28<br/>P-value:5.07e-09<br/>Zscore:5.52<br/>#EST:12<br/>Adj. #EST:9.39

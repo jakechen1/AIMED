@@ -1,0 +1,1 @@
+placenta	HMID:HM00312<br/>GeneSymbol:CSHL1<br/>P-value:0<br/>Zscore:7.07<br/>#EST:149<br/>Adj. #EST:22.55

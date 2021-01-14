@@ -1,0 +1,2 @@
+stomach	HMID:HM02429<br/>GeneSymbol:NPHS2<br/>P-value:4.61e-13<br/>Zscore:4.18<br/>#EST:15<br/>Adj. #EST:12.31
+kidney	HMID:HM04654<br/>GeneSymbol:NPHS2<br/>P-value:1.07e-22<br/>Zscore:5.38<br/>#EST:23<br/>Adj. #EST:15.68

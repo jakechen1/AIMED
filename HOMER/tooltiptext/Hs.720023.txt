@@ -1,0 +1,1 @@
+spleen	HMID:HM05307<br/>GeneSymbol:ADHFE1<br/>P-value:6.12e-29<br/>Zscore:4.09<br/>#EST:76<br/>Adj. #EST:4.56

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02737<br/>GeneSymbol:PGCP<br/>P-value:8.63e-24<br/>Zscore:4.43<br/>#EST:40<br/>Adj. #EST:8.12

@@ -1,0 +1,1 @@
+thymus	HMID:HM06171<br/>GeneSymbol:MAPK7<br/>P-value:9.73e-08<br/>Zscore:4.15<br/>#EST:15<br/>Adj. #EST:5.68

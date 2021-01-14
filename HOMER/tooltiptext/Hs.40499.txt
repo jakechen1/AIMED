@@ -1,0 +1,1 @@
+small intestine	HMID:HM04775<br/>GeneSymbol:DKK1<br/>P-value:1.78e-23<br/>Zscore:6.49<br/>#EST:25<br/>Adj. #EST:17.96

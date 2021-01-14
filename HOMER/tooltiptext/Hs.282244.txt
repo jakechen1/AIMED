@@ -1,0 +1,1 @@
+testis	HMID:HM05206<br/>GeneSymbol:PGLYRP2<br/>P-value:1.31e-27<br/>Zscore:5.04<br/>#EST:40<br/>Adj. #EST:7.96

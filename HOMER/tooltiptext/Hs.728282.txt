@@ -1,0 +1,1 @@
+trachea	HMID:HM04279<br/>GeneSymbol:LRIG3<br/>P-value:1.57e-20<br/>Zscore:5.58<br/>#EST:21<br/>Adj. #EST:18.91

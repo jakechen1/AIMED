@@ -1,0 +1,1 @@
+colon	HMID:HM01350<br/>GeneSymbol:CFTR<br/>P-value:3.14e-50<br/>Zscore:5.27<br/>#EST:53<br/>Adj. #EST:16.16

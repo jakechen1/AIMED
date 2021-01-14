@@ -1,0 +1,1 @@
+pharynx	HMID:HM00583<br/>GeneSymbol:DERL2<br/>P-value:3e-08<br/>Zscore:5.09<br/>#EST:13<br/>Adj. #EST:7.57

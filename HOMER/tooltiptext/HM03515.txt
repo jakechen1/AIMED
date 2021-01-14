@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03515<br/>GeneSymbol:ELANE<br/>P-value:2.85e-18<br/>Zscore:6.38<br/>#EST:14<br/>Adj. #EST:33.51

@@ -1,0 +1,1 @@
+lung	HMID:HM00174<br/>GeneSymbol:H1FX<br/>P-value:0<br/>Zscore:6.27<br/>#EST:684<br/>Adj. #EST:8.1

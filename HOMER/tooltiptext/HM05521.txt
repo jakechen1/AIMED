@@ -1,0 +1,1 @@
+testis	HMID:HM05521<br/>GeneSymbol:SLC30A3<br/>P-value:4.87e-10<br/>Zscore:5.18<br/>#EST:22<br/>Adj. #EST:4.68

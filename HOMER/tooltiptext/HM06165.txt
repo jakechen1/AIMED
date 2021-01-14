@@ -1,0 +1,1 @@
+placenta	HMID:HM06165<br/>GeneSymbol:TMEM88<br/>P-value:8.85e-08<br/>Zscore:4.36<br/>#EST:14<br/>Adj. #EST:5.76

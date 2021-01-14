@@ -1,0 +1,1 @@
+liver	HMID:HM02780<br/>GeneSymbol:KLKB1<br/>P-value:1.83e-23<br/>Zscore:5.84<br/>#EST:30<br/>Adj. #EST:10.32

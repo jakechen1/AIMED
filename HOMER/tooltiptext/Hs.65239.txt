@@ -1,0 +1,1 @@
+brain	HMID:HM06360<br/>GeneSymbol:SCN4B<br/>P-value:1.51e-52<br/>Zscore:5.05<br/>#EST:103<br/>Adj. #EST:4.51

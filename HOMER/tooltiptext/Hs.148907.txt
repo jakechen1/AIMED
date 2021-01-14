@@ -1,0 +1,2 @@
+stomach	HMID:HM05553<br/>GeneSymbol:SLC5A12<br/>P-value:1.98e-32<br/>Zscore:4.77<br/>#EST:40<br/>Adj. #EST:12.34
+kidney	HMID:HM05925<br/>GeneSymbol:SLC5A12<br/>P-value:2.31e-39<br/>Zscore:4.75<br/>#EST:48<br/>Adj. #EST:12.31

@@ -1,0 +1,1 @@
+testis	HMID:HM05088<br/>GeneSymbol:LYZL1<br/>P-value:1.37e-11<br/>Zscore:6.4<br/>#EST:11<br/>Adj. #EST:12.07

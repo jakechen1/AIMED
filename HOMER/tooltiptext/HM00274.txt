@@ -1,0 +1,1 @@
+stomach	HMID:HM00274<br/>GeneSymbol:LLGL1<br/>P-value:0<br/>Zscore:6.62<br/>#EST:192<br/>Adj. #EST:24.29

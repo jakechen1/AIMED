@@ -1,0 +1,1 @@
+testis	HMID:HM02163<br/>GeneSymbol:POLR1B<br/>P-value:1.44e-30<br/>Zscore:4.58<br/>#EST:85<br/>Adj. #EST:4.21

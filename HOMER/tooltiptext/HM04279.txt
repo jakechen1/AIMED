@@ -1,0 +1,1 @@
+bone	HMID:HM04279<br/>GeneSymbol:C3AR1<br/>P-value:1.43e-14<br/>Zscore:4.33<br/>#EST:28<br/>Adj. #EST:6.32

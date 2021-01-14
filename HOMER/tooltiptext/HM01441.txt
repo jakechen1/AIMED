@@ -1,0 +1,1 @@
+lymph node	HMID:HM01441<br/>GeneSymbol:BACH2<br/>P-value:4.69e-47<br/>Zscore:6.75<br/>#EST:47<br/>Adj. #EST:20.49

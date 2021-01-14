@@ -1,0 +1,1 @@
+brain	HMID:HM00430<br/>GeneSymbol:PRKCG<br/>P-value:0<br/>Zscore:6.58<br/>#EST:233<br/>Adj. #EST:5.11

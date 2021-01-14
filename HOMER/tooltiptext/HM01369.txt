@@ -1,0 +1,1 @@
+lung	HMID:HM01369<br/>GeneSymbol:UBE2R2<br/>P-value:1.63e-49<br/>Zscore:4.53<br/>#EST:139<br/>Adj. #EST:4.36

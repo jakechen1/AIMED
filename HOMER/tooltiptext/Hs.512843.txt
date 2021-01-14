@@ -1,0 +1,1 @@
+lung	HMID:HM05892<br/>GeneSymbol:NAPSA<br/>P-value:1.15e-38<br/>Zscore:4.78<br/>#EST:79<br/>Adj. #EST:5.88

@@ -1,0 +1,1 @@
+pharynx	HMID:HM05497<br/>GeneSymbol:BIRC3<br/>P-value:4.07e-10<br/>Zscore:4.33<br/>#EST:15<br/>Adj. #EST:8.68

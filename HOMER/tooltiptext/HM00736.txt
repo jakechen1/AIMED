@@ -1,0 +1,1 @@
+uterus	HMID:HM00736<br/>GeneSymbol:ADAM33<br/>P-value:8.6e-93<br/>Zscore:5.43<br/>#EST:103<br/>Adj. #EST:13.9

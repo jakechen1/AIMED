@@ -1,0 +1,1 @@
+kidney	HMID:HM07625<br/>GeneSymbol:UMOD<br/>P-value:0<br/>Zscore:7.07<br/>#EST:2328<br/>Adj. #EST:29.67

@@ -1,0 +1,1 @@
+thymus	HMID:HM05174<br/>GeneSymbol:PRKD2<br/>P-value:3.01e-27<br/>Zscore:5.41<br/>#EST:46<br/>Adj. #EST:8.23

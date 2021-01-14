@@ -1,0 +1,1 @@
+adipose	HMID:HM01138<br/>GeneSymbol:TAGLN2<br/>P-value:4.33e-60<br/>Zscore:6.61<br/>#EST:64<br/>Adj. #EST:20.5

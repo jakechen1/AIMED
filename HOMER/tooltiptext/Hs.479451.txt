@@ -1,0 +1,1 @@
+stomach	HMID:HM06451<br/>GeneSymbol:ARAP2<br/>P-value:1.21e-56<br/>Zscore:4.96<br/>#EST:69<br/>Adj. #EST:13.04

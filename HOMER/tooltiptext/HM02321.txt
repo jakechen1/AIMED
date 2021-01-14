@@ -1,0 +1,2 @@
+lymph node	HMID:HM02321<br/>GeneSymbol:CYorf15B<br/>P-value:7.07e-18<br/>Zscore:4.67<br/>#EST:21<br/>Adj. #EST:13.61
+stomach	HMID:HM02321<br/>GeneSymbol:CYorf15B<br/>P-value:2.45e-28<br/>Zscore:4.48<br/>#EST:34<br/>Adj. #EST:13.1

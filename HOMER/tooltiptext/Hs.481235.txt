@@ -1,0 +1,1 @@
+testis	HMID:HM06637<br/>GeneSymbol:SPATA4<br/>P-value:9.75e-67<br/>Zscore:6.94<br/>#EST:66<br/>Adj. #EST:12.61

@@ -1,0 +1,1 @@
+eye	HMID:HM02622<br/>GeneSymbol:RDH12<br/>P-value:1.01e-24<br/>Zscore:6.26<br/>#EST:26<br/>Adj. #EST:14.79

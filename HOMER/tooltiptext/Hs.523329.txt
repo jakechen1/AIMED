@@ -1,0 +1,1 @@
+colon	HMID:HM03588<br/>GeneSymbol:EPHB2<br/>P-value:6.08e-17<br/>Zscore:4.05<br/>#EST:31<br/>Adj. #EST:6.68

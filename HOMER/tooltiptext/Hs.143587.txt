@@ -1,0 +1,1 @@
+lung	HMID:HM01942<br/>GeneSymbol:USP27X<br/>P-value:4.39e-12<br/>Zscore:4.97<br/>#EST:16<br/>Adj. #EST:8.73

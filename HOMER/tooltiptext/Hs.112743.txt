@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07265<br/>GeneSymbol:SYCP1<br/>P-value:7.36e-149<br/>Zscore:7.05<br/>#EST:99<br/>Adj. #EST:51.93

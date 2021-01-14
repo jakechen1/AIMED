@@ -1,0 +1,1 @@
+placenta	HMID:HM04622<br/>GeneSymbol:CCNE1<br/>P-value:1.85e-22<br/>Zscore:5.01<br/>#EST:32<br/>Adj. #EST:9.09

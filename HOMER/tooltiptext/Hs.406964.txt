@@ -1,0 +1,1 @@
+testis	HMID:HM02065<br/>GeneSymbol:DPY19L2P4<br/>P-value:2.01e-12<br/>Zscore:6.63<br/>#EST:14<br/>Adj. #EST:9.9

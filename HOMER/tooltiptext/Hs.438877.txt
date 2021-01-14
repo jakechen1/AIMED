@@ -1,0 +1,1 @@
+brain	HMID:HM06415<br/>GeneSymbol:NLGN3<br/>P-value:7.65e-55<br/>Zscore:6.36<br/>#EST:95<br/>Adj. #EST:4.91

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02376<br/>GeneSymbol:FCAR<br/>P-value:1.43e-27<br/>Zscore:6.94<br/>#EST:17<br/>Adj. #EST:59.46

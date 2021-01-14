@@ -1,0 +1,1 @@
+lymph node	HMID:HM05201<br/>GeneSymbol:FCRL3<br/>P-value:1.51e-27<br/>Zscore:6.17<br/>#EST:24<br/>Adj. #EST:25.98

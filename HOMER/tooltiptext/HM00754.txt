@@ -1,0 +1,1 @@
+mouth	HMID:HM00754<br/>GeneSymbol:SLC38A5<br/>P-value:2.18e-90<br/>Zscore:6.87<br/>#EST:75<br/>Adj. #EST:33.19

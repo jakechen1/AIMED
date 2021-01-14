@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03912<br/>GeneSymbol:MDH1<br/>P-value:4.5e-16<br/>Zscore:4.52<br/>#EST:32<br/>Adj. #EST:6.45

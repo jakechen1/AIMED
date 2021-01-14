@@ -1,0 +1,1 @@
+testis	HMID:HM02803<br/>GeneSymbol:DKKL1<br/>P-value:2.7e-23<br/>Zscore:6.4<br/>#EST:29<br/>Adj. #EST:9.4

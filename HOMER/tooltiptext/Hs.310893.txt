@@ -1,0 +1,1 @@
+stomach	HMID:HM00871<br/>GeneSymbol:CSDC2<br/>P-value:3.45e-09<br/>Zscore:4.64<br/>#EST:20<br/>Adj. #EST:5.05

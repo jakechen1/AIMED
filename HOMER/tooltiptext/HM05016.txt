@@ -1,0 +1,1 @@
+lymph node	HMID:HM05016<br/>GeneSymbol:TMEM48<br/>P-value:6.64e-12<br/>Zscore:4.93<br/>#EST:27<br/>Adj. #EST:5.21

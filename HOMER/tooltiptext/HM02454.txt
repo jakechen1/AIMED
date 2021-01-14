@@ -1,0 +1,1 @@
+lymph	HMID:HM02454<br/>GeneSymbol:ASNS<br/>P-value:1.19e-26<br/>Zscore:4.11<br/>#EST:50<br/>Adj. #EST:7.24

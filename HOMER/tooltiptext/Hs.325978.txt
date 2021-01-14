@@ -1,0 +1,1 @@
+amnion	HMID:HM00360<br/>GeneSymbol:NUMA1<br/>P-value:1.93e-07<br/>Zscore:5.09<br/>#EST:10<br/>Adj. #EST:9.36

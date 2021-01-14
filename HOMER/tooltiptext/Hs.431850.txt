@@ -1,0 +1,1 @@
+mouth	HMID:HM03669<br/>GeneSymbol:MAPK1<br/>P-value:2.42e-17<br/>Zscore:4.62<br/>#EST:48<br/>Adj. #EST:4.51

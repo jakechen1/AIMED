@@ -1,0 +1,1 @@
+trachea	HMID:HM05235<br/>GeneSymbol:VGLL4<br/>P-value:4.71e-11<br/>Zscore:4.94<br/>#EST:24<br/>Adj. #EST:5.45

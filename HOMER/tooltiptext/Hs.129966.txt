@@ -1,0 +1,1 @@
+nerve	HMID:HM04708<br/>GeneSymbol:CNTFR<br/>P-value:3.8e-23<br/>Zscore:6.46<br/>#EST:23<br/>Adj. #EST:19.9

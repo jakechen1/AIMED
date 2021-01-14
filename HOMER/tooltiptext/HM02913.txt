@@ -1,0 +1,1 @@
+breast	HMID:HM02913<br/>GeneSymbol:BMPR1B<br/>P-value:1.73e-22<br/>Zscore:4.51<br/>#EST:29<br/>Adj. #EST:11.16

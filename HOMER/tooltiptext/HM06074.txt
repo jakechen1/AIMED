@@ -1,0 +1,1 @@
+lymph node	HMID:HM06074<br/>GeneSymbol:DNASE1<br/>P-value:4.66e-08<br/>Zscore:4.19<br/>#EST:14<br/>Adj. #EST:6.5

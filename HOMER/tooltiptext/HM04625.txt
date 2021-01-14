@@ -1,0 +1,1 @@
+trachea	HMID:HM04625<br/>GeneSymbol:B3GNT5<br/>P-value:3.55e-13<br/>Zscore:5.42<br/>#EST:16<br/>Adj. #EST:12.57

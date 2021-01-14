@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05772<br/>GeneSymbol:GCM2<br/>P-value:3.92e-36<br/>Zscore:7.07<br/>#EST:14<br/>Adj. #EST:337.99

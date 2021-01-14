@@ -1,0 +1,1 @@
+mouth	HMID:HM05648<br/>GeneSymbol:SEC61A1<br/>P-value:5.47e-34<br/>Zscore:4.03<br/>#EST:101<br/>Adj. #EST:4.43

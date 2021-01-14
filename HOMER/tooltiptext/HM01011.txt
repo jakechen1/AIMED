@@ -1,0 +1,1 @@
+bladder	HMID:HM01011<br/>GeneSymbol:MMADHC<br/>P-value:8.2e-68<br/>Zscore:4.37<br/>#EST:89<br/>Adj. #EST:13.45

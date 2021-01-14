@@ -1,0 +1,1 @@
+lymph node	HMID:HM03570<br/>GeneSymbol:SNX29<br/>P-value:6.38e-18<br/>Zscore:4.54<br/>#EST:25<br/>Adj. #EST:10.27

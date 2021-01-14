@@ -1,0 +1,1 @@
+tonsil	HMID:HM03534<br/>GeneSymbol:FERMT3<br/>P-value:3.93e-18<br/>Zscore:6.15<br/>#EST:18<br/>Adj. #EST:20.58

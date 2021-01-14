@@ -1,0 +1,1 @@
+lymph	HMID:HM03792<br/>GeneSymbol:PLEK<br/>P-value:8.98e-17<br/>Zscore:4.06<br/>#EST:25<br/>Adj. #EST:9.44

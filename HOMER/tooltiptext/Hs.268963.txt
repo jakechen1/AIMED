@@ -1,0 +1,1 @@
+mouth	HMID:HM03762<br/>GeneSymbol:UBAP1<br/>P-value:9.01e-18<br/>Zscore:4.98<br/>#EST:41<br/>Adj. #EST:5.43

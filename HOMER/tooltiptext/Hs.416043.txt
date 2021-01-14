@@ -1,0 +1,1 @@
+breast	HMID:HM01539<br/>GeneSymbol:FLJ35024<br/>P-value:4.29e-11<br/>Zscore:6.14<br/>#EST:13<br/>Adj. #EST:11.64

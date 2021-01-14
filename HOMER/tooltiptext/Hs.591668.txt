@@ -1,0 +1,1 @@
+eye	HMID:HM00139<br/>GeneSymbol:LRTM1<br/>P-value:1.27e-06<br/>Zscore:5.39<br/>#EST:13<br/>Adj. #EST:5.15

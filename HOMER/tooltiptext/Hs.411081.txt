@@ -1,0 +1,1 @@
+thymus	HMID:HM06337<br/>GeneSymbol:FGD3<br/>P-value:1.81e-51<br/>Zscore:5.75<br/>#EST:56<br/>Adj. #EST:17.77

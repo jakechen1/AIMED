@@ -1,0 +1,1 @@
+placenta	HMID:HM04842<br/>GeneSymbol:TPRXL<br/>P-value:4.74e-24<br/>Zscore:4.48<br/>#EST:23<br/>Adj. #EST:16.24

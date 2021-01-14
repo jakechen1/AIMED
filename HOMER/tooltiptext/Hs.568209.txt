@@ -1,0 +1,1 @@
+stomach	HMID:HM07233<br/>GeneSymbol:LRRC37BP1<br/>P-value:5.01e-140<br/>Zscore:6.73<br/>#EST:146<br/>Adj. #EST:17.34

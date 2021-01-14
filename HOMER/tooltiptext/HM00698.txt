@@ -1,0 +1,1 @@
+eye	HMID:HM00698<br/>GeneSymbol:OPTC<br/>P-value:7.98e-97<br/>Zscore:7.07<br/>#EST:68<br/>Adj. #EST:28.18

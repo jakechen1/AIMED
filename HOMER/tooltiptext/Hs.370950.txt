@@ -1,0 +1,1 @@
+blood	HMID:HM04034<br/>GeneSymbol:CSRNP1<br/>P-value:5.1e-19<br/>Zscore:5.06<br/>#EST:33<br/>Adj. #EST:7.39

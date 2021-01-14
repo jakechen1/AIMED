@@ -1,0 +1,1 @@
+prostate	HMID:HM01001<br/>GeneSymbol:<br/>P-value:1.68e-68<br/>Zscore:7<br/>#EST:46<br/>Adj. #EST:33.16

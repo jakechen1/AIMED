@@ -1,0 +1,1 @@
+testis	HMID:HM00260<br/>GeneSymbol:SLC2A14<br/>P-value:0<br/>Zscore:7.01<br/>#EST:223<br/>Adj. #EST:12.78

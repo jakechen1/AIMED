@@ -1,0 +1,1 @@
+kidney	HMID:HM03770<br/>GeneSymbol:CYS1<br/>P-value:8.44e-18<br/>Zscore:6.14<br/>#EST:24<br/>Adj. #EST:9.86

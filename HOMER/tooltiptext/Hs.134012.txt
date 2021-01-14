@@ -1,0 +1,1 @@
+pancreas	HMID:HM05020<br/>GeneSymbol:C1QL1<br/>P-value:1.55e-25<br/>Zscore:6.37<br/>#EST:35<br/>Adj. #EST:10.01

@@ -1,0 +1,1 @@
+mouth	HMID:HM00438<br/>GeneSymbol:BAHCC1<br/>P-value:8.92e-08<br/>Zscore:5.32<br/>#EST:12<br/>Adj. #EST:7.57

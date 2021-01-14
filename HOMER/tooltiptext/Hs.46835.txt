@@ -1,0 +1,1 @@
+pancreas	HMID:HM07579<br/>GeneSymbol:IAPP<br/>P-value:0<br/>Zscore:7.07<br/>#EST:325<br/>Adj. #EST:28.28

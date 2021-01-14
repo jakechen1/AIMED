@@ -1,0 +1,1 @@
+testis	HMID:HM04917<br/>GeneSymbol:UBE2U<br/>P-value:1.15e-24<br/>Zscore:5.86<br/>#EST:27<br/>Adj. #EST:10.91

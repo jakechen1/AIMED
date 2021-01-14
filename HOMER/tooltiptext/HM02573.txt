@@ -1,0 +1,1 @@
+testis	HMID:HM02573<br/>GeneSymbol:RAD9B<br/>P-value:3.17e-25<br/>Zscore:6.89<br/>#EST:28<br/>Adj. #EST:10.79

@@ -1,0 +1,1 @@
+testis	HMID:HM05863<br/>GeneSymbol:EPHA10<br/>P-value:6.96e-09<br/>Zscore:4.64<br/>#EST:18<br/>Adj. #EST:4.94

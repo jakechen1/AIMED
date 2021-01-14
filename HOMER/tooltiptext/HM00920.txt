@@ -1,0 +1,1 @@
+trachea	HMID:HM00920<br/>GeneSymbol:CP<br/>P-value:1.74e-73<br/>Zscore:4.44<br/>#EST:87<br/>Adj. #EST:15.94

@@ -1,0 +1,1 @@
+trachea	HMID:HM05747<br/>GeneSymbol:MMGT1<br/>P-value:2.82e-09<br/>Zscore:5.17<br/>#EST:17<br/>Adj. #EST:6.4

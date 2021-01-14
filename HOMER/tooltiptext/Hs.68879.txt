@@ -1,0 +1,1 @@
+small intestine	HMID:HM00654<br/>GeneSymbol:BMP4<br/>P-value:1.75e-08<br/>Zscore:4.96<br/>#EST:12<br/>Adj. #EST:8.87

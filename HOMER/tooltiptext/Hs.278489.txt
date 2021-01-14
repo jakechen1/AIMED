@@ -1,0 +1,1 @@
+embryo	HMID:HM03984<br/>GeneSymbol:MATN4<br/>P-value:7.34e-19<br/>Zscore:5.63<br/>#EST:18<br/>Adj. #EST:16.45

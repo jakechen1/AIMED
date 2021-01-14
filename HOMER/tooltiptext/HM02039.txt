@@ -1,0 +1,1 @@
+testis	HMID:HM02039<br/>GeneSymbol:SPERT<br/>P-value:9.39e-33<br/>Zscore:7.07<br/>#EST:29<br/>Adj. #EST:13.79

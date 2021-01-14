@@ -1,0 +1,1 @@
+salivary gland	HMID:HM00429<br/>GeneSymbol:TXN2<br/>P-value:9.33e-08<br/>Zscore:5.46<br/>#EST:11<br/>Adj. #EST:8.7

@@ -1,0 +1,1 @@
+pharynx	HMID:HM06537<br/>GeneSymbol:CORO1C<br/>P-value:1.67e-60<br/>Zscore:6.63<br/>#EST:76<br/>Adj. #EST:14.34

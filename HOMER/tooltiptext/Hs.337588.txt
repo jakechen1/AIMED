@@ -1,0 +1,1 @@
+liver	HMID:HM04966<br/>GeneSymbol:LEAP2<br/>P-value:6.06e-25<br/>Zscore:6.03<br/>#EST:32<br/>Adj. #EST:10.45

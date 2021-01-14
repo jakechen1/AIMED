@@ -1,0 +1,1 @@
+testis	HMID:HM02134<br/>GeneSymbol:C12orf50<br/>P-value:4.38e-31<br/>Zscore:6.77<br/>#EST:31<br/>Adj. #EST:12.28

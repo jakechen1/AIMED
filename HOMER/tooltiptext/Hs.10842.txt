@@ -1,0 +1,1 @@
+tonsil	HMID:HM01454<br/>GeneSymbol:RAN<br/>P-value:6.64e-11<br/>Zscore:4.38<br/>#EST:29<br/>Adj. #EST:4.47

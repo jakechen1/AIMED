@@ -1,0 +1,1 @@
+lymph node	HMID:HM03888<br/>GeneSymbol:ITSN2<br/>P-value:3.41e-16<br/>Zscore:4.96<br/>#EST:29<br/>Adj. #EST:7.14

@@ -1,0 +1,1 @@
+pharynx	HMID:HM06420<br/>GeneSymbol:MAN1A2<br/>P-value:1.03e-06<br/>Zscore:4.17<br/>#EST:11<br/>Adj. #EST:6.76

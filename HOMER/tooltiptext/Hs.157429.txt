@@ -1,0 +1,1 @@
+brain	HMID:HM01451<br/>GeneSymbol:SOX3<br/>P-value:6.71e-11<br/>Zscore:6.71<br/>#EST:16<br/>Adj. #EST:5.14

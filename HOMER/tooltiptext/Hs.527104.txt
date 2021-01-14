@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02488<br/>GeneSymbol:C4orf22<br/>P-value:2.79e-13<br/>Zscore:6.53<br/>#EST:11<br/>Adj. #EST:25.52

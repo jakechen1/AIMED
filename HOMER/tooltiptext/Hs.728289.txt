@@ -1,0 +1,1 @@
+thyroid	HMID:HM03295<br/>GeneSymbol:LENG8<br/>P-value:5.84e-16<br/>Zscore:5.09<br/>#EST:24<br/>Adj. #EST:9.28

@@ -1,0 +1,1 @@
+breast	HMID:HM06733<br/>GeneSymbol:USP36<br/>P-value:1.57e-72<br/>Zscore:5.97<br/>#EST:114<br/>Adj. #EST:9.11

@@ -1,0 +1,1 @@
+leiomios	HMID:HM00884<br/>GeneSymbol:MCM6<br/>P-value:3.16e-09<br/>Zscore:6.48<br/>#EST:10<br/>Adj. #EST:14.6

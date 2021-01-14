@@ -1,0 +1,1 @@
+spleen	HMID:HM02900<br/>GeneSymbol:TUBB1<br/>P-value:1.29e-22<br/>Zscore:5.74<br/>#EST:24<br/>Adj. #EST:15.64

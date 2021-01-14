@@ -1,0 +1,1 @@
+embryo	HMID:HM01431<br/>GeneSymbol:PRTG<br/>P-value:2.35e-47<br/>Zscore:4.65<br/>#EST:58<br/>Adj. #EST:11.98

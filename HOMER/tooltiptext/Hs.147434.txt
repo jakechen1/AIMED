@@ -1,0 +1,1 @@
+thymus	HMID:HM06450<br/>GeneSymbol:TRAF3IP3<br/>P-value:1.44e-56<br/>Zscore:5.68<br/>#EST:64<br/>Adj. #EST:16.6

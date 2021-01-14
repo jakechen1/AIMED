@@ -1,0 +1,1 @@
+trachea	HMID:HM04546<br/>GeneSymbol:MFN1<br/>P-value:1.84e-13<br/>Zscore:5.87<br/>#EST:20<br/>Adj. #EST:9.14

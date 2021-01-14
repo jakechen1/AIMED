@@ -1,0 +1,1 @@
+esophagus	HMID:HM01581<br/>GeneSymbol:BSG<br/>P-value:7.16e-43<br/>Zscore:4.89<br/>#EST:80<br/>Adj. #EST:7.65

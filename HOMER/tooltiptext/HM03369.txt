@@ -1,0 +1,1 @@
+lymph	HMID:HM03369<br/>GeneSymbol:RBM38<br/>P-value:3.37e-19<br/>Zscore:4.07<br/>#EST:32<br/>Adj. #EST:8.19

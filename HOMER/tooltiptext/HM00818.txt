@@ -1,0 +1,1 @@
+placenta	HMID:HM00818<br/>GeneSymbol:GH2<br/>P-value:9e-84<br/>Zscore:5.61<br/>#EST:70<br/>Adj. #EST:20.27

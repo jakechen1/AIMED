@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05103<br/>GeneSymbol:SNCA<br/>P-value:1.81e-26<br/>Zscore:5.52<br/>#EST:41<br/>Adj. #EST:9.23

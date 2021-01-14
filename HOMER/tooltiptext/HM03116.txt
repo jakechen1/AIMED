@@ -1,0 +1,1 @@
+trachea	HMID:HM03116<br/>GeneSymbol:RBM8A<br/>P-value:6.15e-21<br/>Zscore:4.6<br/>#EST:44<br/>Adj. #EST:6.16

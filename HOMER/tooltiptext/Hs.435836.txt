@@ -1,0 +1,1 @@
+testis	HMID:HM06804<br/>GeneSymbol:SLC26A8<br/>P-value:1.39e-77<br/>Zscore:6.38<br/>#EST:84<br/>Adj. #EST:11.53

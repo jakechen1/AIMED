@@ -1,0 +1,1 @@
+eye	HMID:HM02537<br/>GeneSymbol:PPP1R3F<br/>P-value:1.21e-25<br/>Zscore:6.18<br/>#EST:38<br/>Adj. #EST:8.96

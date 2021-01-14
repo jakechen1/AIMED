@@ -1,0 +1,1 @@
+testis	HMID:HM04156<br/>GeneSymbol:SPACA3<br/>P-value:4.92e-15<br/>Zscore:6.59<br/>#EST:16<br/>Adj. #EST:10.87

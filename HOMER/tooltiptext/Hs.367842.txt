@@ -1,0 +1,1 @@
+bladder	HMID:HM00044<br/>GeneSymbol:MKI67IP<br/>P-value:5.03e-06<br/>Zscore:4.48<br/>#EST:11<br/>Adj. #EST:5.75

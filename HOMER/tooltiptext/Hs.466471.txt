@@ -1,0 +1,1 @@
+esophagus	HMID:HM06778<br/>GeneSymbol:GPI<br/>P-value:9.77e-76<br/>Zscore:6.05<br/>#EST:119<br/>Adj. #EST:10.08

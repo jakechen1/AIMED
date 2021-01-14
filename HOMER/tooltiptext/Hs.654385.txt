@@ -1,0 +1,1 @@
+placenta	HMID:HM07147<br/>GeneSymbol:HSD17B1<br/>P-value:2.22e-118<br/>Zscore:7<br/>#EST:112<br/>Adj. #EST:17.74

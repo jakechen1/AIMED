@@ -1,0 +1,1 @@
+lymph node	HMID:HM05783<br/>GeneSymbol:TCL6<br/>P-value:3.82e-09<br/>Zscore:4.06<br/>#EST:11<br/>Adj. #EST:11.3

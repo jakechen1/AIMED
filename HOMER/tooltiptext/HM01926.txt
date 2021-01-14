@@ -1,0 +1,1 @@
+placenta	HMID:HM01926<br/>GeneSymbol:MAN1C1<br/>P-value:1.49e-34<br/>Zscore:4.8<br/>#EST:61<br/>Adj. #EST:7.12

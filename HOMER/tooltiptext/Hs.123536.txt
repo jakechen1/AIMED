@@ -1,0 +1,1 @@
+skin	HMID:HM06038<br/>GeneSymbol:MAGEC2<br/>P-value:5.51e-42<br/>Zscore:5.17<br/>#EST:47<br/>Adj. #EST:13.69

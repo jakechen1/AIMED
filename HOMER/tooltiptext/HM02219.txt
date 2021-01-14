@@ -1,0 +1,1 @@
+lymph node	HMID:HM02219<br/>GeneSymbol:CYBB<br/>P-value:8.87e-30<br/>Zscore:4.37<br/>#EST:38<br/>Adj. #EST:12.59

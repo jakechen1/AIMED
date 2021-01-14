@@ -1,0 +1,2 @@
+lymph node	HMID:HM02702<br/>GeneSymbol:FGFBP1<br/>P-value:7.37e-16<br/>Zscore:4.54<br/>#EST:19<br/>Adj. #EST:12.89
+stomach	HMID:HM02702<br/>GeneSymbol:FGFBP1<br/>P-value:4.71e-24<br/>Zscore:4.24<br/>#EST:30<br/>Adj. #EST:12.1

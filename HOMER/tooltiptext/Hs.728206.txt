@@ -1,0 +1,1 @@
+thymus	HMID:HM04855<br/>GeneSymbol:MOBKL2A<br/>P-value:3.86e-24<br/>Zscore:5.23<br/>#EST:35<br/>Adj. #EST:10.14

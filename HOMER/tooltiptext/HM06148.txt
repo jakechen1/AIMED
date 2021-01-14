@@ -1,0 +1,1 @@
+breast	HMID:HM06148<br/>GeneSymbol:HIST1H4H<br/>P-value:7.51e-08<br/>Zscore:4.38<br/>#EST:13<br/>Adj. #EST:6.6

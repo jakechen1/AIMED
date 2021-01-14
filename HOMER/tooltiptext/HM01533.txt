@@ -1,0 +1,1 @@
+leiomios	HMID:HM01533<br/>GeneSymbol:FAM107B<br/>P-value:3.02e-44<br/>Zscore:7.01<br/>#EST:33<br/>Adj. #EST:49.95

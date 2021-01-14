@@ -1,0 +1,1 @@
+lymph node	HMID:HM01172<br/>GeneSymbol:MYBL1<br/>P-value:1.32e-58<br/>Zscore:6.49<br/>#EST:47<br/>Adj. #EST:32.82

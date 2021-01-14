@@ -1,0 +1,1 @@
+thymus	HMID:HM06102<br/>GeneSymbol:ITGAL<br/>P-value:1.27e-43<br/>Zscore:5.16<br/>#EST:47<br/>Adj. #EST:17.89

@@ -1,0 +1,1 @@
+ear	HMID:HM05575<br/>GeneSymbol:NEFL<br/>P-value:7.04e-10<br/>Zscore:4.68<br/>#EST:20<br/>Adj. #EST:5.84

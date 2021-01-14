@@ -1,0 +1,1 @@
+thyroid	HMID:HM04902<br/>GeneSymbol:IL27RA<br/>P-value:1.44e-24<br/>Zscore:6.25<br/>#EST:19<br/>Adj. #EST:37.05

@@ -1,0 +1,1 @@
+ganglia	HMID:HM00942<br/>GeneSymbol:CNN3<br/>P-value:2.12e-09<br/>Zscore:5.05<br/>#EST:11<br/>Adj. #EST:12.73

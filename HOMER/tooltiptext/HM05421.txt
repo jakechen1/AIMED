@@ -1,0 +1,1 @@
+testis	HMID:HM05421<br/>GeneSymbol:ANKRD30BL<br/>P-value:2.1e-10<br/>Zscore:7<br/>#EST:11<br/>Adj. #EST:10.46

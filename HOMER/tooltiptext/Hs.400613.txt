@@ -1,0 +1,1 @@
+brain	HMID:HM06674<br/>GeneSymbol:CNDP1<br/>P-value:3.76e-69<br/>Zscore:4.62<br/>#EST:147<br/>Adj. #EST:4.29

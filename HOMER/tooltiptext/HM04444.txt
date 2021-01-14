@@ -1,0 +1,1 @@
+larynx	HMID:HM04444<br/>GeneSymbol:AHSA1<br/>P-value:7.21e-14<br/>Zscore:5.39<br/>#EST:23<br/>Adj. #EST:7.97

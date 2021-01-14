@@ -1,0 +1,1 @@
+lymph node	HMID:HM03399<br/>GeneSymbol:SAMD1<br/>P-value:4.72e-16<br/>Zscore:4.9<br/>#EST:24<br/>Adj. #EST:9.13

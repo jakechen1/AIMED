@@ -1,0 +1,1 @@
+spleen	HMID:HM01485<br/>GeneSymbol:MMACHC<br/>P-value:6.37e-11<br/>Zscore:4.26<br/>#EST:22<br/>Adj. #EST:5.35

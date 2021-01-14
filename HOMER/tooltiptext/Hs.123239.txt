@@ -1,0 +1,1 @@
+testis	HMID:HM07324<br/>GeneSymbol:ACRBP<br/>P-value:4.46e-169<br/>Zscore:6.97<br/>#EST:217<br/>Adj. #EST:9.68

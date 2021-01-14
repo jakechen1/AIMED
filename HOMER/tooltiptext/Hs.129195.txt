@@ -1,0 +1,1 @@
+lymph node	HMID:HM05910<br/>GeneSymbol:FAM53B<br/>P-value:4.88e-39<br/>Zscore:6.23<br/>#EST:54<br/>Adj. #EST:11.33

@@ -1,0 +1,1 @@
+bladder	HMID:HM03879<br/>GeneSymbol:ANAPC13<br/>P-value:2.93e-18<br/>Zscore:4.44<br/>#EST:27<br/>Adj. #EST:9.82

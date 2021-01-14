@@ -1,0 +1,1 @@
+muscle	HMID:HM05101<br/>GeneSymbol:INHBE<br/>P-value:2.18e-26<br/>Zscore:6.59<br/>#EST:24<br/>Adj. #EST:22.73

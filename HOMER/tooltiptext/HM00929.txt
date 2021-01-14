@@ -1,0 +1,2 @@
+lung	HMID:HM00929<br/>GeneSymbol:CFC1B<br/>P-value:5.49e-73<br/>Zscore:4.77<br/>#EST:101<br/>Adj. #EST:9.36
+pancreas	HMID:HM00929<br/>GeneSymbol:CFC1B<br/>P-value:4.62e-45<br/>Zscore:5.06<br/>#EST:64<br/>Adj. #EST:9.9

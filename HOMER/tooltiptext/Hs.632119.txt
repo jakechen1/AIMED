@@ -1,0 +1,2 @@
+prostate	HMID:HM00385<br/>GeneSymbol:CHRM1<br/>P-value:1.57e-07<br/>Zscore:4.5<br/>#EST:19<br/>Adj. #EST:4.22
+brain	HMID:HM06773<br/>GeneSymbol:CHRM1<br/>P-value:2.79e-75<br/>Zscore:5.15<br/>#EST:136<br/>Adj. #EST:4.8

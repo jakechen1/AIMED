@@ -1,0 +1,1 @@
+thymus	HMID:HM05459<br/>GeneSymbol:ZC4H2<br/>P-value:2.97e-10<br/>Zscore:4.6<br/>#EST:22<br/>Adj. #EST:5.4

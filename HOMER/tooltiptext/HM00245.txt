@@ -1,0 +1,1 @@
+prostate	HMID:HM00245<br/>GeneSymbol:LHPP<br/>P-value:0<br/>Zscore:6.77<br/>#EST:229<br/>Adj. #EST:19.23

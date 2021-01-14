@@ -1,0 +1,2 @@
+stomach	HMID:HM00936<br/>GeneSymbol:SLC22A13<br/>P-value:2.19e-09<br/>Zscore:4.41<br/>#EST:10<br/>Adj. #EST:12.9
+kidney	HMID:HM02701<br/>GeneSymbol:SLC22A13<br/>P-value:5.35e-14<br/>Zscore:5.17<br/>#EST:14<br/>Adj. #EST:15

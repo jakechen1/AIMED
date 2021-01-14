@@ -1,0 +1,2 @@
+eye	HMID:HM00011<br/>GeneSymbol:LOC157627<br/>P-value:8.98e-06<br/>Zscore:4.33<br/>#EST:14<br/>Adj. #EST:4.07
+brain	HMID:HM05889<br/>GeneSymbol:LOC157627<br/>P-value:1.28e-38<br/>Zscore:4.64<br/>#EST:79<br/>Adj. #EST:4.35

@@ -1,0 +1,1 @@
+tonsil	HMID:HM02129<br/>GeneSymbol:HLA-DPA1<br/>P-value:3.45e-31<br/>Zscore:5.46<br/>#EST:37<br/>Adj. #EST:15.49

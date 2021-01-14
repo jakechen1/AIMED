@@ -1,0 +1,1 @@
+brain	HMID:HM06535<br/>GeneSymbol:SORCS3<br/>P-value:5.26e-06<br/>Zscore:4.6<br/>#EST:10<br/>Adj. #EST:4.33

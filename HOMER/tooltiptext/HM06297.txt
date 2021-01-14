@@ -1,0 +1,1 @@
+lymph	HMID:HM06297<br/>GeneSymbol:SUV39H1<br/>P-value:3.18e-07<br/>Zscore:4.9<br/>#EST:12<br/>Adj. #EST:6.77

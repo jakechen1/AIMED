@@ -1,0 +1,1 @@
+liver	HMID:HM07354<br/>GeneSymbol:CYP2E1<br/>P-value:5.36e-184<br/>Zscore:6.89<br/>#EST:174<br/>Adj. #EST:17.39

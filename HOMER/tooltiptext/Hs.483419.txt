@@ -1,0 +1,1 @@
+larynx	HMID:HM04541<br/>GeneSymbol:PHF15<br/>P-value:5.9e-22<br/>Zscore:6.67<br/>#EST:21<br/>Adj. #EST:22.91

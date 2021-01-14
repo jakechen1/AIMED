@@ -1,0 +1,2 @@
+bladder	HMID:HM03285<br/>GeneSymbol:HPGD<br/>P-value:6.22e-16<br/>Zscore:4.58<br/>#EST:22<br/>Adj. #EST:10.71
+placenta	HMID:HM07237<br/>GeneSymbol:HPGD<br/>P-value:9.78e-141<br/>Zscore:4.32<br/>#EST:197<br/>Adj. #EST:10.16

@@ -1,0 +1,1 @@
+lymph	HMID:HM03737<br/>GeneSymbol:HCFC1<br/>P-value:1.19e-17<br/>Zscore:5.87<br/>#EST:26<br/>Adj. #EST:9.69

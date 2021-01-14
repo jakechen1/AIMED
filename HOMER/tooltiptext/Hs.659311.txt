@@ -1,0 +1,1 @@
+trachea	HMID:HM01511<br/>GeneSymbol:CBR4<br/>P-value:5.05e-11<br/>Zscore:5.55<br/>#EST:15<br/>Adj. #EST:10.03

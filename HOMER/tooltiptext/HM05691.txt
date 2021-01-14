@@ -1,0 +1,1 @@
+colon	HMID:HM05691<br/>GeneSymbol:PLEKHG6<br/>P-value:1.93e-09<br/>Zscore:4.14<br/>#EST:12<br/>Adj. #EST:9.76

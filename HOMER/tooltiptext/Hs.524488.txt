@@ -1,0 +1,1 @@
+thymus	HMID:HM07596<br/>GeneSymbol:DGKA<br/>P-value:0<br/>Zscore:6.91<br/>#EST:275<br/>Adj. #EST:33.53

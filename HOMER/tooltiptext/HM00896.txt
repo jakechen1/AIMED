@@ -1,0 +1,1 @@
+prostate	HMID:HM00896<br/>GeneSymbol:POC5<br/>P-value:2.75e-75<br/>Zscore:6.08<br/>#EST:93<br/>Adj. #EST:12.82

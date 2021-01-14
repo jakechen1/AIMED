@@ -1,0 +1,1 @@
+breast	HMID:HM02729<br/>GeneSymbol:TTF2<br/>P-value:7.17e-24<br/>Zscore:5.67<br/>#EST:40<br/>Adj. #EST:7.78

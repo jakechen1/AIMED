@@ -1,0 +1,1 @@
+testis	HMID:HM03965<br/>GeneSymbol:MGAT4C<br/>P-value:7.99e-16<br/>Zscore:5.54<br/>#EST:26<br/>Adj. #EST:6.62

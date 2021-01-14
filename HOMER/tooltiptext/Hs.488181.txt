@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM00508<br/>GeneSymbol:OGDH<br/>P-value:5.16e-08<br/>Zscore:4.6<br/>#EST:16<br/>Adj. #EST:5.66

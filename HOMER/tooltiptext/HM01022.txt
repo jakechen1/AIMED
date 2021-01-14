@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01022<br/>GeneSymbol:PLSCR2<br/>P-value:1.9e-67<br/>Zscore:6.99<br/>#EST:42<br/>Adj. #EST:56.53

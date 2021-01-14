@@ -1,0 +1,1 @@
+muscle	HMID:HM02912<br/>GeneSymbol:TUBA8<br/>P-value:1.71e-22<br/>Zscore:6.71<br/>#EST:25<br/>Adj. #EST:15.14

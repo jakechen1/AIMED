@@ -1,0 +1,1 @@
+testis	HMID:HM02531<br/>GeneSymbol:DEFB119<br/>P-value:1.06e-25<br/>Zscore:6.43<br/>#EST:29<br/>Adj. #EST:10.61

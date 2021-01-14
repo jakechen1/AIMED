@@ -1,0 +1,1 @@
+stomach	HMID:HM07319<br/>GeneSymbol:GADD45B<br/>P-value:1.39e-167<br/>Zscore:4.88<br/>#EST:228<br/>Adj. #EST:11.37

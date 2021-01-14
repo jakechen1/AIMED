@@ -1,0 +1,1 @@
+pharynx	HMID:HM00209<br/>GeneSymbol:PTPRK<br/>P-value:6.2e-07<br/>Zscore:5.11<br/>#EST:11<br/>Adj. #EST:7.12

@@ -1,0 +1,1 @@
+prostate	HMID:HM04406<br/>GeneSymbol:ERI2<br/>P-value:4.6e-14<br/>Zscore:4.72<br/>#EST:25<br/>Adj. #EST:6.76

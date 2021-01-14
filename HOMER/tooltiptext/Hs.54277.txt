@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02831<br/>GeneSymbol:FAM50A<br/>P-value:1.77e-14<br/>Zscore:5.38<br/>#EST:26<br/>Adj. #EST:7.07

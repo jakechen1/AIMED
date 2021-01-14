@@ -1,0 +1,1 @@
+trachea	HMID:HM01885<br/>GeneSymbol:ENPP3<br/>P-value:5.45e-12<br/>Zscore:6.07<br/>#EST:12<br/>Adj. #EST:17.65

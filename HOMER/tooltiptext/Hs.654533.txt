@@ -1,0 +1,1 @@
+spleen	HMID:HM00201<br/>GeneSymbol:ZFP2<br/>P-value:6.57e-07<br/>Zscore:5.61<br/>#EST:12<br/>Adj. #EST:5.69

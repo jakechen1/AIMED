@@ -1,0 +1,1 @@
+lymph node	HMID:HM04186<br/>GeneSymbol:BANK1<br/>P-value:6.37e-20<br/>Zscore:5.92<br/>#EST:21<br/>Adj. #EST:16.93

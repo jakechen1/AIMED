@@ -1,0 +1,1 @@
+larynx	HMID:HM03841<br/>GeneSymbol:IGLJ3<br/>P-value:2.01e-16<br/>Zscore:4.79<br/>#EST:18<br/>Adj. #EST:16.3

@@ -1,0 +1,1 @@
+adipose	HMID:HM06642<br/>GeneSymbol:ADH1B<br/>P-value:4.95e-67<br/>Zscore:6.19<br/>#EST:59<br/>Adj. #EST:32.33

@@ -1,0 +1,1 @@
+spleen	HMID:HM04244<br/>GeneSymbol:TSPAN32<br/>P-value:1.17e-14<br/>Zscore:4.73<br/>#EST:18<br/>Adj. #EST:11.55

@@ -1,0 +1,1 @@
+eye	HMID:HM02778<br/>GeneSymbol:CRABP1<br/>P-value:1.65e-23<br/>Zscore:4.63<br/>#EST:33<br/>Adj. #EST:9.57

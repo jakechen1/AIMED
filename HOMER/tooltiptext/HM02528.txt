@@ -1,0 +1,1 @@
+pancreas	HMID:HM02528<br/>GeneSymbol:ATAD3C<br/>P-value:8.76e-26<br/>Zscore:6.84<br/>#EST:24<br/>Adj. #EST:18.09

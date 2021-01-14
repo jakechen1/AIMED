@@ -1,0 +1,1 @@
+blood	HMID:HM03789<br/>GeneSymbol:CD300LB<br/>P-value:8.79e-17<br/>Zscore:6.94<br/>#EST:13<br/>Adj. #EST:26.88

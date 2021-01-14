@@ -1,0 +1,1 @@
+stomach	HMID:HM01811<br/>GeneSymbol:ACY3<br/>P-value:9.68e-12<br/>Zscore:4.86<br/>#EST:16<br/>Adj. #EST:9.32

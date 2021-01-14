@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05974<br/>GeneSymbol:GALNT13<br/>P-value:1.87e-08<br/>Zscore:4.15<br/>#EST:10<br/>Adj. #EST:11.36

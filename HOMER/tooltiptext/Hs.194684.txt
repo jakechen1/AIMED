@@ -1,0 +1,1 @@
+brain	HMID:HM06198<br/>GeneSymbol:BSN<br/>P-value:3.5e-46<br/>Zscore:4.26<br/>#EST:107<br/>Adj. #EST:4.02

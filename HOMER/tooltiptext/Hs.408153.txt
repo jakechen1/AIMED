@@ -1,0 +1,1 @@
+larynx	HMID:HM07479<br/>GeneSymbol:PRR4<br/>P-value:2.76e-287<br/>Zscore:6.2<br/>#EST:206<br/>Adj. #EST:57.68

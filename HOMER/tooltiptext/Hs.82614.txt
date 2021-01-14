@@ -1,0 +1,1 @@
+liver	HMID:HM05955<br/>GeneSymbol:GYS2<br/>P-value:4.59e-40<br/>Zscore:5.99<br/>#EST:45<br/>Adj. #EST:13.04

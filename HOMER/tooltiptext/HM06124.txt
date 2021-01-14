@@ -1,0 +1,1 @@
+skin	HMID:HM06124<br/>GeneSymbol:ZNF628<br/>P-value:6.63e-08<br/>Zscore:4.92<br/>#EST:12<br/>Adj. #EST:7.1

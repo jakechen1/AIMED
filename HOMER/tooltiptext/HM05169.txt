@@ -1,0 +1,1 @@
+colon	HMID:HM05169<br/>GeneSymbol:NFE2L3<br/>P-value:2.72e-11<br/>Zscore:4.41<br/>#EST:22<br/>Adj. #EST:5.87

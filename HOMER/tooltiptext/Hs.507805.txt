@@ -1,0 +1,1 @@
+trachea	HMID:HM02821<br/>GeneSymbol:COG6<br/>P-value:1.85e-14<br/>Zscore:5.98<br/>#EST:20<br/>Adj. #EST:10.34

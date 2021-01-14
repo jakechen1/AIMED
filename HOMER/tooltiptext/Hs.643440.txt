@@ -1,0 +1,1 @@
+brain	HMID:HM07694<br/>GeneSymbol:MAG<br/>P-value:0<br/>Zscore:6.59<br/>#EST:1106<br/>Adj. #EST:5.19

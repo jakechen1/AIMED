@@ -1,0 +1,1 @@
+trachea	HMID:HM07079<br/>GeneSymbol:EIF4G2<br/>P-value:6.59e-107<br/>Zscore:5.24<br/>#EST:245<br/>Adj. #EST:6.05

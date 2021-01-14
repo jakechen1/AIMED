@@ -1,0 +1,1 @@
+liver	HMID:HM01174<br/>GeneSymbol:CYP3A5<br/>P-value:1.37e-58<br/>Zscore:4.76<br/>#EST:90<br/>Adj. #EST:8.58

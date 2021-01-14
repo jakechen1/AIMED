@@ -1,0 +1,1 @@
+trachea	HMID:HM01159<br/>GeneSymbol:HIF1A<br/>P-value:3.52e-59<br/>Zscore:5.57<br/>#EST:105<br/>Adj. #EST:8.2

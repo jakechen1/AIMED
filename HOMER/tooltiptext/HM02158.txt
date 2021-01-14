@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02158<br/>GeneSymbol:SUGT1<br/>P-value:1.13e-30<br/>Zscore:4.71<br/>#EST:43<br/>Adj. #EST:10.85

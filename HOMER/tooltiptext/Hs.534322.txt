@@ -1,0 +1,1 @@
+tonsil	HMID:HM06060<br/>GeneSymbol:HLA-DRB1<br/>P-value:1.96e-42<br/>Zscore:6.55<br/>#EST:40<br/>Adj. #EST:26.11

@@ -1,0 +1,1 @@
+testis	HMID:HM07395<br/>GeneSymbol:IFT122<br/>P-value:1.92e-208<br/>Zscore:4.78<br/>#EST:376<br/>Adj. #EST:6.65

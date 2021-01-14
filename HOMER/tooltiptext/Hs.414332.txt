@@ -1,0 +1,1 @@
+leiomios	HMID:HM04608<br/>GeneSymbol:OAS2<br/>P-value:2.27e-22<br/>Zscore:6.99<br/>#EST:15<br/>Adj. #EST:62.07

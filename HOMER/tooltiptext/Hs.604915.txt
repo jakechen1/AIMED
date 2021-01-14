@@ -1,0 +1,1 @@
+esophagus	HMID:HM00305<br/>GeneSymbol:DST<br/>P-value:2.91e-07<br/>Zscore:4.41<br/>#EST:14<br/>Adj. #EST:5.74

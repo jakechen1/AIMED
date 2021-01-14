@@ -1,0 +1,1 @@
+mouth	HMID:HM05080<br/>GeneSymbol:ARHGAP26<br/>P-value:1.31e-11<br/>Zscore:5.26<br/>#EST:21<br/>Adj. #EST:6.76

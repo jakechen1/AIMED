@@ -1,0 +1,1 @@
+ovary	HMID:HM00096<br/>GeneSymbol:BICD1<br/>P-value:2.18e-06<br/>Zscore:4.17<br/>#EST:14<br/>Adj. #EST:4.73

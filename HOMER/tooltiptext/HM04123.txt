@@ -1,0 +1,1 @@
+colon	HMID:HM04123<br/>GeneSymbol:GOLIM4<br/>P-value:3.35e-15<br/>Zscore:5.05<br/>#EST:27<br/>Adj. #EST:6.83

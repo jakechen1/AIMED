@@ -1,0 +1,1 @@
+eye	HMID:HM06183<br/>GeneSymbol:SRRM3<br/>P-value:1.09e-07<br/>Zscore:4.57<br/>#EST:15<br/>Adj. #EST:5.37

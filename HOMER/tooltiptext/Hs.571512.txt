@@ -1,0 +1,1 @@
+brain	HMID:HM07362<br/>GeneSymbol:PMP2<br/>P-value:4.72e-189<br/>Zscore:4.98<br/>#EST:312<br/>Adj. #EST:5.13

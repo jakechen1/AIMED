@@ -1,0 +1,1 @@
+lymph	HMID:HM05634<br/>GeneSymbol:TNFRSF6B<br/>P-value:1.12e-09<br/>Zscore:4.35<br/>#EST:15<br/>Adj. #EST:8.02

@@ -1,0 +1,1 @@
+brain	HMID:HM06745<br/>GeneSymbol:LGI1<br/>P-value:2.49e-73<br/>Zscore:4.18<br/>#EST:137<br/>Adj. #EST:4.69

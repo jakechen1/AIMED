@@ -1,0 +1,1 @@
+bladder	HMID:HM00667<br/>GeneSymbol:GP2<br/>P-value:0<br/>Zscore:6.96<br/>#EST:199<br/>Adj. #EST:82.04

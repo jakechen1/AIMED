@@ -1,0 +1,1 @@
+placenta	HMID:HM01398<br/>GeneSymbol:CD300LG<br/>P-value:1.09e-10<br/>Zscore:6.02<br/>#EST:12<br/>Adj. #EST:11.4

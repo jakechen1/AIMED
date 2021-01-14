@@ -1,0 +1,1 @@
+lymph	HMID:HM04582<br/>GeneSymbol:FCRLA<br/>P-value:3.41e-22<br/>Zscore:5.65<br/>#EST:24<br/>Adj. #EST:17.12

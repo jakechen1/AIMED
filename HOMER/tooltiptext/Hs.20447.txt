@@ -1,0 +1,1 @@
+prostate	HMID:HM06273<br/>GeneSymbol:PAK4<br/>P-value:7.91e-49<br/>Zscore:5.73<br/>#EST:97<br/>Adj. #EST:6.61

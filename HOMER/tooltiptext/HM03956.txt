@@ -1,0 +1,1 @@
+testis	HMID:HM03956<br/>GeneSymbol:NBPF3<br/>P-value:7.26e-16<br/>Zscore:4.06<br/>#EST:36<br/>Adj. #EST:4.8

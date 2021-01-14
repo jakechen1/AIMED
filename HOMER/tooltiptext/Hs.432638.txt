@@ -1,0 +1,1 @@
+embryo	HMID:HM02947<br/>GeneSymbol:SOX11<br/>P-value:9.2e-15<br/>Zscore:6.05<br/>#EST:27<br/>Adj. #EST:6.43

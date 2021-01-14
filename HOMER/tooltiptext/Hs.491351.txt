@@ -1,0 +1,1 @@
+amnion	HMID:HM00032<br/>GeneSymbol:CLTC<br/>P-value:6.02e-06<br/>Zscore:5.46<br/>#EST:11<br/>Adj. #EST:5.67

@@ -1,0 +1,1 @@
+mouth	HMID:HM06421<br/>GeneSymbol:NFU1<br/>P-value:1.05e-06<br/>Zscore:4.75<br/>#EST:12<br/>Adj. #EST:6.01

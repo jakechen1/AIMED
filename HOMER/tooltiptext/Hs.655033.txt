@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05720<br/>GeneSymbol:PLCE1<br/>P-value:4.16e-35<br/>Zscore:6.69<br/>#EST:36<br/>Adj. #EST:19.14

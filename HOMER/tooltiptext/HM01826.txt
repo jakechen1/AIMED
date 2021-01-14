@@ -1,0 +1,1 @@
+amnion	HMID:HM01826<br/>GeneSymbol:PFN1<br/>P-value:8.71e-37<br/>Zscore:6.71<br/>#EST:39<br/>Adj. #EST:20.04

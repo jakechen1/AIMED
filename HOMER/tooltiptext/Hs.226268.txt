@@ -1,0 +1,1 @@
+larynx	HMID:HM06146<br/>GeneSymbol:C6orf58<br/>P-value:6.51e-45<br/>Zscore:6.77<br/>#EST:24<br/>Adj. #EST:128.88

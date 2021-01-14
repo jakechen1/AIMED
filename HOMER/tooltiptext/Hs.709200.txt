@@ -1,0 +1,1 @@
+placenta	HMID:HM07645<br/>GeneSymbol:PSG2<br/>P-value:0<br/>Zscore:7.05<br/>#EST:409<br/>Adj. #EST:21.97

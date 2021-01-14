@@ -1,0 +1,1 @@
+trachea	HMID:HM02253<br/>GeneSymbol:ELF1<br/>P-value:2.94e-29<br/>Zscore:5.03<br/>#EST:42<br/>Adj. #EST:10.71

@@ -1,0 +1,1 @@
+testis	HMID:HM03867<br/>GeneSymbol:TEX14<br/>P-value:3.2e-18<br/>Zscore:6.45<br/>#EST:23<br/>Adj. #EST:9.03

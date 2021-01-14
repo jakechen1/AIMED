@@ -1,0 +1,1 @@
+lymph	HMID:HM05601<br/>GeneSymbol:MTFP1<br/>P-value:8.29e-10<br/>Zscore:4.32<br/>#EST:15<br/>Adj. #EST:8.2

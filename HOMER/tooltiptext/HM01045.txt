@@ -1,0 +1,1 @@
+lymph	HMID:HM01045<br/>GeneSymbol:HCLS1<br/>P-value:1.03e-65<br/>Zscore:5.8<br/>#EST:75<br/>Adj. #EST:16.99

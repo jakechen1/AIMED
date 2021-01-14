@@ -1,0 +1,1 @@
+mouth	HMID:HM05516<br/>GeneSymbol:EDARADD<br/>P-value:4.82e-10<br/>Zscore:4.02<br/>#EST:14<br/>Adj. #EST:9.36

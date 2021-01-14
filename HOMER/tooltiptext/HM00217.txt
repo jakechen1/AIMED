@@ -1,0 +1,1 @@
+lung	HMID:HM00217<br/>GeneSymbol:SFTPB<br/>P-value:0<br/>Zscore:6.76<br/>#EST:251<br/>Adj. #EST:15.51

@@ -1,0 +1,1 @@
+larynx	HMID:HM00355<br/>GeneSymbol:CFLAR<br/>P-value:2.02e-07<br/>Zscore:4.19<br/>#EST:14<br/>Adj. #EST:5.9

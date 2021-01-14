@@ -1,0 +1,1 @@
+eye	HMID:HM05603<br/>GeneSymbol:ANO2<br/>P-value:3.59e-33<br/>Zscore:6.9<br/>#EST:33<br/>Adj. #EST:16.8

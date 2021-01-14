@@ -1,0 +1,1 @@
+bladder	HMID:HM05294<br/>GeneSymbol:CCDC7<br/>P-value:7.39e-11<br/>Zscore:5.48<br/>#EST:11<br/>Adj. #EST:17.15

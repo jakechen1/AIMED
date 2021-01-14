@@ -1,0 +1,1 @@
+ovary	HMID:HM07308<br/>GeneSymbol:FCGRT<br/>P-value:1.76e-164<br/>Zscore:5.5<br/>#EST:230<br/>Adj. #EST:11.71

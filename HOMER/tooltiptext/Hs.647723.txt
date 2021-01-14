@@ -1,0 +1,1 @@
+bone	HMID:HM07370<br/>GeneSymbol:PRG4<br/>P-value:3.61e-193<br/>Zscore:6.4<br/>#EST:162<br/>Adj. #EST:26.19

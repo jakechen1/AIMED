@@ -1,0 +1,1 @@
+cervix	HMID:HM04499<br/>GeneSymbol:MRPL37<br/>P-value:1.29e-13<br/>Zscore:4.76<br/>#EST:31<br/>Adj. #EST:5.36

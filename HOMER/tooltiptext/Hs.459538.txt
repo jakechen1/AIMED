@@ -1,0 +1,1 @@
+trachea	HMID:HM02099<br/>GeneSymbol:ALDH1A3<br/>P-value:1.76e-12<br/>Zscore:4.51<br/>#EST:20<br/>Adj. #EST:8.1

@@ -1,0 +1,1 @@
+small intestine	HMID:HM07314<br/>GeneSymbol:DEFA5<br/>P-value:1.52e-166<br/>Zscore:7.07<br/>#EST:84<br/>Adj. #EST:129.78

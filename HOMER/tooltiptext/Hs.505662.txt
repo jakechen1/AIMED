@@ -1,0 +1,1 @@
+muscle	HMID:HM02510<br/>GeneSymbol:PPP1R1A<br/>P-value:2.4e-13<br/>Zscore:4.81<br/>#EST:20<br/>Adj. #EST:8.72

@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06378<br/>GeneSymbol:PHC2<br/>P-value:6.53e-07<br/>Zscore:4.78<br/>#EST:14<br/>Adj. #EST:5.36

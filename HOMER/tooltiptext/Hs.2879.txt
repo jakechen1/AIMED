@@ -1,0 +1,1 @@
+pancreas	HMID:HM07546<br/>GeneSymbol:CPA1<br/>P-value:0<br/>Zscore:7.02<br/>#EST:892<br/>Adj. #EST:27.34

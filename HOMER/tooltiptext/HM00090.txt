@@ -1,0 +1,1 @@
+brain	HMID:HM00090<br/>GeneSymbol:FAM107A<br/>P-value:0<br/>Zscore:6.39<br/>#EST:1576<br/>Adj. #EST:4.75

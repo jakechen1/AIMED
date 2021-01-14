@@ -1,0 +1,1 @@
+kidney	HMID:HM07138<br/>GeneSymbol:PDZK1<br/>P-value:1.01e-116<br/>Zscore:6.63<br/>#EST:141<br/>Adj. #EST:13.06

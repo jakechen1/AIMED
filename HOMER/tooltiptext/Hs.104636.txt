@@ -1,0 +1,1 @@
+testis	HMID:HM03969<br/>GeneSymbol:TULP2<br/>P-value:9.24e-19<br/>Zscore:6.98<br/>#EST:19<br/>Adj. #EST:11.68

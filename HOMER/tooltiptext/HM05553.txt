@@ -1,0 +1,1 @@
+testis	HMID:HM05553<br/>GeneSymbol:CBY3<br/>P-value:6.3e-10<br/>Zscore:6.36<br/>#EST:11<br/>Adj. #EST:9.81

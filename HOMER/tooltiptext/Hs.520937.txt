@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01285<br/>GeneSymbol:CSF2RA<br/>P-value:2.26e-10<br/>Zscore:4.46<br/>#EST:13<br/>Adj. #EST:11.12

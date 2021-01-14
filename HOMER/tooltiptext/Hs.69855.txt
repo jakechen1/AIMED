@@ -1,0 +1,1 @@
+trachea	HMID:HM06462<br/>GeneSymbol:CSDE1<br/>P-value:4.88e-57<br/>Zscore:5.35<br/>#EST:139<br/>Adj. #EST:5.55

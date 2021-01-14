@@ -1,0 +1,1 @@
+stomach	HMID:HM07232<br/>GeneSymbol:PCK1<br/>P-value:5.09e-140<br/>Zscore:5.9<br/>#EST:149<br/>Adj. #EST:16.76

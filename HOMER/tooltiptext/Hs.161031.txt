@@ -1,0 +1,1 @@
+placenta	HMID:HM00250<br/>GeneSymbol:SYT8<br/>P-value:4.61e-07<br/>Zscore:4.01<br/>#EST:10<br/>Adj. #EST:7.49

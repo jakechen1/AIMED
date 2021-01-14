@@ -1,0 +1,1 @@
+colon	HMID:HM01380<br/>GeneSymbol:HIST1H3H<br/>P-value:5.86e-49<br/>Zscore:6.76<br/>#EST:42<br/>Adj. #EST:22.77

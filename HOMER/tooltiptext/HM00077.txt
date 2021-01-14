@@ -1,0 +1,1 @@
+spleen	HMID:HM00077<br/>GeneSymbol:HBA1<br/>P-value:0<br/>Zscore:6.28<br/>#EST:624<br/>Adj. #EST:15.84

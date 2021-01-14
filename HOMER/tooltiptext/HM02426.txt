@@ -1,0 +1,1 @@
+pancreas	HMID:HM02426<br/>GeneSymbol:VGF<br/>P-value:6.58e-27<br/>Zscore:4.77<br/>#EST:38<br/>Adj. #EST:9.63

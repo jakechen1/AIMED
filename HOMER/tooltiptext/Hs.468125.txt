@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00765<br/>GeneSymbol:TTC27<br/>P-value:7.66e-09<br/>Zscore:4.07<br/>#EST:17<br/>Adj. #EST:5.94

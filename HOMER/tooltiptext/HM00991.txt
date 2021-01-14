@@ -1,0 +1,1 @@
+muscle	HMID:HM00991<br/>GeneSymbol:C4orf40<br/>P-value:7.77e-69<br/>Zscore:7.05<br/>#EST:45<br/>Adj. #EST:46.23

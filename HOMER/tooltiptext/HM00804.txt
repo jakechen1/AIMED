@@ -1,0 +1,1 @@
+brain	HMID:HM00804<br/>GeneSymbol:ZIC4<br/>P-value:4.31e-85<br/>Zscore:4.05<br/>#EST:162<br/>Adj. #EST:4.58

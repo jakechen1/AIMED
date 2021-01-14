@@ -1,0 +1,1 @@
+brain	HMID:HM07178<br/>GeneSymbol:PTPN5<br/>P-value:1.87e-124<br/>Zscore:6.95<br/>#EST:203<br/>Adj. #EST:5.15

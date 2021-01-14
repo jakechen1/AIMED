@@ -1,0 +1,1 @@
+eye	HMID:HM04516<br/>GeneSymbol:LOC284260<br/>P-value:1.47e-13<br/>Zscore:7.06<br/>#EST:10<br/>Adj. #EST:24.17

@@ -1,0 +1,1 @@
+kidney	HMID:HM00524<br/>GeneSymbol:SLC22A8<br/>P-value:0<br/>Zscore:6.98<br/>#EST:106<br/>Adj. #EST:21.14

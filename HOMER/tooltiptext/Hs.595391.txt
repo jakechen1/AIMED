@@ -1,0 +1,1 @@
+pancreas	HMID:HM04774<br/>GeneSymbol:SPATA13<br/>P-value:1.86e-23<br/>Zscore:4.47<br/>#EST:57<br/>Adj. #EST:5.01

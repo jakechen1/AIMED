@@ -1,0 +1,1 @@
+nerve	HMID:HM03915<br/>GeneSymbol:FSD1<br/>P-value:4.58e-16<br/>Zscore:6.3<br/>#EST:24<br/>Adj. #EST:9.23

@@ -1,0 +1,1 @@
+colon	HMID:HM03131<br/>GeneSymbol:KRT32<br/>P-value:1.96e-15<br/>Zscore:5.92<br/>#EST:16<br/>Adj. #EST:14.83

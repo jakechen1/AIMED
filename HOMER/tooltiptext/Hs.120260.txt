@@ -1,0 +1,1 @@
+lymph node	HMID:HM04107<br/>GeneSymbol:FCRL4<br/>P-value:1.6e-19<br/>Zscore:7.07<br/>#EST:10<br/>Adj. #EST:75.78

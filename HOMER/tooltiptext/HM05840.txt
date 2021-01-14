@@ -1,0 +1,1 @@
+cervix	HMID:HM05840<br/>GeneSymbol:AGBL5<br/>P-value:5.77e-09<br/>Zscore:4.31<br/>#EST:20<br/>Adj. #EST:5.1

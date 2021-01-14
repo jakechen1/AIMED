@@ -1,0 +1,1 @@
+pancreas	HMID:HM03719<br/>GeneSymbol:TIGD1<br/>P-value:4e-17<br/>Zscore:6.55<br/>#EST:21<br/>Adj. #EST:11.23

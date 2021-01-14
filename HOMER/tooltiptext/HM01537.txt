@@ -1,0 +1,1 @@
+breast	HMID:HM01537<br/>GeneSymbol:NPR1<br/>P-value:4.27e-44<br/>Zscore:4.45<br/>#EST:61<br/>Adj. #EST:10.62

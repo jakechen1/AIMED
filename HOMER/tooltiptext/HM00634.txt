@@ -1,0 +1,1 @@
+liver	HMID:HM00634<br/>GeneSymbol:SLC27A5<br/>P-value:0<br/>Zscore:6.69<br/>#EST:113<br/>Adj. #EST:13.9

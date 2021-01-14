@@ -1,0 +1,2 @@
+liver	HMID:HM01857<br/>GeneSymbol:SLC22A9<br/>P-value:4.82e-36<br/>Zscore:4.06<br/>#EST:41<br/>Adj. #EST:12.54
+spleen	HMID:HM01857<br/>GeneSymbol:SLC22A9<br/>P-value:1.52e-29<br/>Zscore:5.71<br/>#EST:30<br/>Adj. #EST:17.37

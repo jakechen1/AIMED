@@ -1,0 +1,1 @@
+liver	HMID:HM03868<br/>GeneSymbol:HLF<br/>P-value:2.77e-16<br/>Zscore:4.34<br/>#EST:46<br/>Adj. #EST:4.15

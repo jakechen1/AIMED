@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04449<br/>GeneSymbol:LRRC63<br/>P-value:7.46e-14<br/>Zscore:7.04<br/>#EST:10<br/>Adj. #EST:34.61

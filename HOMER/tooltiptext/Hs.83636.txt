@@ -1,0 +1,1 @@
+pharynx	HMID:HM04618<br/>GeneSymbol:ADRBK1<br/>P-value:1.96e-22<br/>Zscore:4.32<br/>#EST:32<br/>Adj. #EST:10.6

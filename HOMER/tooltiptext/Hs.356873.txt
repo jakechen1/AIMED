@@ -1,0 +1,1 @@
+amnion	HMID:HM05497<br/>GeneSymbol:GNRHR2<br/>P-value:1.94e-31<br/>Zscore:6.95<br/>#EST:20<br/>Adj. #EST:78.42

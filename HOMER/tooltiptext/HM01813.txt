@@ -1,0 +1,1 @@
+thymus	HMID:HM01813<br/>GeneSymbol:TROAP<br/>P-value:4.36e-37<br/>Zscore:5.82<br/>#EST:48<br/>Adj. #EST:12.64

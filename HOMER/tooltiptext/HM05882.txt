@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05882<br/>GeneSymbol:EAPP<br/>P-value:8.75e-09<br/>Zscore:5.17<br/>#EST:11<br/>Adj. #EST:10.99

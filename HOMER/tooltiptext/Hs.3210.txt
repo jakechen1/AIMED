@@ -1,0 +1,2 @@
+colon	HMID:HM04430<br/>GeneSymbol:REN<br/>P-value:2.28e-21<br/>Zscore:4.31<br/>#EST:30<br/>Adj. #EST:9.7
+stomach	HMID:HM04554<br/>GeneSymbol:REN<br/>P-value:5.38e-22<br/>Zscore:4.56<br/>#EST:30<br/>Adj. #EST:10.22

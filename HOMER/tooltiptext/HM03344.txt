@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03344<br/>GeneSymbol:BARD1<br/>P-value:2.48e-19<br/>Zscore:6.09<br/>#EST:23<br/>Adj. #EST:13.48

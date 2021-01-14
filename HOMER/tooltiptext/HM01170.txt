@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01170<br/>GeneSymbol:MYH7B<br/>P-value:9.03e-59<br/>Zscore:7.06<br/>#EST:41<br/>Adj. #EST:44.48

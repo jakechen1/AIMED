@@ -1,0 +1,1 @@
+colon	HMID:HM03673<br/>GeneSymbol:EVX1<br/>P-value:2.34e-17<br/>Zscore:7.02<br/>#EST:13<br/>Adj. #EST:26.22

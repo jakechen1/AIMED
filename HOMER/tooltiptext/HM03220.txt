@@ -1,0 +1,2 @@
+blood	HMID:HM03220<br/>GeneSymbol:CD3E<br/>P-value:3.49e-20<br/>Zscore:4.05<br/>#EST:27<br/>Adj. #EST:10.66
+thymus	HMID:HM03220<br/>GeneSymbol:CD3E<br/>P-value:4.1e-15<br/>Zscore:5.03<br/>#EST:18<br/>Adj. #EST:13.01

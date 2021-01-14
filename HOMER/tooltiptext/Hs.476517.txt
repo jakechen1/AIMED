@@ -1,0 +1,1 @@
+trachea	HMID:HM00677<br/>GeneSymbol:FAM114A1<br/>P-value:1.51e-08<br/>Zscore:4.72<br/>#EST:15<br/>Adj. #EST:6.62

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05806<br/>GeneSymbol:NUP93<br/>P-value:1.1e-36<br/>Zscore:5.05<br/>#EST:72<br/>Adj. #EST:6.89

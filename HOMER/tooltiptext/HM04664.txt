@@ -1,0 +1,2 @@
+kidney	HMID:HM04664<br/>GeneSymbol:CYP4A11<br/>P-value:2.43e-11<br/>Zscore:4.9<br/>#EST:14<br/>Adj. #EST:10.4
+liver	HMID:HM04664<br/>GeneSymbol:CYP4A11<br/>P-value:4.83e-13<br/>Zscore:4.38<br/>#EST:17<br/>Adj. #EST:9.36

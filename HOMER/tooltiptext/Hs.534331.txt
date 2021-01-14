@@ -1,0 +1,1 @@
+lymph	HMID:HM01865<br/>GeneSymbol:NUDT1<br/>P-value:6.15e-12<br/>Zscore:6.51<br/>#EST:13<br/>Adj. #EST:14.97

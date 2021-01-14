@@ -1,0 +1,1 @@
+brain	HMID:HM07110<br/>GeneSymbol:DCX<br/>P-value:9.7e-112<br/>Zscore:6.01<br/>#EST:258<br/>Adj. #EST:4.09

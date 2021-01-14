@@ -1,0 +1,1 @@
+mouth	HMID:HM06489<br/>GeneSymbol:<br/>P-value:2.34e-06<br/>Zscore:4.5<br/>#EST:10<br/>Adj. #EST:6.92

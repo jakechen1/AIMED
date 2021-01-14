@@ -1,0 +1,1 @@
+colon	HMID:HM04024<br/>GeneSymbol:TMEM54<br/>P-value:5.55e-19<br/>Zscore:5.53<br/>#EST:33<br/>Adj. #EST:7.2

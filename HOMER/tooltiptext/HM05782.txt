@@ -1,0 +1,1 @@
+pharynx	HMID:HM05782<br/>GeneSymbol:VDAC3<br/>P-value:3.78e-09<br/>Zscore:4.59<br/>#EST:20<br/>Adj. #EST:5.25

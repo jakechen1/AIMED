@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04754<br/>GeneSymbol:CSF1R<br/>P-value:2.43e-23<br/>Zscore:5.88<br/>#EST:36<br/>Adj. #EST:9.27

@@ -1,0 +1,1 @@
+pituitary	HMID:HM07533<br/>GeneSymbol:PRL<br/>P-value:0<br/>Zscore:7.07<br/>#EST:993<br/>Adj. #EST:374.36

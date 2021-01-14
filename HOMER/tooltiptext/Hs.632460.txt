@@ -1,0 +1,1 @@
+rectum	HMID:HM03182<br/>GeneSymbol:SELENBP1<br/>P-value:1.49e-15<br/>Zscore:6.46<br/>#EST:16<br/>Adj. #EST:18.74

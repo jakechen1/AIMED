@@ -1,0 +1,1 @@
+brain	HMID:HM02721<br/>GeneSymbol:PSD2<br/>P-value:6.27e-24<br/>Zscore:5.09<br/>#EST:52<br/>Adj. #EST:4.07

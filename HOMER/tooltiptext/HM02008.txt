@@ -1,0 +1,1 @@
+testis	HMID:HM02008<br/>GeneSymbol:VSIG1<br/>P-value:2.83e-33<br/>Zscore:5.07<br/>#EST:40<br/>Adj. #EST:10.01

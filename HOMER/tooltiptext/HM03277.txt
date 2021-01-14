@@ -1,0 +1,1 @@
+testis	HMID:HM03277<br/>GeneSymbol:LRRC36<br/>P-value:8.71e-20<br/>Zscore:4.21<br/>#EST:31<br/>Adj. #EST:7.13

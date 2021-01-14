@@ -1,0 +1,1 @@
+nerve	HMID:HM04861<br/>GeneSymbol:NCAPG<br/>P-value:2.48e-12<br/>Zscore:4.57<br/>#EST:22<br/>Adj. #EST:6.94

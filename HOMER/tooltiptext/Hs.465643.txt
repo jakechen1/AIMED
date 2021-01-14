@@ -1,0 +1,1 @@
+heart	HMID:HM00506<br/>GeneSymbol:TNFAIP8L1<br/>P-value:5.24e-08<br/>Zscore:4.43<br/>#EST:15<br/>Adj. #EST:5.87

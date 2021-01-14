@@ -1,0 +1,1 @@
+nerve	HMID:HM04684<br/>GeneSymbol:LEPROTL1<br/>P-value:6.51e-23<br/>Zscore:6.05<br/>#EST:42<br/>Adj. #EST:7.29

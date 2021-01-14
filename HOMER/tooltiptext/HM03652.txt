@@ -1,0 +1,1 @@
+pharynx	HMID:HM03652<br/>GeneSymbol:CENPN<br/>P-value:1.58e-17<br/>Zscore:6.18<br/>#EST:20<br/>Adj. #EST:15.02

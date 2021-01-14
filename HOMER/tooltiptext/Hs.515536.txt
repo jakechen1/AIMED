@@ -1,0 +1,1 @@
+prostate	HMID:HM04458<br/>GeneSymbol:RRAS<br/>P-value:1.69e-21<br/>Zscore:4.5<br/>#EST:44<br/>Adj. #EST:6.05

@@ -1,0 +1,1 @@
+spleen	HMID:HM02873<br/>GeneSymbol:IL34<br/>P-value:8.37e-23<br/>Zscore:6.13<br/>#EST:28<br/>Adj. #EST:12.29

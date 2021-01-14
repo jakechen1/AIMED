@@ -1,0 +1,1 @@
+ovary	HMID:HM04721<br/>GeneSymbol:HSD11B1<br/>P-value:8.38e-13<br/>Zscore:5.5<br/>#EST:19<br/>Adj. #EST:8.81

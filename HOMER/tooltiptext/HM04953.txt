@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04953<br/>GeneSymbol:NEGR1<br/>P-value:4.54e-12<br/>Zscore:4.35<br/>#EST:19<br/>Adj. #EST:8.08

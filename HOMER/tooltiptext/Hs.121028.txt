@@ -1,0 +1,1 @@
+lymph node	HMID:HM02085<br/>GeneSymbol:ASPM<br/>P-value:1.8e-12<br/>Zscore:4.72<br/>#EST:19<br/>Adj. #EST:8.52

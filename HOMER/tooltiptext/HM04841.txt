@@ -1,0 +1,1 @@
+pharynx	HMID:HM04841<br/>GeneSymbol:IL20RB<br/>P-value:2.03e-12<br/>Zscore:4.84<br/>#EST:11<br/>Adj. #EST:23.35

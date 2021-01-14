@@ -1,0 +1,1 @@
+tonsil	HMID:HM00552<br/>GeneSymbol:RPL10A<br/>P-value:0<br/>Zscore:6.58<br/>#EST:137<br/>Adj. #EST:16.73

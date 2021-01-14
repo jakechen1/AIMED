@@ -1,0 +1,1 @@
+colon	HMID:HM07400<br/>GeneSymbol:MUC2<br/>P-value:2.65e-210<br/>Zscore:6.42<br/>#EST:161<br/>Adj. #EST:28.31

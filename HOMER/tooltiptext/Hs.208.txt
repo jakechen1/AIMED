@@ -1,0 +1,1 @@
+liver	HMID:HM01399<br/>GeneSymbol:GCGR<br/>P-value:1.06e-10<br/>Zscore:5.52<br/>#EST:13<br/>Adj. #EST:10.05

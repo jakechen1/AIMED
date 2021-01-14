@@ -1,0 +1,1 @@
+bladder	HMID:HM07433<br/>GeneSymbol:CYCS<br/>P-value:4.39e-230<br/>Zscore:5.39<br/>#EST:229<br/>Adj. #EST:24.43

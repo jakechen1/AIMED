@@ -1,0 +1,1 @@
+skin	HMID:HM06484<br/>GeneSymbol:<br/>P-value:8.38e-58<br/>Zscore:5.6<br/>#EST:91<br/>Adj. #EST:8.59

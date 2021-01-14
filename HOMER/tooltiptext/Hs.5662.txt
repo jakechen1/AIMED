@@ -1,0 +1,1 @@
+tonsil	HMID:HM06075<br/>GeneSymbol:GNB2L1<br/>P-value:8.82e-43<br/>Zscore:4.54<br/>#EST:120<br/>Adj. #EST:4.79

@@ -1,0 +1,1 @@
+brain	HMID:HM04647<br/>GeneSymbol:PCDHA@<br/>P-value:1.29e-22<br/>Zscore:6.26<br/>#EST:38<br/>Adj. #EST:4.89

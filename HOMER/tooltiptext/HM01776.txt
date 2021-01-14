@@ -1,0 +1,1 @@
+kidney	HMID:HM01776<br/>GeneSymbol:CUBN<br/>P-value:7.63e-38<br/>Zscore:6.19<br/>#EST:45<br/>Adj. #EST:12.73

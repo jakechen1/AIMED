@@ -1,0 +1,1 @@
+pituitary	HMID:HM04799<br/>GeneSymbol:TSG101<br/>P-value:1.54e-12<br/>Zscore:6.34<br/>#EST:16<br/>Adj. #EST:11.75

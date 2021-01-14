@@ -1,0 +1,1 @@
+pharynx	HMID:HM03875<br/>GeneSymbol:SLPI<br/>P-value:3.07e-18<br/>Zscore:4.72<br/>#EST:23<br/>Adj. #EST:12.65

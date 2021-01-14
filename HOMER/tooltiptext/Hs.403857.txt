@@ -1,0 +1,1 @@
+blood	HMID:HM04392<br/>GeneSymbol:LY9<br/>P-value:3.24e-21<br/>Zscore:4.09<br/>#EST:27<br/>Adj. #EST:11.65

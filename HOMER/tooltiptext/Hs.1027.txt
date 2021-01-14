@@ -1,0 +1,1 @@
+larynx	HMID:HM01716<br/>GeneSymbol:RRAD<br/>P-value:1.43e-11<br/>Zscore:5.57<br/>#EST:11<br/>Adj. #EST:20.08

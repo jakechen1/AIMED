@@ -1,0 +1,1 @@
+blood	HMID:HM05804<br/>GeneSymbol:BEND6<br/>P-value:4.27e-09<br/>Zscore:5.91<br/>#EST:14<br/>Adj. #EST:7.6

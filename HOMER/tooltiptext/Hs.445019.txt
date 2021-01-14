@@ -1,0 +1,1 @@
+trachea	HMID:HM00024<br/>GeneSymbol:ZNF84<br/>P-value:6.5e-06<br/>Zscore:4.8<br/>#EST:11<br/>Adj. #EST:5.56

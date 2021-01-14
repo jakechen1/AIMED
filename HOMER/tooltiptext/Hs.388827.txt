@@ -1,0 +1,1 @@
+testis	HMID:HM07348<br/>GeneSymbol:RFX4<br/>P-value:1.8e-182<br/>Zscore:7.04<br/>#EST:203<br/>Adj. #EST:11.34

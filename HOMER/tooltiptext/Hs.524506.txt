@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02117<br/>GeneSymbol:ANKRD52<br/>P-value:1.64e-12<br/>Zscore:6.95<br/>#EST:10<br/>Adj. #EST:31.49

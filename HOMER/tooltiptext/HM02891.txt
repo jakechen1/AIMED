@@ -1,0 +1,1 @@
+skin	HMID:HM02891<br/>GeneSymbol:IGSF8<br/>P-value:1.17e-22<br/>Zscore:4.57<br/>#EST:59<br/>Adj. #EST:4.63

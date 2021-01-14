@@ -1,0 +1,1 @@
+ovary	HMID:HM01962<br/>GeneSymbol:ATP5J2<br/>P-value:4.54e-34<br/>Zscore:5.19<br/>#EST:58<br/>Adj. #EST:8.18

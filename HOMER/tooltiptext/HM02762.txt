@@ -1,0 +1,1 @@
+mouth	HMID:HM02762<br/>GeneSymbol:TYROBP<br/>P-value:1.29e-23<br/>Zscore:5.75<br/>#EST:27<br/>Adj. #EST:15.24

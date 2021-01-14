@@ -1,0 +1,1 @@
+placenta	HMID:HM00034<br/>GeneSymbol:CYP19A1<br/>P-value:0<br/>Zscore:7.02<br/>#EST:919<br/>Adj. #EST:19.91

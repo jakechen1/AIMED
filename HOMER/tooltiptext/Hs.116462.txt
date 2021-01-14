@@ -1,0 +1,1 @@
+colon	HMID:HM01838<br/>GeneSymbol:HNF4A<br/>P-value:7.99e-12<br/>Zscore:5.38<br/>#EST:15<br/>Adj. #EST:10.28

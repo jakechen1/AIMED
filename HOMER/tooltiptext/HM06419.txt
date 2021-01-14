@@ -1,0 +1,1 @@
+bladder	HMID:HM06419<br/>GeneSymbol:SP100<br/>P-value:1.02e-06<br/>Zscore:4.83<br/>#EST:12<br/>Adj. #EST:6.11

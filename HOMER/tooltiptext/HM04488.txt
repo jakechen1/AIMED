@@ -1,0 +1,1 @@
+lymph node	HMID:HM04488<br/>GeneSymbol:MAML1<br/>P-value:1.08e-13<br/>Zscore:4.71<br/>#EST:27<br/>Adj. #EST:6.2

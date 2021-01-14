@@ -1,0 +1,1 @@
+liver	HMID:HM05625<br/>GeneSymbol:APOA5<br/>P-value:1.82e-33<br/>Zscore:7.07<br/>#EST:25<br/>Adj. #EST:22.3

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04522<br/>GeneSymbol:PTENP1<br/>P-value:1.62e-13<br/>Zscore:5.58<br/>#EST:16<br/>Adj. #EST:12.78

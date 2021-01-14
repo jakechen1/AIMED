@@ -1,0 +1,1 @@
+kidney	HMID:HM04741<br/>GeneSymbol:FLJ42875<br/>P-value:2.54e-23<br/>Zscore:5.98<br/>#EST:29<br/>Adj. #EST:11.45

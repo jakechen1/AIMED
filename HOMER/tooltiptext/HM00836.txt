@@ -1,0 +1,1 @@
+ear	HMID:HM00836<br/>GeneSymbol:C5orf13<br/>P-value:4.28e-81<br/>Zscore:7.05<br/>#EST:47<br/>Adj. #EST:112.11

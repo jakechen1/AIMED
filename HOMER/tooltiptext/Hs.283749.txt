@@ -1,0 +1,1 @@
+rectum	HMID:HM01568<br/>GeneSymbol:ANG<br/>P-value:3.56e-11<br/>Zscore:6.72<br/>#EST:10<br/>Adj. #EST:23.33

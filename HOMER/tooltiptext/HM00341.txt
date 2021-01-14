@@ -1,0 +1,1 @@
+brain	HMID:HM00341<br/>GeneSymbol:CPNE6<br/>P-value:0<br/>Zscore:6.78<br/>#EST:271<br/>Adj. #EST:5.34

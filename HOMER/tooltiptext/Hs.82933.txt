@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01628<br/>GeneSymbol:TMEM167B<br/>P-value:2.64e-11<br/>Zscore:6.36<br/>#EST:15<br/>Adj. #EST:10.71

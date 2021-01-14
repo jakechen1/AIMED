@@ -1,0 +1,1 @@
+lymph	HMID:HM05097<br/>GeneSymbol:SMARCB1<br/>P-value:2.34e-26<br/>Zscore:4.27<br/>#EST:42<br/>Adj. #EST:9.05

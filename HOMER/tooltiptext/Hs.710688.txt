@@ -1,0 +1,2 @@
+pharynx	HMID:HM00917<br/>GeneSymbol:<br/>P-value:2.52e-09<br/>Zscore:5.05<br/>#EST:11<br/>Adj. #EST:12.22
+breast	HMID:HM05280<br/>GeneSymbol:<br/>P-value:1.3e-28<br/>Zscore:4.14<br/>#EST:40<br/>Adj. #EST:10.2

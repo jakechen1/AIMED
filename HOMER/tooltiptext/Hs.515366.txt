@@ -1,0 +1,1 @@
+kidney	HMID:HM04936<br/>GeneSymbol:PRODH2<br/>P-value:8.64e-25<br/>Zscore:5.7<br/>#EST:28<br/>Adj. #EST:13.33

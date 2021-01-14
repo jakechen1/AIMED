@@ -1,0 +1,1 @@
+lymph	HMID:HM05404<br/>GeneSymbol:TMEM102<br/>P-value:1.81e-10<br/>Zscore:5.85<br/>#EST:10<br/>Adj. #EST:18.6

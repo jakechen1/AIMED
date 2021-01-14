@@ -1,0 +1,1 @@
+cervix	HMID:HM06085<br/>GeneSymbol:FBXW5<br/>P-value:4.98e-08<br/>Zscore:4.32<br/>#EST:19<br/>Adj. #EST:4.7

@@ -1,0 +1,1 @@
+trachea	HMID:HM06134<br/>GeneSymbol:CHM<br/>P-value:7.09e-08<br/>Zscore:4.46<br/>#EST:12<br/>Adj. #EST:7.77

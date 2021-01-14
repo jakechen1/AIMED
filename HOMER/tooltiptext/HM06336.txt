@@ -1,0 +1,1 @@
+mouth	HMID:HM06336<br/>GeneSymbol:TJAP1<br/>P-value:4.66e-07<br/>Zscore:4.19<br/>#EST:16<br/>Adj. #EST:4.73

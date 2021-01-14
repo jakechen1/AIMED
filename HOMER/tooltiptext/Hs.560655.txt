@@ -1,0 +1,1 @@
+tonsil	HMID:HM04018<br/>GeneSymbol:RPSAP58<br/>P-value:5.93e-19<br/>Zscore:4.62<br/>#EST:35<br/>Adj. #EST:7.24

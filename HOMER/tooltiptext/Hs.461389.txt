@@ -1,0 +1,1 @@
+brain	HMID:HM05500<br/>GeneSymbol:CNTNAP4<br/>P-value:1.74e-31<br/>Zscore:6.29<br/>#EST:63<br/>Adj. #EST:4.39

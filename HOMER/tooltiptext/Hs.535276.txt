@@ -1,0 +1,1 @@
+thymus	HMID:HM01132<br/>GeneSymbol:PTPN22<br/>P-value:5.74e-10<br/>Zscore:4.59<br/>#EST:11<br/>Adj. #EST:13.55

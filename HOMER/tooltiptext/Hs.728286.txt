@@ -1,0 +1,1 @@
+lymph	HMID:HM03686<br/>GeneSymbol:TRABD<br/>P-value:1.93e-17<br/>Zscore:4.52<br/>#EST:26<br/>Adj. #EST:9.5

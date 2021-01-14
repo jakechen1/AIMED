@@ -1,0 +1,1 @@
+larynx	HMID:HM02805<br/>GeneSymbol:SLC7A8<br/>P-value:2.08e-14<br/>Zscore:5.17<br/>#EST:18<br/>Adj. #EST:12.48

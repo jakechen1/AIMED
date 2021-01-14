@@ -1,0 +1,1 @@
+thyroid	HMID:HM04352<br/>GeneSymbol:COQ5<br/>P-value:6.44e-21<br/>Zscore:6.14<br/>#EST:27<br/>Adj. #EST:12.34

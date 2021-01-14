@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05885<br/>GeneSymbol:PPM1N<br/>P-value:1.85e-38<br/>Zscore:6.9<br/>#EST:30<br/>Adj. #EST:34.29

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06022<br/>GeneSymbol:FGGY<br/>P-value:1.12e-41<br/>Zscore:6.79<br/>#EST:47<br/>Adj. #EST:16.21

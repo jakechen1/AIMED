@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01327<br/>GeneSymbol:TEX11<br/>P-value:1.63e-10<br/>Zscore:6.31<br/>#EST:11<br/>Adj. #EST:15.04

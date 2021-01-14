@@ -1,0 +1,1 @@
+blood	HMID:HM04203<br/>GeneSymbol:LILRB2<br/>P-value:4.68e-20<br/>Zscore:5.3<br/>#EST:30<br/>Adj. #EST:9.08

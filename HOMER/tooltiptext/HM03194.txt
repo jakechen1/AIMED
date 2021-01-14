@@ -1,0 +1,1 @@
+lymph	HMID:HM03194<br/>GeneSymbol:FOXM1<br/>P-value:2.51e-20<br/>Zscore:5.81<br/>#EST:27<br/>Adj. #EST:11.64

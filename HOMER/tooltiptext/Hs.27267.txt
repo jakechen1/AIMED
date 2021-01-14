@@ -1,0 +1,1 @@
+stomach	HMID:HM02489<br/>GeneSymbol:TSPAN33<br/>P-value:2.78e-13<br/>Zscore:4.04<br/>#EST:29<br/>Adj. #EST:5.34

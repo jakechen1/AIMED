@@ -1,0 +1,2 @@
+bone marrow	HMID:HM02265<br/>GeneSymbol:ABCA13<br/>P-value:3.91e-29<br/>Zscore:5.26<br/>#EST:21<br/>Adj. #EST:41.52
+trachea	HMID:HM02265<br/>GeneSymbol:ABCA13<br/>P-value:4.07e-17<br/>Zscore:4.46<br/>#EST:13<br/>Adj. #EST:35.52

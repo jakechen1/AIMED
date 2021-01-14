@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01971<br/>GeneSymbol:SLC5A11<br/>P-value:3.43e-12<br/>Zscore:5.93<br/>#EST:13<br/>Adj. #EST:15.08

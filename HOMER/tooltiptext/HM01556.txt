@@ -1,0 +1,1 @@
+lymph node	HMID:HM01556<br/>GeneSymbol:AKNA<br/>P-value:1.61e-43<br/>Zscore:4.87<br/>#EST:47<br/>Adj. #EST:17.51

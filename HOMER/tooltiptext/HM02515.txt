@@ -1,0 +1,1 @@
+muscle	HMID:HM02515<br/>GeneSymbol:MYLK2<br/>P-value:6.39e-26<br/>Zscore:7.03<br/>#EST:16<br/>Adj. #EST:48.45

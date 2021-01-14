@@ -1,0 +1,1 @@
+blood	HMID:HM02070<br/>GeneSymbol:CCL4L1<br/>P-value:3.03e-32<br/>Zscore:5.75<br/>#EST:30<br/>Adj. #EST:20.67

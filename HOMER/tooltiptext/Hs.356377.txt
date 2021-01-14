@@ -1,0 +1,2 @@
+salivary gland	HMID:HM00088<br/>GeneSymbol:RNF187<br/>P-value:2.42e-06<br/>Zscore:4.09<br/>#EST:10<br/>Adj. #EST:7.02
+lymph	HMID:HM02769<br/>GeneSymbol:RNF187<br/>P-value:3.1e-14<br/>Zscore:4.04<br/>#EST:26<br/>Adj. #EST:6.96

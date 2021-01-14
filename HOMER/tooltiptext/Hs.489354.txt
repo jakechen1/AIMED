@@ -1,0 +1,1 @@
+colon	HMID:HM06003<br/>GeneSymbol:MUC3A<br/>P-value:4.31e-41<br/>Zscore:5.26<br/>#EST:43<br/>Adj. #EST:16.2

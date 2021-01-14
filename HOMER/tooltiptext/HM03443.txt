@@ -1,0 +1,1 @@
+esophagus	HMID:HM03443<br/>GeneSymbol:F3<br/>P-value:1.01e-18<br/>Zscore:5.75<br/>#EST:18<br/>Adj. #EST:22.14

@@ -1,0 +1,1 @@
+trachea	HMID:HM03107<br/>GeneSymbol:USO1<br/>P-value:5.32e-21<br/>Zscore:5.45<br/>#EST:42<br/>Adj. #EST:6.53

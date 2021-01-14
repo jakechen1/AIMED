@@ -1,0 +1,1 @@
+leiomios	HMID:HM07008<br/>GeneSymbol:CTSK<br/>P-value:2.09e-98<br/>Zscore:7.05<br/>#EST:64<br/>Adj. #EST:82.55

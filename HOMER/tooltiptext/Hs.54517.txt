@@ -1,0 +1,1 @@
+spleen	HMID:HM01976<br/>GeneSymbol:FCN2<br/>P-value:3.4e-12<br/>Zscore:4.6<br/>#EST:15<br/>Adj. #EST:9.73

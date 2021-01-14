@@ -1,0 +1,1 @@
+eye	HMID:HM06521<br/>GeneSymbol:GSG1<br/>P-value:1.63e-59<br/>Zscore:6.73<br/>#EST:72<br/>Adj. #EST:12.79

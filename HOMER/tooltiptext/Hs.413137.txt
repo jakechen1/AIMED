@@ -1,0 +1,1 @@
+stomach	HMID:HM06504<br/>GeneSymbol:FXYD2<br/>P-value:1.04e-58<br/>Zscore:5.22<br/>#EST:85<br/>Adj. #EST:10.06

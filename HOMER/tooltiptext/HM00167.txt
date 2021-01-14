@@ -1,0 +1,1 @@
+pharynx	HMID:HM00167<br/>GeneSymbol:IGLL5<br/>P-value:0<br/>Zscore:6.22<br/>#EST:588<br/>Adj. #EST:34.63

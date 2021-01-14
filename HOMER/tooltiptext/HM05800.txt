@@ -1,0 +1,1 @@
+lymph node	HMID:HM05800<br/>GeneSymbol:CHERP<br/>P-value:4.18e-09<br/>Zscore:4.05<br/>#EST:26<br/>Adj. #EST:4.01

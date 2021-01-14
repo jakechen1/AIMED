@@ -1,0 +1,2 @@
+pituitary	HMID:HM00932<br/>GeneSymbol:PCSK1N<br/>P-value:2.26e-09<br/>Zscore:4.25<br/>#EST:13<br/>Adj. #EST:9.54
+pancreas	HMID:HM07337<br/>GeneSymbol:PCSK1N<br/>P-value:1.07e-176<br/>Zscore:5.37<br/>#EST:228<br/>Adj. #EST:11.9

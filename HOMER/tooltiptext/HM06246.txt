@@ -1,0 +1,1 @@
+spleen	HMID:HM06246<br/>GeneSymbol:NUDT13<br/>P-value:2.22e-07<br/>Zscore:4.07<br/>#EST:13<br/>Adj. #EST:6.09

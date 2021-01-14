@@ -1,0 +1,1 @@
+testis	HMID:HM05283<br/>GeneSymbol:AURKC<br/>P-value:6.88e-11<br/>Zscore:4.98<br/>#EST:16<br/>Adj. #EST:7.13

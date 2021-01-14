@@ -1,0 +1,1 @@
+placenta	HMID:HM05765<br/>GeneSymbol:DIO3<br/>P-value:5.68e-36<br/>Zscore:4.88<br/>#EST:38<br/>Adj. #EST:14.45

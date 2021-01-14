@@ -1,0 +1,1 @@
+pancreas	HMID:HM00790<br/>GeneSymbol:GPR44<br/>P-value:5.85e-09<br/>Zscore:4.21<br/>#EST:14<br/>Adj. #EST:7.18

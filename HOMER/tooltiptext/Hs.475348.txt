@@ -1,0 +1,1 @@
+larynx	HMID:HM07332<br/>GeneSymbol:BEND5<br/>P-value:1.25e-173<br/>Zscore:7.05<br/>#EST:96<br/>Adj. #EST:125.79

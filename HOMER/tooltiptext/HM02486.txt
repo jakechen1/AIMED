@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02486<br/>GeneSymbol:ANAPC10<br/>P-value:3.02e-26<br/>Zscore:6.26<br/>#EST:28<br/>Adj. #EST:17.1

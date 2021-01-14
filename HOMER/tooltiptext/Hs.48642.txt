@@ -1,0 +1,1 @@
+testis	HMID:HM06144<br/>GeneSymbol:FAM164C<br/>P-value:7.63e-45<br/>Zscore:6.13<br/>#EST:67<br/>Adj. #EST:7.89

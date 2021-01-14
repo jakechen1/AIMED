@@ -1,0 +1,1 @@
+pancreas	HMID:HM01378<br/>GeneSymbol:AQP12B<br/>P-value:1.28e-10<br/>Zscore:6.38<br/>#EST:10<br/>Adj. #EST:15.66

@@ -1,0 +1,1 @@
+breast	HMID:HM02922<br/>GeneSymbol:TAF5L<br/>P-value:1.11e-14<br/>Zscore:4.06<br/>#EST:23<br/>Adj. #EST:8.05

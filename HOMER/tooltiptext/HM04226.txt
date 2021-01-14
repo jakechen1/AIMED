@@ -1,0 +1,1 @@
+brain	HMID:HM04226<br/>GeneSymbol:FXYD7<br/>P-value:9.56e-15<br/>Zscore:6.26<br/>#EST:25<br/>Adj. #EST:4.69

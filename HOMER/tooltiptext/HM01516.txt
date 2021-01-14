@@ -1,0 +1,1 @@
+brain	HMID:HM01516<br/>GeneSymbol:NPTX1<br/>P-value:1.47e-44<br/>Zscore:6.13<br/>#EST:75<br/>Adj. #EST:4.91

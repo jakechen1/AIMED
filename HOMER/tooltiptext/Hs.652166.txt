@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07028<br/>GeneSymbol:NCRNA00152<br/>P-value:1.18e-100<br/>Zscore:6.97<br/>#EST:86<br/>Adj. #EST:29.8

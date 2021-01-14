@@ -1,0 +1,1 @@
+testis	HMID:HM02862<br/>GeneSymbol:BIRC8<br/>P-value:7.54e-23<br/>Zscore:7.06<br/>#EST:22<br/>Adj. #EST:12.55

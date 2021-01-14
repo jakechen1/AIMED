@@ -1,0 +1,1 @@
+colon	HMID:HM05796<br/>GeneSymbol:HOXB9<br/>P-value:1.65e-36<br/>Zscore:6.16<br/>#EST:46<br/>Adj. #EST:11.95

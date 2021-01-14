@@ -1,0 +1,1 @@
+esophagus	HMID:HM03951<br/>GeneSymbol:B4GALT4<br/>P-value:1.34e-18<br/>Zscore:5.37<br/>#EST:25<br/>Adj. #EST:11.56

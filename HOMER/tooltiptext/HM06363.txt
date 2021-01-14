@@ -1,0 +1,1 @@
+stomach	HMID:HM06363<br/>GeneSymbol:CCDC85C<br/>P-value:5.86e-07<br/>Zscore:4.23<br/>#EST:17<br/>Adj. #EST:4.3

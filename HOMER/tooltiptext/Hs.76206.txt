@@ -1,0 +1,1 @@
+placenta	HMID:HM07012<br/>GeneSymbol:CDH5<br/>P-value:9.59e-99<br/>Zscore:5.57<br/>#EST:141<br/>Adj. #EST:9.81

@@ -1,0 +1,1 @@
+blood	HMID:HM01801<br/>GeneSymbol:OSCAR<br/>P-value:1.05e-11<br/>Zscore:6.2<br/>#EST:16<br/>Adj. #EST:9.5

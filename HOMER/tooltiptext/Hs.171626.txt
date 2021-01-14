@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07149<br/>GeneSymbol:SKP1<br/>P-value:1.26e-118<br/>Zscore:4.61<br/>#EST:207<br/>Adj. #EST:8.41

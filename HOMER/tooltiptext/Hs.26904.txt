@@ -1,0 +1,1 @@
+larynx	HMID:HM03484<br/>GeneSymbol:SEC63<br/>P-value:1.67e-16<br/>Zscore:5.59<br/>#EST:22<br/>Adj. #EST:11.45

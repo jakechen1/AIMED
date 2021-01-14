@@ -1,0 +1,1 @@
+testis	HMID:HM03088<br/>GeneSymbol:KLHL11<br/>P-value:3.16e-15<br/>Zscore:6.31<br/>#EST:22<br/>Adj. #EST:7.58

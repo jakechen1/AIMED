@@ -1,0 +1,1 @@
+pancreas	HMID:HM02688<br/>GeneSymbol:CNIH2<br/>P-value:6.19e-14<br/>Zscore:5.95<br/>#EST:18<br/>Adj. #EST:10.1

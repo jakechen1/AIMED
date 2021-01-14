@@ -1,0 +1,2 @@
+lung	HMID:HM04830<br/>GeneSymbol:WNT4<br/>P-value:1.89e-12<br/>Zscore:4.14<br/>#EST:24<br/>Adj. #EST:5.63
+pancreas	HMID:HM04830<br/>GeneSymbol:WNT4<br/>P-value:2.19e-07<br/>Zscore:4.02<br/>#EST:14<br/>Adj. #EST:5.49

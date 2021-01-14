@@ -1,0 +1,2 @@
+blood	HMID:HM00786<br/>GeneSymbol:SERPINB2<br/>P-value:5.59e-87<br/>Zscore:4.06<br/>#EST:116<br/>Adj. #EST:11.85
+esophagus	HMID:HM00786<br/>GeneSymbol:SERPINB2<br/>P-value:5.65e-14<br/>Zscore:4.5<br/>#EST:17<br/>Adj. #EST:13.04

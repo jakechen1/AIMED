@@ -1,0 +1,1 @@
+placenta	HMID:HM00768<br/>GeneSymbol:PRKCZ<br/>P-value:1.09e-88<br/>Zscore:5.48<br/>#EST:218<br/>Adj. #EST:5.16

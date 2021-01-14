@@ -1,0 +1,1 @@
+thymus	HMID:HM06320<br/>GeneSymbol:SYTL1<br/>P-value:1.35e-50<br/>Zscore:5.39<br/>#EST:67<br/>Adj. #EST:12.47

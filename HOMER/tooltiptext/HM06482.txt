@@ -1,0 +1,1 @@
+esophagus	HMID:HM06482<br/>GeneSymbol:H1F0<br/>P-value:2.12e-06<br/>Zscore:4.64<br/>#EST:13<br/>Adj. #EST:5.22

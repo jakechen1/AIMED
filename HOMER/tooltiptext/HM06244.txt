@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06244<br/>GeneSymbol:FHIT<br/>P-value:2.17e-07<br/>Zscore:4.31<br/>#EST:13<br/>Adj. #EST:6.26

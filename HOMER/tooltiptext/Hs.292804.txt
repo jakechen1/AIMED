@@ -1,0 +1,1 @@
+larynx	HMID:HM04861<br/>GeneSymbol:RNF34<br/>P-value:3.36e-24<br/>Zscore:6.78<br/>#EST:29<br/>Adj. #EST:14.65

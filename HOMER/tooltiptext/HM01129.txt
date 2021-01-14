@@ -1,0 +1,1 @@
+liver	HMID:HM01129<br/>GeneSymbol:SERPINA6<br/>P-value:1.99e-60<br/>Zscore:5.2<br/>#EST:78<br/>Adj. #EST:10.8

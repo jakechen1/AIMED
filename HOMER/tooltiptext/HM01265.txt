@@ -1,0 +1,1 @@
+uterus	HMID:HM01265<br/>GeneSymbol:MASP1<br/>P-value:2.77e-54<br/>Zscore:5.43<br/>#EST:99<br/>Adj. #EST:7.03

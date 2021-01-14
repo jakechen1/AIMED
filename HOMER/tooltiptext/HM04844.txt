@@ -1,0 +1,1 @@
+testis	HMID:HM04844<br/>GeneSymbol:SPAM1<br/>P-value:2.1e-12<br/>Zscore:5.98<br/>#EST:16<br/>Adj. #EST:8.45

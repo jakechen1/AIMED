@@ -1,0 +1,1 @@
+colon	HMID:HM05870<br/>GeneSymbol:ASCL2<br/>P-value:7.83e-09<br/>Zscore:5.16<br/>#EST:11<br/>Adj. #EST:9.89

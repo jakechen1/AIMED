@@ -1,0 +1,1 @@
+thymus	HMID:HM07566<br/>GeneSymbol:CLK1<br/>P-value:0<br/>Zscore:6.84<br/>#EST:411<br/>Adj. #EST:21.64

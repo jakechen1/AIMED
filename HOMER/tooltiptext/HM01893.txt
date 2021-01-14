@@ -1,0 +1,2 @@
+liver	HMID:HM01893<br/>GeneSymbol:SLC4A1<br/>P-value:3.27e-35<br/>Zscore:4.35<br/>#EST:47<br/>Adj. #EST:10.05
+spleen	HMID:HM01893<br/>GeneSymbol:SLC4A1<br/>P-value:6.2e-23<br/>Zscore:5.13<br/>#EST:29<br/>Adj. #EST:11.74

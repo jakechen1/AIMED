@@ -1,0 +1,1 @@
+bone	HMID:HM00296<br/>GeneSymbol:ACAN<br/>P-value:0<br/>Zscore:6.97<br/>#EST:152<br/>Adj. #EST:33.82

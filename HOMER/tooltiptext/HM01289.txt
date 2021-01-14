@@ -1,0 +1,1 @@
+pancreas	HMID:HM01289<br/>GeneSymbol:SYT5<br/>P-value:6.18e-53<br/>Zscore:6.9<br/>#EST:64<br/>Adj. #EST:12.63

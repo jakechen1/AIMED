@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06433<br/>GeneSymbol:RIT2<br/>P-value:7e-56<br/>Zscore:7.06<br/>#EST:38<br/>Adj. #EST:47.71

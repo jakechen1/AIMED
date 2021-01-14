@@ -1,0 +1,1 @@
+eye	HMID:HM05293<br/>GeneSymbol:SIX3<br/>P-value:9.37e-29<br/>Zscore:6.86<br/>#EST:25<br/>Adj. #EST:20.64

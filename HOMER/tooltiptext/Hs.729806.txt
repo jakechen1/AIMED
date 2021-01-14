@@ -1,0 +1,1 @@
+testis	HMID:HM07208<br/>GeneSymbol:KIF2B<br/>P-value:2.84e-132<br/>Zscore:7.07<br/>#EST:119<br/>Adj. #EST:13.79

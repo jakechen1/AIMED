@@ -1,0 +1,1 @@
+rectum	HMID:HM06258<br/>GeneSymbol:CNN1<br/>P-value:2.47e-48<br/>Zscore:6.96<br/>#EST:31<br/>Adj. #EST:81.55

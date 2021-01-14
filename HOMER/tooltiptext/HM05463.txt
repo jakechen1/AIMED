@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05463<br/>GeneSymbol:RPS27L<br/>P-value:3.02e-10<br/>Zscore:4.5<br/>#EST:15<br/>Adj. #EST:8.98

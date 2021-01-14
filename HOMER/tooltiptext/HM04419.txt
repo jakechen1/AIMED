@@ -1,0 +1,1 @@
+pancreas	HMID:HM04419<br/>GeneSymbol:NUMBL<br/>P-value:5.27e-14<br/>Zscore:4.88<br/>#EST:29<br/>Adj. #EST:5.61

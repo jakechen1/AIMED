@@ -1,0 +1,1 @@
+nerve	HMID:HM05937<br/>GeneSymbol:TPRA1<br/>P-value:1.42e-08<br/>Zscore:4.28<br/>#EST:16<br/>Adj. #EST:6.1

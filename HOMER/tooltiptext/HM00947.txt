@@ -1,0 +1,1 @@
+liver	HMID:HM00947<br/>GeneSymbol:FMO3<br/>P-value:9.19e-72<br/>Zscore:6.45<br/>#EST:85<br/>Adj. #EST:12.23

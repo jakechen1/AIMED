@@ -1,0 +1,1 @@
+gallbladder	HMID:HM01876<br/>GeneSymbol:FGA<br/>P-value:1.48e-35<br/>Zscore:6.78<br/>#EST:25<br/>Adj. #EST:58.86

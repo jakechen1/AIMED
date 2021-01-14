@@ -1,0 +1,2 @@
+trachea	HMID:HM02692<br/>GeneSymbol:MATN1<br/>P-value:6.03e-14<br/>Zscore:5.47<br/>#EST:13<br/>Adj. #EST:21.25
+embryo	HMID:HM06323<br/>GeneSymbol:MATN1<br/>P-value:9.17e-51<br/>Zscore:4.31<br/>#EST:50<br/>Adj. #EST:16.93

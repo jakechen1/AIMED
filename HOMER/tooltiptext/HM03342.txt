@@ -1,0 +1,1 @@
+skin	HMID:HM03342<br/>GeneSymbol:<br/>P-value:2.45e-19<br/>Zscore:5.03<br/>#EST:26<br/>Adj. #EST:9.73

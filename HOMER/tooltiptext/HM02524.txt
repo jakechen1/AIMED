@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02524<br/>GeneSymbol:DNAH11<br/>P-value:7.65e-26<br/>Zscore:7.02<br/>#EST:16<br/>Adj. #EST:76.6

@@ -1,0 +1,1 @@
+lung	HMID:HM06061<br/>GeneSymbol:LOC641467<br/>P-value:3.8e-08<br/>Zscore:5.16<br/>#EST:10<br/>Adj. #EST:8.8

@@ -1,0 +1,1 @@
+thymus	HMID:HM04695<br/>GeneSymbol:SLC46A2<br/>P-value:4.95e-23<br/>Zscore:6.98<br/>#EST:18<br/>Adj. #EST:32.78

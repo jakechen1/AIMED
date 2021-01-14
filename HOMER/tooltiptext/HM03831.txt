@@ -1,0 +1,1 @@
+testis	HMID:HM03831<br/>GeneSymbol:TTLL10<br/>P-value:1.65e-16<br/>Zscore:5.94<br/>#EST:25<br/>Adj. #EST:7.28

@@ -1,0 +1,1 @@
+stomach	HMID:HM07009<br/>GeneSymbol:GIF<br/>P-value:1.75e-98<br/>Zscore:6.82<br/>#EST:82<br/>Adj. #EST:25.1

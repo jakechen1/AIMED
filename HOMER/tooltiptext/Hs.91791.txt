@@ -1,0 +1,1 @@
+brain	HMID:HM04065<br/>GeneSymbol:ANO3<br/>P-value:3.26e-19<br/>Zscore:5.35<br/>#EST:39<br/>Adj. #EST:4.26

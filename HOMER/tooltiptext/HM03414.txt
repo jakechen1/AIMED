@@ -1,0 +1,1 @@
+lymph	HMID:HM03414<br/>GeneSymbol:RPS6KA1<br/>P-value:6.25e-19<br/>Zscore:5.51<br/>#EST:28<br/>Adj. #EST:9.72

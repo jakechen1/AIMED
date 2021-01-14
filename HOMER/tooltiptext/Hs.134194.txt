@@ -1,0 +1,1 @@
+placenta	HMID:HM04381<br/>GeneSymbol:DLX3<br/>P-value:4.23e-21<br/>Zscore:4.62<br/>#EST:32<br/>Adj. #EST:8.32

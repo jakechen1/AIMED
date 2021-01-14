@@ -1,0 +1,1 @@
+testis	HMID:HM04674<br/>GeneSymbol:FLJ44874<br/>P-value:5.15e-13<br/>Zscore:6.23<br/>#EST:15<br/>Adj. #EST:9.73

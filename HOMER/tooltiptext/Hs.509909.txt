@@ -1,0 +1,1 @@
+kidney	HMID:HM00545<br/>GeneSymbol:PAPLN<br/>P-value:4.16e-08<br/>Zscore:4.42<br/>#EST:18<br/>Adj. #EST:4.78

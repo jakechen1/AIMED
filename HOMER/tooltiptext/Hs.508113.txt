@@ -1,0 +1,2 @@
+bladder	HMID:HM07026<br/>GeneSymbol:OLFM4<br/>P-value:1.55e-100<br/>Zscore:5.45<br/>#EST:79<br/>Adj. #EST:42.66
+small intestine	HMID:HM07113<br/>GeneSymbol:OLFM4<br/>P-value:3.71e-112<br/>Zscore:4.29<br/>#EST:95<br/>Adj. #EST:33.97

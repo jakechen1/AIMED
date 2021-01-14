@@ -1,0 +1,1 @@
+adipose	HMID:HM05261<br/>GeneSymbol:PLA2G2A<br/>P-value:5.76e-11<br/>Zscore:6.05<br/>#EST:11<br/>Adj. #EST:17.89

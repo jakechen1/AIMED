@@ -1,0 +1,2 @@
+lymph node	HMID:HM02021<br/>GeneSymbol:CXCR5<br/>P-value:9.69e-24<br/>Zscore:4.74<br/>#EST:25<br/>Adj. #EST:17.29
+spleen	HMID:HM02021<br/>GeneSymbol:CXCR5<br/>P-value:4.77e-33<br/>Zscore:4.02<br/>#EST:37<br/>Adj. #EST:14.84

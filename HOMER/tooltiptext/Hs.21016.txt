@@ -1,0 +1,1 @@
+ear	HMID:HM07535<br/>GeneSymbol:COCH<br/>P-value:0<br/>Zscore:7.07<br/>#EST:171<br/>Adj. #EST:216.15

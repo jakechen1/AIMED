@@ -1,0 +1,1 @@
+lymph	HMID:HM03488<br/>GeneSymbol:CARD11<br/>P-value:1.88e-18<br/>Zscore:4.07<br/>#EST:18<br/>Adj. #EST:20.39

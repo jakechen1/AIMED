@@ -1,0 +1,1 @@
+cervix	HMID:HM07122<br/>GeneSymbol:<br/>P-value:3.78e-114<br/>Zscore:4.25<br/>#EST:267<br/>Adj. #EST:5.92

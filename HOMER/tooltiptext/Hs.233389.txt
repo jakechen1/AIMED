@@ -1,0 +1,1 @@
+pharynx	HMID:HM02972<br/>GeneSymbol:CPVL<br/>P-value:7.97e-15<br/>Zscore:5.83<br/>#EST:22<br/>Adj. #EST:9.39

@@ -1,0 +1,1 @@
+cervix	HMID:HM03676<br/>GeneSymbol:TRIB3<br/>P-value:2.17e-17<br/>Zscore:4.72<br/>#EST:25<br/>Adj. #EST:10.06

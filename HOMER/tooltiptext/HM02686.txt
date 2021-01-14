@@ -1,0 +1,1 @@
+lymph	HMID:HM02686<br/>GeneSymbol:KCNK12<br/>P-value:3.33e-24<br/>Zscore:6.64<br/>#EST:17<br/>Adj. #EST:46.05

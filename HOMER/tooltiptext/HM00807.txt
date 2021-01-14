@@ -1,0 +1,1 @@
+small intestine	HMID:HM00807<br/>GeneSymbol:CLCA1<br/>P-value:9.07e-85<br/>Zscore:6.67<br/>#EST:54<br/>Adj. #EST:69.46

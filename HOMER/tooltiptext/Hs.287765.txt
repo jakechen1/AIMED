@@ -1,0 +1,1 @@
+pancreas	HMID:HM05230<br/>GeneSymbol:KCNK16<br/>P-value:7.25e-28<br/>Zscore:6.73<br/>#EST:20<br/>Adj. #EST:27.06

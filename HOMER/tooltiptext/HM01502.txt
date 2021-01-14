@@ -1,0 +1,1 @@
+thymus	HMID:HM01502<br/>GeneSymbol:LAIR1<br/>P-value:6.55e-45<br/>Zscore:6.2<br/>#EST:51<br/>Adj. #EST:16.16

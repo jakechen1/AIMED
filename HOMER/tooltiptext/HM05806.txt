@@ -1,0 +1,1 @@
+cervix	HMID:HM05806<br/>GeneSymbol:PLEKHG3<br/>P-value:4.37e-09<br/>Zscore:4.9<br/>#EST:12<br/>Adj. #EST:10.01

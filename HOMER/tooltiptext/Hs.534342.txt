@@ -1,0 +1,1 @@
+lung	HMID:HM06066<br/>GeneSymbol:AGER<br/>P-value:1.62e-42<br/>Zscore:6.17<br/>#EST:56<br/>Adj. #EST:9.89

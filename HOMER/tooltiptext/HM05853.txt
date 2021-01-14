@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05853<br/>GeneSymbol:RPL11<br/>P-value:6.58e-09<br/>Zscore:4.06<br/>#EST:23<br/>Adj. #EST:4.45

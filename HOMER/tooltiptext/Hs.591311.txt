@@ -1,0 +1,1 @@
+mouth	HMID:HM03086<br/>GeneSymbol:HPS3<br/>P-value:3.19e-15<br/>Zscore:4.26<br/>#EST:23<br/>Adj. #EST:9.05

@@ -1,0 +1,1 @@
+blood	HMID:HM00397<br/>GeneSymbol:FPR2<br/>P-value:0<br/>Zscore:7.05<br/>#EST:114<br/>Adj. #EST:34.37

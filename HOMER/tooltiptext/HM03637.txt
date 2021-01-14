@@ -1,0 +1,1 @@
+stomach	HMID:HM03637<br/>GeneSymbol:ARMC7<br/>P-value:1.4e-17<br/>Zscore:4.5<br/>#EST:35<br/>Adj. #EST:6.18

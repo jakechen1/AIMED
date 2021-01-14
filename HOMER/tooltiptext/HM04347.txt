@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM04347<br/>GeneSymbol:GAS5<br/>P-value:2.55e-14<br/>Zscore:5.19<br/>#EST:26<br/>Adj. #EST:7.12

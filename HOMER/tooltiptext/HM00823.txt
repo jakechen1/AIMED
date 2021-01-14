@@ -1,0 +1,1 @@
+testis	HMID:HM00823<br/>GeneSymbol:FSCB<br/>P-value:9.45e-83<br/>Zscore:7.06<br/>#EST:74<br/>Adj. #EST:13.89

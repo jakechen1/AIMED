@@ -1,0 +1,1 @@
+brain	HMID:HM03157<br/>GeneSymbol:CHRNB2<br/>P-value:1.39e-20<br/>Zscore:5.41<br/>#EST:45<br/>Adj. #EST:4.02

@@ -1,0 +1,1 @@
+trachea	HMID:HM04412<br/>GeneSymbol:BPIL1<br/>P-value:2.51e-21<br/>Zscore:6.15<br/>#EST:16<br/>Adj. #EST:38.52

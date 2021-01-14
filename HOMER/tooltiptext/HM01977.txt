@@ -1,0 +1,1 @@
+salivary gland	HMID:HM01977<br/>GeneSymbol:PL-5283<br/>P-value:8.29e-34<br/>Zscore:6.57<br/>#EST:33<br/>Adj. #EST:23.4

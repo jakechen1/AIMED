@@ -1,0 +1,1 @@
+stomach	HMID:HM05896<br/>GeneSymbol:ANKRD9<br/>P-value:9.45e-39<br/>Zscore:6.57<br/>#EST:49<br/>Adj. #EST:12.04

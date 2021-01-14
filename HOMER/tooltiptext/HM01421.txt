@@ -1,0 +1,1 @@
+stomach	HMID:HM01421<br/>GeneSymbol:LRFN4<br/>P-value:1.45e-47<br/>Zscore:5.51<br/>#EST:41<br/>Adj. #EST:24.35

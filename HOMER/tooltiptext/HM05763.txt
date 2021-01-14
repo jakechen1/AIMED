@@ -1,0 +1,1 @@
+bladder	HMID:HM05763<br/>GeneSymbol:GOLPH3<br/>P-value:3.31e-09<br/>Zscore:4.88<br/>#EST:18<br/>Adj. #EST:5.97

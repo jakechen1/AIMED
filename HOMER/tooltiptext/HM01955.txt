@@ -1,0 +1,1 @@
+stomach	HMID:HM01955<br/>GeneSymbol:PPP1R16A<br/>P-value:3.79e-34<br/>Zscore:5.43<br/>#EST:61<br/>Adj. #EST:7.47

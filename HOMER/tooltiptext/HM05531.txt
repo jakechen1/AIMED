@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM05531<br/>GeneSymbol:EIF3CL<br/>P-value:5.26e-10<br/>Zscore:4.65<br/>#EST:20<br/>Adj. #EST:5.95

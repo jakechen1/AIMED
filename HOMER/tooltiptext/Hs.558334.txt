@@ -1,0 +1,1 @@
+eye	HMID:HM01088<br/>GeneSymbol:GRIN1<br/>P-value:7.95e-10<br/>Zscore:6<br/>#EST:16<br/>Adj. #EST:6.98

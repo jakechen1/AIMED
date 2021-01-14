@@ -1,0 +1,1 @@
+heart	HMID:HM01654<br/>GeneSymbol:SYNPO2L<br/>P-value:2.15e-11<br/>Zscore:4.37<br/>#EST:12<br/>Adj. #EST:14.62

@@ -1,0 +1,1 @@
+brain	HMID:HM07666<br/>GeneSymbol:CPLX2<br/>P-value:0<br/>Zscore:6.75<br/>#EST:580<br/>Adj. #EST:5.21

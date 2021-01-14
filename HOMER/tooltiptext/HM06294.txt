@@ -1,0 +1,1 @@
+lymph node	HMID:HM06294<br/>GeneSymbol:DERL3<br/>P-value:3.1e-07<br/>Zscore:4.77<br/>#EST:11<br/>Adj. #EST:7.46

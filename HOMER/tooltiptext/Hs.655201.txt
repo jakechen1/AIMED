@@ -1,0 +1,1 @@
+lymph	HMID:HM04675<br/>GeneSymbol:NCF1C<br/>P-value:7.58e-23<br/>Zscore:4.66<br/>#EST:24<br/>Adj. #EST:18.21

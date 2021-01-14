@@ -1,0 +1,1 @@
+eye	HMID:HM00773<br/>GeneSymbol:GUCA1A<br/>P-value:2.69e-88<br/>Zscore:6.89<br/>#EST:85<br/>Adj. #EST:18.26

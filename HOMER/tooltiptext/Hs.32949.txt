@@ -1,0 +1,1 @@
+kidney	HMID:HM04094<br/>GeneSymbol:DEFB1<br/>P-value:1.92e-19<br/>Zscore:5.4<br/>#EST:22<br/>Adj. #EST:12.94

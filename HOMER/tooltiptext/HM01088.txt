@@ -1,0 +1,1 @@
+testis	HMID:HM01088<br/>GeneSymbol:PLCZ1<br/>P-value:1.71e-62<br/>Zscore:7.07<br/>#EST:55<br/>Adj. #EST:14.01

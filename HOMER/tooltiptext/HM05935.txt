@@ -1,0 +1,1 @@
+uterus	HMID:HM05935<br/>GeneSymbol:ZNF213<br/>P-value:1.38e-08<br/>Zscore:4.27<br/>#EST:23<br/>Adj. #EST:4.03

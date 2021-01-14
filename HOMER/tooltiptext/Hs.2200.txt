@@ -1,0 +1,1 @@
+spleen	HMID:HM06850<br/>GeneSymbol:PRF1<br/>P-value:4.8e-82<br/>Zscore:5.83<br/>#EST:107<br/>Adj. #EST:10.41

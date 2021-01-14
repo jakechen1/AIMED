@@ -1,0 +1,1 @@
+tonsil	HMID:HM00198<br/>GeneSymbol:CSK<br/>P-value:6.97e-07<br/>Zscore:4.52<br/>#EST:10<br/>Adj. #EST:8.08

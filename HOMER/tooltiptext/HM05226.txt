@@ -1,0 +1,1 @@
+nerve	HMID:HM05226<br/>GeneSymbol:C16orf48<br/>P-value:4.4e-11<br/>Zscore:5.07<br/>#EST:15<br/>Adj. #EST:9.98

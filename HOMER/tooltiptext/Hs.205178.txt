@@ -1,0 +1,1 @@
+testis	HMID:HM01039<br/>GeneSymbol:VWA5B1<br/>P-value:1.15e-09<br/>Zscore:6.83<br/>#EST:12<br/>Adj. #EST:8.48

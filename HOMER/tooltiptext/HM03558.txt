@@ -1,0 +1,1 @@
+small intestine	HMID:HM03558<br/>GeneSymbol:ASB2<br/>P-value:5.61e-18<br/>Zscore:5.86<br/>#EST:20<br/>Adj. #EST:15.77

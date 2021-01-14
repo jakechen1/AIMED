@@ -1,0 +1,1 @@
+liver	HMID:HM07295<br/>GeneSymbol:APCS<br/>P-value:5.88e-161<br/>Zscore:5.52<br/>#EST:154<br/>Adj. #EST:17.09

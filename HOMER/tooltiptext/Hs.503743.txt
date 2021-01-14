@@ -1,0 +1,1 @@
+eye	HMID:HM01141<br/>GeneSymbol:GRIA4<br/>P-value:5.48e-10<br/>Zscore:4.65<br/>#EST:22<br/>Adj. #EST:5.01

@@ -1,0 +1,1 @@
+brain	HMID:HM06536<br/>GeneSymbol:SEZ6<br/>P-value:1.77e-60<br/>Zscore:6.15<br/>#EST:115<br/>Adj. #EST:4.62

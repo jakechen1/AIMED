@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01805<br/>GeneSymbol:CHCHD2<br/>P-value:1.02e-11<br/>Zscore:4.57<br/>#EST:22<br/>Adj. #EST:6.59

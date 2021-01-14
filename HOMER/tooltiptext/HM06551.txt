@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06551<br/>GeneSymbol:YKT6<br/>P-value:7.66e-06<br/>Zscore:4.66<br/>#EST:12<br/>Adj. #EST:5.02

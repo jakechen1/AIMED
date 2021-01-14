@@ -1,0 +1,1 @@
+thymus	HMID:HM04072<br/>GeneSymbol:TFDP2<br/>P-value:3.02e-19<br/>Zscore:5.22<br/>#EST:36<br/>Adj. #EST:6.94

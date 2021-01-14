@@ -1,0 +1,1 @@
+liver	HMID:HM00268<br/>GeneSymbol:ITIH4<br/>P-value:0<br/>Zscore:6.35<br/>#EST:242<br/>Adj. #EST:13.88

@@ -1,0 +1,1 @@
+nerve	HMID:HM04874<br/>GeneSymbol:FARS2<br/>P-value:2.62e-12<br/>Zscore:4.73<br/>#EST:19<br/>Adj. #EST:8.41

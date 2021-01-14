@@ -1,0 +1,1 @@
+thymus	HMID:HM04204<br/>GeneSymbol:C1orf77<br/>P-value:7.82e-15<br/>Zscore:4.5<br/>#EST:45<br/>Adj. #EST:4.08

@@ -1,0 +1,1 @@
+muscle	HMID:HM03918<br/>GeneSymbol:SCN1B<br/>P-value:4.68e-16<br/>Zscore:6.36<br/>#EST:21<br/>Adj. #EST:10.98

@@ -1,0 +1,1 @@
+nerve	HMID:HM06207<br/>GeneSymbol:MPST<br/>P-value:2.09e-46<br/>Zscore:5.4<br/>#EST:58<br/>Adj. #EST:13.82

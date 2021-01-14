@@ -1,0 +1,1 @@
+brain	HMID:HM06285<br/>GeneSymbol:CLVS2<br/>P-value:3.02e-07<br/>Zscore:5.5<br/>#EST:11<br/>Adj. #EST:4.77

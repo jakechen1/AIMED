@@ -1,0 +1,1 @@
+colon	HMID:HM03031<br/>GeneSymbol:DUSP27<br/>P-value:5.42e-15<br/>Zscore:4.76<br/>#EST:16<br/>Adj. #EST:14.07

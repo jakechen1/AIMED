@@ -1,0 +1,1 @@
+amnion	HMID:HM03664<br/>GeneSymbol:FIP1L1<br/>P-value:1.97e-17<br/>Zscore:6.95<br/>#EST:14<br/>Adj. #EST:34.54

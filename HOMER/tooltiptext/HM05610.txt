@@ -1,0 +1,1 @@
+salivary gland	HMID:HM05610<br/>GeneSymbol:OTUD5<br/>P-value:9.18e-10<br/>Zscore:5.14<br/>#EST:13<br/>Adj. #EST:10.26

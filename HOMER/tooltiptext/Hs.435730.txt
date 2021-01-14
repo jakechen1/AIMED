@@ -1,0 +1,1 @@
+lung	HMID:HM02040<br/>GeneSymbol:IRX5<br/>P-value:2.45e-12<br/>Zscore:5.84<br/>#EST:16<br/>Adj. #EST:8.99

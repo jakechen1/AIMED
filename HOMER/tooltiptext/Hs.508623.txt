@@ -1,0 +1,1 @@
+spleen	HMID:HM01028<br/>GeneSymbol:C13orf39<br/>P-value:1.2e-09<br/>Zscore:4.08<br/>#EST:15<br/>Adj. #EST:6.95

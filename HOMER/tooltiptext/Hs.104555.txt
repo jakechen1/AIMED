@@ -1,0 +1,1 @@
+pancreas	HMID:HM03949<br/>GeneSymbol:NPFF<br/>P-value:1.38e-18<br/>Zscore:5.93<br/>#EST:23<br/>Adj. #EST:11.22

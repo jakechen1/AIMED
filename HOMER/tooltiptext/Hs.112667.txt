@@ -1,0 +1,1 @@
+testis	HMID:HM06488<br/>GeneSymbol:DNAI1<br/>P-value:6.21e-58<br/>Zscore:5.45<br/>#EST:78<br/>Adj. #EST:8.96

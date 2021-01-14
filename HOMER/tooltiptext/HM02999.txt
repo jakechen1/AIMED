@@ -1,0 +1,2 @@
+liver	HMID:HM02999<br/>GeneSymbol:GSTA2<br/>P-value:8.16e-22<br/>Zscore:4.02<br/>#EST:37<br/>Adj. #EST:7.15
+spleen	HMID:HM02999<br/>GeneSymbol:GSTA2<br/>P-value:4.45e-16<br/>Zscore:5.02<br/>#EST:24<br/>Adj. #EST:8.78

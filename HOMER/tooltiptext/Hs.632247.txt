@@ -1,0 +1,1 @@
+placenta	HMID:HM02465<br/>GeneSymbol:GPR172B<br/>P-value:3.83e-13<br/>Zscore:4.8<br/>#EST:14<br/>Adj. #EST:12.81

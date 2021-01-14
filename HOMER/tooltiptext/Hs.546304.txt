@@ -1,0 +1,1 @@
+spleen	HMID:HM01029<br/>GeneSymbol:SULT1A2<br/>P-value:1.2e-09<br/>Zscore:5.41<br/>#EST:15<br/>Adj. #EST:6.95

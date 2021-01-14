@@ -1,0 +1,1 @@
+amnion	HMID:HM07464<br/>GeneSymbol:TPT1<br/>P-value:1.1e-261<br/>Zscore:6.82<br/>#EST:242<br/>Adj. #EST:30.09

@@ -1,0 +1,1 @@
+nerve	HMID:HM01109<br/>GeneSymbol:FAM163A<br/>P-value:6.99e-10<br/>Zscore:5.14<br/>#EST:10<br/>Adj. #EST:16.01

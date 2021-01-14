@@ -1,0 +1,1 @@
+amnion	HMID:HM00281<br/>GeneSymbol:FN1<br/>P-value:0<br/>Zscore:6.49<br/>#EST:208<br/>Adj. #EST:26.31

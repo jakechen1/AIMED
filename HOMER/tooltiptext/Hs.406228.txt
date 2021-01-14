@@ -1,0 +1,1 @@
+lymph	HMID:HM06157<br/>GeneSymbol:IL9R<br/>P-value:3.24e-45<br/>Zscore:7.05<br/>#EST:23<br/>Adj. #EST:111.83

@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05835<br/>GeneSymbol:LCN2<br/>P-value:1.57e-37<br/>Zscore:4.93<br/>#EST:49<br/>Adj. #EST:12.62

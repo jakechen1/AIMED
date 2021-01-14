@@ -1,0 +1,1 @@
+testis	HMID:HM00787<br/>GeneSymbol:SLC16A1<br/>P-value:1.09e-86<br/>Zscore:4.09<br/>#EST:265<br/>Adj. #EST:4.03

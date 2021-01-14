@@ -1,0 +1,1 @@
+blood	HMID:HM02579<br/>GeneSymbol:IRF4<br/>P-value:3.94e-25<br/>Zscore:4.02<br/>#EST:42<br/>Adj. #EST:7.96

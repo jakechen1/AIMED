@@ -1,0 +1,1 @@
+placenta	HMID:HM05962<br/>GeneSymbol:HMOX1<br/>P-value:3.47e-40<br/>Zscore:4.35<br/>#EST:98<br/>Adj. #EST:5.08

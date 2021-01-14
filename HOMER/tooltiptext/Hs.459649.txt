@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04137<br/>GeneSymbol:CLCN7<br/>P-value:1.43e-19<br/>Zscore:4.29<br/>#EST:41<br/>Adj. #EST:6.1

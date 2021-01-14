@@ -1,0 +1,1 @@
+testis	HMID:HM01853<br/>GeneSymbol:TMEM146<br/>P-value:6.73e-12<br/>Zscore:4.49<br/>#EST:13<br/>Adj. #EST:10.21

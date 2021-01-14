@@ -1,0 +1,1 @@
+testis	HMID:HM04301<br/>GeneSymbol:FAM153B<br/>P-value:1.11e-20<br/>Zscore:6.4<br/>#EST:28<br/>Adj. #EST:8.42

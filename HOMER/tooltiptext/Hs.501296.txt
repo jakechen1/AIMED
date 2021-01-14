@@ -1,0 +1,1 @@
+lymph node	HMID:HM00563<br/>GeneSymbol:ARID3A<br/>P-value:3.79e-08<br/>Zscore:4.81<br/>#EST:11<br/>Adj. #EST:9.16

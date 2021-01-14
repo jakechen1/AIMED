@@ -1,0 +1,1 @@
+thymus	HMID:HM06410<br/>GeneSymbol:PTPN7<br/>P-value:1.6e-54<br/>Zscore:5.89<br/>#EST:60<br/>Adj. #EST:17.45

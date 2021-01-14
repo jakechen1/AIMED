@@ -1,0 +1,1 @@
+lymph	HMID:HM00265<br/>GeneSymbol:SUV39H1<br/>P-value:4.06e-07<br/>Zscore:4.85<br/>#EST:12<br/>Adj. #EST:6.61

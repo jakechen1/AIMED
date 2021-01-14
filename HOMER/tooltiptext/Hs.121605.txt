@@ -1,0 +1,1 @@
+testis	HMID:HM04603<br/>GeneSymbol:RBMXL2<br/>P-value:2.38e-22<br/>Zscore:7.03<br/>#EST:23<br/>Adj. #EST:11.61

@@ -1,0 +1,1 @@
+pancreas	HMID:HM07350<br/>GeneSymbol:SLC30A8<br/>P-value:5.01e-183<br/>Zscore:7.07<br/>#EST:138<br/>Adj. #EST:26.67

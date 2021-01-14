@@ -1,0 +1,1 @@
+thyroid	HMID:HM06511<br/>GeneSymbol:FYN<br/>P-value:3.26e-06<br/>Zscore:4.06<br/>#EST:14<br/>Adj. #EST:4.63

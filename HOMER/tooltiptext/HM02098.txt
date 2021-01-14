@@ -1,0 +1,1 @@
+blood	HMID:HM02098<br/>GeneSymbol:ATHL1<br/>P-value:8.15e-32<br/>Zscore:5.83<br/>#EST:48<br/>Adj. #EST:9.34

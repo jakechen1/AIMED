@@ -1,0 +1,1 @@
+liver	HMID:HM03704<br/>GeneSymbol:INHBC<br/>P-value:3.45e-17<br/>Zscore:5.49<br/>#EST:18<br/>Adj. #EST:13.21

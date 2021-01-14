@@ -1,0 +1,1 @@
+brain	HMID:HM02552<br/>GeneSymbol:COL20A1<br/>P-value:1.8e-25<br/>Zscore:6.81<br/>#EST:38<br/>Adj. #EST:5.22

@@ -1,0 +1,1 @@
+testis	HMID:HM04973<br/>GeneSymbol:SAGE1<br/>P-value:5.25e-12<br/>Zscore:6.22<br/>#EST:12<br/>Adj. #EST:11.41

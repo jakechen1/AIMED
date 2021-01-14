@@ -1,0 +1,1 @@
+testis	HMID:HM04628<br/>GeneSymbol:IQCH<br/>P-value:3.58e-13<br/>Zscore:4.19<br/>#EST:23<br/>Adj. #EST:6.08

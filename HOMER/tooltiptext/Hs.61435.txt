@@ -1,0 +1,1 @@
+nerve	HMID:HM04154<br/>GeneSymbol:NBLA00301<br/>P-value:9.94e-20<br/>Zscore:6.01<br/>#EST:25<br/>Adj. #EST:12.38

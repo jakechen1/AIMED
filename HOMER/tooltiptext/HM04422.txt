@@ -1,0 +1,1 @@
+placenta	HMID:HM04422<br/>GeneSymbol:C4orf26<br/>P-value:5.58e-14<br/>Zscore:5.51<br/>#EST:12<br/>Adj. #EST:17.59

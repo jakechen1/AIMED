@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01814<br/>GeneSymbol:COX6A1<br/>P-value:9.46e-12<br/>Zscore:5.71<br/>#EST:19<br/>Adj. #EST:8.02

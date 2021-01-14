@@ -1,0 +1,1 @@
+nerve	HMID:HM03205<br/>GeneSymbol:ECSIT<br/>P-value:2.76e-20<br/>Zscore:4.84<br/>#EST:35<br/>Adj. #EST:7.78

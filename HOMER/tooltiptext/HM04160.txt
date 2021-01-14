@@ -1,0 +1,1 @@
+pancreas	HMID:HM04160<br/>GeneSymbol:C1orf127<br/>P-value:5.04e-15<br/>Zscore:6.97<br/>#EST:13<br/>Adj. #EST:19.11

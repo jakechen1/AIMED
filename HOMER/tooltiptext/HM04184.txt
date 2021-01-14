@@ -1,0 +1,1 @@
+muscle	HMID:HM04184<br/>GeneSymbol:PPP1R3A<br/>P-value:6.35e-15<br/>Zscore:6.85<br/>#EST:11<br/>Adj. #EST:31.64

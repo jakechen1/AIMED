@@ -1,0 +1,1 @@
+bone marrow	HMID:HM05818<br/>GeneSymbol:DKFZp761E198<br/>P-value:4.86e-09<br/>Zscore:5.56<br/>#EST:10<br/>Adj. #EST:13.18

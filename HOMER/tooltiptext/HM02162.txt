@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02162<br/>GeneSymbol:COX16<br/>P-value:1.36e-30<br/>Zscore:5.87<br/>#EST:48<br/>Adj. #EST:9.16

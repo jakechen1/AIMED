@@ -1,0 +1,1 @@
+amnion	HMID:HM04687<br/>GeneSymbol:FLNA<br/>P-value:6.39e-23<br/>Zscore:5.76<br/>#EST:30<br/>Adj. #EST:12.58

@@ -1,0 +1,1 @@
+lymph node	HMID:HM05477<br/>GeneSymbol:RBM12B<br/>P-value:3.4e-10<br/>Zscore:5.72<br/>#EST:16<br/>Adj. #EST:7.83

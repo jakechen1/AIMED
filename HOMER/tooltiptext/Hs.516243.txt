@@ -1,0 +1,1 @@
+placenta	HMID:HM06419<br/>GeneSymbol:ADAMTSL4<br/>P-value:5.82e-55<br/>Zscore:4.09<br/>#EST:81<br/>Adj. #EST:9.22

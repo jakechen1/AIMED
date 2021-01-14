@@ -1,0 +1,1 @@
+trachea	HMID:HM06471<br/>GeneSymbol:DNAJA4<br/>P-value:1.87e-06<br/>Zscore:4.42<br/>#EST:13<br/>Adj. #EST:5.24

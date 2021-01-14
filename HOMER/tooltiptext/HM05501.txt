@@ -1,0 +1,1 @@
+brain	HMID:HM05501<br/>GeneSymbol:LOC100129936<br/>P-value:4.12e-10<br/>Zscore:5.66<br/>#EST:18<br/>Adj. #EST:4.41

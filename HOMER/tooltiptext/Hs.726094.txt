@@ -1,0 +1,1 @@
+placenta	HMID:HM05939<br/>GeneSymbol:GPR126<br/>P-value:1.09e-39<br/>Zscore:5.46<br/>#EST:67<br/>Adj. #EST:7.63

@@ -1,0 +1,1 @@
+eye	HMID:HM06694<br/>GeneSymbol:ABCA4<br/>P-value:4.52e-70<br/>Zscore:6.49<br/>#EST:70<br/>Adj. #EST:17.39

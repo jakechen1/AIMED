@@ -1,0 +1,1 @@
+embryo	HMID:HM02004<br/>GeneSymbol:CYP26A1<br/>P-value:2.42e-33<br/>Zscore:6.67<br/>#EST:37<br/>Adj. #EST:13.57

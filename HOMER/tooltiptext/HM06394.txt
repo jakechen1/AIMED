@@ -1,0 +1,1 @@
+colon	HMID:HM06394<br/>GeneSymbol:ZNF678<br/>P-value:8.44e-07<br/>Zscore:4.16<br/>#EST:15<br/>Adj. #EST:4.66

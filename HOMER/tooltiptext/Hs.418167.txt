@@ -1,0 +1,1 @@
+liver	HMID:HM07561<br/>GeneSymbol:ALB<br/>P-value:0<br/>Zscore:6.61<br/>#EST:11994<br/>Adj. #EST:16.75

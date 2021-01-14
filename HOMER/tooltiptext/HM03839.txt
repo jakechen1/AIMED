@@ -1,0 +1,1 @@
+thymus	HMID:HM03839<br/>GeneSymbol:BUB1<br/>P-value:1.94e-16<br/>Zscore:4.99<br/>#EST:30<br/>Adj. #EST:7.02

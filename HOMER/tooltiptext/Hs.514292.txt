@@ -1,0 +1,1 @@
+colon	HMID:HM02570<br/>GeneSymbol:HOXB8<br/>P-value:1.73e-13<br/>Zscore:5.71<br/>#EST:16<br/>Adj. #EST:11.67

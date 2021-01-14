@@ -1,0 +1,1 @@
+brain	HMID:HM07670<br/>GeneSymbol:STXBP1<br/>P-value:0<br/>Zscore:5.81<br/>#EST:800<br/>Adj. #EST:4.09

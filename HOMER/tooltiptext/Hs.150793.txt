@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05741<br/>GeneSymbol:CHGA<br/>P-value:1.43e-35<br/>Zscore:5.45<br/>#EST:33<br/>Adj. #EST:26.49

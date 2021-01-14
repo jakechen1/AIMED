@@ -1,0 +1,1 @@
+spleen	HMID:HM01206<br/>GeneSymbol:DUSP28<br/>P-value:3.43e-10<br/>Zscore:4.54<br/>#EST:21<br/>Adj. #EST:5.17

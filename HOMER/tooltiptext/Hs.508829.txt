@@ -1,0 +1,1 @@
+trachea	HMID:HM00625<br/>GeneSymbol:CDC42SE2<br/>P-value:2.23e-08<br/>Zscore:4.46<br/>#EST:21<br/>Adj. #EST:4.48

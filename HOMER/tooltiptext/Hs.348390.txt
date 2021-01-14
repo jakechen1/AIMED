@@ -1,0 +1,1 @@
+tonsil	HMID:HM06247<br/>GeneSymbol:IL33<br/>P-value:5.65e-48<br/>Zscore:6.76<br/>#EST:32<br/>Adj. #EST:67.66

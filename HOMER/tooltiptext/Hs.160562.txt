@@ -1,0 +1,1 @@
+ear	HMID:HM04092<br/>GeneSymbol:IGF1<br/>P-value:2e-19<br/>Zscore:6.83<br/>#EST:16<br/>Adj. #EST:32.55

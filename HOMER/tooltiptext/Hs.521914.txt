@@ -1,0 +1,1 @@
+pancreas	HMID:HM05212<br/>GeneSymbol:MAFA<br/>P-value:1.17e-27<br/>Zscore:6.97<br/>#EST:22<br/>Adj. #EST:23.38

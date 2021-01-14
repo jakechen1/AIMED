@@ -1,0 +1,1 @@
+lymph	HMID:HM02464<br/>GeneSymbol:RPS6KB2<br/>P-value:3.89e-13<br/>Zscore:4.39<br/>#EST:23<br/>Adj. #EST:7.25

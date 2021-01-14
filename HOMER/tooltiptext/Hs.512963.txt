@@ -1,0 +1,1 @@
+muscle	HMID:HM00293<br/>GeneSymbol:ALG11<br/>P-value:3.13e-07<br/>Zscore:4.23<br/>#EST:18<br/>Adj. #EST:4.31

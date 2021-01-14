@@ -1,0 +1,1 @@
+thyroid	HMID:HM00988<br/>GeneSymbol:UNK<br/>P-value:1.7e-09<br/>Zscore:6.2<br/>#EST:13<br/>Adj. #EST:9.6

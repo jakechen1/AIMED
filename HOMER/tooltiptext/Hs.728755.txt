@@ -1,0 +1,1 @@
+placenta	HMID:HM07652<br/>GeneSymbol:PSG4<br/>P-value:0<br/>Zscore:7.07<br/>#EST:1290<br/>Adj. #EST:24.04

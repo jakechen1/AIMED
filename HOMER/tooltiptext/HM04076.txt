@@ -1,0 +1,1 @@
+stomach	HMID:HM04076<br/>GeneSymbol:HIATL2<br/>P-value:2.19e-15<br/>Zscore:5.73<br/>#EST:20<br/>Adj. #EST:10.69

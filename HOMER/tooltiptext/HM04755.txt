@@ -1,0 +1,1 @@
+ear	HMID:HM04755<br/>GeneSymbol:RELN<br/>P-value:1.07e-12<br/>Zscore:4.32<br/>#EST:11<br/>Adj. #EST:25.78

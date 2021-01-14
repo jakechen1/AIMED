@@ -1,0 +1,1 @@
+liver	HMID:HM00648<br/>GeneSymbol:TDO2<br/>P-value:0<br/>Zscore:4.52<br/>#EST:108<br/>Adj. #EST:14.5

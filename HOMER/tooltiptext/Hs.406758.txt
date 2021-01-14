@@ -1,0 +1,1 @@
+bladder	HMID:HM00156<br/>GeneSymbol:HIBADH<br/>P-value:1.06e-06<br/>Zscore:4.73<br/>#EST:13<br/>Adj. #EST:5.55

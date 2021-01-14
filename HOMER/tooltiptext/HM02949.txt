@@ -1,0 +1,1 @@
+mouth	HMID:HM02949<br/>GeneSymbol:KPNB1<br/>P-value:3.61e-22<br/>Zscore:4.84<br/>#EST:26<br/>Adj. #EST:14.43

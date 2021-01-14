@@ -1,0 +1,1 @@
+lymph	HMID:HM02756<br/>GeneSymbol:GINS2<br/>P-value:3.53e-14<br/>Zscore:4.01<br/>#EST:21<br/>Adj. #EST:9.28

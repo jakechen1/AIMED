@@ -1,0 +1,1 @@
+stomach	HMID:HM07500<br/>GeneSymbol:PTGFRN<br/>P-value:1.51e-306<br/>Zscore:6.18<br/>#EST:311<br/>Adj. #EST:18.38

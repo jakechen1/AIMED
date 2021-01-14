@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02296<br/>GeneSymbol:FAM78A<br/>P-value:1.23e-28<br/>Zscore:6.57<br/>#EST:25<br/>Adj. #EST:26.75

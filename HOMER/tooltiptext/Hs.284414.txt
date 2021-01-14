@@ -1,0 +1,1 @@
+liver	HMID:HM02535<br/>GeneSymbol:HSD17B13<br/>P-value:2.17e-13<br/>Zscore:6.19<br/>#EST:14<br/>Adj. #EST:12.99

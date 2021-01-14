@@ -1,0 +1,1 @@
+stomach	HMID:HM02925<br/>GeneSymbol:ATP4B<br/>P-value:2.1e-22<br/>Zscore:6.24<br/>#EST:20<br/>Adj. #EST:21.38

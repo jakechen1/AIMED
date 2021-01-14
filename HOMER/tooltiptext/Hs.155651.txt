@@ -1,0 +1,1 @@
+lung	HMID:HM05005<br/>GeneSymbol:FOXA2<br/>P-value:2.39e-25<br/>Zscore:5.73<br/>#EST:33<br/>Adj. #EST:9.71

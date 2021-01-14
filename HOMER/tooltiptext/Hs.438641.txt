@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04220<br/>GeneSymbol:TM7SF3<br/>P-value:3.68e-20<br/>Zscore:5.37<br/>#EST:38<br/>Adj. #EST:6.94

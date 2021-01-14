@@ -1,0 +1,1 @@
+thymus	HMID:HM05326<br/>GeneSymbol:TRIM14<br/>P-value:9.18e-11<br/>Zscore:4.65<br/>#EST:20<br/>Adj. #EST:6.41

@@ -1,0 +1,1 @@
+trachea	HMID:HM06115<br/>GeneSymbol:FUK<br/>P-value:6.21e-08<br/>Zscore:5.18<br/>#EST:13<br/>Adj. #EST:7.07

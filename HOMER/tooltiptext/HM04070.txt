@@ -1,0 +1,1 @@
+colon	HMID:HM04070<br/>GeneSymbol:KRT32<br/>P-value:2.08e-15<br/>Zscore:6.01<br/>#EST:16<br/>Adj. #EST:14.77

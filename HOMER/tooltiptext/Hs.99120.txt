@@ -1,0 +1,1 @@
+trachea	HMID:HM05137<br/>GeneSymbol:DDX3Y<br/>P-value:7.34e-27<br/>Zscore:4.74<br/>#EST:37<br/>Adj. #EST:11.36

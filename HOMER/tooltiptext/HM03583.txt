@@ -1,0 +1,1 @@
+pharynx	HMID:HM03583<br/>GeneSymbol:CXCL13<br/>P-value:7.73e-18<br/>Zscore:6.45<br/>#EST:17<br/>Adj. #EST:21.65

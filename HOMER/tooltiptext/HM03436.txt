@@ -1,0 +1,1 @@
+placenta	HMID:HM03436<br/>GeneSymbol:GABRE<br/>P-value:8.92e-19<br/>Zscore:4.06<br/>#EST:44<br/>Adj. #EST:5.01

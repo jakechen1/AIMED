@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02918<br/>GeneSymbol:GAPT<br/>P-value:1.12e-14<br/>Zscore:5.67<br/>#EST:11<br/>Adj. #EST:34

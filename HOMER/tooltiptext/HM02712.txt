@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02712<br/>GeneSymbol:AMBN<br/>P-value:5.69e-24<br/>Zscore:7.07<br/>#EST:14<br/>Adj. #EST:59.86

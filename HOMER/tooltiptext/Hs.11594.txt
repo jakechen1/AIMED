@@ -1,0 +1,1 @@
+spleen	HMID:HM03604<br/>GeneSymbol:PATL2<br/>P-value:5.19e-17<br/>Zscore:4.9<br/>#EST:25<br/>Adj. #EST:8.11

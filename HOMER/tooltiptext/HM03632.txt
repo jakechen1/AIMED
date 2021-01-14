@@ -1,0 +1,1 @@
+liver	HMID:HM03632<br/>GeneSymbol:GCKR<br/>P-value:1.35e-17<br/>Zscore:4.99<br/>#EST:21<br/>Adj. #EST:11.01

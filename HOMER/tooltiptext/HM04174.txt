@@ -1,0 +1,2 @@
+lymph node	HMID:HM04174<br/>GeneSymbol:KLK5<br/>P-value:5.91e-15<br/>Zscore:5.2<br/>#EST:14<br/>Adj. #EST:20.14
+ovary	HMID:HM04174<br/>GeneSymbol:KLK5<br/>P-value:6.25e-13<br/>Zscore:4.28<br/>#EST:13<br/>Adj. #EST:16.76

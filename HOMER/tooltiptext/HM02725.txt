@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02725<br/>GeneSymbol:TSPYL2<br/>P-value:6.61e-24<br/>Zscore:4.79<br/>#EST:33<br/>Adj. #EST:10.99

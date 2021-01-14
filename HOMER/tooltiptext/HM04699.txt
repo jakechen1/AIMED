@@ -1,0 +1,1 @@
+ear	HMID:HM04699<br/>GeneSymbol:PHIP<br/>P-value:6.69e-13<br/>Zscore:6.57<br/>#EST:15<br/>Adj. #EST:13.95

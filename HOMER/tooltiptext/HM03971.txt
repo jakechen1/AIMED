@@ -1,0 +1,1 @@
+placenta	HMID:HM03971<br/>GeneSymbol:IRGQ<br/>P-value:8.3e-16<br/>Zscore:4.39<br/>#EST:39<br/>Adj. #EST:4.69

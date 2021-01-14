@@ -1,0 +1,1 @@
+prostate	HMID:HM06856<br/>GeneSymbol:NKX3-1<br/>P-value:2.43e-82<br/>Zscore:7.02<br/>#EST:73<br/>Adj. #EST:22.55

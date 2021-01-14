@@ -1,0 +1,1 @@
+testis	HMID:HM04738<br/>GeneSymbol:DNAH8<br/>P-value:9.14e-13<br/>Zscore:4.58<br/>#EST:16<br/>Adj. #EST:8.78

@@ -1,0 +1,1 @@
+brain	HMID:HM06992<br/>GeneSymbol:SLAIN1<br/>P-value:7.31e-97<br/>Zscore:5.62<br/>#EST:219<br/>Adj. #EST:4.14

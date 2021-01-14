@@ -1,0 +1,1 @@
+embryo	HMID:HM00277<br/>GeneSymbol:RPS29<br/>P-value:0<br/>Zscore:4<br/>#EST:437<br/>Adj. #EST:6.48

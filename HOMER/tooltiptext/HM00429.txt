@@ -1,0 +1,1 @@
+thyroid	HMID:HM00429<br/>GeneSymbol:CTSB<br/>P-value:0<br/>Zscore:5.87<br/>#EST:234<br/>Adj. #EST:9.62

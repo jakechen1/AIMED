@@ -1,0 +1,1 @@
+trachea	HMID:HM02886<br/>GeneSymbol:TNFAIP3<br/>P-value:1.42e-14<br/>Zscore:4.49<br/>#EST:23<br/>Adj. #EST:8.5

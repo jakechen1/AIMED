@@ -1,0 +1,1 @@
+trachea	HMID:HM03791<br/>GeneSymbol:EXOC6<br/>P-value:8.9e-17<br/>Zscore:4.58<br/>#EST:23<br/>Adj. #EST:10.75

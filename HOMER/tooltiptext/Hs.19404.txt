@@ -1,0 +1,1 @@
+pancreas	HMID:HM04208<br/>GeneSymbol:ASB9<br/>P-value:4.41e-20<br/>Zscore:5.42<br/>#EST:34<br/>Adj. #EST:7.38

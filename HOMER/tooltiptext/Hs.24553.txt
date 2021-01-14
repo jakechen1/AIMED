@@ -1,0 +1,1 @@
+placenta	HMID:HM04507<br/>GeneSymbol:STRA6<br/>P-value:8.04e-22<br/>Zscore:4.08<br/>#EST:55<br/>Adj. #EST:4.75

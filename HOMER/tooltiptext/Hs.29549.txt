@@ -1,0 +1,1 @@
+placenta	HMID:HM05422<br/>GeneSymbol:CLEC1A<br/>P-value:2.4e-30<br/>Zscore:4.64<br/>#EST:42<br/>Adj. #EST:9.7

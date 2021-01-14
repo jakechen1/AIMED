@@ -1,0 +1,1 @@
+uterus	HMID:HM03614<br/>GeneSymbol:CAPS<br/>P-value:1.06e-17<br/>Zscore:4.72<br/>#EST:41<br/>Adj. #EST:5.05

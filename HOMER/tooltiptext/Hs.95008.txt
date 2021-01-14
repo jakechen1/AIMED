@@ -1,0 +1,1 @@
+placenta	HMID:HM07676<br/>GeneSymbol:KISS1<br/>P-value:0<br/>Zscore:7.05<br/>#EST:326<br/>Adj. #EST:20.82

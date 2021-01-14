@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04779<br/>GeneSymbol:SIRPB1<br/>P-value:1.64e-23<br/>Zscore:6.64<br/>#EST:23<br/>Adj. #EST:20.59

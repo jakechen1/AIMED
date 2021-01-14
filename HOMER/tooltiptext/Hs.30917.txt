@@ -1,0 +1,1 @@
+brain	HMID:HM04927<br/>GeneSymbol:CREG2<br/>P-value:9.56e-25<br/>Zscore:6.68<br/>#EST:40<br/>Adj. #EST:5.03

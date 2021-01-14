@@ -1,0 +1,1 @@
+brain	HMID:HM07019<br/>GeneSymbol:AMPH<br/>P-value:2.23e-99<br/>Zscore:5.47<br/>#EST:204<br/>Adj. #EST:4.42

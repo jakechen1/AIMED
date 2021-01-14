@@ -1,0 +1,2 @@
+bladder	HMID:HM01242<br/>GeneSymbol:ALDH3B2<br/>P-value:1.37e-18<br/>Zscore:4.17<br/>#EST:19<br/>Adj. #EST:19.12
+mouth	HMID:HM01242<br/>GeneSymbol:ALDH3B2<br/>P-value:1.68e-55<br/>Zscore:5.24<br/>#EST:53<br/>Adj. #EST:23.66

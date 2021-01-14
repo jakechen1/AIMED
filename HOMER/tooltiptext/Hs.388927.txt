@@ -1,0 +1,2 @@
+parathyroid gland	HMID:HM03735<br/>GeneSymbol:YY1<br/>P-value:1.2e-17<br/>Zscore:4.83<br/>#EST:27<br/>Adj. #EST:9.33
+lymph node	HMID:HM06619<br/>GeneSymbol:YY1<br/>P-value:1.78e-65<br/>Zscore:4.41<br/>#EST:111<br/>Adj. #EST:8.6

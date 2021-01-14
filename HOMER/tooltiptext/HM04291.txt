@@ -1,0 +1,1 @@
+eye	HMID:HM04291<br/>GeneSymbol:NRTN<br/>P-value:1.53e-14<br/>Zscore:6.78<br/>#EST:13<br/>Adj. #EST:17.95

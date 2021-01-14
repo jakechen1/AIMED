@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03666<br/>GeneSymbol:VSTM1<br/>P-value:2.51e-17<br/>Zscore:6.98<br/>#EST:12<br/>Adj. #EST:42.58

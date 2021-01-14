@@ -1,0 +1,1 @@
+lymph	HMID:HM04128<br/>GeneSymbol:PHRF1<br/>P-value:3.75e-15<br/>Zscore:5.68<br/>#EST:20<br/>Adj. #EST:11.23

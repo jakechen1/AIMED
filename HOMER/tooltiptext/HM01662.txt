@@ -1,0 +1,1 @@
+ear	HMID:HM01662<br/>GeneSymbol:COL11A1<br/>P-value:1.33e-40<br/>Zscore:6.85<br/>#EST:29<br/>Adj. #EST:54.19

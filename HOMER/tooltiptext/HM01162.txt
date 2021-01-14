@@ -1,0 +1,1 @@
+bladder	HMID:HM01162<br/>GeneSymbol:PPIB<br/>P-value:3.68e-59<br/>Zscore:6.19<br/>#EST:71<br/>Adj. #EST:15.75

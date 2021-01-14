@@ -1,0 +1,2 @@
+pharynx	HMID:HM05860<br/>GeneSymbol:DSG3<br/>P-value:4.38e-38<br/>Zscore:4.73<br/>#EST:30<br/>Adj. #EST:38.12
+mouth	HMID:HM06407<br/>GeneSymbol:DSG3<br/>P-value:2.13e-54<br/>Zscore:4.25<br/>#EST:44<br/>Adj. #EST:34.5

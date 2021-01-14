@@ -1,0 +1,2 @@
+spleen	HMID:HM04080<br/>GeneSymbol:GCKR<br/>P-value:2.56e-19<br/>Zscore:4.8<br/>#EST:27<br/>Adj. #EST:8.75
+liver	HMID:HM02763<br/>GeneSymbol:GCKR<br/>P-value:3.29e-14<br/>Zscore:4.42<br/>#EST:21<br/>Adj. #EST:8.11

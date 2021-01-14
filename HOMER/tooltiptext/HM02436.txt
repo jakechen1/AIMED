@@ -1,0 +1,1 @@
+skin	HMID:HM02436<br/>GeneSymbol:ELOVL3<br/>P-value:7.9e-27<br/>Zscore:7<br/>#EST:22<br/>Adj. #EST:20.74

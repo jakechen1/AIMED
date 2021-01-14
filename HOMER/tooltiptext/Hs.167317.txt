@@ -1,0 +1,1 @@
+brain	HMID:HM07665<br/>GeneSymbol:SNAP25<br/>P-value:0<br/>Zscore:6.53<br/>#EST:2780<br/>Adj. #EST:5.11

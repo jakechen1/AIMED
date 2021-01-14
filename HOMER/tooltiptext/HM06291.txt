@@ -1,0 +1,1 @@
+lymph	HMID:HM06291<br/>GeneSymbol:NCKIPSD<br/>P-value:3.03e-07<br/>Zscore:4.1<br/>#EST:11<br/>Adj. #EST:7.61

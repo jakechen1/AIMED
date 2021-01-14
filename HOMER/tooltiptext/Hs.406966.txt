@@ -1,0 +1,1 @@
+testis	HMID:HM05711<br/>GeneSymbol:TPPP2<br/>P-value:6.08e-35<br/>Zscore:6.7<br/>#EST:38<br/>Adj. #EST:11.19

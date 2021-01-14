@@ -1,0 +1,1 @@
+eye	HMID:HM04236<br/>GeneSymbol:RNF157<br/>P-value:1.07e-14<br/>Zscore:5.04<br/>#EST:34<br/>Adj. #EST:5.03

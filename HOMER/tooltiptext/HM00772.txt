@@ -1,0 +1,1 @@
+bone	HMID:HM00772<br/>GeneSymbol:CD163<br/>P-value:2.22e-88<br/>Zscore:5.62<br/>#EST:113<br/>Adj. #EST:12.79

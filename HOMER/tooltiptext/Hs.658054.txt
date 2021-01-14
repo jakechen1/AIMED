@@ -1,0 +1,1 @@
+pharynx	HMID:HM04734<br/>GeneSymbol:<br/>P-value:2.81e-23<br/>Zscore:6.91<br/>#EST:13<br/>Adj. #EST:90.86

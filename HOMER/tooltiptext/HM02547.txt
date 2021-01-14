@@ -1,0 +1,1 @@
+bone marrow	HMID:HM02547<br/>GeneSymbol:IFITM2<br/>P-value:1.41e-25<br/>Zscore:4.17<br/>#EST:50<br/>Adj. #EST:6.79

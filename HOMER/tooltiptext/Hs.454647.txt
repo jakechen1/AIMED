@@ -1,0 +1,1 @@
+testis	HMID:HM05563<br/>GeneSymbol:GOLGA8E<br/>P-value:1.31e-32<br/>Zscore:7.05<br/>#EST:30<br/>Adj. #EST:13.25

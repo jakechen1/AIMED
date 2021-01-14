@@ -1,0 +1,1 @@
+spleen	HMID:HM05358<br/>GeneSymbol:KEL<br/>P-value:1.28e-10<br/>Zscore:5.66<br/>#EST:14<br/>Adj. #EST:9.73

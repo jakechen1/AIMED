@@ -1,0 +1,1 @@
+cervix	HMID:HM04478<br/>GeneSymbol:FOLR1<br/>P-value:1.24e-21<br/>Zscore:5.69<br/>#EST:24<br/>Adj. #EST:16.31

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM02211<br/>GeneSymbol:DTNBP1<br/>P-value:1.21e-12<br/>Zscore:4.97<br/>#EST:19<br/>Adj. #EST:8.71

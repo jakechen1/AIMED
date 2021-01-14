@@ -1,0 +1,1 @@
+bone marrow	HMID:HM03191<br/>GeneSymbol:MRPL52<br/>P-value:1.45e-15<br/>Zscore:5.29<br/>#EST:21<br/>Adj. #EST:10.76

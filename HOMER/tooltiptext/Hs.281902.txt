@@ -1,0 +1,1 @@
+blood vessel	HMID:HM05491<br/>GeneSymbol:SUGT1<br/>P-value:2.55e-31<br/>Zscore:4.73<br/>#EST:43<br/>Adj. #EST:11.27

@@ -1,0 +1,1 @@
+larynx	HMID:HM04232<br/>GeneSymbol:RYR1<br/>P-value:1.03e-14<br/>Zscore:6.19<br/>#EST:12<br/>Adj. #EST:30.58

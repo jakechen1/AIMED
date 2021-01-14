@@ -1,0 +1,1 @@
+larynx	HMID:HM05815<br/>GeneSymbol:ATP2B4<br/>P-value:4.82e-09<br/>Zscore:5.05<br/>#EST:17<br/>Adj. #EST:6.23

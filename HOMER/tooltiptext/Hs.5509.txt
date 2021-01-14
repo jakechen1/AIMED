@@ -1,0 +1,1 @@
+blood	HMID:HM06559<br/>GeneSymbol:EVI2B<br/>P-value:1.83e-61<br/>Zscore:5.76<br/>#EST:70<br/>Adj. #EST:15.24

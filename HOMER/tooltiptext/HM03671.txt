@@ -1,0 +1,1 @@
+trachea	HMID:HM03671<br/>GeneSymbol:GPD1L<br/>P-value:2.07e-17<br/>Zscore:5.63<br/>#EST:27<br/>Adj. #EST:8.95

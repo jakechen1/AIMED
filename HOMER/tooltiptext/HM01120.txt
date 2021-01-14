@@ -1,0 +1,1 @@
+testis	HMID:HM01120<br/>GeneSymbol:TRIM36<br/>P-value:6.59e-61<br/>Zscore:5.89<br/>#EST:101<br/>Adj. #EST:7.13

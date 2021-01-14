@@ -1,0 +1,1 @@
+spleen	HMID:HM05563<br/>GeneSymbol:TNFAIP8L2<br/>P-value:6.69e-10<br/>Zscore:4.6<br/>#EST:16<br/>Adj. #EST:7.25

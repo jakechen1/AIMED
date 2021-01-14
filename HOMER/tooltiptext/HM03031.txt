@@ -1,0 +1,1 @@
+prostate	HMID:HM03031<br/>GeneSymbol:TRPM8<br/>P-value:1.42e-21<br/>Zscore:6.88<br/>#EST:21<br/>Adj. #EST:17.3

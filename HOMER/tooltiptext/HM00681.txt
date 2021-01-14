@@ -1,0 +1,1 @@
+placenta	HMID:HM00681<br/>GeneSymbol:SLC22A11<br/>P-value:1.04e-98<br/>Zscore:6.48<br/>#EST:109<br/>Adj. #EST:13.9

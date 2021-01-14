@@ -1,0 +1,1 @@
+tonsil	HMID:HM05905<br/>GeneSymbol:ANP32B<br/>P-value:1.02e-08<br/>Zscore:4.69<br/>#EST:14<br/>Adj. #EST:7.57

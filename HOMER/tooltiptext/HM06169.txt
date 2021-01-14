@@ -1,0 +1,1 @@
+lymph node	HMID:HM06169<br/>GeneSymbol:KLF12<br/>P-value:9.39e-08<br/>Zscore:5.09<br/>#EST:15<br/>Adj. #EST:5.68

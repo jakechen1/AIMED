@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05364<br/>GeneSymbol:NUPR1<br/>P-value:1.35e-10<br/>Zscore:6.13<br/>#EST:13<br/>Adj. #EST:12.02

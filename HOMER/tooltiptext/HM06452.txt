@@ -1,0 +1,1 @@
+brain	HMID:HM06452<br/>GeneSymbol:TMC2<br/>P-value:1.45e-06<br/>Zscore:5.34<br/>#EST:10<br/>Adj. #EST:4.69

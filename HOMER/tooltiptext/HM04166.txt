@@ -1,0 +1,1 @@
+muscle	HMID:HM04166<br/>GeneSymbol:RAPSN<br/>P-value:5.47e-15<br/>Zscore:6.69<br/>#EST:13<br/>Adj. #EST:22.66

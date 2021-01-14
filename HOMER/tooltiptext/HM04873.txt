@@ -1,0 +1,1 @@
+small intestine	HMID:HM04873<br/>GeneSymbol:SLC13A2<br/>P-value:2.61e-12<br/>Zscore:4.94<br/>#EST:11<br/>Adj. #EST:22.72

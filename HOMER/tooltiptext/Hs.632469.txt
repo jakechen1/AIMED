@@ -1,0 +1,1 @@
+pharynx	HMID:HM03421<br/>GeneSymbol:RAB25<br/>P-value:3.67e-16<br/>Zscore:5.43<br/>#EST:20<br/>Adj. #EST:12.8

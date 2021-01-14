@@ -1,0 +1,1 @@
+pancreas	HMID:HM04669<br/>GeneSymbol:FEV<br/>P-value:8.49e-23<br/>Zscore:7<br/>#EST:18<br/>Adj. #EST:23.29

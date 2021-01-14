@@ -1,0 +1,1 @@
+colon	HMID:HM02073<br/>GeneSymbol:CDX2<br/>P-value:3.26e-32<br/>Zscore:4.51<br/>#EST:27<br/>Adj. #EST:23.06

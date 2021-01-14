@@ -1,0 +1,1 @@
+brain	HMID:HM07218<br/>GeneSymbol:FAIM2<br/>P-value:6.63e-136<br/>Zscore:4.77<br/>#EST:279<br/>Adj. #EST:4.43

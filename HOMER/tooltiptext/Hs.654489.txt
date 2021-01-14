@@ -1,0 +1,1 @@
+muscle	HMID:HM05271<br/>GeneSymbol:PRPH2<br/>P-value:1.62e-28<br/>Zscore:6.36<br/>#EST:28<br/>Adj. #EST:19.73

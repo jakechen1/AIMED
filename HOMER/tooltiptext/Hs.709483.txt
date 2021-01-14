@@ -1,0 +1,1 @@
+spleen	HMID:HM06958<br/>GeneSymbol:TRIM10<br/>P-value:1.21e-93<br/>Zscore:6.35<br/>#EST:102<br/>Adj. #EST:13.23

@@ -1,0 +1,2 @@
+bone marrow	HMID:HM04022<br/>GeneSymbol:RAD50<br/>P-value:1.17e-15<br/>Zscore:4.29<br/>#EST:27<br/>Adj. #EST:7.53
+mouth	HMID:HM04022<br/>GeneSymbol:RAD50<br/>P-value:1.12e-13<br/>Zscore:4.09<br/>#EST:24<br/>Adj. #EST:7.23

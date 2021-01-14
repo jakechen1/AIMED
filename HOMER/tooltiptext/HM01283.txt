@@ -1,0 +1,1 @@
+bone marrow	HMID:HM01283<br/>GeneSymbol:RNASE2<br/>P-value:3.84e-53<br/>Zscore:7.06<br/>#EST:32<br/>Adj. #EST:66.14

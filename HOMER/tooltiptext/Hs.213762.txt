@@ -1,0 +1,1 @@
+trachea	HMID:HM03220<br/>GeneSymbol:WDR49<br/>P-value:1.11e-15<br/>Zscore:6.82<br/>#EST:11<br/>Adj. #EST:42.84

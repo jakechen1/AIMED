@@ -1,0 +1,2 @@
+placenta	HMID:HM04694<br/>GeneSymbol:<br/>P-value:4.98e-23<br/>Zscore:5.36<br/>#EST:30<br/>Adj. #EST:10.29
+spleen	HMID:HM04217<br/>GeneSymbol:<br/>P-value:4.07e-20<br/>Zscore:4.17<br/>#EST:30<br/>Adj. #EST:8.11

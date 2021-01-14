@@ -1,0 +1,1 @@
+colon	HMID:HM06782<br/>GeneSymbol:MUC5B<br/>P-value:7.19e-76<br/>Zscore:4.15<br/>#EST:97<br/>Adj. #EST:12.14

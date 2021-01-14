@@ -1,0 +1,1 @@
+prostate	HMID:HM01135<br/>GeneSymbol:RPL36A<br/>P-value:3.23e-60<br/>Zscore:4.6<br/>#EST:115<br/>Adj. #EST:6.96

@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM02458<br/>GeneSymbol:EPHA1<br/>P-value:1.25e-26<br/>Zscore:6.81<br/>#EST:18<br/>Adj. #EST:58.92

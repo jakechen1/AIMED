@@ -1,0 +1,1 @@
+testis	HMID:HM05239<br/>GeneSymbol:IFLTD1<br/>P-value:4.78e-11<br/>Zscore:4.39<br/>#EST:13<br/>Adj. #EST:9.27

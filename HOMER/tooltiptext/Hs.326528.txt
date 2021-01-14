@@ -1,0 +1,1 @@
+testis	HMID:HM06173<br/>GeneSymbol:SPATA8<br/>P-value:1.51e-45<br/>Zscore:7.05<br/>#EST:48<br/>Adj. #EST:11.7

@@ -1,0 +1,2 @@
+larynx	HMID:HM00469<br/>GeneSymbol:KRT23<br/>P-value:6.99e-08<br/>Zscore:4.08<br/>#EST:11<br/>Adj. #EST:8.93
+placenta	HMID:HM07177<br/>GeneSymbol:KRT23<br/>P-value:3.16e-124<br/>Zscore:5.4<br/>#EST:158<br/>Adj. #EST:11.58

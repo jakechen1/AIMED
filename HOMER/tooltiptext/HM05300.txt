@@ -1,0 +1,1 @@
+stomach	HMID:HM05300<br/>GeneSymbol:FBXL6<br/>P-value:7.84e-11<br/>Zscore:4.15<br/>#EST:20<br/>Adj. #EST:6.29

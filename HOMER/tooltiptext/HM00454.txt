@@ -1,0 +1,1 @@
+brain	HMID:HM00454<br/>GeneSymbol:MPP2<br/>P-value:0<br/>Zscore:5.86<br/>#EST:292<br/>Adj. #EST:4.28

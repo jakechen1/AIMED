@@ -1,0 +1,1 @@
+thymus	HMID:HM00450<br/>GeneSymbol:SRSF2<br/>P-value:0<br/>Zscore:5.1<br/>#EST:290<br/>Adj. #EST:6.62

@@ -1,0 +1,1 @@
+placenta	HMID:HM04424<br/>GeneSymbol:EXOC6B<br/>P-value:5.87e-14<br/>Zscore:4.2<br/>#EST:36<br/>Adj. #EST:4.44

@@ -1,0 +1,1 @@
+cervix	HMID:HM00005<br/>GeneSymbol:AEN<br/>P-value:9.67e-06<br/>Zscore:4.21<br/>#EST:12<br/>Adj. #EST:4.87

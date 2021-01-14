@@ -1,0 +1,1 @@
+blood vessel	HMID:HM03738<br/>GeneSymbol:FRA10AC1<br/>P-value:5.22e-17<br/>Zscore:4.88<br/>#EST:24<br/>Adj. #EST:10.03

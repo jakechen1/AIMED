@@ -1,0 +1,1 @@
+gallbladder	HMID:HM06931<br/>GeneSymbol:SERPINA1<br/>P-value:7.4e-91<br/>Zscore:6.89<br/>#EST:69<br/>Adj. #EST:50.52

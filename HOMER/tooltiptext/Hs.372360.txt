@@ -1,0 +1,1 @@
+trachea	HMID:HM00946<br/>GeneSymbol:BBS9<br/>P-value:2.1e-09<br/>Zscore:5.07<br/>#EST:15<br/>Adj. #EST:7.67

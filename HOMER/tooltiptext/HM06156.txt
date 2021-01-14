@@ -1,0 +1,1 @@
+salivary gland	HMID:HM06156<br/>GeneSymbol:PPDPF<br/>P-value:8.28e-08<br/>Zscore:4.42<br/>#EST:14<br/>Adj. #EST:6.37

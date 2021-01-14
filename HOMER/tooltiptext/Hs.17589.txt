@@ -1,0 +1,1 @@
+spleen	HMID:HM01787<br/>GeneSymbol:FLJ40852<br/>P-value:1.12e-11<br/>Zscore:4.89<br/>#EST:15<br/>Adj. #EST:9.12

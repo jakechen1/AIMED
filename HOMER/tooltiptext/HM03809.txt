@@ -1,0 +1,1 @@
+pancreas	HMID:HM03809<br/>GeneSymbol:CCL18<br/>P-value:1.13e-16<br/>Zscore:4.69<br/>#EST:27<br/>Adj. #EST:7.63

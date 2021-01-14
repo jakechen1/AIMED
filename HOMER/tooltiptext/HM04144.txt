@@ -1,0 +1,1 @@
+testis	HMID:HM04144<br/>GeneSymbol:CCDC19<br/>P-value:4.36e-15<br/>Zscore:5.18<br/>#EST:27<br/>Adj. #EST:6.02

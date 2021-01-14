@@ -1,0 +1,1 @@
+muscle	HMID:HM05387<br/>GeneSymbol:ART3<br/>P-value:6.59e-30<br/>Zscore:5.87<br/>#EST:31<br/>Adj. #EST:17.89

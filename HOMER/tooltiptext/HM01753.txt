@@ -1,0 +1,1 @@
+lymph node	HMID:HM01753<br/>GeneSymbol:WIPF1<br/>P-value:4.13e-38<br/>Zscore:4.42<br/>#EST:53<br/>Adj. #EST:11.18

@@ -1,0 +1,1 @@
+brain	HMID:HM07345<br/>GeneSymbol:CPNE6<br/>P-value:8.32e-182<br/>Zscore:6.77<br/>#EST:277<br/>Adj. #EST:5.38

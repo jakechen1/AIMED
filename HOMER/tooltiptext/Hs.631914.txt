@@ -1,0 +1,1 @@
+skin	HMID:HM05458<br/>GeneSymbol:UCN2<br/>P-value:8.33e-31<br/>Zscore:7.07<br/>#EST:22<br/>Adj. #EST:25.65

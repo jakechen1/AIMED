@@ -1,0 +1,1 @@
+pharynx	HMID:HM01551<br/>GeneSymbol:C8orf59<br/>P-value:4e-11<br/>Zscore:5.15<br/>#EST:15<br/>Adj. #EST:10.27

@@ -1,0 +1,1 @@
+brain	HMID:HM04064<br/>GeneSymbol:CNPY1<br/>P-value:3.32e-19<br/>Zscore:6.85<br/>#EST:26<br/>Adj. #EST:5.57

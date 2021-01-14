@@ -1,0 +1,1 @@
+bladder	HMID:HM00652<br/>GeneSymbol:HIGD1A<br/>P-value:0<br/>Zscore:5.09<br/>#EST:111<br/>Adj. #EST:19.27

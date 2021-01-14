@@ -1,0 +1,1 @@
+testis	HMID:HM03317<br/>GeneSymbol:RFX3<br/>P-value:1.84e-19<br/>Zscore:4.87<br/>#EST:38<br/>Adj. #EST:5.65

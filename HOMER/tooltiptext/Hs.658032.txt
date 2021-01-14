@@ -1,0 +1,1 @@
+mouth	HMID:HM06683<br/>GeneSymbol:ATP13A5<br/>P-value:1.2e-69<br/>Zscore:7.04<br/>#EST:41<br/>Adj. #EST:74.44

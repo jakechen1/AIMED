@@ -1,0 +1,1 @@
+blood	HMID:HM06035<br/>GeneSymbol:TNFRSF10C<br/>P-value:5.98e-42<br/>Zscore:5.08<br/>#EST:41<br/>Adj. #EST:19.53

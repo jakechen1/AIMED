@@ -1,0 +1,1 @@
+lymph	HMID:HM06505<br/>GeneSymbol:ATG4A<br/>P-value:2.98e-06<br/>Zscore:4.74<br/>#EST:10<br/>Adj. #EST:6.77

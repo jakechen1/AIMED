@@ -1,0 +1,1 @@
+adipose	HMID:HM05151<br/>GeneSymbol:CFD<br/>P-value:2.09e-11<br/>Zscore:5.62<br/>#EST:11<br/>Adj. #EST:19.67

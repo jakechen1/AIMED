@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00113<br/>GeneSymbol:C17orf89<br/>P-value:1.61e-06<br/>Zscore:4.08<br/>#EST:11<br/>Adj. #EST:6.38

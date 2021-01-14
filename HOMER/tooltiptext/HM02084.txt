@@ -1,0 +1,1 @@
+rectum	HMID:HM02084<br/>GeneSymbol:ACTA2<br/>P-value:4.02e-32<br/>Zscore:5.1<br/>#EST:32<br/>Adj. #EST:22.68

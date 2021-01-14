@@ -1,0 +1,1 @@
+trachea	HMID:HM01307<br/>GeneSymbol:AZIN1<br/>P-value:2.17e-52<br/>Zscore:5.91<br/>#EST:107<br/>Adj. #EST:6.79

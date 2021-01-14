@@ -1,0 +1,1 @@
+brain	HMID:HM01710<br/>GeneSymbol:PRRT1<br/>P-value:3.98e-39<br/>Zscore:4.79<br/>#EST:66<br/>Adj. #EST:4.89

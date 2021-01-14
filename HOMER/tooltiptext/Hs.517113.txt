@@ -1,0 +1,1 @@
+embryo	HMID:HM03782<br/>GeneSymbol:SALL4<br/>P-value:6.77e-18<br/>Zscore:5.5<br/>#EST:25<br/>Adj. #EST:9.26

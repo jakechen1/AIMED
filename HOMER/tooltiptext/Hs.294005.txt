@@ -1,0 +1,1 @@
+nerve	HMID:HM04415<br/>GeneSymbol:G6PC3<br/>P-value:2.44e-21<br/>Zscore:5.05<br/>#EST:35<br/>Adj. #EST:8.4

@@ -1,0 +1,1 @@
+lymph node	HMID:HM03549<br/>GeneSymbol:CR1<br/>P-value:9.31e-17<br/>Zscore:6.46<br/>#EST:15<br/>Adj. #EST:22.73

@@ -1,0 +1,1 @@
+testis	HMID:HM02254<br/>GeneSymbol:GDF3<br/>P-value:3.01e-29<br/>Zscore:6.81<br/>#EST:30<br/>Adj. #EST:11.89

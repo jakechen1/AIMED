@@ -1,0 +1,1 @@
+blood	HMID:HM06630<br/>GeneSymbol:BNIP3L<br/>P-value:2.03e-66<br/>Zscore:5.88<br/>#EST:149<br/>Adj. #EST:5.91

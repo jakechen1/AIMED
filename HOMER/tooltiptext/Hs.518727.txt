@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM03092<br/>GeneSymbol:RBM47<br/>P-value:3.05e-15<br/>Zscore:5.45<br/>#EST:18<br/>Adj. #EST:14.01

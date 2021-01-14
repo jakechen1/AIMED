@@ -1,0 +1,1 @@
+colon	HMID:HM03192<br/>GeneSymbol:HOXA10<br/>P-value:1.44e-15<br/>Zscore:5.56<br/>#EST:21<br/>Adj. #EST:9.86

@@ -1,0 +1,1 @@
+spleen	HMID:HM05919<br/>GeneSymbol:SLC22A25<br/>P-value:2.79e-39<br/>Zscore:5.77<br/>#EST:45<br/>Adj. #EST:11.99

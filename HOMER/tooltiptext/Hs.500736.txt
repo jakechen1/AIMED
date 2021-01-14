@@ -1,0 +1,1 @@
+bone	HMID:HM06319<br/>GeneSymbol:CRTAC1<br/>P-value:1.38e-50<br/>Zscore:6.26<br/>#EST:68<br/>Adj. #EST:11.31

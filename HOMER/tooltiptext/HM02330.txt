@@ -1,0 +1,2 @@
+heart	HMID:HM02330<br/>GeneSymbol:PAX3<br/>P-value:4.95e-14<br/>Zscore:4.09<br/>#EST:19<br/>Adj. #EST:10.07
+skin	HMID:HM02330<br/>GeneSymbol:PAX3<br/>P-value:3.21e-28<br/>Zscore:4.09<br/>#EST:38<br/>Adj. #EST:10.07

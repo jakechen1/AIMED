@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01163<br/>GeneSymbol:ATG3<br/>P-value:3.75e-59<br/>Zscore:5.41<br/>#EST:82<br/>Adj. #EST:11.55

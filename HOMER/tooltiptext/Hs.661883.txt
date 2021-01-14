@@ -1,0 +1,1 @@
+stomach	HMID:HM07635<br/>GeneSymbol:PGA4<br/>P-value:0<br/>Zscore:6.74<br/>#EST:395<br/>Adj. #EST:33.26

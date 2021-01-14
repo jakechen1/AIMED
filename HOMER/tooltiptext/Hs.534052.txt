@@ -1,0 +1,1 @@
+ganglia	HMID:HM04642<br/>GeneSymbol:ZFP36<br/>P-value:1.37e-22<br/>Zscore:6.82<br/>#EST:19<br/>Adj. #EST:32.3

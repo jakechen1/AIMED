@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06334<br/>GeneSymbol:LARP1B<br/>P-value:2.34e-51<br/>Zscore:6.82<br/>#EST:60<br/>Adj. #EST:15.42

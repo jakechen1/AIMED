@@ -1,0 +1,1 @@
+testis	HMID:HM02646<br/>GeneSymbol:NHEDC1<br/>P-value:1.47e-24<br/>Zscore:6.69<br/>#EST:32<br/>Adj. #EST:8.95

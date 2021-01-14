@@ -1,0 +1,1 @@
+rectum	HMID:HM05584<br/>GeneSymbol:TAX1BP3<br/>P-value:7.44e-10<br/>Zscore:6.61<br/>#EST:10<br/>Adj. #EST:17.01

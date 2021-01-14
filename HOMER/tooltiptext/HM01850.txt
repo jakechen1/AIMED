@@ -1,0 +1,1 @@
+lymph node	HMID:HM01850<br/>GeneSymbol:MTDH<br/>P-value:3.5e-36<br/>Zscore:4.35<br/>#EST:80<br/>Adj. #EST:5.97

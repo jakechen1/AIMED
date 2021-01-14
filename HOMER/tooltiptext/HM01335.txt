@@ -1,0 +1,1 @@
+pharynx	HMID:HM01335<br/>GeneSymbol:BAX<br/>P-value:5.02e-51<br/>Zscore:7.01<br/>#EST:37<br/>Adj. #EST:48.28

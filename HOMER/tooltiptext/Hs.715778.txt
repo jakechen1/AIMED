@@ -1,0 +1,2 @@
+lymph node	HMID:HM05319<br/>GeneSymbol:SNX20<br/>P-value:4.66e-29<br/>Zscore:4.9<br/>#EST:28<br/>Adj. #EST:21.21
+thymus	HMID:HM04463<br/>GeneSymbol:SNX20<br/>P-value:1.47e-21<br/>Zscore:4.21<br/>#EST:22<br/>Adj. #EST:18.43

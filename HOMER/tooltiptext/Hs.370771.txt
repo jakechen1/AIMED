@@ -1,0 +1,1 @@
+amnion	HMID:HM01892<br/>GeneSymbol:CDKN1A<br/>P-value:4.88e-12<br/>Zscore:6.29<br/>#EST:16<br/>Adj. #EST:10.93

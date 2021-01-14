@@ -1,0 +1,1 @@
+testis	HMID:HM03688<br/>GeneSymbol:RNF32<br/>P-value:1.92e-17<br/>Zscore:4.16<br/>#EST:33<br/>Adj. #EST:5.76

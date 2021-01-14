@@ -1,0 +1,1 @@
+thymus	HMID:HM01442<br/>GeneSymbol:UHRF1<br/>P-value:6.93e-11<br/>Zscore:5.12<br/>#EST:17<br/>Adj. #EST:8.04

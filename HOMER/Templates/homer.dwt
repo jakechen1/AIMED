@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="keywords" content="organ-specific" />
+    <meta name="description" content="Homer： Human Organ-specific Molecular Electrical Repository" />
+    <meta name="author" content="Jake Y. Chen, Fan Zhang" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Homer: Human Organ-specific Molecular Electrical Repository</title>
+    <!-- TemplateEndEditable -->
+    
+    <!-- TemplateBeginEditable name="head" -->
+    <style type="text/css" media="screen">
+        @import "site_jui.css";
+    </style>
+	<style type="text/css" media="screen">
+        @import "demo_table_jui.css";
+    </style>
+    <style type="text/css" media="screen">
+        @import "jquery-ui-1.7.2.custom.css";
+    </style>
+    <style type="text/css" media="screen">
+        /*
+			 * Override styles needed due to the mix of three different CSS sources! For proper examples
+			 * please see the themes example in the 'Examples' section of this site
+			 */
+        .dataTables_info
+        {
+            padding-top: 0;
+        }
+        .dataTables_paginate
+        {
+            padding-top: 0;
+        }
+        .css_right
+        {
+            float: right;
+        }
+        #example_wrapper .fg-toolbar
+        {
+            font-size: 0.8em;
+        }
+        #theme_links span
+        {
+            float: left;
+            padding: 2px 10px;
+        }
+    </style>
+    <!-- TemplateEndEditable -->
+</head>
+<body id="index" class="grid_2_3">
+    <div id="fw_container">
+        <div id="fw_header">
+            <h1>
+                <a href="index.html">
+                    <img src="homer.jpg" alt="Homer logo" width="77px" height="75px">Homer</a>
+          </h1>
+            <!-- TemplateBeginEditable name="headeditregion" -->
+			<div style="border-bottom-style:solid; border-bottom-width:3px; border-bottom-color:#c3d1ec">
+            <ul>
+                <li><a href="index.html">Search</a></li>
+                <li><a href="browse.html">Browse</a></li>
+                <li><a href="advsearch.html">Advanced Search</a></li>
+                <li><a href="download.html">Download</a></li>
+                <li><a href="help.html">Help</a></li>
+                <li><a href="statistics.html">Statistics</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+                    
+            <div class="css_clear"></div>
+            </div>
+            <!-- TemplateEndEditable -->
+        </div>
+        <div id="fw_content">
+          <!-- TemplateBeginEditable name="EditRegion1" -->
+        body<!-- TemplateEndEditable -->
+        
+        </div>
+        
+        <div class="css_clear">
+        </div>       
+        
+        <div class="css_spacing">
+        </div>
+        <div class="css_clear">
+        </div>
+        <div id="fw_footer">
+            <div class="css_center">
+                Copyright 2011 - <a href="http://bio.informatics.iupui.edu/index.stm">Discovery Informatics
+                    and Computing Group</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

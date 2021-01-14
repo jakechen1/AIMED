@@ -1,0 +1,2 @@
+nerve	HMID:HM03558<br/>GeneSymbol:P2RY11<br/>P-value:8.31e-17<br/>Zscore:4.44<br/>#EST:28<br/>Adj. #EST:7.98
+lymph	HMID:HM01596<br/>GeneSymbol:P2RY11<br/>P-value:2.94e-11<br/>Zscore:4.07<br/>#EST:19<br/>Adj. #EST:7.4

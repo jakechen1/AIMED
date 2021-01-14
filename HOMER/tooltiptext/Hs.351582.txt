@@ -1,0 +1,2 @@
+blood vessel	HMID:HM01291<br/>GeneSymbol:C19orf51<br/>P-value:2.01e-10<br/>Zscore:4.17<br/>#EST:18<br/>Adj. #EST:6.96
+testis	HMID:HM06875<br/>GeneSymbol:C19orf51<br/>P-value:7.65e-85<br/>Zscore:5.21<br/>#EST:120<br/>Adj. #EST:8.57

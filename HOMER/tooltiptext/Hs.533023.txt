@@ -1,0 +1,1 @@
+testis	HMID:HM05893<br/>GeneSymbol:PCDHB2<br/>P-value:1.13e-38<br/>Zscore:5.09<br/>#EST:63<br/>Adj. #EST:7.12

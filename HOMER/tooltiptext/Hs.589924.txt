@@ -1,0 +1,1 @@
+lymph node	HMID:HM06891<br/>GeneSymbol:SBF1<br/>P-value:2.55e-86<br/>Zscore:6.2<br/>#EST:108<br/>Adj. #EST:13.99

@@ -1,0 +1,1 @@
+colon	HMID:HM04640<br/>GeneSymbol:TPSG1<br/>P-value:4.15e-13<br/>Zscore:7<br/>#EST:10<br/>Adj. #EST:24.4

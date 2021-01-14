@@ -1,0 +1,1 @@
+testis	HMID:HM00504<br/>GeneSymbol:MEX3B<br/>P-value:5.34e-08<br/>Zscore:4.32<br/>#EST:19<br/>Adj. #EST:4.19

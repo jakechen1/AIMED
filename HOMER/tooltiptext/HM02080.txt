@@ -1,0 +1,1 @@
+lymph	HMID:HM02080<br/>GeneSymbol:PYCR1<br/>P-value:3.6e-32<br/>Zscore:5.15<br/>#EST:54<br/>Adj. #EST:8.54

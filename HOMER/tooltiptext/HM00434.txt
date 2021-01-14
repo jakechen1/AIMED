@@ -1,0 +1,1 @@
+blood vessel	HMID:HM00434<br/>GeneSymbol:KRT28<br/>P-value:0<br/>Zscore:7.07<br/>#EST:81<br/>Adj. #EST:67.67

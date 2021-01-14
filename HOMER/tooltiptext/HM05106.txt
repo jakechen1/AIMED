@@ -1,0 +1,1 @@
+mouth	HMID:HM05106<br/>GeneSymbol:BCAS3<br/>P-value:1.55e-11<br/>Zscore:5.48<br/>#EST:26<br/>Adj. #EST:5.26

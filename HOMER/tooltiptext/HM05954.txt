@@ -1,0 +1,1 @@
+spleen	HMID:HM05954<br/>GeneSymbol:GAB3<br/>P-value:1.59e-08<br/>Zscore:4.72<br/>#EST:14<br/>Adj. #EST:6.87

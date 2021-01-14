@@ -1,0 +1,1 @@
+nerve	HMID:HM05262<br/>GeneSymbol:C22orf36<br/>P-value:5.81e-11<br/>Zscore:6.23<br/>#EST:14<br/>Adj. #EST:10.91

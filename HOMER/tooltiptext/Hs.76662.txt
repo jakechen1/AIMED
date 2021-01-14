@@ -1,0 +1,1 @@
+nerve	HMID:HM01180<br/>GeneSymbol:ZDHHC16<br/>P-value:4.05e-10<br/>Zscore:4.04<br/>#EST:23<br/>Adj. #EST:5.09

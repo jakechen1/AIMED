@@ -1,0 +1,1 @@
+thyroid	HMID:HM04263<br/>GeneSymbol:DUOX1<br/>P-value:2.06e-20<br/>Zscore:5.57<br/>#EST:17<br/>Adj. #EST:29.96

@@ -1,0 +1,1 @@
+salivary gland	HMID:HM02076<br/>GeneSymbol:TRIOBP<br/>P-value:3.51e-32<br/>Zscore:6.64<br/>#EST:33<br/>Adj. #EST:20.86

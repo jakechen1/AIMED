@@ -1,0 +1,1 @@
+eye	HMID:HM03003<br/>GeneSymbol:CDH23<br/>P-value:8.82e-22<br/>Zscore:5.9<br/>#EST:27<br/>Adj. #EST:11.35

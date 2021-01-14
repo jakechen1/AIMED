@@ -1,0 +1,1 @@
+spleen	HMID:HM02224<br/>GeneSymbol:ATAD5<br/>P-value:1.1e-12<br/>Zscore:4.29<br/>#EST:24<br/>Adj. #EST:5.83

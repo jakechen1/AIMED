@@ -1,0 +1,1 @@
+muscle	HMID:HM05061<br/>GeneSymbol:LRDD<br/>P-value:1.11e-11<br/>Zscore:4.13<br/>#EST:19<br/>Adj. #EST:7.59

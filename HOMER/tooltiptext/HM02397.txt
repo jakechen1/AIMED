@@ -1,0 +1,1 @@
+liver	HMID:HM02397<br/>GeneSymbol:SERPINA4<br/>P-value:2.79e-27<br/>Zscore:4.88<br/>#EST:40<br/>Adj. #EST:8.72

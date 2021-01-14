@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM03313<br/>GeneSymbol:MYO1C<br/>P-value:1.77e-19<br/>Zscore:6.34<br/>#EST:24<br/>Adj. #EST:13.62

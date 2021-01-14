@@ -1,0 +1,2 @@
+ear	HMID:HM00497<br/>GeneSymbol:<br/>P-value:5.25e-11<br/>Zscore:5.07<br/>#EST:12<br/>Adj. #EST:15.11
+pancreas	HMID:HM00497<br/>GeneSymbol:<br/>P-value:0<br/>Zscore:4.5<br/>#EST:148<br/>Adj. #EST:13.51

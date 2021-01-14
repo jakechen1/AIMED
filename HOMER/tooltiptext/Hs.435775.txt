@@ -1,0 +1,1 @@
+spleen	HMID:HM01835<br/>GeneSymbol:C10orf47<br/>P-value:8.16e-12<br/>Zscore:4.18<br/>#EST:26<br/>Adj. #EST:4.96

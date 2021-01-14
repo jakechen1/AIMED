@@ -1,0 +1,1 @@
+trachea	HMID:HM00811<br/>GeneSymbol:RFX2<br/>P-value:4.86e-09<br/>Zscore:4.43<br/>#EST:16<br/>Adj. #EST:6.64

@@ -1,0 +1,1 @@
+spleen	HMID:HM00403<br/>GeneSymbol:CCNJL<br/>P-value:1.24e-07<br/>Zscore:4.34<br/>#EST:18<br/>Adj. #EST:4.32

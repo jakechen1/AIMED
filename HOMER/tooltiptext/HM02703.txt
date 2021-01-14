@@ -1,0 +1,1 @@
+salivary gland	HMID:HM02703<br/>GeneSymbol:SUB1<br/>P-value:4.8e-24<br/>Zscore:5.95<br/>#EST:35<br/>Adj. #EST:10.49

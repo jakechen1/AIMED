@@ -1,0 +1,1 @@
+small intestine	HMID:HM00970<br/>GeneSymbol:EPCAM<br/>P-value:3.58e-70<br/>Zscore:5.94<br/>#EST:79<br/>Adj. #EST:17.68

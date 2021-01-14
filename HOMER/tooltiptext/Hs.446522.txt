@@ -1,0 +1,1 @@
+ovary	HMID:HM07513<br/>GeneSymbol:RPL14<br/>P-value:0<br/>Zscore:4.38<br/>#EST:494<br/>Adj. #EST:9.91

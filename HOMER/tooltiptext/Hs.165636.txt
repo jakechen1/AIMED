@@ -1,0 +1,1 @@
+brain	HMID:HM07427<br/>GeneSymbol:DIRAS2<br/>P-value:1.02e-226<br/>Zscore:6.16<br/>#EST:366<br/>Adj. #EST:5.2

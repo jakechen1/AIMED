@@ -1,0 +1,1 @@
+blood	HMID:HM07457<br/>GeneSymbol:KLF2<br/>P-value:1.82e-254<br/>Zscore:6.97<br/>#EST:234<br/>Adj. #EST:23.27

@@ -1,0 +1,1 @@
+gallbladder	HMID:HM02054<br/>GeneSymbol:C3<br/>P-value:1.7e-32<br/>Zscore:6.86<br/>#EST:24<br/>Adj. #EST:49.94

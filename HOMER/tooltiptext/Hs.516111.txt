@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM06316<br/>GeneSymbol:DCTN1<br/>P-value:1.95e-50<br/>Zscore:6.79<br/>#EST:59<br/>Adj. #EST:16.68

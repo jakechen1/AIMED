@@ -1,0 +1,1 @@
+trachea	HMID:HM00591<br/>GeneSymbol:TICAM2<br/>P-value:0<br/>Zscore:6.89<br/>#EST:119<br/>Adj. #EST:18.72

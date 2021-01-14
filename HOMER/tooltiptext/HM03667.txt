@@ -1,0 +1,2 @@
+heart	HMID:HM03667<br/>GeneSymbol:LMOD3<br/>P-value:1.98e-17<br/>Zscore:5.04<br/>#EST:16<br/>Adj. #EST:20.36
+muscle	HMID:HM03667<br/>GeneSymbol:LMOD3<br/>P-value:1.02e-13<br/>Zscore:4.61<br/>#EST:13<br/>Adj. #EST:18.7

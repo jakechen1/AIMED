@@ -1,0 +1,1 @@
+lymph	HMID:HM02365<br/>GeneSymbol:PKN1<br/>P-value:9.41e-28<br/>Zscore:5.29<br/>#EST:44<br/>Adj. #EST:9.15

@@ -1,0 +1,1 @@
+cervix	HMID:HM04338<br/>GeneSymbol:EIF2S3<br/>P-value:2.24e-14<br/>Zscore:4.36<br/>#EST:32<br/>Adj. #EST:5.53

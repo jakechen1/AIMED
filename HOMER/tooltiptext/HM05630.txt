@@ -1,0 +1,1 @@
+testis	HMID:HM05630<br/>GeneSymbol:LRRC8B<br/>P-value:1.08e-09<br/>Zscore:5.51<br/>#EST:14<br/>Adj. #EST:7.13

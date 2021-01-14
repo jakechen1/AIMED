@@ -1,0 +1,1 @@
+lung	HMID:HM00779<br/>GeneSymbol:CXCL5<br/>P-value:7.43e-88<br/>Zscore:6.61<br/>#EST:98<br/>Adj. #EST:12.32

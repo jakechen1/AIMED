@@ -1,0 +1,1 @@
+prostate	HMID:HM06025<br/>GeneSymbol:TARP<br/>P-value:8.82e-42<br/>Zscore:5.78<br/>#EST:55<br/>Adj. #EST:11.39

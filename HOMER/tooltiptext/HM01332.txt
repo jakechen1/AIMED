@@ -1,0 +1,1 @@
+brain	HMID:HM01332<br/>GeneSymbol:GNG3<br/>P-value:4.42e-51<br/>Zscore:5.97<br/>#EST:98<br/>Adj. #EST:4.52

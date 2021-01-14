@@ -1,0 +1,1 @@
+placenta	HMID:HM07250<br/>GeneSymbol:EBI3<br/>P-value:1.18e-144<br/>Zscore:6.76<br/>#EST:147<br/>Adj. #EST:16.07

@@ -1,0 +1,1 @@
+colon	HMID:HM05598<br/>GeneSymbol:ANXA9<br/>P-value:8.12e-10<br/>Zscore:4.42<br/>#EST:15<br/>Adj. #EST:7.65

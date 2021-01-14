@@ -1,0 +1,1 @@
+muscle	HMID:HM01958<br/>GeneSymbol:RBM24<br/>P-value:3.82e-12<br/>Zscore:5.29<br/>#EST:14<br/>Adj. #EST:12.85

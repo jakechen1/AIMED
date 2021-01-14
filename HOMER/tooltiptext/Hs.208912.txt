@@ -1,0 +1,1 @@
+lymph	HMID:HM04709<br/>GeneSymbol:CENPM<br/>P-value:3.77e-23<br/>Zscore:6.56<br/>#EST:25<br/>Adj. #EST:17.27

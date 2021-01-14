@@ -1,0 +1,1 @@
+mouth	HMID:HM00792<br/>GeneSymbol:TSPAN17<br/>P-value:5.62e-09<br/>Zscore:4.73<br/>#EST:15<br/>Adj. #EST:7.08

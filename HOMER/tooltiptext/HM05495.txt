@@ -1,0 +1,1 @@
+leiomios	HMID:HM05495<br/>GeneSymbol:PPP2R1A<br/>P-value:4.05e-10<br/>Zscore:4.23<br/>#EST:21<br/>Adj. #EST:5.72

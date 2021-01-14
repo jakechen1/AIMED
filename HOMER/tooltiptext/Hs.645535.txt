@@ -1,0 +1,1 @@
+stomach	HMID:HM05129<br/>GeneSymbol:GGT1<br/>P-value:9.36e-27<br/>Zscore:5.42<br/>#EST:40<br/>Adj. #EST:9.14

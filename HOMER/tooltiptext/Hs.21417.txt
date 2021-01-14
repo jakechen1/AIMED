@@ -1,0 +1,1 @@
+brain	HMID:HM06846<br/>GeneSymbol:ZCCHC12<br/>P-value:8.77e-82<br/>Zscore:4.57<br/>#EST:138<br/>Adj. #EST:5.02

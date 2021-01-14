@@ -1,0 +1,1 @@
+mouth	HMID:HM07473<br/>GeneSymbol:TRIM29<br/>P-value:9.49e-279<br/>Zscore:6.56<br/>#EST:237<br/>Adj. #EST:32.66

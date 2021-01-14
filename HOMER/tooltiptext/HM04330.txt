@@ -1,0 +1,1 @@
+pancreas	HMID:HM04330<br/>GeneSymbol:FLJ43390<br/>P-value:2.14e-14<br/>Zscore:5.25<br/>#EST:25<br/>Adj. #EST:6.87

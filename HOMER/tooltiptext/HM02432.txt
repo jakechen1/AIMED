@@ -1,0 +1,1 @@
+testis	HMID:HM02432<br/>GeneSymbol:ATF7IP2<br/>P-value:7.31e-27<br/>Zscore:5.26<br/>#EST:43<br/>Adj. #EST:7.13

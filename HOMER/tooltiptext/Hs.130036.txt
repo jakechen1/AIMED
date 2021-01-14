@@ -1,0 +1,1 @@
+nerve	HMID:HM01059<br/>GeneSymbol:PPM1A<br/>P-value:9.66e-10<br/>Zscore:4.47<br/>#EST:20<br/>Adj. #EST:5.63

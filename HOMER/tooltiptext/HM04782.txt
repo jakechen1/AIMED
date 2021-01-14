@@ -1,0 +1,1 @@
+spleen	HMID:HM04782<br/>GeneSymbol:PPBP<br/>P-value:1.32e-12<br/>Zscore:5.46<br/>#EST:15<br/>Adj. #EST:11.8

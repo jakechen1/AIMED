@@ -1,0 +1,1 @@
+testis	HMID:HM04996<br/>GeneSymbol:KLF17<br/>P-value:6.05e-12<br/>Zscore:6.82<br/>#EST:13<br/>Adj. #EST:10.3

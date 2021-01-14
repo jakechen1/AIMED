@@ -1,0 +1,1 @@
+trachea	HMID:HM00106<br/>GeneSymbol:LTF<br/>P-value:0<br/>Zscore:7.04<br/>#EST:2813<br/>Adj. #EST:86.15

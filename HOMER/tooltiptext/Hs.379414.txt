@@ -1,0 +1,1 @@
+mouth	HMID:HM05127<br/>GeneSymbol:MFHAS1<br/>P-value:9.82e-27<br/>Zscore:5.92<br/>#EST:34<br/>Adj. #EST:12.84

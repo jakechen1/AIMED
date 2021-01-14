@@ -1,0 +1,1 @@
+salivary gland	HMID:HM04804<br/>GeneSymbol:EIF3G<br/>P-value:1.58e-12<br/>Zscore:5.75<br/>#EST:20<br/>Adj. #EST:8.27

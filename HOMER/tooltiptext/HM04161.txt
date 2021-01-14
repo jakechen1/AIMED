@@ -1,0 +1,1 @@
+bone marrow	HMID:HM04161<br/>GeneSymbol:ENPP1<br/>P-value:5.08e-15<br/>Zscore:4.61<br/>#EST:24<br/>Adj. #EST:8.3

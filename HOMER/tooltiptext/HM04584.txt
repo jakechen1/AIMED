@@ -1,0 +1,1 @@
+testis	HMID:HM04584<br/>GeneSymbol:AKNAD1<br/>P-value:2.41e-13<br/>Zscore:5.84<br/>#EST:17<br/>Adj. #EST:8.66

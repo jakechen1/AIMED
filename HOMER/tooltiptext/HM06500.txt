@@ -1,0 +1,1 @@
+muscle	HMID:HM06500<br/>GeneSymbol:CACNB1<br/>P-value:2.64e-06<br/>Zscore:4.4<br/>#EST:13<br/>Adj. #EST:4.99

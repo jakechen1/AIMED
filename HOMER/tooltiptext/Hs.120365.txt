@@ -1,0 +1,1 @@
+testis	HMID:HM00323<br/>GeneSymbol:PRSS50<br/>P-value:2.58e-07<br/>Zscore:4.85<br/>#EST:12<br/>Adj. #EST:5.85

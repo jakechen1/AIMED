@@ -1,0 +1,1 @@
+spleen	HMID:HM06762<br/>GeneSymbol:STAB2<br/>P-value:4.58e-74<br/>Zscore:6.49<br/>#EST:88<br/>Adj. #EST:11.73

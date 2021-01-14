@@ -1,0 +1,1 @@
+brain	HMID:HM06998<br/>GeneSymbol:STMN4<br/>P-value:1.28e-97<br/>Zscore:5.2<br/>#EST:211<br/>Adj. #EST:4.27

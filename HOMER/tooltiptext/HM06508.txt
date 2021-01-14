@@ -1,0 +1,1 @@
+heart	HMID:HM06508<br/>GeneSymbol:NANOS1<br/>P-value:3.19e-06<br/>Zscore:4.47<br/>#EST:10<br/>Adj. #EST:6.52

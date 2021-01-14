@@ -1,0 +1,1 @@
+trachea	HMID:HM04980<br/>GeneSymbol:TBCK<br/>P-value:5.26e-12<br/>Zscore:5.87<br/>#EST:20<br/>Adj. #EST:7.62

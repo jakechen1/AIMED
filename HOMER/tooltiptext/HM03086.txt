@@ -1,0 +1,1 @@
+embryo	HMID:HM03086<br/>GeneSymbol:MIXL1<br/>P-value:3.57e-21<br/>Zscore:6.93<br/>#EST:18<br/>Adj. #EST:19.52

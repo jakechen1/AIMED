@@ -1,0 +1,1 @@
+lymph node	HMID:HM05759<br/>GeneSymbol:ALOX5<br/>P-value:7.06e-36<br/>Zscore:5.96<br/>#EST:48<br/>Adj. #EST:11.88

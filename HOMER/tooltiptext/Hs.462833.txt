@@ -1,0 +1,1 @@
+trachea	HMID:HM02638<br/>GeneSymbol:SLFN13<br/>P-value:9.84e-14<br/>Zscore:5.85<br/>#EST:13<br/>Adj. #EST:20.49

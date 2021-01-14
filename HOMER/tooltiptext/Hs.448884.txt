@@ -1,0 +1,1 @@
+testis	HMID:HM03663<br/>GeneSymbol:TBC1D3P2<br/>P-value:2.55e-17<br/>Zscore:6.96<br/>#EST:17<br/>Adj. #EST:12.02

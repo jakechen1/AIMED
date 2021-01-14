@@ -1,0 +1,1 @@
+tonsil	HMID:HM01344<br/>GeneSymbol:SNHG5<br/>P-value:1.46e-10<br/>Zscore:5.05<br/>#EST:14<br/>Adj. #EST:10.57

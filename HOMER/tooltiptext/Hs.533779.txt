@@ -1,0 +1,1 @@
+embryo	HMID:HM07231<br/>GeneSymbol:CLDN6<br/>P-value:1.09e-139<br/>Zscore:6.51<br/>#EST:131<br/>Adj. #EST:18.81

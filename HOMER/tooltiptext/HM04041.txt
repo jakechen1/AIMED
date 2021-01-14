@@ -1,0 +1,1 @@
+trachea	HMID:HM04041<br/>GeneSymbol:WDR48<br/>P-value:1.52e-15<br/>Zscore:4.87<br/>#EST:34<br/>Adj. #EST:5.69

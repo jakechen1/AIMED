@@ -1,0 +1,1 @@
+blood	HMID:HM02695<br/>GeneSymbol:RASGRP2<br/>P-value:3.84e-24<br/>Zscore:4.48<br/>#EST:39<br/>Adj. #EST:8.3

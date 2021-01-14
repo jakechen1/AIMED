@@ -1,0 +1,1 @@
+blood vessel	HMID:HM06641<br/>GeneSymbol:FAF1<br/>P-value:6.44e-67<br/>Zscore:6.03<br/>#EST:89<br/>Adj. #EST:12.48

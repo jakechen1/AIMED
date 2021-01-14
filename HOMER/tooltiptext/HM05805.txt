@@ -1,0 +1,1 @@
+testis	HMID:HM05805<br/>GeneSymbol:GDF9<br/>P-value:4.29e-09<br/>Zscore:4.52<br/>#EST:13<br/>Adj. #EST:7.13

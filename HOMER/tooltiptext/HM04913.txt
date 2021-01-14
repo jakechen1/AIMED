@@ -1,0 +1,1 @@
+leiomios	HMID:HM04913<br/>GeneSymbol:AP2S1<br/>P-value:3.06e-12<br/>Zscore:6.92<br/>#EST:11<br/>Adj. #EST:23.76

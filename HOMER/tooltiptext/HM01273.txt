@@ -1,0 +1,1 @@
+brain	HMID:HM01273<br/>GeneSymbol:NLGN3<br/>P-value:9.74e-54<br/>Zscore:6.39<br/>#EST:95<br/>Adj. #EST:4.78

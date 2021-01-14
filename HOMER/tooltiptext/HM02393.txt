@@ -1,0 +1,2 @@
+kidney	HMID:HM02393<br/>GeneSymbol:AFM<br/>P-value:2.49e-23<br/>Zscore:5.14<br/>#EST:28<br/>Adj. #EST:12.06
+liver	HMID:HM02393<br/>GeneSymbol:AFM<br/>P-value:2.56e-27<br/>Zscore:4.61<br/>#EST:34<br/>Adj. #EST:10.85

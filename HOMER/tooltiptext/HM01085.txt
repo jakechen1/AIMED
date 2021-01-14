@@ -1,0 +1,1 @@
+placenta	HMID:HM01085<br/>GeneSymbol:WNT2<br/>P-value:1.05e-62<br/>Zscore:6.23<br/>#EST:71<br/>Adj. #EST:13.22

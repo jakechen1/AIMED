@@ -1,0 +1,1 @@
+spleen	HMID:HM03827<br/>GeneSymbol:DNASE1L3<br/>P-value:1.5e-16<br/>Zscore:4.83<br/>#EST:24<br/>Adj. #EST:9.18

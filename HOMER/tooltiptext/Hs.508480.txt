@@ -1,0 +1,1 @@
+larynx	HMID:HM06260<br/>GeneSymbol:RAP2A<br/>P-value:2.34e-48<br/>Zscore:6.75<br/>#EST:43<br/>Adj. #EST:29.96

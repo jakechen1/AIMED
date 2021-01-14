@@ -1,0 +1,1 @@
+esophagus	HMID:HM07397<br/>GeneSymbol:KRT6A<br/>P-value:6.82e-209<br/>Zscore:4.14<br/>#EST:190<br/>Adj. #EST:30.7

@@ -1,0 +1,1 @@
+embryo	HMID:HM07031<br/>GeneSymbol:POU5F1<br/>P-value:6.13e-101<br/>Zscore:6.94<br/>#EST:91<br/>Adj. #EST:19.81

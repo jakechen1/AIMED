@@ -1,0 +1,1 @@
+lymph	HMID:HM04490<br/>GeneSymbol:ABCF2<br/>P-value:1.1e-13<br/>Zscore:5.17<br/>#EST:23<br/>Adj. #EST:7.7

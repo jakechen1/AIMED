@@ -1,0 +1,1 @@
+pancreas	HMID:HM05187<br/>GeneSymbol:PCSK2<br/>P-value:2.09e-27<br/>Zscore:4.7<br/>#EST:70<br/>Adj. #EST:4.83

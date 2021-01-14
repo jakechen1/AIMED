@@ -1,0 +1,1 @@
+mouth	HMID:HM01736<br/>GeneSymbol:HIST1H2AI<br/>P-value:1.77e-38<br/>Zscore:7.07<br/>#EST:21<br/>Adj. #EST:82.51

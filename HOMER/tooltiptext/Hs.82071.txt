@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM01520<br/>GeneSymbol:CITED2<br/>P-value:4.84e-11<br/>Zscore:6.16<br/>#EST:15<br/>Adj. #EST:10.26

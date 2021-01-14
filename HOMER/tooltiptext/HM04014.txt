@@ -1,0 +1,1 @@
+lymph node	HMID:HM04014<br/>GeneSymbol:SPEN<br/>P-value:1.06e-15<br/>Zscore:4.39<br/>#EST:33<br/>Adj. #EST:5.87

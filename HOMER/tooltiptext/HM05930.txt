@@ -1,0 +1,1 @@
+pharynx	HMID:HM05930<br/>GeneSymbol:PSMB9<br/>P-value:1.26e-08<br/>Zscore:4.35<br/>#EST:12<br/>Adj. #EST:9.14

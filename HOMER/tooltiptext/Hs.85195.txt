@@ -1,0 +1,1 @@
+bladder	HMID:HM00406<br/>GeneSymbol:MLF1<br/>P-value:1.22e-07<br/>Zscore:4.78<br/>#EST:11<br/>Adj. #EST:8.44

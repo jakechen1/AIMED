@@ -1,0 +1,1 @@
+skin	HMID:HM06059<br/>GeneSymbol:SLC22A5<br/>P-value:1.97e-42<br/>Zscore:5.76<br/>#EST:67<br/>Adj. #EST:8.43

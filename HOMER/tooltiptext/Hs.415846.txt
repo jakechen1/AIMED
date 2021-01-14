@@ -1,0 +1,1 @@
+spleen	HMID:HM05297<br/>GeneSymbol:FTCD<br/>P-value:8.69e-29<br/>Zscore:4.99<br/>#EST:45<br/>Adj. #EST:7.89

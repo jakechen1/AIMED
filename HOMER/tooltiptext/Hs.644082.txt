@@ -1,0 +1,1 @@
+stomach	HMID:HM05352<br/>GeneSymbol:CTSE<br/>P-value:1.93e-29<br/>Zscore:5.56<br/>#EST:42<br/>Adj. #EST:9.85

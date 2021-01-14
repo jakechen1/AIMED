@@ -1,0 +1,1 @@
+lymph node	HMID:HM02572<br/>GeneSymbol:PTEN<br/>P-value:3.13e-25<br/>Zscore:4.31<br/>#EST:42<br/>Adj. #EST:8.28

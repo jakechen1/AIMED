@@ -1,0 +1,1 @@
+blood vessel	HMID:HM07143<br/>GeneSymbol:GBE1<br/>P-value:1.16e-117<br/>Zscore:6.63<br/>#EST:127<br/>Adj. #EST:18.56

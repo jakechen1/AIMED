@@ -1,0 +1,1 @@
+bone	HMID:HM05993<br/>GeneSymbol:ITGA11<br/>P-value:6.7e-41<br/>Zscore:4.02<br/>#EST:48<br/>Adj. #EST:13.84

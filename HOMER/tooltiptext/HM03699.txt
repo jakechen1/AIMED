@@ -1,0 +1,1 @@
+nerve	HMID:HM03699<br/>GeneSymbol:CYGB<br/>P-value:3.03e-17<br/>Zscore:5.19<br/>#EST:21<br/>Adj. #EST:12.94

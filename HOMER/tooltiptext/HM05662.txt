@@ -1,0 +1,1 @@
+parathyroid gland	HMID:HM05662<br/>GeneSymbol:THAP4<br/>P-value:1.52e-09<br/>Zscore:5.41<br/>#EST:13<br/>Adj. #EST:9.84

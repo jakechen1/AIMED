@@ -1,0 +1,1 @@
+testis	HMID:HM02177<br/>GeneSymbol:RSPH10B2<br/>P-value:1.56e-12<br/>Zscore:6.66<br/>#EST:15<br/>Adj. #EST:9.22

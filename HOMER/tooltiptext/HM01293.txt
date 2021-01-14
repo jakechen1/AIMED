@@ -1,0 +1,1 @@
+ovary	HMID:HM01293<br/>GeneSymbol:LY6E<br/>P-value:7.14e-53<br/>Zscore:4.89<br/>#EST:108<br/>Adj. #EST:6.64

@@ -1,0 +1,1 @@
+liver	HMID:HM00570<br/>GeneSymbol:ITIH3<br/>P-value:0<br/>Zscore:4.2<br/>#EST:119<br/>Adj. #EST:14.4

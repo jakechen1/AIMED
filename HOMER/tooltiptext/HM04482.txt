@@ -1,0 +1,1 @@
+tonsil	HMID:HM04482<br/>GeneSymbol:CYBASC3<br/>P-value:9.64e-14<br/>Zscore:4.71<br/>#EST:20<br/>Adj. #EST:9.67

@@ -1,0 +1,1 @@
+spleen	HMID:HM07647<br/>GeneSymbol:HBG1<br/>P-value:0<br/>Zscore:6.52<br/>#EST:2358<br/>Adj. #EST:13.33

@@ -1,0 +1,1 @@
+liver	HMID:HM01374<br/>GeneSymbol:A1CF<br/>P-value:3.2e-49<br/>Zscore:4.98<br/>#EST:67<br/>Adj. #EST:9.97

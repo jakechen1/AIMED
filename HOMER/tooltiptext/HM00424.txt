@@ -1,0 +1,1 @@
+brain	HMID:HM00424<br/>GeneSymbol:ANKS1B<br/>P-value:0<br/>Zscore:6.06<br/>#EST:291<br/>Adj. #EST:4.48

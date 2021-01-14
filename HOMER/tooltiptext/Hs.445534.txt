@@ -1,0 +1,1 @@
+trachea	HMID:HM01193<br/>GeneSymbol:PER1<br/>P-value:3.68e-10<br/>Zscore:5.12<br/>#EST:21<br/>Adj. #EST:5.67

@@ -1,0 +1,1 @@
+lymph node	HMID:HM06473<br/>GeneSymbol:CEP120<br/>P-value:1.9e-06<br/>Zscore:4.77<br/>#EST:11<br/>Adj. #EST:6.23

@@ -1,0 +1,1 @@
+trachea	HMID:HM06182<br/>GeneSymbol:ITPRIP<br/>P-value:1.07e-07<br/>Zscore:4.63<br/>#EST:13<br/>Adj. #EST:6.75

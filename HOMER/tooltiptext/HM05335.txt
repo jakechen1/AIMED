@@ -1,0 +1,1 @@
+adipose	HMID:HM05335<br/>GeneSymbol:DUSP1<br/>P-value:1.03e-10<br/>Zscore:4.07<br/>#EST:16<br/>Adj. #EST:8.84

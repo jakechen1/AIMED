@@ -1,0 +1,1 @@
+liver	HMID:HM00453<br/>GeneSymbol:SERPIND1<br/>P-value:0<br/>Zscore:6.38<br/>#EST:145<br/>Adj. #EST:14.58

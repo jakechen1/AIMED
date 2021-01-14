@@ -1,0 +1,1 @@
+pharynx	HMID:HM04757<br/>GeneSymbol:SAT1<br/>P-value:2.35e-23<br/>Zscore:4.01<br/>#EST:58<br/>Adj. #EST:5.19

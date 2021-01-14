@@ -1,0 +1,1 @@
+leiomios	HMID:HM01528<br/>GeneSymbol:PTGR1<br/>P-value:2.2e-44<br/>Zscore:7.03<br/>#EST:25<br/>Adj. #EST:127.69

@@ -1,0 +1,1 @@
+blood vessel	HMID:HM01820<br/>GeneSymbol:IRS1<br/>P-value:6.04e-37<br/>Zscore:6.25<br/>#EST:42<br/>Adj. #EST:15.74

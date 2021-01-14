@@ -1,0 +1,1 @@
+testis	HMID:HM06091<br/>GeneSymbol:LOXHD1<br/>P-value:2.06e-43<br/>Zscore:6.07<br/>#EST:46<br/>Adj. #EST:11.61

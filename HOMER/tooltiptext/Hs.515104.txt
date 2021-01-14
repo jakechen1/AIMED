@@ -1,0 +1,1 @@
+blood	HMID:HM03932<br/>GeneSymbol:STXBP2<br/>P-value:1.81e-18<br/>Zscore:4.02<br/>#EST:46<br/>Adj. #EST:4.91

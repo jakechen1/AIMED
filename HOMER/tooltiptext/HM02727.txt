@@ -1,0 +1,1 @@
+lymph	HMID:HM02727<br/>GeneSymbol:GRAP<br/>P-value:6.91e-24<br/>Zscore:6.8<br/>#EST:21<br/>Adj. #EST:26.7

@@ -1,0 +1,1 @@
+placenta	HMID:HM02217<br/>GeneSymbol:SLC43A2<br/>P-value:8.44e-30<br/>Zscore:5.35<br/>#EST:57<br/>Adj. #EST:6.43

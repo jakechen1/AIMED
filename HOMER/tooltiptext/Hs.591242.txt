@@ -1,0 +1,1 @@
+leiomios	HMID:HM00809<br/>GeneSymbol:UBXN4<br/>P-value:4.87e-09<br/>Zscore:6.49<br/>#EST:10<br/>Adj. #EST:13.95

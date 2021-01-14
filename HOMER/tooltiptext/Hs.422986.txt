@@ -1,0 +1,1 @@
+amnion	HMID:HM02940<br/>GeneSymbol:ANXA4<br/>P-value:9.67e-15<br/>Zscore:5.75<br/>#EST:15<br/>Adj. #EST:18.92

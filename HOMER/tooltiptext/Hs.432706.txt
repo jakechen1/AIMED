@@ -1,0 +1,1 @@
+lymph node	HMID:HM03931<br/>GeneSymbol:ANKRD44<br/>P-value:1.81e-18<br/>Zscore:4.75<br/>#EST:26<br/>Adj. #EST:10.2

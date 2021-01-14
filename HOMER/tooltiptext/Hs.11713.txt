@@ -1,0 +1,1 @@
+trachea	HMID:HM00934<br/>GeneSymbol:ELF5<br/>P-value:2.22e-09<br/>Zscore:4.79<br/>#EST:10<br/>Adj. #EST:14.55

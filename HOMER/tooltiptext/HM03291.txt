@@ -1,0 +1,1 @@
+thyroid	HMID:HM03291<br/>GeneSymbol:KRAS<br/>P-value:1.24e-19<br/>Zscore:4.68<br/>#EST:29<br/>Adj. #EST:9.82

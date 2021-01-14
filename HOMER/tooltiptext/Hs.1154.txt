@@ -1,0 +1,1 @@
+ovary	HMID:HM07467<br/>GeneSymbol:OVGP1<br/>P-value:2.6e-267<br/>Zscore:7.01<br/>#EST:188<br/>Adj. #EST:44.64

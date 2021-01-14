@@ -1,0 +1,1 @@
+prostate	HMID:HM06497<br/>GeneSymbol:AIDA<br/>P-value:1.95e-58<br/>Zscore:5.95<br/>#EST:96<br/>Adj. #EST:8.45

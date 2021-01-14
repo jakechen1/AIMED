@@ -1,0 +1,1 @@
+eye	HMID:HM04332<br/>GeneSymbol:KCNJ14<br/>P-value:2.19e-14<br/>Zscore:6.59<br/>#EST:14<br/>Adj. #EST:15.62

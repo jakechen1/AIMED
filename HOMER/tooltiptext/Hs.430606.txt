@@ -1,0 +1,1 @@
+colon	HMID:HM06897<br/>GeneSymbol:<br/>P-value:6.3e-87<br/>Zscore:6.36<br/>#EST:98<br/>Adj. #EST:14.87

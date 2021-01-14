@@ -1,0 +1,1 @@
+placenta	HMID:HM01181<br/>GeneSymbol:SERPINE2<br/>P-value:5.11e-58<br/>Zscore:4.01<br/>#EST:183<br/>Adj. #EST:4.07

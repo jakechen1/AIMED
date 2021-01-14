@@ -1,0 +1,1 @@
+muscle	HMID:HM00019<br/>GeneSymbol:MYL1<br/>P-value:0<br/>Zscore:5.06<br/>#EST:367<br/>Adj. #EST:40.84

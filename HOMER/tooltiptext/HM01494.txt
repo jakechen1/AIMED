@@ -1,0 +1,1 @@
+lymph node	HMID:HM01494<br/>GeneSymbol:PIK3CD<br/>P-value:2.29e-45<br/>Zscore:6.26<br/>#EST:51<br/>Adj. #EST:16.3

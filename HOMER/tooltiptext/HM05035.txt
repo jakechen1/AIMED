@@ -1,0 +1,1 @@
+thyroid	HMID:HM05035<br/>GeneSymbol:TNXB<br/>P-value:8.79e-12<br/>Zscore:4.21<br/>#EST:16<br/>Adj. #EST:10.24

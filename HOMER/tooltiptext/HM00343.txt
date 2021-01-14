@@ -1,0 +1,1 @@
+bone marrow	HMID:HM00343<br/>GeneSymbol:LILRA1<br/>P-value:0<br/>Zscore:7.06<br/>#EST:109<br/>Adj. #EST:68.36

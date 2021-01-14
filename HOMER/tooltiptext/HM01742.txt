@@ -1,0 +1,1 @@
+nerve	HMID:HM01742<br/>GeneSymbol:TUBB2B<br/>P-value:2.69e-38<br/>Zscore:4.72<br/>#EST:106<br/>Adj. #EST:4.76

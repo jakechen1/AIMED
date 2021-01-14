@@ -1,0 +1,1 @@
+lymph	HMID:HM06487<br/>GeneSymbol:MUTYH<br/>P-value:2.27e-06<br/>Zscore:4.66<br/>#EST:11<br/>Adj. #EST:6.2

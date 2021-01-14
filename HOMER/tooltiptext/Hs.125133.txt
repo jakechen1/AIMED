@@ -1,0 +1,1 @@
+ovary	HMID:HM00191<br/>GeneSymbol:HPS6<br/>P-value:7.75e-07<br/>Zscore:4.06<br/>#EST:13<br/>Adj. #EST:5.58

@@ -1,0 +1,1 @@
+brain	HMID:HM06545<br/>GeneSymbol:FAM123A<br/>P-value:7.74e-61<br/>Zscore:4.78<br/>#EST:120<br/>Adj. #EST:4.51

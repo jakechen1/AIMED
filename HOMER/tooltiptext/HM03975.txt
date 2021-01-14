@@ -1,0 +1,1 @@
+placenta	HMID:HM03975<br/>GeneSymbol:FLJ11292<br/>P-value:8.45e-16<br/>Zscore:7.07<br/>#EST:11<br/>Adj. #EST:23.46

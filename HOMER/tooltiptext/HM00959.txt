@@ -1,0 +1,1 @@
+larynx	HMID:HM00959<br/>GeneSymbol:CLNS1A<br/>P-value:7.74e-71<br/>Zscore:6.96<br/>#EST:63<br/>Adj. #EST:30.72

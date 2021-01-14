@@ -1,0 +1,1 @@
+ovary	HMID:HM06252<br/>GeneSymbol:WTIP<br/>P-value:2.34e-07<br/>Zscore:5.56<br/>#EST:10<br/>Adj. #EST:8.71

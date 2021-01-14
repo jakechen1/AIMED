@@ -1,0 +1,1 @@
+thymus	HMID:HM01305<br/>GeneSymbol:NR2C1<br/>P-value:1.91e-10<br/>Zscore:4.95<br/>#EST:22<br/>Adj. #EST:5.53

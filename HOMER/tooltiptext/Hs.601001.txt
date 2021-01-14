@@ -1,0 +1,1 @@
+uterus	HMID:HM06862<br/>GeneSymbol:<br/>P-value:5.36e-83<br/>Zscore:4.57<br/>#EST:98<br/>Adj. #EST:12.85

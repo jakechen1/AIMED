@@ -1,0 +1,1 @@
+pituitary	HMID:HM03105<br/>GeneSymbol:COX7A2<br/>P-value:5.14e-21<br/>Zscore:6.3<br/>#EST:24<br/>Adj. #EST:15.86

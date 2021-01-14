@@ -1,0 +1,1 @@
+lymph node	HMID:HM03052<br/>GeneSymbol:RALGPS2<br/>P-value:4.31e-15<br/>Zscore:5.79<br/>#EST:21<br/>Adj. #EST:10.07

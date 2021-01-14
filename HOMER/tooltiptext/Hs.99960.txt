@@ -1,0 +1,2 @@
+salivary gland	HMID:HM04787<br/>GeneSymbol:MS4A3<br/>P-value:1.36e-23<br/>Zscore:5.39<br/>#EST:15<br/>Adj. #EST:69.8
+bone marrow	HMID:HM06680<br/>GeneSymbol:MS4A3<br/>P-value:1.56e-69<br/>Zscore:4.46<br/>#EST:45<br/>Adj. #EST:58.27

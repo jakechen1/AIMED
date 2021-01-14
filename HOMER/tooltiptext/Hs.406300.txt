@@ -1,0 +1,1 @@
+amnion	HMID:HM01783<br/>GeneSymbol:RPL23<br/>P-value:1.16e-11<br/>Zscore:4.96<br/>#EST:18<br/>Adj. #EST:8.61

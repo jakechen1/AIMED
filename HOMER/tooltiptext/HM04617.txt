@@ -1,0 +1,1 @@
+cervix	HMID:HM04617<br/>GeneSymbol:BCAT2<br/>P-value:3.21e-13<br/>Zscore:4.05<br/>#EST:23<br/>Adj. #EST:7.33

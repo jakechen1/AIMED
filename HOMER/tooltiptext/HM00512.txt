@@ -1,0 +1,1 @@
+thymus	HMID:HM00512<br/>GeneSymbol:PARP10<br/>P-value:0<br/>Zscore:6.21<br/>#EST:150<br/>Adj. #EST:14.62

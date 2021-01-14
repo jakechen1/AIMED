@@ -1,0 +1,1 @@
+testis	HMID:HM03722<br/>GeneSymbol:DAZ1<br/>P-value:4.22e-17<br/>Zscore:4.53<br/>#EST:26<br/>Adj. #EST:7.27

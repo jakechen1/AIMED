@@ -1,0 +1,1 @@
+rectum	HMID:HM04592<br/>GeneSymbol:CKB<br/>P-value:2.52e-13<br/>Zscore:6.07<br/>#EST:19<br/>Adj. #EST:9.98

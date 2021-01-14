@@ -1,0 +1,1 @@
+umbilical cord	HMID:HM02246<br/>GeneSymbol:SERPINE1<br/>P-value:2.44e-29<br/>Zscore:5.58<br/>#EST:34<br/>Adj. #EST:16.17

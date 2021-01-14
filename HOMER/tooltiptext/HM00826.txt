@@ -1,0 +1,1 @@
+pharynx	HMID:HM00826<br/>GeneSymbol:SPRR1B<br/>P-value:1.69e-82<br/>Zscore:5.96<br/>#EST:53<br/>Adj. #EST:69.16

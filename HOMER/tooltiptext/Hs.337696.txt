@@ -1,0 +1,1 @@
+nerve	HMID:HM01423<br/>GeneSymbol:SLC8A3<br/>P-value:8.28e-11<br/>Zscore:6.23<br/>#EST:11<br/>Adj. #EST:16.26

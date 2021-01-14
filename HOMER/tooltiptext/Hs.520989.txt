@@ -1,0 +1,1 @@
+pharynx	HMID:HM02428<br/>GeneSymbol:FGL2<br/>P-value:4.63e-13<br/>Zscore:5.39<br/>#EST:17<br/>Adj. #EST:11.27

@@ -1,0 +1,1 @@
+testis	HMID:HM05963<br/>GeneSymbol:SLFNL1<br/>P-value:2.72e-40<br/>Zscore:6.49<br/>#EST:51<br/>Adj. #EST:9.49

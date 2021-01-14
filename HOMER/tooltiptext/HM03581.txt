@@ -1,0 +1,1 @@
+breast	HMID:HM03581<br/>GeneSymbol:ANKRD26P1<br/>P-value:7.62e-18<br/>Zscore:6.63<br/>#EST:17<br/>Adj. #EST:17.76

@@ -1,0 +1,1 @@
+lymph node	HMID:HM06143<br/>GeneSymbol:ST6GAL1<br/>P-value:8.17e-45<br/>Zscore:5.09<br/>#EST:75<br/>Adj. #EST:8.59

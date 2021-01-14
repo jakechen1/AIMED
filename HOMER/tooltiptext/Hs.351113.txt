@@ -1,0 +1,1 @@
+blood vessel	HMID:HM04863<br/>GeneSymbol:DPPA2<br/>P-value:3.34e-24<br/>Zscore:7.04<br/>#EST:16<br/>Adj. #EST:47.13

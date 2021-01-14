@@ -1,0 +1,1 @@
+trachea	HMID:HM02396<br/>GeneSymbol:SLC5A8<br/>P-value:2.76e-27<br/>Zscore:6.91<br/>#EST:18<br/>Adj. #EST:55.18
