@@ -1,13 +1,13 @@
    <!--<b>Using OCI Extension Module to connect PHP to Oracle.<b>-->
   <?php
     $db="(DESCRIPTION =
-		(ADDRESS = (PROTOCOL = TCP)(HOST = rdc02.uits.iu.edu)(PORT = 1521))
+		(ADDRESS = (PROTOCOL = TCP)(HOST = )(PORT = ))
 		(CONNECT_DATA =
 			(SERVER = DEDICATED)
-			(SERVICE_NAME = BIODB.IU.EDU)
+			(SERVICE_NAME = )
 		)
 	)";
-    if ($conn=oci_connect("curation9","biokdd",$db)){
+    if ($conn=oci_connect("","",$db)){
       	   //echo "<B>SUCCESS ! Connected to BIO10G database<B>\n";
     }
     else{
