@@ -20,7 +20,7 @@ sh data_preprocess.sh
 ```
 
 ## Training and evaluation
-- Run the script to submit a model training job on the HPCC cluster. Tissue index can be changed in the script to train models for different tissues appearing in the [list](https://github.com/haochenucr/FINER/blob/main/src/train.sh).
+- Us the script to submit a model training job on the HPCC cluster.
 ```
 cd FINER/src/
 sbatch train_job.sh
