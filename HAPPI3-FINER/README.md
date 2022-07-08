@@ -25,7 +25,7 @@ sh data_preprocess.sh
 ```
 
 ## Model training
-- Us the script to submit a model training job on the HPCC cluster.
+- Us the script to submit a job for model training on the HPCC cluster.
 ```
 cd FINER/src/
 sbatch train_job.sh
