@@ -13,6 +13,11 @@ Follow the steps to prepare the tissue-specific datasets, which include (i) gene
 cd FINER/
 tar -zxvf data.tar.gz
 ```
+- HAPPI PPI data are saved in the `./HAPPI2_PPI` folder, you may need to first convert the UniProt IDs to gene names by running the script. If there are new IDs that are not included in the ID mapping file `./HAPPI2_PPI/uniprot_to_gene_name.txt`, you may find the mappings from https://www.uniprot.org/id-mapping.
+```
+cd HAPPI2_PPI/
+python convert_to_gene_name.py
+```
 - Run the `data_preprocess.sh` script to build co-expression networks of isoforms from their expression profiles in different RNA-seq experiments (measured in Transcripts Per Million or TPM), convert the isoform sequences, conserved domains to Numpy arrays for the use of the model, as well as build the Gene Ontology hierarchy. After which, the data for model training will be save in the `./FINER/data/input/` directory.
 ```
 cd FINER/preprocessing/
