@@ -19,7 +19,7 @@ cd FINER/preprocessing/
 sh data_preprocess.sh
 ```
 
-## Training and evaluation
+## Model training
 - Us the script to submit a model training job on the HPCC cluster.
 ```
 cd FINER/src/
