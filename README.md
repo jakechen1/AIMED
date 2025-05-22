@@ -33,7 +33,7 @@ Please refer to the README files within individual project directories for speci
 Currently, we do not have formal contribution guidelines. If you are interested in contributing, please contact the lab principal investigator.
 
 ### Contact Information
-For questions about specific projects, please refer to any contact information within that project's documentation. For general inquiries about the AIMED Lab, please contact: [Placeholder for Lab Contact Email or PI Information].
+For questions about specific projects, please refer to any contact information within that project's documentation. For general inquiries about the AIMED Lab, please contact: Prof. Jake Chen, jakechen@uab.edu.
 
 ### Citation Information
-If you use any of the software, tools, or datasets from this repository in your research, please cite the relevant publications. Placeholder: [Details on how to cite the work will be provided here. Please check individual project directories for specific citation instructions.]
+If you use any of the software, tools, or datasets from this repository in your research, please cite the relevant publications in the respective repository.
